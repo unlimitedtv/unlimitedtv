@@ -6396,7 +6396,8 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 #EXTINF:-1 tvg-id="MOVIE AFRICA" group-title="MOVIE AFRICA",=== MOVIE AFRICA ===
 #EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="MOVIE AFRICA", ROK HD
 http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/9819.ts
-
+#EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="MOVIE AFRICA", ROK FHD
+http://e2.iudtv.org:8080/live/thankyou/123/531.ts
 #EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="MOVIE AFRICA", ROK SD
 http://ipsatpro.biz:8080/live/tura/123456/983.ts
 #EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="MOVIE AFRICA", ROK ***
