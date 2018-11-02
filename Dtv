@@ -5907,6 +5907,8 @@ http://23.237.22.82:8086/udp/127.0.0.1:56076
 http://179.43.156.222:8080/live/xaSGGMymUk/SBybdyYKP8/11794.ts
 
 #EXTINF:-1,########## DOCUMENTARY  ##########
+#EXTINF:-1,crime network
+http://stitcher.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/1539795/playlist.m3u8?terminate=false&deviceId=&deviceVersion=&appVersion=&deviceType=&deviceMake=&sid=2&advertisingId=&deviceLat=0&deviceLon=-&deviceDNT=0&deviceModel=&userId=&embedPartner=&appName=&serverSideAds=
 #EXTINF:-1,Animal Planet (US) - Animal Planet (US)
 http://163.172.15.141:9732/live?channelId=243&uid=2585&deviceMac=00:1A:79:3C:C6:1A
 #EXTINF:-1,DESTINATION AMERICA (US) - DESTINATION AMERICA (US)
