@@ -1,29 +1,5 @@
 #EXTM3U
 #EXTINF:-1,tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783559_logo_bein_sport_91.png" group-title="BEINSPORTS", BEINSPORTS
-#EXTINF:-1,beIN SPORTS 1HD
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7222.ts
-#EXTINF:-1,beIN SPORTS 2HD
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7221.ts
-#EXTINF:-1,beIN SPORTS 3HD
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7220.ts
-#EXTINF:-1,beIN SPORTS 4HD
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7219.ts
-#EXTINF:-1,beIN SPORTS 5HD
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7218.ts
-#EXTINF:-1,beIN SPORTS 6HD
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7217.ts
-#EXTINF:-1,beIN SPORTS 7HD
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7216.ts
-#EXTINF:-1,beIN SPORTS 8HD
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7215.ts
-#EXTINF:-1,beIN SPORTS 9HD
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7214.ts
-#EXTINF:-1,beIN SPORTS 10HD
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7225.ts
-#EXTINF:-1,beIN SPORTS 11HD
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7224.ts
-#EXTINF:-1,beIN SPORTS 12HD
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7223.ts
 #EXTINF:-1,BEIN SPORTS CONNECT 1 | UHD
 http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/21492.ts
 #EXTINF:-1,BEIN SPORTS CONNECT 2 | UHD
@@ -44,50 +20,31 @@ http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/21485.ts
 http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/21484.ts
 #EXTINF:-1,BEIN SPORTS CONNECT 10 | UHD
 http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/21483.ts
-#EXTINF:-1,FR: BEIN SPORTS 1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23711.ts
-#EXTINF:-1,FR: BEIN SPORTS 2
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23710.ts
-#EXTINF:-1,FR: BEIN SPORTS 3
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23709.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 4
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23708.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 5
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23707.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 6
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23706.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 10
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23705.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 7
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23704.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 8
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23703.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 9
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23702.ts
 
 #EXTINF:-1 tvg-ID="beIN Sport 1 HD ARB" tvg-name="beIN SPORTS 1HD" tvg-logo="https://imgur.com/fo0WWnT.png" group-title="BEINSPORTS",beIN SPORT 1HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23627.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7222.ts
 #EXTINF:-1 tvg-ID="beIN Sport 2 HD ARB" tvg-name="beIN SPORTS 2HD" tvg-logo="https://imgur.com/VS9WTSD.png" group-title="BEINSPORTS",beIN SPORTS 2HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23626.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7221.ts
 #EXTINF:-1 tvg-ID="beIN Sports 3 HD ARB" tvg-name="beIN SPORTS 3HD" tvg-logo="https://imgur.com/8FH6LF7.png" group-title="BEINSPORTS",beIN SPORTS 3HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23625.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7220.ts
 #EXTINF:-1 tvg-ID="beIN Sports 4 HD ARB" tvg-name="beIN SPORTS 4HD" tvg-logo="https://imgur.com/NwWQUgr.png" group-title="BEINSPORTS",beIN SPORTS 4HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23624.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7219.ts
 #EXTINF:-1 tvg-ID="beIN Sports 5 HD ARB" tvg-name="beIN SPORTS 5HD" tvg-logo="https://imgur.com/6X0hJCU.png" group-title="BEINSPORTS",beIN SPORTS 5H
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23623.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7218.ts
 #EXTINF:-1 tvg-ID="beIN Sports 6 HD ARB" tvg-name="beIN SPORTS 6HD" tvg-logo="https://imgur.com/LxmecFV.png" group-title="BEINSPORTS",beIN SPORTS 6HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23622.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7217.ts
 #EXTINF:-1 tvg-ID="beIN Sports 7 HD ARB" tvg-name="beIN SPORTS 7HD" tvg-logo="https://imgur.com/bYozrjv.png" group-title="BEINSPORTS",beIN SPORTS 7HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23621.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7216.ts
 #EXTINF:-1 tvg-ID="beIN Sports 8 HD ARB" tvg-name="beIN SPORTS 8HD" tvg-logo="https://imgur.com/j9kSK37.png" group-title="BEINSPORTS",beIN SPORTS 8HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23619.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7215.ts
 #EXTINF:-1 tvg-ID="beIN Sports 9 HD ARB" tvg-name="beIN SPORTS 9HD" tvg-logo="https://imgur.com/I5GP1sD.png" group-title="BEINSPORTS",beIN SPORTS 9HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23620.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7214.ts
 #EXTINF:-1 tvg-ID="beIN Sports 10 HD ARB" tvg-name="beIN SPORTS 10HD" tvg-logo="https://imgur.com/fodrra3.png" group-title="BEINSPORTS",beIN SPORTS 10HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23618.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7225.ts
 #EXTINF:-1 tvg-ID="beIN Sports 11 HD ARB" tvg-name="beIN SPORTS 11HD" tvg-logo="https://imgur.com/KGegOMw.png" group-title="BEINSPORTS",beIN SPORTS 11HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23617.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7224.ts
 #EXTINF:-1 tvg-ID="beIN Sports 12 HD ARB" tvg-name="beIN SPORTS 12HD" tvg-logo="https://imgur.com/7JmzOGU.png" group-title="BEINSPORTS",beIN SPORTS 12HD
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7223.ts
 http://topiptv.net:5890/4gZqUsDfzc/f0NmlHWbDA/22
 #EXTINF:-1 tvg-ID="beIN Sports 13 HD ARB" tvg-name="beIN SPORTS 13HD" tvg-logo="https://imgur.com/QPMpmr0.png" group-title="BEINSPORTS",beIN SPORTS 13HD
 http://topiptv.net:5890/4gZqUsDfzc/f0NmlHWbDA/1156
