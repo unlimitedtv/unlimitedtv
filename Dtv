@@ -45,21 +45,7 @@ http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7225.ts
 http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7224.ts
 #EXTINF:-1 tvg-ID="beIN Sports 12 HD ARB" tvg-name="beIN SPORTS 12HD" tvg-logo="https://imgur.com/7JmzOGU.png" group-title="BEINSPORTS",beIN SPORTS 12HD
 http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/7223.ts
-http://topiptv.net:5890/4gZqUsDfzc/f0NmlHWbDA/22
-#EXTINF:-1 tvg-ID="beIN Sports 13 HD ARB" tvg-name="beIN SPORTS 13HD" tvg-logo="https://imgur.com/QPMpmr0.png" group-title="BEINSPORTS",beIN SPORTS 13HD
-http://topiptv.net:5890/4gZqUsDfzc/f0NmlHWbDA/1156
-#EXTINF:-1 tvg-ID="beIN Sports 14 HD ARB" tvg-name="beIN SPORTS 14HD" tvg-logo="https://imgur.com/7pV0w3A.png" group-title="BEINSPORTS",beIN SPORTS 14HD
-http://topiptv.net:5890/4gZqUsDfzc/f0NmlHWbDA/1157
-#EXTINF:-1 tvg-ID="beIN Sports 15 HD ARB" tvg-name="beIN SPORTS 15HD" tvg-logo="https://imgur.com/crjKcnh.png" group-title="BEINSPORTS",beIN SPORTS 15HD
-http://topiptv.net:5890/4gZqUsDfzc/f0NmlHWbDA/1158
-#EXTINF:-1 tvg-ID="beIN Sports 16 HD ARB" tvg-name="beIN SPORTS 16HD" tvg-logo="https://imgur.com/sxndIGJ.png" group-title="BEINSPORTS",beIN SPORTS 16HD
-http://topiptv.net:5890/4gZqUsDfzc/f0NmlHWbDA/1159
-#EXTINF:-1 tvg-ID="beIN Sports 17 HD ARB" tvg-name="beIN SPORTS 17HD" tvg-logo="https://imgur.com/9Qx9nxP.png" group-title="BEINSPORTS",beIN SPORTS 17HD
-http://topiptv.net:5890/4gZqUsDfzc/f0NmlHWbDA/2589
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS NBA" tvg-logo="https://imgur.com/0qjhiC9.png" group-title="BEINSPORTS",beIN SPORTS NBA
-http://topiptv.net:5890/4gZqUsDfzc/f0NmlHWbDA/3123
-#EXTINF:-1 tvg-ID="beIN Sports Global ARB" tvg-name="beIN SPORTS HD (L)" tvg-logo="https://imgur.com/x8Qk6iS.png" group-title="BEINSPORTS",beIN SPORTS HD (L)
-http://topiptv.net:5890/4gZqUsDfzc/f0NmlHWbDA/13426
+
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsmainevent.png" group-title="UK - Sports",SKY SPORTS MAIN EVENT
 http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102228
