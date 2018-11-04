@@ -104,6 +104,159 @@ http://topiptv.net:5890/4gZqUsDfzc/f0NmlHWbDA/3123
 #EXTINF:-1 tvg-ID="beIN Sports Global ARB" tvg-name="beIN SPORTS HD (L)" tvg-logo="https://imgur.com/x8Qk6iS.png" group-title="BEINSPORTS",beIN SPORTS HD (L)
 http://topiptv.net:5890/4gZqUsDfzc/f0NmlHWbDA/13426
 
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsmainevent.png" group-title="UK - Sports",SKY SPORTS MAIN EVENT
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102228
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENT HD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsmaineventhd.png" group-title="UK - Sports",SKY SPORTS MAIN EVENT HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102227
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENT FHD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsmaineventhd.png" group-title="UK - Sports",SKY SPORTS MAIN EVENT FHD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102226
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://archive.org/download/newfolder_20180122/skysportspl.png" group-title="UK - Sports",SKY SPORTS PREMIER LEAGUE
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102222
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsplhd.png" group-title="UK - Sports",SKY SPORTS PREMIER LEAGUE HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102221
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsplhd.png" group-title="UK - Sports",SKY SPORTS PREMIER LEAGUE FHD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102220
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsfootball.png" group-title="UK - Sports",SKY SPORTS FOOTBALL
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102234
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL HD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsfootballhd.png" group-title="UK - Sports",SKY SPORTS FOOTBALL HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102233
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL FHD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsfootballhd.png" group-title="UK - Sports",SKY SPORTS FOOTBALL FHD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102232
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://archive.org/download/newfolder_20180122/skysportscricket.png" group-title="UK - Sports",SKY SPORTS CRICKET
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102240
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportscrickethd.png" group-title="UK - Sports",SKY SPORTS CRICKET HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102239
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="SKY SPORTS CRICKET FHD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportscrickethd.png" group-title="UK - Sports",SKY SPORTS CRICKET FHD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102238
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsgolf.png" group-title="UK - Sports",SKY SPORTS GOLF
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102231
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="SKY SPORTS GOLF HD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsgolfhd.png" group-title="UK - Sports",SKY SPORTS GOLF HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102230
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="SKY SPORTS GOLF FHD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsgolfhd.png" group-title="UK - Sports",SKY SPORTS GOLF FHD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102229
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsf1.png" group-title="UK - Sports",SKY SPORTS F1
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102237
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1 HD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsf1hd.png" group-title="UK - Sports",SKY SPORTS F1 HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102236
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1 FHD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsf1hd.png" group-title="UK - Sports",SKY SPORTS F1 FHD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102235
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="SKY SPORTS ACTION" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsaction.png" group-title="UK - Sports",SKY SPORTS ACTION
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102246
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="SKY SPORTS ACTION HD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsactionhd.png" group-title="UK - Sports",SKY SPORTS ACTION HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102245
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="SKY SPORTS ACTION FHD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsactionhd.png" group-title="UK - Sports",SKY SPORTS ACTION FHD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102244
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="SKY SPORTS ARENA SD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsarena.png" group-title="UK - Sports",SKY SPORTS ARENA SD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102243
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="SKY SPORTS ARENA HD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsarenahd.png" group-title="UK - Sports",SKY SPORTS ARENA HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102242
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="SKY SPORTS ARENA FHD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsarenahd.png" group-title="UK - Sports",SKY SPORTS ARENA FHD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102241
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="SKY SPORTS MIX HD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsmixhd.png" group-title="UK - Sports",SKY SPORTS MIX HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102219
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="SKY SPORTS MIX FHD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsmixhd.png" group-title="UK - Sports",SKY SPORTS MIX FHD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102218
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsnews.png" group-title="UK - Sports",SKY SPORTS NEWS
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102225
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS HD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsnewshd.png" group-title="UK - Sports",SKY SPORTS NEWS HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102224
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS FHD" tvg-logo="https://archive.org/download/newfolder_20180122/skysportsnewshd.png" group-title="UK - Sports",SKY SPORTS NEWS FHD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102223
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT SPORTS 1" tvg-logo="https://archive.org/download/newfolder_20180122/btsport1.png" group-title="UK - Sports",BT SPORTS 1
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102217
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT SPORT 1 HD" tvg-logo="https://archive.org/download/newfolder_20180122/btsport1hd.png" group-title="UK - Sports",BT SPORT 1 HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102212
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT SPORT 1 FHD" tvg-logo="https://archive.org/download/newfolder_20180122/btsport1hd.png" group-title="UK - Sports",BT SPORT 1 FHD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102208
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT SPORTS 2" tvg-logo="https://archive.org/download/newfolder_20180122/btsport2.png" group-title="UK - Sports",BT SPORTS 2
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102216
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT SPORT 2 HD" tvg-logo="https://archive.org/download/newfolder_20180122/btsport2hd.png" group-title="UK - Sports",BT SPORT 2 HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102211
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT SPORT 2 FHD" tvg-logo="https://archive.org/download/newfolder_20180122/btsport2hd.png" group-title="UK - Sports",BT SPORT 2 FHD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102207
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT SPORTS 3" tvg-logo="https://archive.org/download/newfolder_20180122/btsport3.png" group-title="UK - Sports",BT SPORTS 3
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102215
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT SPORT 3 HD" tvg-logo="https://archive.org/download/newfolder_20180122/btsport3hd.png" group-title="UK - Sports",BT SPORT 3 HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102210
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT SPORT 3 FHD" tvg-logo="https://archive.org/download/newfolder_20180122/btsport3hd.png" group-title="UK - Sports",BT SPORT 3 FHD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102206
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport ESPN" tvg-logo="https://archive.org/download/newfolder_20180122/btsportespn.png" group-title="UK - Sports",BT Sport ESPN
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102214
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT ESPN HD" tvg-logo="https://archive.org/download/newfolder_20180122/btsptespnhd.png" group-title="UK - Sports",BT ESPN HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102213
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT ESPN FHD" tvg-logo="https://archive.org/download/newfolder_20180122/btsptespnhd.png" group-title="UK - Sports",BT ESPN FHD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/102209
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA 1 HD" tvg-logo="" group-title="UK - Sports",BT SPORTS EXTRA 1 HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/114049
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA 2 HD" tvg-logo="" group-title="UK - Sports",BT SPORTS EXTRA 2 HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/114048
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA 3 HD" tvg-logo="" group-title="UK - Sports",BT SPORTS EXTRA 3 HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/114047
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA 4 HD" tvg-logo="" group-title="UK - Sports",BT SPORTS EXTRA 4 HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/114046
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA 5 HD" tvg-logo="" group-title="UK - Sports",BT SPORTS EXTRA 5 HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/114045
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA 6 HD" tvg-logo="" group-title="UK - Sports",BT SPORTS EXTRA 6 HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/114044
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA 7 HD" tvg-logo="" group-title="UK - Sports",BT SPORTS EXTRA 7 HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/114043
+#EXTINF:-1 tvg-id="sky sports interactive 1" tvg-name="SKY SPORTS RED BUTTON 1" tvg-logo="" group-title="Sky Sports Red Button",SKY SPORTS RED BUTTON 1
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/112664
+#EXTINF:-1 tvg-id="sky sports interactive 2" tvg-name="SKY SPORTS RED BUTTON 2" tvg-logo="" group-title="Sky Sports Red Button",SKY SPORTS RED BUTTON 2
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/112663
+#EXTINF:-1 tvg-id="sky sports interactive 3" tvg-name="SKY SPORTS RED BUTTON 3" tvg-logo="" group-title="Sky Sports Red Button",SKY SPORTS RED BUTTON 3
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/112662
+#EXTINF:-1 tvg-id="sky sports interactive 4" tvg-name="SKY SPORTS RED BUTTON 4" tvg-logo="" group-title="Sky Sports Red Button",SKY SPORTS RED BUTTON 4
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/112661
+#EXTINF:-1 tvg-id="sky sports interactive 5" tvg-name="SKY SPORTS RED BUTTON 5" tvg-logo="" group-title="Sky Sports Red Button",SKY SPORTS RED BUTTON 5
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/112660
+#EXTINF:-1 tvg-id="sky sports interactive 6" tvg-name="SKY SPORTS RED BUTTON 6" tvg-logo="" group-title="Sky Sports Red Button",SKY SPORTS RED BUTTON 6
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/112659
+#EXTINF:-1 tvg-id="sky sports interactive 7" tvg-name="SKY SPORTS RED BUTTON 7" tvg-logo="" group-title="Sky Sports Red Button",SKY SPORTS RED BUTTON 7
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/112658
+#EXTINF:-1 tvg-id="sky sports interactive 8" tvg-name="SKY SPORTS RED BUTTON 8" tvg-logo="" group-title="Sky Sports Red Button",SKY SPORTS RED BUTTON 8
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/112657
+#EXTINF:-1 tvg-id="sky sports interactive 9" tvg-name="SKY SPORTS RED BUTTON 9" tvg-logo="" group-title="Sky Sports Red Button",SKY SPORTS RED BUTTON 9
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/112656
+#EXTINF:-1 tvg-id="AtTheRaces.uk" tvg-name="AT THE RACES" tvg-logo="https://archive.org/download/newfolder_20180122/attheraces.png" group-title="UK - Sports",AT THE RACES
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/76653
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="BOXNATION" tvg-logo="https://archive.org/download/newfolder_20180122/boxnation.png" group-title="UK - Sports",BOXNATION
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/76652
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="BOX NATION HD" tvg-logo="https://archive.org/download/newfolder_20180122/boxnationhd.png" group-title="UK - Sports",BOX NATION HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/76651
+#EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-logo="" group-title="UK - Sports",RedBull TV
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/115603
+#EXTINF:-1 tvg-id="Eir Sports 1" tvg-name="EIR SPORTS 1" tvg-logo="https://archive.org/download/newfolder_20180122/eirsport1.png" group-title="UK - Sports",EIR SPORTS 1
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/76648
+#EXTINF:-1 tvg-id="Eir Sports 2" tvg-name="EIR SPORTS 2" tvg-logo="https://archive.org/download/newfolder_20180122/eirsport2.png" group-title="UK - Sports",EIR SPORTS 2
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/76647
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://archive.org/download/newfolder_20180122/eurosport1.png" group-title="UK - Sports",EUROSPORT 1
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/76646
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="EUROSPORTS 1 HD" tvg-logo="https://archive.org/download/newfolder_20180122/eurosport1hd.png" group-title="UK - Sports",EUROSPORTS 1 HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/76645
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="EUROSPORTS 1 FHD" tvg-logo="https://archive.org/download/newfolder_20180122/eurosport1hd.png" group-title="UK - Sports",EUROSPORTS 1 FHD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/84937
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="EUROSPORT 2" tvg-logo="https://archive.org/download/newfolder_20180122/eurosport2.png" group-title="UK - Sports",EUROSPORT 2
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/76644
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="EUROSPORTS HD 2" tvg-logo="https://archive.org/download/newfolder_20180122/eurosport2hd.png" group-title="UK - Sports",EUROSPORTS HD 2
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/76643
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="EUROSPORTS 2 FHD" tvg-logo="https://archive.org/download/newfolder_20180122/eurosport2hd.png" group-title="UK - Sports",EUROSPORTS 2 FHD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/84936
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="FREE SPORTS" tvg-logo="https://archive.org/download/newfolder_20180122/freesports.png" group-title="UK - Sports",FREE SPORTS
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/76642
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="RACING UK HD" tvg-logo="https://archive.org/download/newfolder_20180122/racingukhd.png" group-title="UK - Sports",RACING UK HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/76637
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="PREMIER SPORTS" tvg-logo="https://archive.org/download/newfolder_20180122/premiersports.png" group-title="UK - Sports",PREMIER SPORTS
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/76640
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="PREMIER SPORTS HD" tvg-logo="https://archive.org/download/newfolder_20180122/premierhd.png" group-title="UK - Sports",PREMIER SPORTS HD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/76639
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="PREMIER SPORTS FHD" tvg-logo="https://ia600109.us.archive.org/7/items/newfolder_20180122/premierhd.png" group-title="UK - Sports",PREMIER SPORTS FHD
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/109201
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="RACING UK" tvg-logo="https://archive.org/download/newfolder_20180122/racinguk.png" group-title="UK - Sports",RACING UK
+http://bcip.org.uk:8080/bcip73/zG55yvWFRs/76638
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="RACING UK FHD" tvg-logo="https://archive.org/download/newfolder_20180122/racingukhd.png" group-title="UK - Sports",RACING UK FHD
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="««------SKY SPORTS------»»" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Sky_Sports_logo_2017.svg" group-title="SKY SPORTS",««------SKY SPORTS------»»
 #EXTINF:-1,UK: Sky Sports Main Event HD
 http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/9137.ts
@@ -491,6 +644,12 @@ http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1813.ts
 
 
 #EXTINF:-1,group-title="SPORT" ,>>>>>>>SPORT<<<<<<<
+#EXTINF:-1,Setanta Sport 
+http://ott-cdn.ucom.am/s81/index.m3u8
+#EXTINF:-1,Setanta Sport Plus 
+http://ott-cdn.ucom.am/s82/index.m3u8
+EXTINF:-1,Liga NoS
+http://ott-cdn.ucom.am/s41/index.m3u8
 EXTINF:-1,Sky Sports Box Office
 http://iptv-area-51.tv:2095/live/dillpickel/dillon/12064.ts
 EXTINF:-1,Sky Super Calcio
@@ -542,144 +701,6 @@ http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/6283.ts
 #EXTINF:-1,UK: BT Sport Extra 5
 http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/6282.ts
 
-#EXTINF:-1,beIN Sport 1 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/353.ts
-#EXTINF:-1,beIN Sport 2 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/352.ts
-#EXTINF:-1,beIN Sport 3 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/351.ts
-#EXTINF:-1,beIN Sport 4 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/350.ts
-#EXTINF:-1,beIN Sport 5 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/349.ts
-#EXTINF:-1,beIN Sport 6 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/348.ts
-#EXTINF:-1,beIN Sport 7 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/347.ts
-#EXTINF:-1,beIN Sport 8 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/346.ts
-#EXTINF:-1,beIN Sport 9 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/345.ts
-#EXTINF:-1,beIN Sport 10 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/344.ts
-#EXTINF:-1,beIN Sport 11 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/343.ts
-#EXTINF:-1,beIN Sport 12 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/342.ts
-#EXTINF:-1,beIN Sport France 1
-http://kingstream.online:25461/live/Dmccarthy-she/1/357.ts
-#EXTINF:-1,beIN Sport France 2
-http://kingstream.online:25461/live/Dmccarthy-she/1/356.ts
-#EXTINF:-1,beIN Sport France 3
-http://kingstream.online:25461/live/Dmccarthy-she/1/355.ts
-#EXTINF:-1,beIN Sports ES
-http://kingstream.online:25461/live/Dmccarthy-she/1/354.ts
-#EXTINF:-1,Sky Sports Main Event
-http://kingstream.online:25461/live/Dmccarthy-she/1/475.ts
-#EXTINF:-1,Sky Sports Main Event HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/474.ts
-#EXTINF:-1,Sky Sports Main Event HD (L1)
-http://kingstream.online:25461/live/Dmccarthy-she/1/643.ts
-#EXTINF:-1,Sky Sports Main Event HD (L2)
-http://kingstream.online:25461/live/Dmccarthy-she/1/473.ts
-#EXTINF:-1,Sky Sports Cricket
-http://kingstream.online:25461/live/Dmccarthy-she/1/472.ts
-#EXTINF:-1,Sky Sports Cricket HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/471.ts
-#EXTINF:-1,Sky Sports Cricket HD (L1)
-http://kingstream.online:25461/live/Dmccarthy-she/1/646.ts
-#EXTINF:-1,Sky Sports Cricket HD (L2)
-http://kingstream.online:25461/live/Dmccarthy-she/1/470.ts
-#EXTINF:-1,Sky Sports Action
-http://kingstream.online:25461/live/Dmccarthy-she/1/469.ts
-#EXTINF:-1,Sky Sports Action HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/468.ts
-#EXTINF:-1,Sky Sports Action HD (L1)
-http://kingstream.online:25461/live/Dmccarthy-she/1/648.ts
-#EXTINF:-1,Sky Sports Action HD (L2)
-http://kingstream.online:25461/live/Dmccarthy-she/1/467.ts
-#EXTINF:-1,Sky Sports Golf
-http://kingstream.online:25461/live/Dmccarthy-she/1/466.ts
-#EXTINF:-1,Sky Sports Golf HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/465.ts
-#EXTINF:-1,Sky Sports Golf HD (L1)
-http://kingstream.online:25461/live/Dmccarthy-she/1/649.ts
-#EXTINF:-1,Sky Sports Golf HD (L2)
-http://kingstream.online:25461/live/Dmccarthy-she/1/464.ts
-#EXTINF:-1,Sky Sports Premier League
-http://kingstream.online:25461/live/Dmccarthy-she/1/463.ts
-#EXTINF:-1,Sky Sports Premier League HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/462.ts
-#EXTINF:-1,Sky Sports Premier League HD (L1)
-http://kingstream.online:25461/live/Dmccarthy-she/1/650.ts
-#EXTINF:-1,Sky Sports Premier League HD (L2)
-http://kingstream.online:25461/live/Dmccarthy-she/1/461.ts
-#EXTINF:-1,Sky Sports Mix HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/476.ts
-#EXTINF:-1,Sky Sports Mix HD (BACKUP)
-http://kingstream.online:25461/live/Dmccarthy-she/1/642.ts
-#EXTINF:-1,Sky Sports Football HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/372.ts
-#EXTINF:-1,Sky Sports Football HD (L1)
-http://kingstream.online:25461/live/Dmccarthy-she/1/645.ts
-#EXTINF:-1,Sky Sports Football HD (L2)
-http://kingstream.online:25461/live/Dmccarthy-she/1/572.ts
-#EXTINF:-1,Sky Sports Arena HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/371.ts
-#EXTINF:-1,Sky Sports Arena HD (L1)
-http://kingstream.online:25461/live/Dmccarthy-she/1/647.ts
-#EXTINF:-1,Sky Sports Arena HD (L2)
-http://kingstream.online:25461/live/Dmccarthy-she/1/573.ts
-#EXTINF:-1,Sky Sports F1
-http://kingstream.online:25461/live/Dmccarthy-she/1/460.ts
-#EXTINF:-1,Sky Sports F1 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/459.ts
-#EXTINF:-1,Sky Sports F1 HD (L1)
-http://kingstream.online:25461/live/Dmccarthy-she/1/651.ts
-#EXTINF:-1,Sky Sports F1 HD (L2)
-http://kingstream.online:25461/live/Dmccarthy-she/1/458.ts
-#EXTINF:-1,Sky Sports News HQ
-http://kingstream.online:25461/live/Dmccarthy-she/1/479.ts
-#EXTINF:-1,Sky Sports News HQ HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/478.ts
-#EXTINF:-1,Sky Sports News HQ HD (L1)
-http://kingstream.online:25461/live/Dmccarthy-she/1/644.ts
-#EXTINF:-1,Sky Sports News HQ HD (L2)
-http://kingstream.online:25461/live/Dmccarthy-she/1/477.ts
-#EXTINF:-1,BT Sport 1
-http://kingstream.online:25461/live/Dmccarthy-she/1/457.ts
-#EXTINF:-1,BT Sport 1 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/456.ts
-#EXTINF:-1,BT Sport 1 HD (LOCAL)
-http://kingstream.online:25461/live/Dmccarthy-she/1/455.ts
-#EXTINF:-1,BT Sport 2
-http://kingstream.online:25461/live/Dmccarthy-she/1/454.ts
-#EXTINF:-1,BT Sport 2 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/453.ts
-#EXTINF:-1,BT Sport 2 HD (LOCAL)
-http://kingstream.online:25461/live/Dmccarthy-she/1/452.ts
-#EXTINF:-1,BT Sport 3
-http://kingstream.online:25461/live/Dmccarthy-she/1/451.ts
-#EXTINF:-1,BT Sport 3 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/450.ts
-#EXTINF:-1,BT Sport 3 HD (LOCAL)
-http://kingstream.online:25461/live/Dmccarthy-she/1/449.ts
-#EXTINF:-1,BT Sport ESPN
-http://kingstream.online:25461/live/Dmccarthy-she/1/448.ts
-#EXTINF:-1,BT Sport ESPN HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/447.ts
-#EXTINF:-1,British Eurosport 1 (LOCAL)
-http://kingstream.online:25461/live/Dmccarthy-she/1/446.ts
-#EXTINF:-1,British Eurosport 1 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/445.ts
-#EXTINF:-1,British Eurosport 2 (LOCAL)
-http://kingstream.online:25461/live/Dmccarthy-she/1/444.ts
-#EXTINF:-1,British Eurosport 2 HD
-http://kingstream.online:25461/live/Dmccarthy-she/1/443.ts
-#EXTINF:-1,Premier Sports
-http://kingstream.online:25461/live/Dmccarthy-she/1/432.ts
-#EXTINF:-1,Premier Sports 2
-http://kingstream.online:25461/live/Dmccarthy-she/1/622.ts
 
 
 #EXTINF:-1,Polsat Sport Premium 1 FHD VIP PL
@@ -700,141 +721,20 @@ http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/16062.ts
 http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/16061.ts
 
 
-#EXTINF:-1,PREMIUM SPORT 2 HD IT
-#EXTINF:-1,FR: BEIN SPORT -1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23711.ts
-#EXTINF:-1,FR: BEIN SPORT -2
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23710.ts
-#EXTINF:-1,FR: BEIN SPORT -3
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23709.ts
-#EXTINF:-1,FR: BEIN SPORT -MAX 4
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23708.ts
-#EXTINF:-1,FR: BEIN SPORT -MAX 5
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23707.ts
-#EXTINF:-1,FR: BEIN SPORT -MAX 6
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23706.ts
-#EXTINF:-1,FR: BEINSPORT -MAX 10
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23705.ts
-#EXTINF:-1,FR: BEINSPORT -MAX 7
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23704.ts
-#EXTINF:-1,FR: BEINSPORT -MAX 8
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23703.ts
-#EXTINF:-1,FR: BEINSPORT -MAX 9
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23702.ts
-#EXTINF:-1,PT: bein SPORTS
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33400.ts
-#EXTINF:-1,SPFL: CELTIC FC TV ( LIVE ON MATCHES )
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/34357.ts
-#EXTINF:-1,SPFL: RANGERS FC TV ( LIVE ON MATCHES )
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/34358.ts
-#EXTINF:-1,Sky Sports ACTION
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16569.ts
-#EXTINF:-1,Sky Sports ACTION HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16561.ts
-#EXTINF:-1,Sky Sports ARENA HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16566.ts
-#EXTINF:-1,Sky Sports CRICKET HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/25581.ts
-#EXTINF:-1,Sky Sports F1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16564.ts
-#EXTINF:-1,Sky Sports F1 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16558.ts
-#EXTINF:-1,Sky Sports FOOTBALL HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16565.ts
-#EXTINF:-1,Sky Sports MAIN EVENT
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16571.ts
-#EXTINF:-1,Sky Sports MAIN EVENT HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16563.ts
-#EXTINF:-1,Sky Sports MIX HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16573.ts
-#EXTINF:-1,Sky Sports NEWS HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16572.ts
-#EXTINF:-1,Sky Sports PREMIER LEAGUE
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16567.ts
-#EXTINF:-1,Sky Sports PREMIER LEAGUE HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16559.ts
-#EXTINF:-1,Sky Sports THE OPEN GOLF
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16568.ts
-#EXTINF:-1,Sky Sports THE OPEN GOLF HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16560.ts
-#EXTINF:-1, beIN SPORTS HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23539.ts
-#EXTINF:-1, beIN SPORTS NEWS HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23538.ts
-#EXTINF:-1, dmc masraheyat
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23443.ts
-#EXTINF:-1, nova
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23478.ts
-#EXTINF:-1,BT SPORT 1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16555.ts
-#EXTINF:-1,BT SPORT 1 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16552.ts
-#EXTINF:-1,BT SPORT 2
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16554.ts
-#EXTINF:-1,BT SPORT 2 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16551.ts
-#EXTINF:-1,BT SPORT 3
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16553.ts
-#EXTINF:-1,BT SPORT 3 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16550.ts
-#EXTINF:-1,BT SPORT ESPN
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16549.ts
-#EXTINF:-1,BT SPORT EXTRA 1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/38151.ts
-#EXTINF:-1,BT SPORT EXTRA 2
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16548.ts
-#EXTINF:-1,BT SPORT EXTRA 3
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16547.ts
-#EXTINF:-1,BT SPORT EXTRA 4
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16546.ts
-#EXTINF:-1,BT SPORT EXTRA 5
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/16545.ts
-#EXTINF:-1,BEIN SPORTS 1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/14116.ts
-#EXTINF:-1,BEIN SPORTS 10
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/14107.ts
-#EXTINF:-1,BEIN SPORTS 11
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/14106.ts
-#EXTINF:-1,BEIN SPORTS 12
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/14105.ts
-#EXTINF:-1,BEIN SPORTS 2
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/14115.ts
-#EXTINF:-1,BEIN SPORTS 3
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/14114.ts
-#EXTINF:-1,BEIN SPORTS 4
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/14113.ts
-#EXTINF:-1,BEIN SPORTS 5
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/14112.ts
-#EXTINF:-1,BEIN SPORTS 6
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/14111.ts
-#EXTINF:-1,BEIN SPORTS 7
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/14110.ts
-#EXTINF:-1,BEIN SPORTS 8
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/14109.ts
-#EXTINF:-1,BEIN SPORTS 9
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/14108.ts
-#EXTINF:-1,OSN: AD SPORTS 1 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23578.ts
-#EXTINF:-1,OSN: AD SPORTS 3 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23577.ts
-#EXTINF:-1,OSN: ALKASS SPORT 2 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23576.ts
-#EXTINF:-1,OSN: DISCOVERY Science
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23575.ts
-#EXTINF:-1,LE SPORTS 1 (MATCH TIME ONLY)
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/37678.ts
-#EXTINF:-1,LE SPORTS 2 (MATCH TIME ONLY)
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/37677.ts
-#EXTINF:-1,LE SPORTS 3 (MATCH TIME ONLY)
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/37676.ts
-#EXTINF:-1,LE SPORTS 4 (MATCH TIME ONLY)
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/37675.ts
-#EXTINF:-1,LE SPORTS 5 (MATCH TIME ONLY)
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/37674.ts
-#EXTINF:-1,LE SPORTS 6 (MATCH TIME ONLY)
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/37673.ts
-#EXTINF:-1,LE SPORTS 7 (MATCH TIME ONLY)
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/37672.ts
+#EXTINF:-1 tvg-ID="Eleven Extra HD" tvg-name="PL | Eleven Extra HD" tvg-logo="http://static.wirtualnemedia.pl/media/top/ElevenExtra_logo655.png" group-title="SPORT",PL | Eleven Extra HD
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/10757.ts
+#EXTINF:-1 tvg-ID="Eleven HD" tvg-name="PL | Eleven Sports 1 HD" tvg-logo="https://img5.androidappsapk.co/300/5/1/8/com.elevensportsnetwork.elevensingapore.png" group-title="SPORT",PL | Eleven Sports 1 HD
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/10756.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL | Eleven Sports 2" tvg-logo="http://www.geocities.ws/a51logos/Sports_USA/eleven_sports_network.png" group-title="SPORT",PL | Eleven Sports 2
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/13185.ts
+#EXTINF:-1 tvg-ID="Eleven HD" tvg-name="PL | Eleven Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Elevenlogo.png" group-title="SPORT",PL | Eleven Sports 3
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/10755.ts
+#EXTINF:-1 tvg-ID="Eurosport 1 HD" tvg-name="PL | Eurosport 1 HD" tvg-logo="http://taksiegra.pl/wp-content/uploads/2015/11/Eurosport-1-HD-ikona-wpisu-600x300.png" group-title="SPORT",PL | Eurosport 1 HD
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/10752.ts
+#EXTINF:-1 tvg-ID="Eurosport 1 HD" tvg-name="PL | Eurosport 1 HD 1080P" tvg-logo="http://mytvlive.me/wp-content/uploads/2016/07/eurosport-1-live.jpg" group-title="SPORT",PL | Eurosport 1 HD 1080P
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/10751.ts
+#EXTINF:-1 tvg-ID="Eurosport 2 HD" tvg-name="PL | Eurosport 2" tvg-logo="http://nowwatchtvlive.net/wp-content/uploads/2013/09/Eurosport-2-HD-Polska-Preview-logo-300x150.png" group-title="SPORT",PL | Eurosport 2
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/10750.ts
 
 #EXTINF:-1,##########   SPORT ITALIA   ##########
 #EXTINF:-1,Sky Formula 1 +1 HD VIP IT
@@ -1499,527 +1399,654 @@ http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19032.ts
 
 
 #EXTINF:-1,###############  SPAIN  ###################
-EXTINF:-1 tvg-id="" tvg-name="TOROS HD (ES)" tvg-logo="" group-title="Spanish",TOROS HD (ES)
+EXTINF:-1 tvg-id="" tvg-name="TOROS HD (ES)" tvg-logo="" group-title="SPAIN",TOROS HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/730.ts
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA (ES)" tvg-logo="https://imgur.com/JM5vIMn.png" group-title="Spanish",CAZA Y PESCA (ES)
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA (ES)" tvg-logo="https://imgur.com/JM5vIMn.png" group-title="SPAIN",CAZA Y PESCA (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/731.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTES (ES)" tvg-logo="" group-title="Spanish",TELEDEPORTES (ES)
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTES (ES)" tvg-logo="" group-title="SPAIN",TELEDEPORTES (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/732.ts
-#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID (ES)" tvg-logo="https://imgur.com/VtzOp88.png" group-title="Spanish",REAL MADRID (ES)
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID (ES)" tvg-logo="https://imgur.com/VtzOp88.png" group-title="SPAIN",REAL MADRID (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/733.ts
-#EXTINF:-1 tvg-id="" tvg-name="BARCA TV (ES)" tvg-logo="https://imgur.com/U8oG2uW.png" group-title="Spanish",BARCA TV (ES)
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV (ES)" tvg-logo="https://imgur.com/U8oG2uW.png" group-title="SPAIN",BARCA TV (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/734.ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTIFUTBOLL 3 (ES)" tvg-logo="https://imgur.com/Dv6t3IF.png" group-title="Spanish",MULTIFUTBOLL 3 (ES)
+#EXTINF:-1 tvg-id="" tvg-name="MULTIFUTBOLL 3 (ES)" tvg-logo="https://imgur.com/Dv6t3IF.png" group-title="SPAIN",MULTIFUTBOLL 3 (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/736.ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTIFUTBOLL 2 (ES)" tvg-logo="" group-title="Spanish",MULTIFUTBOLL 2 (ES)
+#EXTINF:-1 tvg-id="" tvg-name="MULTIFUTBOLL 2 (ES)" tvg-logo="" group-title="SPAIN",MULTIFUTBOLL 2 (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/737.ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTIFUTBOLL 1 (ES)" tvg-logo="" group-title="Spanish",MULTIFUTBOLL 1 (ES)
+#EXTINF:-1 tvg-id="" tvg-name="MULTIFUTBOLL 1 (ES)" tvg-logo="" group-title="SPAIN",MULTIFUTBOLL 1 (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/738.ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTES 3 (ES)" tvg-logo="" group-title="Spanish",MULTIDEPORTES 3 (ES)
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTES 3 (ES)" tvg-logo="" group-title="SPAIN",MULTIDEPORTES 3 (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/739.ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTES 2 (ES)" tvg-logo="" group-title="Spanish",MULTIDEPORTES 2 (ES)
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTES 2 (ES)" tvg-logo="" group-title="SPAIN",MULTIDEPORTES 2 (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/740.ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTES 1 (ES)" tvg-logo="" group-title="Spanish",MULTIDEPORTES 1 (ES)
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTES 1 (ES)" tvg-logo="" group-title="SPAIN",MULTIDEPORTES 1 (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/741.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 2 HD (ES)" tvg-logo="https://imgur.com/biemqfL.png" group-title="Spanish",BEIN MAX 2 HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 2 HD (ES)" tvg-logo="https://imgur.com/biemqfL.png" group-title="SPAIN",BEIN MAX 2 HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/743.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 1 HD (ES)" tvg-logo="" group-title="Spanish",BEIN MAX 1 HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 1 HD (ES)" tvg-logo="" group-title="SPAIN",BEIN MAX 1 HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/744.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA TV 3 (ES)" tvg-logo="" group-title="Spanish",BEIN LA LIGA TV 3 (ES)
+#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA TV 3 (ES)" tvg-logo="" group-title="SPAIN",BEIN LA LIGA TV 3 (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/745.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA TV 2 (ES)" tvg-logo="" group-title="Spanish",BEIN LA LIGA TV 2 (ES)
+#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA TV 2 (ES)" tvg-logo="" group-title="SPAIN",BEIN LA LIGA TV 2 (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/746.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA TV 1 (ES)" tvg-logo="" group-title="Spanish",BEIN LA LIGA TV 1 (ES)
+#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA TV 1 (ES)" tvg-logo="" group-title="SPAIN",BEIN LA LIGA TV 1 (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/747.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 (ES)" tvg-logo="https://imgur.com/mdvvE1B.png" group-title="Spanish",Eurosport 2 (ES)
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 (ES)" tvg-logo="https://imgur.com/mdvvE1B.png" group-title="SPAIN",Eurosport 2 (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/748.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD (ES)" tvg-logo="https://imgur.com/K6OreiH.png" group-title="Spanish",Eurosport 1 HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD (ES)" tvg-logo="https://imgur.com/K6OreiH.png" group-title="SPAIN",Eurosport 1 HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/749.ts
-#EXTINF:-1 tvg-id="" tvg-name="M.GOLF HD (ES)" tvg-logo="" group-title="Spanish",M.GOLF HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="M.GOLF HD (ES)" tvg-logo="" group-title="SPAIN",M.GOLF HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/750.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV (ES)" tvg-logo="https://imgur.com/Uwh6pFm.png" group-title="Spanish",GOL TV (ES)
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV (ES)" tvg-logo="https://imgur.com/Uwh6pFm.png" group-title="SPAIN",GOL TV (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/751.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR (ES)" tvg-logo="" group-title="Spanish",LA LIGA TV BAR (ES)
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR (ES)" tvg-logo="" group-title="SPAIN",LA LIGA TV BAR (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Futbol HD (ES)" tvg-logo="" group-title="Spanish",Movistar Futbol HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Futbol HD (ES)" tvg-logo="" group-title="SPAIN",Movistar Futbol HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 2 HD (ES)" tvg-logo="" group-title="Spanish",Movistar Deportes 2 HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 2 HD (ES)" tvg-logo="" group-title="SPAIN",Movistar Deportes 2 HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/754.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 1 HD (ES)" tvg-logo="" group-title="Spanish",Movistar Deportes 1 HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 1 HD (ES)" tvg-logo="" group-title="SPAIN",Movistar Deportes 1 HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.ts
-#EXTINF:-1 tvg-id="" tvg-name="Moto GP  HD (ES)" tvg-logo="https://imgur.com/3401rkz.png" group-title="Spanish",Moto GP  HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="Moto GP  HD (ES)" tvg-logo="https://imgur.com/3401rkz.png" group-title="SPAIN",Moto GP  HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD (ES)" tvg-logo="" group-title="Spanish",Movistar F1 HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD (ES)" tvg-logo="" group-title="SPAIN",Movistar F1 HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA (ES)" tvg-logo="https://imgur.com/R9bv5ri.png" group-title="Spanish",CANAL PANDA (ES)
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA (ES)" tvg-logo="https://imgur.com/R9bv5ri.png" group-title="SPAIN",CANAL PANDA (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/758.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (ES)" tvg-logo="https://imgur.com/UjgeGMh.png" group-title="Spanish",NICKELODEON (ES)
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (ES)" tvg-logo="https://imgur.com/UjgeGMh.png" group-title="SPAIN",NICKELODEON (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/759.ts
-#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE (ES)" tvg-logo="https://imgur.com/irK5Oo7.png" group-title="Spanish",CLAN TVE (ES)
+#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE (ES)" tvg-logo="https://imgur.com/irK5Oo7.png" group-title="SPAIN",CLAN TVE (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/760.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD (ES)" tvg-logo="https://imgur.com/CivEawL.png" group-title="Spanish",DISNEY XD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD (ES)" tvg-logo="https://imgur.com/CivEawL.png" group-title="SPAIN",DISNEY XD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/761.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL (ES)" tvg-logo="https://imgur.com/CivEawL.png" group-title="Spanish",DISNEY CHANNEL (ES)
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL (ES)" tvg-logo="https://imgur.com/CivEawL.png" group-title="SPAIN",DISNEY CHANNEL (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/762.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL ORBE 21 (ES)" tvg-logo="https://imgur.com/mCvwrd7.png" group-title="Spanish",CANAL ORBE 21 (ES)
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ORBE 21 (ES)" tvg-logo="https://imgur.com/mCvwrd7.png" group-title="SPAIN",CANAL ORBE 21 (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/764.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA (ES)" tvg-logo="" group-title="Spanish",CANAL DECASA (ES)
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA (ES)" tvg-logo="" group-title="SPAIN",CANAL DECASA (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/765.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA (ES)" tvg-logo="https://imgur.com/TlvjENN.png" group-title="Spanish",CANAL COCINA (ES)
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA (ES)" tvg-logo="https://imgur.com/TlvjENN.png" group-title="SPAIN",CANAL COCINA (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/766.ts
-#EXTINF:-1 tvg-id="" tvg-name="COSMO HD (ES)" tvg-logo="" group-title="Spanish",COSMO HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="COSMO HD (ES)" tvg-logo="" group-title="SPAIN",COSMO HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/767.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV Rocks (ES)" tvg-logo="https://imgur.com/BXSWS6c.png" group-title="Spanish",MTV Rocks (ES)
+#EXTINF:-1 tvg-id="" tvg-name="MTV Rocks (ES)" tvg-logo="https://imgur.com/BXSWS6c.png" group-title="SPAIN",MTV Rocks (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/768.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV (ES)" tvg-logo="https://imgur.com/16qqaiN.png" group-title="Spanish",MTV (ES)
+#EXTINF:-1 tvg-id="" tvg-name="MTV (ES)" tvg-logo="https://imgur.com/16qqaiN.png" group-title="SPAIN",MTV (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/769.ts
-#EXTINF:-1 tvg-id="" tvg-name="VH1 (ES)" tvg-logo="https://imgur.com/q43pycL.png" group-title="Spanish",VH1 (ES)
+#EXTINF:-1 tvg-id="" tvg-name="VH1 (ES)" tvg-logo="https://imgur.com/q43pycL.png" group-title="SPAIN",VH1 (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/770.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEZZO (ES)" tvg-logo="https://imgur.com/a9CCO0Z.png" group-title="Spanish",MEZZO (ES)
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO (ES)" tvg-logo="https://imgur.com/a9CCO0Z.png" group-title="SPAIN",MEZZO (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/771.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIAJAR (ES)" tvg-logo="" group-title="Spanish",VIAJAR (ES)
+#EXTINF:-1 tvg-id="" tvg-name="VIAJAR (ES)" tvg-logo="" group-title="SPAIN",VIAJAR (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/772.ts
-#EXTINF:-1 tvg-id="" tvg-name="NON STOP PEOPLE (ES)" tvg-logo="https://imgur.com/Ii6LOU3.png" group-title="Spanish",NON STOP PEOPLE (ES)
+#EXTINF:-1 tvg-id="" tvg-name="NON STOP PEOPLE (ES)" tvg-logo="https://imgur.com/Ii6LOU3.png" group-title="SPAIN",NON STOP PEOPLE (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/773.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA (ES)" tvg-logo="" group-title="Spanish",HISTORIA (ES)
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA (ES)" tvg-logo="" group-title="SPAIN",HISTORIA (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/774.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIME & INVESTIGATION (ES)" tvg-logo="https://imgur.com/CMNSx3T.png" group-title="Spanish",CRIME & INVESTIGATION (ES)
+#EXTINF:-1 tvg-id="" tvg-name="CRIME & INVESTIGATION (ES)" tvg-logo="https://imgur.com/CMNSx3T.png" group-title="SPAIN",CRIME & INVESTIGATION (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/775.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY (ES)" tvg-logo="https://imgur.com/A4m2MMK.png" group-title="Spanish",DISCOVERY (ES)
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY (ES)" tvg-logo="https://imgur.com/A4m2MMK.png" group-title="SPAIN",DISCOVERY (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/776.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (ES)" tvg-logo="https://imgur.com/vgP2OKr.png" group-title="Spanish",NAT GEO WILD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (ES)" tvg-logo="https://imgur.com/vgP2OKr.png" group-title="SPAIN",NAT GEO WILD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/777.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD (ES)" tvg-logo="" group-title="Spanish",NAT GEO HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD (ES)" tvg-logo="" group-title="SPAIN",NAT GEO HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/778.ts
-#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD (ES)" tvg-logo="" group-title="Spanish",CALLE 13 HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD (ES)" tvg-logo="" group-title="SPAIN",CALLE 13 HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/779.ts
-#EXTINF:-1 tvg-id="" tvg-name="TCM HD (ES)" tvg-logo="" group-title="Spanish",TCM HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD (ES)" tvg-logo="" group-title="SPAIN",TCM HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/780.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD (ES)" tvg-logo="https://imgur.com/vgP2OKr.png" group-title="Spanish",TNT HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD (ES)" tvg-logo="https://imgur.com/vgP2OKr.png" group-title="SPAIN",TNT HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/781.ts
-#EXTINF:-1 tvg-id="" tvg-name="SYFY HD (ES)" tvg-logo="https://imgur.com/eSUEfs2.png" group-title="Spanish",SYFY HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD (ES)" tvg-logo="https://imgur.com/eSUEfs2.png" group-title="SPAIN",SYFY HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/782.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD (ES)" tvg-logo="https://imgur.com/BDHizer.png" group-title="Spanish",AXN WHITE HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD (ES)" tvg-logo="https://imgur.com/BDHizer.png" group-title="SPAIN",AXN WHITE HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/783.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD (ES)" tvg-logo="https://imgur.com/UK36REx.png" group-title="Spanish",AXN HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD (ES)" tvg-logo="https://imgur.com/UK36REx.png" group-title="SPAIN",AXN HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/784.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD (ES)" tvg-logo="" group-title="Spanish",AMC HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD (ES)" tvg-logo="" group-title="SPAIN",AMC HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/785.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD (ES)" tvg-logo="https://imgur.com/6qrjNfS.png" group-title="Spanish",FOX LIFE HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD (ES)" tvg-logo="https://imgur.com/6qrjNfS.png" group-title="SPAIN",FOX LIFE HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/786.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD (ES)" tvg-logo="https://imgur.com/gTO9bz0.png" group-title="Spanish",FOX HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD (ES)" tvg-logo="https://imgur.com/gTO9bz0.png" group-title="SPAIN",FOX HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/787.ts
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD (ES)" tvg-logo="" group-title="Spanish",HOLLYWOOD HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD (ES)" tvg-logo="" group-title="SPAIN",HOLLYWOOD HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/788.ts
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD (ES)" tvg-logo="https://imgur.com/E5lDwwv.png" group-title="Spanish",COMEDY CENTRAL HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD (ES)" tvg-logo="https://imgur.com/E5lDwwv.png" group-title="SPAIN",COMEDY CENTRAL HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/789.ts
-#EXTINF:-1 tvg-id="" tvg-name="M. SERIES XTRA HD (ES)" tvg-logo="https://imgur.com/DP1uyz5.png" group-title="Spanish",M. SERIES XTRA HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES XTRA HD (ES)" tvg-logo="https://imgur.com/DP1uyz5.png" group-title="SPAIN",M. SERIES XTRA HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/790.ts
-#EXTINF:-1 tvg-id="" tvg-name="M. SERIES (ES)" tvg-logo="https://imgur.com/eLNwo7D.png" group-title="Spanish",M. SERIES (ES)
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES (ES)" tvg-logo="https://imgur.com/eLNwo7D.png" group-title="SPAIN",M. SERIES (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.ts
-#EXTINF:-1 tvg-id="" tvg-name="M. XTRA (ES)" tvg-logo="https://imgur.com/r5xaeU9.png" group-title="Spanish",M. XTRA (ES)
+#EXTINF:-1 tvg-id="" tvg-name="M. XTRA (ES)" tvg-logo="https://imgur.com/r5xaeU9.png" group-title="SPAIN",M. XTRA (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/792.ts
-#EXTINF:-1 tvg-id="" tvg-name="M CINE ESPANOL (ES)" tvg-logo="" group-title="Spanish",M CINE ESPANOL (ES)
+#EXTINF:-1 tvg-id="" tvg-name="M CINE ESPANOL (ES)" tvg-logo="" group-title="SPAIN",M CINE ESPANOL (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/793.ts
-#EXTINF:-1 tvg-id="" tvg-name="M. DCINE HD (ES)" tvg-logo="" group-title="Spanish",M. DCINE HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="M. DCINE HD (ES)" tvg-logo="" group-title="SPAIN",M. DCINE HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/794.ts
-#EXTINF:-1 tvg-id="" tvg-name="M. COMEDIA HD (ES)" tvg-logo="" group-title="Spanish",M. COMEDIA HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="M. COMEDIA HD (ES)" tvg-logo="" group-title="SPAIN",M. COMEDIA HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/795.ts
-#EXTINF:-1 tvg-id="" tvg-name="M. ACCION HD (ES)" tvg-logo="" group-title="Spanish",M. ACCION HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="M. ACCION HD (ES)" tvg-logo="" group-title="SPAIN",M. ACCION HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/796.ts
-#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS HD (ES)" tvg-logo="https://imgur.com/jhUmw61.png" group-title="Spanish",M. ESTRENOS HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS HD (ES)" tvg-logo="https://imgur.com/jhUmw61.png" group-title="SPAIN",M. ESTRENOS HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/797.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANDALUCIA TV (ES)" tvg-logo="" group-title="Spanish",ANDALUCIA TV (ES)
+#EXTINF:-1 tvg-id="" tvg-name="ANDALUCIA TV (ES)" tvg-logo="" group-title="SPAIN",ANDALUCIA TV (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/798.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV GALICIA (ES)" tvg-logo="" group-title="Spanish",TV GALICIA (ES)
+#EXTINF:-1 tvg-id="" tvg-name="TV GALICIA (ES)" tvg-logo="" group-title="SPAIN",TV GALICIA (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/799.ts
-#EXTINF:-1 tvg-id="" tvg-name="ENERGY (ES)" tvg-logo="https://imgur.com/QjCxGbR.png" group-title="Spanish",ENERGY (ES)
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY (ES)" tvg-logo="https://imgur.com/QjCxGbR.png" group-title="SPAIN",ENERGY (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/800.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIVINITY (ES)" tvg-logo="https://imgur.com/h9oQ5G6.png" group-title="Spanish",DIVINITY (ES)
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY (ES)" tvg-logo="https://imgur.com/h9oQ5G6.png" group-title="SPAIN",DIVINITY (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/801.ts
-#EXTINF:-1 tvg-id="" tvg-name="FDF (ES)" tvg-logo="" group-title="Spanish",FDF (ES)
+#EXTINF:-1 tvg-id="" tvg-name="FDF (ES)" tvg-logo="" group-title="SPAIN",FDF (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/802.ts
-#EXTINF:-1 tvg-id="" tvg-name="NOVA (ES)" tvg-logo="https://imgur.com/jwQBD5R.png" group-title="Spanish",NOVA (ES)
+#EXTINF:-1 tvg-id="" tvg-name="NOVA (ES)" tvg-logo="https://imgur.com/jwQBD5R.png" group-title="SPAIN",NOVA (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD (ES)" tvg-logo="https://imgur.com/jwQBD5R.png" group-title="Spanish",LA SEXTA HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD (ES)" tvg-logo="https://imgur.com/jwQBD5R.png" group-title="SPAIN",LA SEXTA HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/804.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD (ES)" tvg-logo="https://imgur.com/bkK2yAN.png" group-title="Spanish",TELECINCO HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD (ES)" tvg-logo="https://imgur.com/bkK2yAN.png" group-title="SPAIN",TELECINCO HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/805.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUATRO HD (ES)" tvg-logo="" group-title="Spanish",CUATRO HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO HD (ES)" tvg-logo="" group-title="SPAIN",CUATRO HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/806.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD (ES)" tvg-logo="https://imgur.com/o3bECyI.png" group-title="Spanish",ANTENA 3 HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD (ES)" tvg-logo="https://imgur.com/o3bECyI.png" group-title="SPAIN",ANTENA 3 HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/807.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA2 (ES)" tvg-logo="https://imgur.com/7Tfwlre.png" group-title="Spanish",LA2 (ES)
+#EXTINF:-1 tvg-id="" tvg-name="LA2 (ES)" tvg-logo="https://imgur.com/7Tfwlre.png" group-title="SPAIN",LA2 (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/808.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA1 HD (ES)" tvg-logo="" group-title="Spanish",LA1 HD (ES)
+#EXTINF:-1 tvg-id="" tvg-name="LA1 HD (ES)" tvg-logo="" group-title="SPAIN",LA1 HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/809.ts
 
 
 #EXTINF:-1,###############  FRANCE  ###################
-#EXTINF:-1,FR: 13EME_RUE
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23720.ts
+#EXTINF:-1,FR: 13eme Rue
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19343.ts
 #EXTINF:-1,FR: 6TER
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23724.ts
-#EXTINF:-1,FR: A
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23719.ts
-#EXTINF:-1,FR: AB Moteurs
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23718.ts
-#EXTINF:-1,FR: AB1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23716.ts
-#EXTINF:-1,FR: AB3
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23715.ts
-#EXTINF:-1,FR: AB_MOTEURS
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23717.ts
-#EXTINF:-1,FR: ACTION
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23714.ts
-#EXTINF:-1,FR: ANIMAUX
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23713.ts
-#EXTINF:-1,FR: ARTE
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23712.ts
-#EXTINF:-1,FR: ARTE HD.
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23874.ts
-#EXTINF:-1,FR: BBox Actu TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23873.ts
-#EXTINF:-1,FR: BEIN SPORT -1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23711.ts
-#EXTINF:-1,FR: BEIN SPORT -2
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23710.ts
-#EXTINF:-1,FR: BEIN SPORT -3
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23709.ts
-#EXTINF:-1,FR: BEIN SPORT -MAX 4
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23708.ts
-#EXTINF:-1,FR: BEIN SPORT -MAX 5
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23707.ts
-#EXTINF:-1,FR: BEIN SPORT -MAX 6
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23706.ts
-#EXTINF:-1,FR: BEINSPORT -MAX 10
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23705.ts
-#EXTINF:-1,FR: BEINSPORT -MAX 7
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23704.ts
-#EXTINF:-1,FR: BEINSPORT -MAX 8
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23703.ts
-#EXTINF:-1,FR: BEINSPORT -MAX 9
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23702.ts
-#EXTINF:-1,FR: BET
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23871.ts
-#EXTINF:-1,FR: BFM TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23870.ts
-#EXTINF:-1,FR: BFMBUSINESS
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23868.ts
-#EXTINF:-1,FR: BFMTV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23867.ts
-#EXTINF:-1,FR: BFM_SPORT
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23869.ts
-#EXTINF:-1,FR: BOING HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23865.ts
-#EXTINF:-1,FR: BOOMERANG HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23863.ts
-#EXTINF:-1,FR: BRAVA
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23862.ts
-#EXTINF:-1,FR: Brava HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23861.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19342.ts
+#EXTINF:-1,FR: A La Carte 1
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19341.ts
+#EXTINF:-1,FR: A La Carte 2
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19340.ts
+#EXTINF:-1,FR: A La Carte 3
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19339.ts
+#EXTINF:-1,FR: A La Carte 4
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19338.ts
+#EXTINF:-1,FR: A La Carte 5
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19337.ts
+#EXTINF:-1,FR: A La Carte 6
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19336.ts
+#EXTINF:-1,FR: A La Carte 7
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19335.ts
+#EXTINF:-1,FR: ARTE HD
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19334.ts
+#EXTINF:-1,FR: Action
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19333.ts
+#EXTINF:-1,FR: Animaux
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19332.ts
+#EXTINF:-1,FR: Bein Sports 1
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19331.ts
+#EXTINF:-1,FR: Bein Sports 2
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19330.ts
+#EXTINF:-1,FR: Bein Sports 3
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19329.ts
 #EXTINF:-1,FR: C8
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23860.ts
-#EXTINF:-1,FR: CAMPAGNE_TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23859.ts
-#EXTINF:-1,FR: CANAL  CINEMA HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23858.ts
-#EXTINF:-1,FR: CANAL  DECALE HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23857.ts
-#EXTINF:-1,FR: CANAL  FAMILY HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23856.ts
-#EXTINF:-1,FR: CANAL  HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23855.ts
-#EXTINF:-1,FR: CANAL  SERIES HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23854.ts
-#EXTINF:-1,FR: CANAL  SPORT HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23853.ts
-#EXTINF:-1,FR: CANAL_J
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23852.ts
-#EXTINF:-1,FR: CARTOON_NETWORK
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23850.ts
-#EXTINF:-1,FR: CHASSE_&_PÊCHE
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23849.ts
-#EXTINF:-1,FR: CHERIE 25
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23848.ts
-#EXTINF:-1,FR: CHERIE_25
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23847.ts
-#EXTINF:-1,FR: CINE  CLASSIC HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23846.ts
-#EXTINF:-1,FR: CINE  CLUB
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23845.ts
-#EXTINF:-1,FR: CINE  EMOTION HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23844.ts
-#EXTINF:-1,FR: CINE  FAMIZ HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23843.ts
-#EXTINF:-1,FR: CINE  FRISSON HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23842.ts
-#EXTINF:-1,FR: CINE  PREMIER HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23841.ts
-#EXTINF:-1,FR: CINE_FX
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23840.ts
-#EXTINF:-1,FR: CSTAR
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23838.ts
-#EXTINF:-1,FR: Clubbing TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23839.ts
-#EXTINF:-1,FR: D17
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23837.ts
-#EXTINF:-1,FR: D8
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23836.ts
-#EXTINF:-1,FR: DISCOVERY_INVESTIGATION
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23835.ts
-#EXTINF:-1,FR: DISCOVERY_SCIENCES
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23834.ts
-#EXTINF:-1,FR: DISCOVERY_TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23833.ts
-#EXTINF:-1,FR: DISNEY_CHANNEL
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23830.ts
-#EXTINF:-1,FR: DISNEY_CHANNEL_ 1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23829.ts
-#EXTINF:-1,FR: DISNEY_XD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23828.ts
-#EXTINF:-1,FR: DORCEL
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23827.ts
-#EXTINF:-1,FR: Disney channel
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23832.ts
-#EXTINF:-1,FR: Disney channel  1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23831.ts
-#EXTINF:-1,FR: E!
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23826.ts
-#EXTINF:-1,FR: ELLE_TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23825.ts
-#EXTINF:-1,FR: EQUIDIA_LIVE
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23822.ts
-#EXTINF:-1,FR: EUROSPORT_1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23820.ts
-#EXTINF:-1,FR: Equidia Life
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23824.ts
-#EXTINF:-1,FR: Equidia Live
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23823.ts
-#EXTINF:-1,FR: Euronews Fran
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23821.ts
-#EXTINF:-1,FR: FOOT 24
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23818.ts
-#EXTINF:-1,FR: FR2 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23817.ts
-#EXTINF:-1,FR: FR2 HD.
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23816.ts
-#EXTINF:-1,FR: FR3
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23815.ts
-#EXTINF:-1,FR: FRANCE INFO
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23882.ts
-#EXTINF:-1,FR: FRANCE O
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23881.ts
-#EXTINF:-1,FR: FRANCE_2
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23880.ts
-#EXTINF:-1,FR: FRANCE_24
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23875.ts
-#EXTINF:-1,FR: FRANCE_3
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23879.ts
-#EXTINF:-1,FR: FRANCE_4
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23878.ts
-#EXTINF:-1,FR: FRANCE_5
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23877.ts
-#EXTINF:-1,FR: FRANCE_Ô
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23876.ts
-#EXTINF:-1,FR: Fashion TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23819.ts
-#EXTINF:-1,FR: GAME_ONE
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23813.ts
-#EXTINF:-1,FR: Game One
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23814.ts
-#EXTINF:-1,FR: Ginx
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23812.ts
-#EXTINF:-1,FR: Gong
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23811.ts
-#EXTINF:-1,FR: HD1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23809.ts
-#EXTINF:-1,FR: Histoire
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23808.ts
-#EXTINF:-1,FR: I-TELE
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23807.ts
-#EXTINF:-1,FR: INFOSPORT
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23806.ts
-#EXTINF:-1,FR: ITELE
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23805.ts
-#EXTINF:-1,FR: J-ONE
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23804.ts
-#EXTINF:-1,FR: LCI
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23803.ts
-#EXTINF:-1,FR: LCP
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23802.ts
-#EXTINF:-1,FR: LEQUIPE 21
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23801.ts
-#EXTINF:-1,FR: LEQUIPE 21 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23800.ts
-#EXTINF:-1,FR: Lucky Jack
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23799.ts
-#EXTINF:-1,FR: Luxe TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23798.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19328.ts
+#EXTINF:-1,FR: CINE  CLUB HD
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19327.ts
+#EXTINF:-1,FR: CINE  Classic
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19326.ts
+#EXTINF:-1,FR: CINE  FAMIZ
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19325.ts
+#EXTINF:-1,FR: CINE  FRISSON
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19324.ts
+#EXTINF:-1,FR: CINE  PREMIER
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19323.ts
+#EXTINF:-1,FR: CINE  Polar
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19322.ts
+#EXTINF:-1,FR: Canal
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19320.ts
+#EXTINF:-1,FR: Canal  Cinema
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19319.ts
+#EXTINF:-1,FR: Canal  Decale
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19318.ts
+#EXTINF:-1,FR: Canal  Family
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19317.ts
+#EXTINF:-1,FR: Canal  Series
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19316.ts
+#EXTINF:-1,FR: Canal   Sport
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19321.ts
+#EXTINF:-1,FR: Chasse&Peche Peche
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19315.ts
+#EXTINF:-1,FR: Cherie 25
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19314.ts
+#EXTINF:-1,FR: Discover Channel
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19313.ts
+#EXTINF:-1,FR: Disney Jr
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19312.ts
+#EXTINF:-1,FR: Euronews
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19311.ts
+#EXTINF:-1,FR: France 0
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19310.ts
+#EXTINF:-1,FR: France 2
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19309.ts
+#EXTINF:-1,FR: France 24
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19308.ts
+#EXTINF:-1,FR: France 3
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19307.ts
+#EXTINF:-1,FR: France 4
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19306.ts
+#EXTINF:-1,FR: France 5
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19305.ts
+#EXTINF:-1,FR: L'Equipe 21
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19304.ts
 #EXTINF:-1,FR: M6
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23797.ts
-#EXTINF:-1,FR: M6 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23796.ts
-#EXTINF:-1,FR: M6 HD.
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23795.ts
-#EXTINF:-1,FR: M6_MUSIC
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23794.ts
-#EXTINF:-1,FR: MANGAS
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23793.ts
-#EXTINF:-1,FR: MCM
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23792.ts
-#EXTINF:-1,FR: MOTOR TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23790.ts
-#EXTINF:-1,FR: MTV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23788.ts
-#EXTINF:-1,FR: MTV_HITS
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23787.ts
-#EXTINF:-1,FR: MY_CUSINE_TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23786.ts
-#EXTINF:-1,FR: Men's Up
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23791.ts
-#EXTINF:-1,FR: NATIONAL_GEO
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23784.ts
-#EXTINF:-1,FR: NAT_GEO_WILD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23785.ts
-#EXTINF:-1,FR: NICKELODEON_4_TEEN
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23783.ts
-#EXTINF:-1,FR: NICKELODEON_JUNIOR
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23782.ts
-#EXTINF:-1,FR: NOLLYWOOD_FR
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23780.ts
-#EXTINF:-1,FR: NRJ Hits
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23779.ts
-#EXTINF:-1,FR: NRJ12
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23777.ts
-#EXTINF:-1,FR: NRJ_HITS
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23778.ts
-#EXTINF:-1,FR: NT1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23776.ts
-#EXTINF:-1,FR: NUMERO 23
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23775.ts
-#EXTINF:-1,FR: NUMERO_23
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23774.ts
-#EXTINF:-1,FR: Nolife
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23781.ts
-#EXTINF:-1,FR: OCS CHOC HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23773.ts
-#EXTINF:-1,FR: OCS CITY HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23772.ts
-#EXTINF:-1,FR: OCS GEANT HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23771.ts
-#EXTINF:-1,FR: OCS_MAX
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23770.ts
-#EXTINF:-1,FR: OM_TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23768.ts
-#EXTINF:-1,FR: Ofive.TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23769.ts
-#EXTINF:-1,FR: PARAMOUNT_CHANNEL
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23767.ts
-#EXTINF:-1,FR: PARIS PREMIERE
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23766.ts
-#EXTINF:-1,FR: PARIS_PREMIERE
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23765.ts
-#EXTINF:-1,FR: PLANETE
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23764.ts
-#EXTINF:-1,FR: PLANETE _A&E
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23763.ts
-#EXTINF:-1,FR: PLANETE _CI
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23762.ts
-#EXTINF:-1,FR: QVC
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23761.ts
-#EXTINF:-1,FR: RMC
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23759.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19303.ts
+#EXTINF:-1,FR: Mangas
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19302.ts
+#EXTINF:-1,FR: National Geo Wild
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19301.ts
+#EXTINF:-1,FR: National Geographic
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19300.ts
+#EXTINF:-1,FR: Paris Premiere
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19299.ts
+#EXTINF:-1,FR: Planet CI
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19298.ts
 #EXTINF:-1,FR: RTL 9
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23757.ts
-#EXTINF:-1,FR: RTL9 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23756.ts
-#EXTINF:-1,FR: Record News
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23760.ts
-#EXTINF:-1,FR: SCIENCES_&_VIE
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23753.ts
-#EXTINF:-1,FR: SEASONS
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23752.ts
-#EXTINF:-1,FR: SERIE_CLUB
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23751.ts
-#EXTINF:-1,FR: SFR_SPORT_1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23750.ts
-#EXTINF:-1,FR: SFR_SPORT_2
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23749.ts
-#EXTINF:-1,FR: SFR_SPORT_3
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23748.ts
-#EXTINF:-1,FR: SFR_SPORT_5
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23747.ts
-#EXTINF:-1,FR: SPORT_365
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23746.ts
-#EXTINF:-1,FR: SUNDANCE_TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23745.ts
-#EXTINF:-1,FR: SYFY
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23744.ts
-#EXTINF:-1,FR: TCM_CINEMA
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23743.ts
-#EXTINF:-1,FR: TELETOON_ 1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23742.ts
-#EXTINF:-1,FR: TEVA
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23741.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19297.ts
+#EXTINF:-1,FR: SFR Sports 1 HD
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19296.ts
+#EXTINF:-1,FR: SFR Sports 2 HD
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19295.ts
+#EXTINF:-1,FR: SFR Sports 3 HD
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19294.ts
+#EXTINF:-1,FR: TCM
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19293.ts
 #EXTINF:-1,FR: TF1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23740.ts
-#EXTINF:-1,FR: TF1 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23739.ts
-#EXTINF:-1,FR: TF1 HD.
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23738.ts
-#EXTINF:-1,FR: THE_MUSEUM_CHANNEL
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23737.ts
-#EXTINF:-1,FR: TIJI
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23736.ts
-#EXTINF:-1,FR: TMC
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23735.ts
-#EXTINF:-1,FR: TMC HD.
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23734.ts
-#EXTINF:-1,FR: TOUTE_L'HISTOIRE
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23733.ts
-#EXTINF:-1,FR: TRACE_URBAIN
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23731.ts
-#EXTINF:-1,FR: TREK
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23730.ts
-#EXTINF:-1,FR: TV BREIZH
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23728.ts
-#EXTINF:-1,FR: TV5_MONDE_EUROPE
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23726.ts
-#EXTINF:-1,FR: TV_BREIZH
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23727.ts
-#EXTINF:-1,FR: Trace Urban
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23732.ts
-#EXTINF:-1,FR: Tropik TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23729.ts
-#EXTINF:-1,FR: USHUAIA_TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23723.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19292.ts
 #EXTINF:-1,FR: Ushuaia TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23725.ts
-#EXTINF:-1,FR: VOYAGE_TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23722.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19291.ts
+#EXTINF:-1,FR: Voyage
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19290.ts
 #EXTINF:-1,FR: W9
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23721.ts
-#EXTINF:-1,FR: be curious
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23872.ts
-#EXTINF:-1,FR: boing
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23866.ts
-#EXTINF:-1,FR: boomerang
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23864.ts
-#EXTINF:-1,FR: cartoon network
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23851.ts
-#EXTINF:-1,FR: gulli
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23810.ts
-#EXTINF:-1,FR: motors sports
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23789.ts
-#EXTINF:-1,FR: rouge tv
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23758.ts
-#EXTINF:-1,FR: rts1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23755.ts
-#EXTINF:-1,FR: rts2
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/23754.ts
-#EXTINF:-1,Fox Sports Florida
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/32948.ts
+http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19289.ts
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="AR | 7C Iraq IRQ" tvg-logo="" group-title="Arabic",AR | 7C Iraq IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11789.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | AL KITAB AR" tvg-logo="" group-title="Arabic",AR | AL KITAB AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11720.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | ANB IRQ" tvg-logo="" group-title="Arabic",AR | ANB IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11523.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Abu Dhabi TV HD AE" tvg-logo="" group-title="Arabic",AR | Abu Dhabi TV HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11690.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Afaq TV IRQ" tvg-logo="" group-title="Arabic",AR | Afaq TV IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11684.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Aghani Aghani TV LB" tvg-logo="" group-title="Arabic",AR | Aghani Aghani TV LB
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11476.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Aan TV AE" tvg-logo="" group-title="Arabic",AR | Al Aan TV AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11689.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Anbar IRQ" tvg-logo="" group-title="Arabic",AR | Al Anbar IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11519.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Anwar IRQ" tvg-logo="" group-title="Arabic",AR | Al Anwar IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11518.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Aqila TV AR" tvg-logo="" group-title="Arabic",AR | Al Aqila TV AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11726.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Aqsa AR" tvg-logo="" group-title="Arabic",AR | Al Aqsa AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11722.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Arabiya FHD AE" tvg-logo="" group-title="Arabic",AR | Al Arabiya FHD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11478.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Awhad TV IRQ" tvg-logo="" group-title="Arabic",AR | Al Awhad TV IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11683.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Etihad IRQ" tvg-logo="" group-title="Arabic",AR | Al Etihad IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11682.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Fallujah IRQ" tvg-logo="" group-title="Arabic",AR | Al Fallujah IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11515.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Forat IRQ" tvg-logo="" group-title="Arabic",AR | Al Forat IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11681.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Ghadeer IRQ" tvg-logo="" group-title="Arabic",AR | Al Ghadeer IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11680.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Hadath IRQ" tvg-logo="" group-title="Arabic",AR | Al Hadath IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11679.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Hiwar TV AR" tvg-logo="" group-title="Arabic",AR | Al Hiwar TV AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11697.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Hurra IRQ" tvg-logo="" group-title="Arabic",AR | Al Hurra IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11511.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Iraqiya TV IRQ" tvg-logo="" group-title="Arabic",AR | Al Iraqiya TV IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11503.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Jazeera Documentary QA" tvg-logo="" group-title="Arabic",AR | Al Jazeera Documentary QA
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11481.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Jazeera FHD QA" tvg-logo="" group-title="Arabic",AR | Al Jazeera FHD QA
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11482.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Jazeera Mubasher QA" tvg-logo="" group-title="Arabic",AR | Al Jazeera Mubasher QA
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11480.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Kawthar IRQ" tvg-logo="" group-title="Arabic",AR | Al Kawthar IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11504.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Majd AR" tvg-logo="" group-title="Arabic",AR | Al Majd AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11719.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Mawsleya AR" tvg-logo="" group-title="Arabic",AR | Al Mawsleya AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11491.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Naeem HD IRQ" tvg-logo="" group-title="Arabic",AR | Al Naeem HD IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11510.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Naeem IRQ" tvg-logo="" group-title="Arabic",AR | Al Naeem IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11788.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Nahar IRQ" tvg-logo="" group-title="Arabic",AR | Al Nahar IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11502.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Najah NBC IRQ" tvg-logo="" group-title="Arabic",AR | Al Najah NBC IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11678.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Qamar IRQ" tvg-logo="" group-title="Arabic",AR | Al Qamar IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11509.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Rahma AR" tvg-logo="" group-title="Arabic",AR | Al Rahma AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11718.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Rasheed IRQ" tvg-logo="" group-title="Arabic",AR | Al Rasheed IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11507.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Resala AR" tvg-logo="" group-title="Arabic",AR | Al Resala AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11717.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Sharqiya IRQ" tvg-logo="" group-title="Arabic",AR | Al Sharqiya IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11505.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Sirat TV AR" tvg-logo="" group-title="Arabic",AR | Al Sirat TV AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11716.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Sumaria AR" tvg-logo="" group-title="Arabic",AR | Al Sumaria AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11490.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Sumaria IRQ" tvg-logo="" group-title="Arabic",AR | Al Sumaria IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11506.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Al Taghier JOR" tvg-logo="" group-title="Arabic",AR | Al Taghier JOR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11492.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | AlKass Sports 1 HD QA" tvg-logo="" group-title="Arabic",AR | AlKass Sports 1 HD QA
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11694.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | AlKass Sports 2 HD QA" tvg-logo="" group-title="Arabic",AR | AlKass Sports 2 HD QA
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11693.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | AlKass Sports 3 HD QA" tvg-logo="" group-title="Arabic",AR | AlKass Sports 3 HD QA
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11692.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | AlKass Sports 4 HD QA" tvg-logo="" group-title="Arabic",AR | AlKass Sports 4 HD QA
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11691.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Alarabiya Alhadath FHD AE" tvg-logo="" group-title="Arabic",AR | Alarabiya Alhadath FHD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11486.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Alquds Satellite Channel LB" tvg-logo="" group-title="Arabic",AR | Alquds Satellite Channel LB
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11477.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Alsharqiya TV AE" tvg-logo="" group-title="Arabic",AR | Alsharqiya TV AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11489.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Alsirat IRQ" tvg-logo="" group-title="Arabic",AR | Alsirat IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11521.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Arabica TV LB" tvg-logo="" group-title="Arabic",AR | Arabica TV LB
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11696.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Asia News IRQ" tvg-logo="" group-title="Arabic",AR | Asia News IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11520.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | BBC Arabic AR" tvg-logo="" group-title="Arabic",AR | BBC Arabic AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11725.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Baraem AR" tvg-logo="" group-title="Arabic",AR | Baraem AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11715.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Belqees TV YE" tvg-logo="" group-title="Arabic",AR | Belqees TV YE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11487.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Cartoon Network Arabia AR" tvg-logo="" group-title="Arabic",AR | Cartoon Network Arabia AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11714.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | DAR ALIMAN AR" tvg-logo="" group-title="Arabic",AR | DAR ALIMAN AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11713.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | DW Arabic News AR" tvg-logo="" group-title="Arabic",AR | DW Arabic News AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11710.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Dijlah IRQ" tvg-logo="" group-title="Arabic",AR | Dijlah IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11500.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Dubai One HD AE" tvg-logo="" group-title="Arabic",AR | Dubai One HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11688.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Dubai Racing HD AE" tvg-logo="" group-title="Arabic",AR | Dubai Racing HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11709.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Dubai Sports HD AE" tvg-logo="" group-title="Arabic",AR | Dubai Sports HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11707.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Dubai TV HD AE" tvg-logo="" group-title="Arabic",AR | Dubai TV HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11708.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Dubai Zaman AE" tvg-logo="" group-title="Arabic",AR | Dubai Zaman AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11687.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | France 24 Arabic HD AR" tvg-logo="" group-title="Arabic",AR | France 24 Arabic HD AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11724.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | HodHod TV AR" tvg-logo="" group-title="Arabic",AR | HodHod TV AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11712.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Hona Alquds LB" tvg-logo="" group-title="Arabic",AR | Hona Alquds LB
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11475.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Hona Baghdad IRQ" tvg-logo="" group-title="Arabic",AR | Hona Baghdad IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11677.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Iqraa AR" tvg-logo="" group-title="Arabic",AR | Iqraa AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11711.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Iraq Future IRQ" tvg-logo="" group-title="Arabic",AR | Iraq Future IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11499.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Iraq News IRQ" tvg-logo="" group-title="Arabic",AR | Iraq News IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11498.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Iraqyia Sports IRQ" tvg-logo="" group-title="Arabic",AR | Iraqyia Sports IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11494.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | KTV 1 FHD KW" tvg-logo="" group-title="Arabic",AR | KTV 1 FHD KW
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11673.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | KTV 2 KW" tvg-logo="" group-title="Arabic",AR | KTV 2 KW
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11672.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | KTV Al Majlis KW" tvg-logo="" group-title="Arabic",AR | KTV Al Majlis KW
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11671.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | KTV Plus KW" tvg-logo="" group-title="Arabic",AR | KTV Plus KW
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11670.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | KTV Sport KW" tvg-logo="" group-title="Arabic",AR | KTV Sport KW
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11669.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Karameesh Tv AR" tvg-logo="" group-title="Arabic",AR | Karameesh Tv AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11705.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Karbala IRQ" tvg-logo="" group-title="Arabic",AR | Karbala IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11676.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | LBC Europa LB" tvg-logo="" group-title="Arabic",AR | LBC Europa LB
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11474.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Libya Alhadath LY" tvg-logo="" group-title="Arabic",AR | Libya Alhadath LY
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11473.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Libya Alwatanya LY" tvg-logo="" group-title="Arabic",AR | Libya Alwatanya LY
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11483.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Libya TV LY" tvg-logo="" group-title="Arabic",AR | Libya TV LY
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11472.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | MBC 1 AE" tvg-logo="" group-title="Arabic",AR | MBC 1 AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11994.ts
+#EXTINF:-1 tvg-ID="MBC 1 HD" tvg-name="AR | MBC 1 HD AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MBC_1.png/190px-MBC_1.png" group-title="Arabic",AR | MBC 1 HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11995.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | MBC 2 AE" tvg-logo="" group-title="Arabic",AR | MBC 2 AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11991.ts
+#EXTINF:-1 tvg-ID="MBC2.ae" tvg-name="AR | MBC 2 HD AE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="Arabic",AR | MBC 2 HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11992.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | MBC 3 AE" tvg-logo="" group-title="Arabic",AR | MBC 3 AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11988.ts
+#EXTINF:-1 tvg-ID="MBC3.ae" tvg-name="AR | MBC 3 HD AE" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1241_1.png" group-title="Arabic",AR | MBC 3 HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11989.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | MBC 4 AE" tvg-logo="" group-title="Arabic",AR | MBC 4 AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11985.ts
+#EXTINF:-1 tvg-ID="MBC 4" tvg-name="AR | MBC 4 HD AE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/MBC_4_logo.png/150px-MBC_4_logo.png" group-title="Arabic",AR | MBC 4 HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11986.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | MBC Action AE" tvg-logo="" group-title="Arabic",AR | MBC Action AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11982.ts
+#EXTINF:-1 tvg-ID="MBCAction.sa" tvg-name="AR | MBC Action HD AE" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCAction.png" group-title="Arabic",AR | MBC Action HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11983.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | MBC Bollywood AE" tvg-logo="" group-title="Arabic",AR | MBC Bollywood AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11979.ts
+#EXTINF:-1 tvg-ID="MBCBollywood.sa" tvg-name="AR | MBC Bollywood HD AE" tvg-logo="https://masr140.com/wp-content/uploads/2016/03/mbc-bollywood.png" group-title="Arabic",AR | MBC Bollywood HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11980.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | MBC Drama HD AE" tvg-logo="" group-title="Arabic",AR | MBC Drama HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11977.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | MBC Masr 1 AE" tvg-logo="" group-title="Arabic",AR | MBC Masr 1 AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11973.ts
+#EXTINF:-1 tvg-ID="MbcMasr.eg" tvg-name="AR | MBC Masr 1 HD AE" tvg-logo="https://opentro.com/wp-content/uploads/2016/12/mbc-masr-1.png" group-title="Arabic",AR | MBC Masr 1 HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11974.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | MBC Masr 2 AE" tvg-logo="" group-title="Arabic",AR | MBC Masr 2 AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11971.ts
+#EXTINF:-1 tvg-ID="Mbc Masr 2" tvg-name="AR | MBC Masr 2 HD AE" tvg-logo="http://www.wataan.com/uploads/2172017-090817PM.png" group-title="Arabic",AR | MBC Masr 2 HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11972.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | MBC Max AE" tvg-logo="" group-title="Arabic",AR | MBC Max AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11969.ts
+#EXTINF:-1 tvg-ID="MBCMax.ae" tvg-name="AR | MBC Max HD AE" tvg-logo="http://www.lebanonchannels.com/sites/default/files/mbc-max.png" group-title="Arabic",AR | MBC Max HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11970.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | MBC Plus Drama HD AE" tvg-logo="" group-title="Arabic",AR | MBC Plus Drama HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11975.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | MBC Pro Sport 1 AE" tvg-logo="" group-title="Arabic",AR | MBC Pro Sport 1 AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11966.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | MBC Pro Sport 2 AE" tvg-logo="" group-title="Arabic",AR | MBC Pro Sport 2 AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11965.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | MBC Pro Sport 3 AE" tvg-logo="" group-title="Arabic",AR | MBC Pro Sport 3 AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11964.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | MBC Variety HD AE" tvg-logo="" group-title="Arabic",AR | MBC Variety HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11967.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Majd Kids FHD AR" tvg-logo="" group-title="Arabic",AR | Majd Kids FHD AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11704.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Masdar TV SA" tvg-logo="" group-title="Arabic",AR | Masdar TV SA
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11471.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | NOUR KIDS AR" tvg-logo="" group-title="Arabic",AR | NOUR KIDS AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11703.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | ON Sport" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/OnSport-200x150.png" group-title="Arabic",AR | ON Sport
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/13188.ts
+#EXTINF:-1 tvg-ID="Animal Planet HD" tvg-name="AR | OSN Animal Planet HD AE" tvg-logo="http://edwardlamar.com/kodi/Kodi_TV_Logos/Animal%20Planet%20HD.png" group-title="Arabic",AR | OSN Animal Planet HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11867.ts
+#EXTINF:-1 tvg-ID="BBC First HD" tvg-name="AR | OSN BBC First HD AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/BBC_First.png" group-title="Arabic",AR | OSN BBC First HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11865.ts
+#EXTINF:-1 tvg-ID="OSNMoviesBoxOffice2.ae" tvg-name="AR | OSN Box Office 2 HD AE" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1294_1.png" group-title="Arabic",AR | OSN Box Office 2 HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11863.ts
+#EXTINF:-1 tvg-ID="OSNMoviesBoxOffice3.ae" tvg-name="AR | OSN Box Office 3 HD AE" tvg-logo="https://ulango.tv/uploads/channels/63175/logo_osn%20box%20office%204.png" group-title="Arabic",AR | OSN Box Office 3 HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11862.ts
+#EXTINF:-1 tvg-ID="OSN Movies Box Office 1 HD" tvg-name="AR | OSN Box Office HD AE" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1293_1.png" group-title="Arabic",AR | OSN Box Office HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11864.ts
+#EXTINF:-1 tvg-ID="CartoonNetwork.in" tvg-name="AR | OSN Cartoon_Network HD AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_Taiwan_2011_logo.png" group-title="Arabic",AR | OSN Cartoon_Network HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11861.ts
+#EXTINF:-1 tvg-ID="ComedyCentral.es" tvg-name="AR | OSN Comedy Central HD AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Comedy_Central_2011_Logo.png/120px-Comedy_Central_2011_Logo.png" group-title="Arabic",AR | OSN Comedy Central HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11859.ts
+#EXTINF:-1 tvg-ID="Discovery HD" tvg-name="AR | OSN Discovery Channel HD AE" tvg-logo="http://discovery-group.tv/data/uploads/TopChannels/discoverychannelhd.jpg" group-title="Arabic",AR | OSN Discovery Channel HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11857.ts
+#EXTINF:-1 tvg-ID="IDX HD" tvg-name="AR | OSN Discovery ID HD AE" tvg-logo="http://rgho.st/55062204/image.png" group-title="Arabic",AR | OSN Discovery ID HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11853.ts
+#EXTINF:-1 tvg-ID="Discovery Science HD" tvg-name="AR | OSN Discovery Science HD AE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="Arabic",AR | OSN Discovery Science HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11854.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | OSN Disney Channel HD AE" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Arabic",AR | OSN Disney Channel HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11852.ts
+#EXTINF:-1 tvg-ID="Disney Junior" tvg-name="AR | OSN Disney Junior HD AE" tvg-logo="https://assets.corusent.com/wp-content/uploads/2015/11/DisneyJunior_WebsiteLogo-500x250.png" group-title="Arabic",AR | OSN Disney Junior HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11851.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | OSN Fatafeat HD AE" tvg-logo="http://2.bp.blogspot.com/-mpO8YM2VIXQ/U2TBBccgiOI/AAAAAAAABEs/C8uC_960GdM/s1600/fatafeat.jpg" group-title="Arabic",AR | OSN Fatafeat HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11848.ts
+#EXTINF:-1 tvg-ID="OSN Fight Network HD" tvg-name="AR | OSN Fight Network HD AE" tvg-logo="http://content.osn.com/bob/500x300/FNW.jpg" group-title="Arabic",AR | OSN Fight Network HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11847.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | OSN Fine_Living HD AE" tvg-logo="" group-title="Arabic",AR | OSN Fine_Living HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11846.ts
+#EXTINF:-1 tvg-ID="OSNFirstComedy.ae" tvg-name="AR | OSN First Comedy HD AE" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1257_1.png" group-title="Arabic",AR | OSN First Comedy HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11845.ts
+#EXTINF:-1 tvg-ID="OSNFirstHBO.ae" tvg-name="AR | OSN First HBO HD AE" tvg-logo="http://www.eutelsat.com/img/OSN-home-image.jpg" group-title="Arabic",AR | OSN First HBO HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11844.ts
+#EXTINF:-1 tvg-ID="History HD" tvg-name="AR | OSN History Channel HD AE" tvg-logo="https://pbs.twimg.com/media/CZprlnFWIAAbjFV.png" group-title="Arabic",AR | OSN History Channel HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11842.ts
+#EXTINF:-1 tvg-ID="OSN Movies Kids HD" tvg-name="AR | OSN Kid Zone TV HD AE" tvg-logo="https://i.ytimg.com/vi/A634_yKYZkc/hqdefault.jpg" group-title="Arabic",AR | OSN Kid Zone TV HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11841.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | OSN MTV Live HD AE" tvg-logo="" group-title="Arabic",AR | OSN MTV Live HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11828.ts
+#EXTINF:-1 tvg-ID="OSN Movies HD+2" tvg-name="AR | OSN Movies 2 HD AE" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1210_1.png" group-title="Arabic",AR | OSN Movies 2 HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11840.ts
+#EXTINF:-1 tvg-ID="OSN Movies Action+2" tvg-name="AR | OSN Movies Action 2 HD AE" tvg-logo="http://content.osn.com/logo/channel/500x300/OMA.jpg" group-title="Arabic",AR | OSN Movies Action 2 HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11838.ts
+#EXTINF:-1 tvg-ID="OSN Movies Action HD" tvg-name="AR | OSN Movies Action HD AE" tvg-logo="" group-title="Arabic",AR | OSN Movies Action HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11839.ts
+#EXTINF:-1 tvg-ID="OSNMoviesFamily.ae" tvg-name="AR | OSN Movies Family HD AE" tvg-logo="http://static.iptv-epg.com/ae/OSNMoviesFamily.ae.png" group-title="Arabic",AR | OSN Movies Family HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11836.ts
+#EXTINF:-1 tvg-ID="OSNMoviesFestival.ae" tvg-name="AR | OSN Movies Festival HD AE" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1249_1.png" group-title="Arabic",AR | OSN Movies Festival HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11835.ts
+#EXTINF:-1 tvg-ID="OSNFirst.ae" tvg-name="AR | OSN Movies First HD AE" tvg-logo="http://static.iptv-epg.com/ae/OSNFirst.ae.png" group-title="Arabic",AR | OSN Movies First HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11834.ts
+#EXTINF:-1 tvg-ID="OSNMovies.ae" tvg-name="AR | OSN Movies HD AE" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1209_1.png" group-title="Arabic",AR | OSN Movies HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11832.ts
+#EXTINF:-1 tvg-ID="OSNMoviesKids.ae" tvg-name="AR | OSN Movies Kids HD AE*" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1232_1.png" group-title="Arabic",AR | OSN Movies Kids HD AE*
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11831.ts
+#EXTINF:-1 tvg-ID="OSN Movies Premiere HD" tvg-name="AR | OSN Movies Premiere HD AE" tvg-logo="https://ulango.tv/uploads/channels/63168/logo_osn%20movies%20premiere.png" group-title="Arabic",AR | OSN Movies Premiere HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11830.ts
+#EXTINF:-1 tvg-ID="Nat Geo HD" tvg-name="AR | OSN Nat Geo HD AE" tvg-logo="http://www.pushthatpixel.com/attachments/Image/www.pushthatpixel.com__public_html_various_logos_/National_Geographic_HD_Logo.jpg" group-title="Arabic",AR | OSN Nat Geo HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11827.ts
+#EXTINF:-1 tvg-ID="Nat Geo People HD" tvg-name="AR | OSN Nat Geo People HD AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Arabic",AR | OSN Nat Geo People HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11826.ts
+#EXTINF:-1 tvg-ID="Nat Geo Wild HD" tvg-name="AR | OSN Nat Geo Wild HD AE*" tvg-logo="http://www.cns.net.tw/web/upload/20141016175636PnpBcsn.png" group-title="Arabic",AR | OSN Nat Geo Wild HD AE*
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11825.ts
+#EXTINF:-1 tvg-ID="OSN News" tvg-name="AR | OSN News HD AE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/OSN_News.png" group-title="Arabic",AR | OSN News HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11824.ts
+#EXTINF:-1 tvg-ID="Nickelodeon HD" tvg-name="AR | OSN Nickelodeon HD AE" tvg-logo="http://content.osn.com/logo/channel/500x300/NIC.jpg" group-title="Arabic",AR | OSN Nickelodeon HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11822.ts
+#EXTINF:-1 tvg-ID="OSN First HD" tvg-name="AR | OSN Series First HD AE" tvg-logo="http://static.iptv-epg.com/ae/OSNSeriesFirst.ae.png" group-title="Arabic",AR | OSN Series First HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11812.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | OSN Series HD AE" tvg-logo="" group-title="Arabic",AR | OSN Series HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11811.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | OSN Sports 1 HD AE" tvg-logo="" group-title="Arabic",AR | OSN Sports 1 HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11810.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | OSN Sports 2 HD AE" tvg-logo="" group-title="Arabic",AR | OSN Sports 2 HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11809.ts
+#EXTINF:-1 tvg-ID="OSN Sports 3 HD" tvg-name="AR | OSN Sports 3 HD AE*" tvg-logo="http://content.osn.com/logo/channel/165x120/SP3.png" group-title="Arabic",AR | OSN Sports 3 HD AE*
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11808.ts
+#EXTINF:-1 tvg-ID="OSNSports4.ae" tvg-name="AR | OSN Sports 4 HD" tvg-logo="http://www.goalzz.com/images/amir_ganjvar/osnsports4hd.jpg" group-title="Arabic",AR | OSN Sports 4 HD
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11807.ts
+#EXTINF:-1 tvg-ID="OSNSportsCricket.ae" tvg-name="AR | OSN Sports Cricket HD AE" tvg-logo="https://i.pinimg.com/originals/dc/50/11/dc501173d807d432e67647cdcedfda9d.jpg" group-title="Arabic",AR | OSN Sports Cricket HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11804.ts
+#EXTINF:-1 tvg-ID="Star Movies HD" tvg-name="AR | OSN Star Movies HD AE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/200px-STAR_Movies_logo.svg.png" group-title="Arabic",AR | OSN Star Movies HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11803.ts
+#EXTINF:-1 tvg-ID="Star World HD" tvg-name="AR | OSN Star World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/STAR_World_2013.png/200px-STAR_World_2013.png" group-title="Arabic",AR | OSN Star World HD
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11802.ts
+#EXTINF:-1 tvg-ID="Syfy HD" tvg-name="AR | OSN Syfy HD AE" tvg-logo="http://content.osn.com/logo/channel/cropped/SFY.png" group-title="Arabic",AR | OSN Syfy HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11800.ts
+#EXTINF:-1 tvg-ID="TLC HD" tvg-name="AR | OSN TLC HD AE" tvg-logo="http://content.osn.com/bob/172x229/TLC.jpg" group-title="Arabic",AR | OSN TLC HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11799.ts
+#EXTINF:-1 tvg-ID="OSNWWENetwork.ae" tvg-name="AR | OSN WWE HD AE" tvg-logo="http://www.canliturktv.com/ae/OSNWWENetwork.ae.png" group-title="Arabic",AR | OSN WWE HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11795.ts
+#EXTINF:-1 tvg-ID="OSNYahala.ae" tvg-name="AR | OSN Ya Hala HD AE" tvg-logo="http://ulango.tv/uploads/channels/3780295/logo_osn%20yahala%20cinema.png" group-title="Arabic",AR | OSN Ya Hala HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11794.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | OSN Ya Hala Oula 2 HD AE" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1251_1.png" group-title="Arabic",AR | OSN Ya Hala Oula 2 HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11792.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | OSN Ya Hala Oula HD AE" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1250_1.png" group-title="Arabic",AR | OSN Ya Hala Oula HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11793.ts
+#EXTINF:-1 tvg-ID="OSN Yahala Cinema HD" tvg-name="AR | OSN Yahala Cinema HD AE*" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1285_1.png" group-title="Arabic",AR | OSN Yahala Cinema HD AE*
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11791.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Oman Documentary HD OM" tvg-logo="" group-title="Arabic",AR | Oman Documentary HD OM
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11674.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Oman Sports HD OM" tvg-logo="" group-title="Arabic",AR | Oman Sports HD OM
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11469.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Oman TV HD OM" tvg-logo="" group-title="Arabic",AR | Oman TV HD OM
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11468.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Palestine Ma3a PS" tvg-logo="" group-title="Arabic",AR | Palestine Ma3a PS
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11484.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Palestine Today PS" tvg-logo="" group-title="Arabic",AR | Palestine Today PS
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11485.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Roya TV HD JOR" tvg-logo="" group-title="Arabic",AR | Roya TV HD JOR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11721.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Sama Dubai HD AE" tvg-logo="" group-title="Arabic",AR | Sama Dubai HD AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11706.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Saudi 1 HD SA" tvg-logo="" group-title="Arabic",AR | Saudi 1 HD SA
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11701.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Saudi 2 HD SA" tvg-logo="" group-title="Arabic",AR | Saudi 2 HD SA
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11700.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Saudi Quran TV SA" tvg-logo="" group-title="Arabic",AR | Saudi Quran TV SA
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11702.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Shabab TV IRQ" tvg-logo="" group-title="Arabic",AR | Shabab TV IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11497.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Sharqiya News IRQ" tvg-logo="" group-title="Arabic",AR | Sharqiya News IRQ
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11496.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Shatharat AR" tvg-logo="" group-title="Arabic",AR | Shatharat AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11488.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Sky News Arabia HD AR" tvg-logo="" group-title="Arabic",AR | Sky News Arabia HD AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11675.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | TRT Arabic HD AR" tvg-logo="" group-title="Arabic",AR | TRT Arabic HD AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11723.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Toyor baby AR" tvg-logo="" group-title="Arabic",AR | Toyor baby AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11699.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Toyour Al Jannah AR" tvg-logo="" group-title="Arabic",AR | Toyour Al Jannah AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11698.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | Wanasah AE" tvg-logo="" group-title="Arabic",AR | Wanasah AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11686.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | YAS Sports AE" tvg-logo="" group-title="Arabic",AR | YAS Sports AE
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11685.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | beIN DREAMWORKS HD AR" tvg-logo="" group-title="Arabic",AR | beIN DREAMWORKS HD AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11883.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | beIN FATAFEAT HD AR" tvg-logo="" group-title="Arabic",AR | beIN FATAFEAT HD AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11882.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | beIN Fox Action Moveis HD AR" tvg-logo="" group-title="Arabic",AR | beIN Fox Action Moveis HD AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11885.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | beIN GOURMET HD AR" tvg-logo="" group-title="Arabic",AR | beIN GOURMET HD AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11881.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | beIN JEEM HD AR" tvg-logo="" group-title="Arabic",AR | beIN JEEM HD AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11880.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | beIN JUNIOR HD AR" tvg-logo="" group-title="Arabic",AR | beIN JUNIOR HD AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11879.ts
+#EXTINF:-1 tvg-ID="beINMovies1.qa" tvg-name="AR | beIN Movies 1 HD QA" tvg-logo="http://www.tvchannel.biz/wp-content/uploads/2016/10/beinmovies1.jpg" group-title="Arabic",AR | beIN Movies 1 HD QA
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11878.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | beIN Movies 2 HD QA" tvg-logo="" group-title="Arabic",AR | beIN Movies 2 HD QA
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11877.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | beIN Movies 3 HD QA" tvg-logo="" group-title="Arabic",AR | beIN Movies 3 HD QA
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11876.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | beIN Movies 4 HD QA" tvg-logo="" group-title="Arabic",AR | beIN Movies 4 HD QA
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11875.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR | beIN SERIES HD AR" tvg-logo="" group-title="Arabic",AR | beIN SERIES HD AR
+http://iptv-area-51.tv:2095/live/dillpickel/dillon/11886.ts
 
 
 
@@ -2522,199 +2549,6 @@ http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/19970.ts
 http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/19969.ts
 #EXTINF:-1,Music choice pop & counrty 9Direct)
 http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/19980.ts
-
-
-#EXTINF:-1,###############  PORTUGAL  ####################
-#EXTINF:-1,PT: AR TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33309.ts
-#EXTINF:-1,PT: ARROIOS TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33305.ts
-#EXTINF:-1,PT: AXN Black HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33409.ts
-#EXTINF:-1,PT: AXN HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33418.ts
-#EXTINF:-1,PT: Abola TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33520.ts
-#EXTINF:-1,PT: BENFITV 1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33517.ts
-#EXTINF:-1,PT: BIGGS
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33454.ts
-#EXTINF:-1,PT: CANAL HISTORIA
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33376.ts
-#EXTINF:-1,PT: CANAL PANDA
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33516.ts
-#EXTINF:-1,PT: CANAL PORTO
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33515.ts
-#EXTINF:-1,PT: CANCAO NOVA
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33310.ts
-#EXTINF:-1,PT: CAZA y PESCA
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33524.ts
-#EXTINF:-1,PT: CBSN
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33302.ts
-#EXTINF:-1,PT: CINE MUNDO 1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33349.ts
-#EXTINF:-1,PT: CNBC
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33303.ts
-#EXTINF:-1,PT: CRIME INVESTIGATION
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33333.ts
-#EXTINF:-1,PT: Ca& Pesca
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33343.ts
-#EXTINF:-1,PT: Canal Q
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33387.ts
-#EXTINF:-1,PT: DISCOVERY HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33348.ts
-#EXTINF:-1,PT: DISCOVERY SHOWCASE HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33450.ts
-#EXTINF:-1,PT: DISNEY JUNIOR
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33511.ts
-#EXTINF:-1,PT: E! Entertainment
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33371.ts
-#EXTINF:-1,PT: ENTERTAINMENT
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33453.ts
-#EXTINF:-1,PT: EUROSPORT 1 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33397.ts
-#EXTINF:-1,PT: Euronews
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33466.ts
-#EXTINF:-1,PT: FASHION TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33317.ts
-#EXTINF:-1,PT: FOX CRIME
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33510.ts
-#EXTINF:-1,PT: FOX MOVIES
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33523.ts
-#EXTINF:-1,PT: FOX NEWS HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33331.ts
-#EXTINF:-1,PT: FUEL TV HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33447.ts
-#EXTINF:-1,PT: Fox HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33410.ts
-#EXTINF:-1,PT: HOLLYWOOD HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33419.ts
-#EXTINF:-1,PT: Hollywood
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33508.ts
-#EXTINF:-1,PT: JIM JAM
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33507.ts
-#EXTINF:-1,PT: KOMBAT SPORT
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33330.ts
-#EXTINF:-1,PT: Kombat Sports
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33449.ts
-#EXTINF:-1,PT: MACAU TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33312.ts
-#EXTINF:-1,PT: MCM TOP
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33329.ts
-#EXTINF:-1,PT: MEZZO
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33298.ts
-#EXTINF:-1,PT: MEZZO LIVE HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33299.ts
-#EXTINF:-1,PT: MOTOR TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33506.ts
-#EXTINF:-1,PT: MOV HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33420.ts
-#EXTINF:-1,PT: MTV DANCE
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33373.ts
-#EXTINF:-1,PT: MTV HITS
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33308.ts
-#EXTINF:-1,PT: MTV ROCKS
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33307.ts
-#EXTINF:-1,PT: NAT GEO Wild HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33462.ts
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33319.ts
-#EXTINF:-1,PT: NFL NOW
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33328.ts
-#EXTINF:-1,PT: NGC HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33324.ts
-#EXTINF:-1,PT: NRJ HITS TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33327.ts
-#EXTINF:-1,PT: Nickelodeon
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33427.ts
-#EXTINF:-1,PT: ODISSEIA
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33522.ts
-#EXTINF:-1,PT: OUTDOOR CHANNEL
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33316.ts
-#EXTINF:-1,PT: PANDA
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33320.ts
-#EXTINF:-1,PT: PFC HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33442.ts
-#EXTINF:-1,PT: RTP 1 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33401.ts
-#EXTINF:-1,PT: RTP 2
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33503.ts
-#EXTINF:-1,PT: RTP 2 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33402.ts
-#EXTINF:-1,PT: RTP 3 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33403.ts
-#EXTINF:-1,PT: RTP A
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33407.ts
-#EXTINF:-1,PT: RTP ACORES
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33502.ts
-#EXTINF:-1,PT: RTP INTERNACIONAL
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33340.ts
-#EXTINF:-1,PT: RTP MADEIRA
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33501.ts
-#EXTINF:-1,PT: RTP MEMORIA
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33500.ts
-#EXTINF:-1,PT: Real Madrid TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33396.ts
-#EXTINF:-1,PT: SANTUARIO DE FATIMA
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33363.ts
-#EXTINF:-1,PT: SIC CARAS
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33499.ts
-#EXTINF:-1,PT: SIC HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/34970.ts
-#EXTINF:-1,PT: SIC KIDS
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33498.ts
-#EXTINF:-1,PT: SIC MULHER
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33497.ts
-#EXTINF:-1,PT: SIC NOTICIAS
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33496.ts
-#EXTINF:-1,PT: SIC RADICAL
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33495.ts
-#EXTINF:-1,PT: SIC Radical HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33433.ts
-#EXTINF:-1,PT: SKY NEWS
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33300.ts
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33525.ts
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33526.ts
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33527.ts
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33528.ts
-#EXTINF:-1,PT: SPORT TV 5
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33493.ts
-#EXTINF:-1,PT: SUNDANCE TV HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33325.ts
-#EXTINF:-1,PT: SYFY
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33492.ts
-#EXTINF:-1,PT: TRACE URBAN
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33304.ts
-#EXTINF:-1,PT: TV GLOBO
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33321.ts
-#EXTINF:-1,PT: TV Record
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33408.ts
-#EXTINF:-1,PT: TVCINE 1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33491.ts
-#EXTINF:-1,PT: TVCINE 2
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33490.ts
-#EXTINF:-1,PT: TVCINE 3
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33489.ts
-#EXTINF:-1,PT: TVCINE 4
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33488.ts
-#EXTINF:-1,PT: TVI
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33487.ts
-#EXTINF:-1,PT: TVI FIC
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33351.ts
-#EXTINF:-1,PT: TVI FICCAO
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33486.ts
-#EXTINF:-1,PT: TVI HD
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33459.ts
-#EXTINF:-1,PT: Toros TV
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33378.ts
-#EXTINF:-1,PT: VH1
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33472.ts
-#EXTINF:-1,PT: WOOHOO
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/33471.ts
 
 
 #EXTINF:-1,###############  UK  ####################
@@ -4038,19 +3872,13 @@ http://tekoiptv.ch:8000/live/Buritv/Z5bQ7LCyZn/631.ts
 http://tekoiptv.ch:8000/live/Buritv/Z5bQ7LCyZn/1657.ts
 #EXTINF:-1,Beatz HD 
 http://beats.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8
-#EXTINF:-1,AF: RTS 1
-http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/3243.ts
 #EXTINF:-1,AF: ORTM
 http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/3242.ts
-#EXTINF:-1,AF: TFM Senegal
-http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/3241.ts
 #EXTINF:-1,NRJ HITS
 http://5.196.138.6:1935/live/nrjbelgique/master.m3u8
 
 #EXTINF:-1,tvg-id=sport2S
 http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4450.ts
-#EXTINF:-1,Gong Base
-http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 #EXTINF:-1,AFRIQUE MEDIA
 https://stream-09.dc3.dailymotion.com/dm/3/x5dk3kj/live-3.m3u8
 #EXTINF:-1,TFM
@@ -4069,7 +3897,7 @@ http://162.212.178.131:1935/Livemouridetv/mouridetv/chunklist_w1739364370.m3u8
 rtmp://diaspora24.tv/diaspora24tv//diaspora24
 https://stream-04.dc3.dailymotion.com/dm/3/x6cq41k/live-1.m3u8
 #EXTINF:-1,RTS 1
-http://dani.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/3243.ts
+http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/3243.ts
 #EXTINF:-1,2STV (Senegal)
 http://dani.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/14833.ts
 #EXTINF:-1,DBM
@@ -4078,6 +3906,10 @@ https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist_w300555392.m3u8
 http://ample-zeno-11.radiojar.com/00vvab3xf6vtv?rj-ttl=5&rj-token=AAABZmATTTlsF8wrM_z3Th5lcCeZNheifw295vPPw84iEyzRjEZmdA
 #EXTINF:-1,AF: A2i TV
 http://162.212.178.131:1935/live/Ai2tv/chunklist_w166709358.m3u8
+#EXTINF:-1,AF: A2i
+http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/10775.ts
+#EXTINF:-1,Sentv
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4719.ts
 #EXTINF:-1,Movie/ Music
 http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4603.ts
 #EXTINF:-1,AfriCable
@@ -4085,7 +3917,7 @@ http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4462.ts
 #EXTINF:-1,Novelas
 http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4441.ts
 #EXTINF:-1,TFM AF
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4434.ts
+http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/3241.ts
 #EXTINF:-1,Mourchid TV Senegal
 http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4707.ts
 #EXTINF:-1,Lamp Fall
@@ -4096,6 +3928,8 @@ http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4435.ts
 https://stream-09.ix7.dailymotion.com/dm/3/x6cq41k/live-1.m3u8
 
 #EXTINF:-1,==NIGERIA==
+#EXTINF:-1,AF: Channels 24
+http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/14838.ts
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/a-/ACSszfGv1CpE0Ech5Ey8Y9f9zz7FjgHjWyl3Xh5UkA=s48-mo-c-c0xffffffff-rj-k-no" group-title="NIGERIA", TVC
 http://185.105.4.188:1935/tvce/myStream/chunklist_w1712150788.m3u8
 #EXTINF:-1,tvg-logo="http://www.iafrica.tv/ics/uploads/NTAi248x2351.png" group-title="NIGERIA", NTAi
@@ -4107,7 +3941,7 @@ http://bentv.ashttp9.visionip.tv/live/bentv-bentv-bentv-hsslive-25f-4X3-SD/chunk
 #EXTINF:-1,tvg-logo="http://itvradioNIGERIA.com/ng/wp-content/uploads/2013/11/itv-benin.png" group-title="NIGERIA",ITV BENIN
 http://flash.netcasterusa.com:1935/itvlive/itvlive/chunklist_w1848631395.m3u8
 #EXTINF:-1,tvg-logo="http://www.aitonline.tv/images/logo.png" group-title="NIGERIA",AIT NEWS
-https://5a82fcf363895.streamlock.net:4443/SUNS7048CBHeprJBKySJ/smil:SMILNOAO_7048CBHeprJBKySJ.smil/chunklist_w181320758_b500000_t64SGlnaCBRdWFsaXR5.m3u8
+http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/3345.ts
 #EXTINF:-1,tvg-logo="https://www.channelstv.com/wp-content/themes/channels2016/channels-logo.png" group-title="NIGERIA",CHANNELS
 http://edge1.cdn.tvnow.ids-africa.com/mchannels/channelstv_hi.m3u8
 #EXTINF:-1,tvg-id="Lagos television" group-title="NIGERIA",Lagos television
@@ -4159,7 +3993,7 @@ http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/10776.ts
 http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/10774.ts
 #EXTINF:-1,AF: TVC NEWS
 http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/10777.ts
-#EXTINF:-1,AF: VOX  AFRICA
+#EXTINF:-1,AF: A2i
 http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/10775.ts
 #EXTINF:-1,AF: 2STV (Senegal)
 http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/14833.ts
@@ -4390,7 +4224,7 @@ http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4629.ts
 http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/6191.ts
 #EXTINF:-1,TBN TV AF
 http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4630.ts
-#EXTINF:-1,TFC AF
+#EXTINF:-1,AFRO MUSIC
 http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4695.ts
 #EXTINF:-1,TFM AF
 http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4434.ts
@@ -4458,6 +4292,8 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
 
 #EXTINF:-1,tvg-id="TRACE AFRICA" group-title="MUSIQ AFRICA", TRACE AFRICA
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF: -1,TRACE Tropical group-title="MUSIQ AFRICA", TRACE AFRICA
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8 
 #EXTINF:-1,tvg-id="Afro Music" group-title="MUSIQ AFRICA", Afro Music
 http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4610.ts
 
@@ -4487,36 +4323,19 @@ http://uni8rtmp.tulix.tv/ghanaglobal/ghanaglobal/chunklist_w654362398.m3u8
 #EXTINF:-1,tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3781500_logo_ziz_tv_saint_kitts_and_nevis.png" group-title="MOVIE AFRICA", ZIZ TV
 http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
 
-#EXTINF:-1,tvg-id="NEWS CHANNEL" group-title="NEWS CHANNEL",=== NEWS CHANNEL ===#EXTINF:-1,UK: BBC News HD
+#EXTINF:-1,tvg-id="NEWS CHANNEL" group-title="NEWS CHANNEL",=== NEWS CHANNEL ===
+#EXTINF:-1,UK: BBC News HD
 http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/6377.ts
 #EXTINF:-1,UK: CNN
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/6371.ts
+http://ott-cdn.ucom.am/s27/index.m3u8
 #EXTINF:-1,UK: CNN FHD
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/11564.ts
+http://80.87.208.158:80/dna-133-tv-pc/hls/1102v2213.m3u8
 #EXTINF:-1,UK: Euronews
 http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/11563.ts
-#EXTINF:-1,UK: Sky News HD
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/6375.ts
-#EXTINF:-1,US: CNBC
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/16634.ts
-#EXTINF:-1,US: CNN
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/16633.ts
-#EXTINF:-1,US: Weather Channel*
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/16631.ts
 #EXTINF:-1,US: ABC News
 http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/16630.ts
 #EXTINF:-1,US: Bloomberg HD*
 http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/16628.ts
-#EXTINF:-1,US: C-Span 1
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/16627.ts
-#EXTINF:-1,US: C-Span 2
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/16626.ts
-#EXTINF:-1,US: C-Span 3
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/16625.ts
-#EXTINF:-1,US: CBSN News
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/16623.ts
-#EXTINF:-1,US: CBC News
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/16624.ts
 #EXTINF:-1,US: Fox News HD
 http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/16622.ts
 #EXTINF:-1,US: MSNBC News
