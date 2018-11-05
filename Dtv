@@ -38,6 +38,51 @@ http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/2805.ts
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="««------SKY SPORTS------»»" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Sky_Sports_logo_2017.svg" group-title="SKY SPORTS",««------SKY SPORTS------»»
+
+#EXTINF:-1,IT : Premium Sport HD
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6937.ts
+#EXTINF:-1,IT | Premium Calcio
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6957.ts
+#EXTINF:-1,IT | Premium Calcio 1*
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6897.ts
+#EXTINF:-1,IT | Premium Calcio 2*
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6898.ts
+#EXTINF:-1,IT | Premium Calcio 3*
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6899.ts
+#EXTINF:-1,IT | Premium Calcio 4
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6900.ts
+#EXTINF:-1,IT | Premium Calcio 5*
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6901.ts
+#EXTINF:-1,IT | Sky Calcio 1
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6963.ts
+#EXTINF:-1,IT | Sky Calcio 2
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6964.ts
+#EXTINF:-1,IT | Sky Calcio 3
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6965.ts
+#EXTINF:-1,IT | Sky Calcio 4
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6966.ts
+#EXTINF:-1,IT | Sky Calcio 5
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6967.ts
+#EXTINF:-1,IT | Sky Calcio 6
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6968.ts
+#EXTINF:-1,IT | Sky Calcio 7
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6969.ts
+#EXTINF:-1,IT | Sky Moto GP HD
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6931.ts
+#EXTINF:-1,IT | Sky Sport 24 HD
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6932.ts
+#EXTINF:-1,IT | Sky Sport F1 HD
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6933.ts
+#EXTINF:-1,IT | Sky Sport1 HD
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6934.ts
+#EXTINF:-1,IT | Sky Sport2 HD
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6935.ts
+#EXTINF:-1,IT | Sky Sport3 HD
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6936.ts
+#EXTINF:-1,IT | SPORT ITALIA
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6976.ts
+#EXTINF:-1,IT | Supercalcio HD
+http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6977.ts
 #EXTINF:-1,Sky Sports News HD
 http://145.239.254.81:8080/live/russ/bq7DXClWnT/5055.ts
 #EXTINF:-1,Sky Sports Main Events HD
