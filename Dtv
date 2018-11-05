@@ -4185,8 +4185,8 @@ http://162.212.178.131:1935/EYESAFRICA/eyesafrica3/chunklist_w2022386435.m3u8
 http://162.212.178.131:1935/EYESAFRICA/eyesafrica2/chunklist_w241941449.m3u8
 #EXTINF:-1,EYE AFRICA 4 TV
 http://162.212.178.131:1935/EYESAFRICA/eyesafrica4/chunklist_w989197964.m3u8
-#EXTINF:-1,MAKKAH LIVE
-http://tekoiptv.ch:8000/live/Buritv/Z5bQ7LCyZn/631.ts
+#EXTINF:-1,Music Senegal
+http://rb-group-server.com:25461/live/myriam/123456/11506.ts
 #EXTINF:-1,RTV ISLAM
 http://tekoiptv.ch:8000/live/Buritv/Z5bQ7LCyZn/1657.ts
 #EXTINF:-1,Beatz HD 
@@ -4217,6 +4217,8 @@ rtmp://diaspora24.tv/diaspora24tv//diaspora24
 https://stream-04.dc3.dailymotion.com/dm/3/x6cq41k/live-1.m3u8
 #EXTINF:-1,RTS 1
 http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/3243.ts
+#EXTINF:-1,RTS 2
+http://rb-group-server.com:25461/live/myriam/123456/11511.ts
 #EXTINF:-1,2STV (Senegal)
 http://dani.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/14833.ts
 #EXTINF:-1,DBM
@@ -4625,7 +4627,7 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/9819.ts
 
 #EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="MOVIE AFRICA", ROK SD
-http://ipsatpro.biz:8080/live/tura/123456/983.ts
+http://rb-group-server.com:25461/live/myriam/123456/11548.ts
 #EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="MOVIE AFRICA", ROK ***
 http://dani.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/10774.ts
 
