@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1,tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783559_logo_bein_sport_91.png" group-title="BEINSPORTS", BEINSPORTS
 #EXTINF:-1 tvg-ID="beIN Sport 1 HD ARB" tvg-name="beIN SPORTS 1HD" tvg-logo="https://imgur.com/fo0WWnT.png" group-title="BEINSPORTS",beIN SPORT 1HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8934.ts
+http://redquality.sytes.net:8000/live/martagon/5AAKIIg3RY/17228.ts
 #EXTINF:-1 tvg-ID="beIN Sport 2 HD ARB" tvg-name="beIN SPORTS 2HD" tvg-logo="https://imgur.com/VS9WTSD.png" group-title="BEINSPORTS",beIN SPORTS 2HD
 http://145.239.254.81:8080/live/russ/bq7DXClWnT/8935.ts
 #EXTINF:-1 tvg-ID="beIN Sports 3 HD ARB" tvg-name="beIN SPORTS 3HD" tvg-logo="https://imgur.com/8FH6LF7.png" group-title="BEINSPORTS",beIN SPORTS 3HD
 http://145.239.254.81:8080/live/russ/bq7DXClWnT/8936.ts
 #EXTINF:-1 tvg-ID="beIN Sports 4 HD ARB" tvg-name="beIN SPORTS 4HD" tvg-logo="https://imgur.com/NwWQUgr.png" group-title="BEINSPORTS",beIN SPORTS 4HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8937.ts
+http://redquality.sytes.net:8000/live/martagon/5AAKIIg3RY/17230.ts
 #EXTINF:-1 tvg-ID="beIN Sports 5 HD ARB" tvg-name="beIN SPORTS 5HD" tvg-logo="https://imgur.com/6X0hJCU.png" group-title="BEINSPORTS",beIN SPORTS 5HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8938.ts
+http://redquality.sytes.net:8000/live/martagon/5AAKIIg3RY/17231.ts
 #EXTINF:-1 tvg-ID="beIN Sports 6 HD ARB" tvg-name="beIN SPORTS 6HD" tvg-logo="https://imgur.com/LxmecFV.png" group-title="BEINSPORTS",beIN SPORTS 6HD
 http://145.239.254.81:8080/live/russ/bq7DXClWnT/8939.ts
 #EXTINF:-1 tvg-ID="beIN Sports 7 HD ARB" tvg-name="beIN SPORTS 7HD" tvg-logo="https://imgur.com/bYozrjv.png" group-title="BEINSPORTS",beIN SPORTS 7HD
 http://145.239.254.81:8080/live/russ/bq7DXClWnT/8940.ts
 #EXTINF:-1 tvg-ID="beIN Sports 8 HD ARB" tvg-name="beIN SPORTS 8HD" tvg-logo="https://imgur.com/j9kSK37.png" group-title="BEINSPORTS",beIN SPORTS 8HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/13.ts
+http://redquality.sytes.net:8000/live/martagon/5AAKIIg3RY/17232.ts
 #EXTINF:-1 tvg-ID="beIN Sports 9 HD ARB" tvg-name="beIN SPORTS 9HD" tvg-logo="https://imgur.com/I5GP1sD.png" group-title="BEINSPORTS",beIN SPORTS 9HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8989.ts
+http://redquality.sytes.net:8000/live/martagon/5AAKIIg3RY/17229.ts
 #EXTINF:-1 tvg-ID="beIN Sports 10 HD ARB" tvg-name="beIN SPORTS 10HD" tvg-logo="https://imgur.com/fodrra3.png" group-title="BEINSPORTS",beIN SPORTS 10HD
 http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11.ts
 #EXTINF:-1 tvg-ID="beIN Sports 11 HD ARB" tvg-name="beIN SPORTS 11HD" tvg-logo="https://imgur.com/KGegOMw.png" group-title="BEINSPORTS",beIN SPORTS 11HD
@@ -489,6 +489,88 @@ http://ott-cdn.ucom.am/s82/index.m3u8
 EXTINF:-1,Liga NoS
 http://ott-cdn.ucom.am/s41/index.m3u8
 
+#EXTINF:-1,Super Sport 1 HD
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/999.ts
+#EXTINF:-1,Super Sport 2 HD
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/998.ts
+#EXTINF:-1,Super Sport 3 HD
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/997.ts
+#EXTINF:-1,Super Sport 4 HD
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/996.ts
+#EXTINF:-1,Tring Sport 1 HD
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/1003.ts
+#EXTINF:-1,Tring Sport 2 HD
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/1002.ts
+#EXTINF:-1,Tring Sport 3 HD
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/1001.ts
+#EXTINF:-1,Tring Sport 4 HD
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/1000.ts
+#EXTINF:-1,Arena 1 HR
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/257.ts
+#EXTINF:-1,Arena 2 HR
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/256.ts
+#EXTINF:-1,Arena 3 HR
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/255.ts
+#EXTINF:-1,Arena 4 HR
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/254.ts
+#EXTINF:-1,Arena Sport 1
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/250.ts
+#EXTINF:-1,Arena Sport 2
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/251.ts
+#EXTINF:-1,Arena Sport 3
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/252.ts
+#EXTINF:-1,Arena Sport 4
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/253.ts
+#EXTINF:-1,Arena Sport 5
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/249.ts
+#EXTINF:-1,Sport Klub 1
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/232.ts
+#EXTINF:-1,Sport Klub 2
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/231.ts
+#EXTINF:-1,Sport Klub 3
+http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/230.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTES (ES)" tvg-logo="" group-title="SPAIN",TELEDEPORTES (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/732.ts
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID (ES)" tvg-logo="https://imgur.com/VtzOp88.png" group-title="SPAIN",REAL MADRID (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/733.ts
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV (ES)" tvg-logo="https://imgur.com/U8oG2uW.png" group-title="SPAIN",BARCA TV (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/734.ts
+#EXTINF:-1 tvg-id="" tvg-name="MULTIFUTBOLL 3 (ES)" tvg-logo="https://imgur.com/Dv6t3IF.png" group-title="SPAIN",MULTIFUTBOLL 3 (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/736.ts
+#EXTINF:-1 tvg-id="" tvg-name="MULTIFUTBOLL 2 (ES)" tvg-logo="" group-title="SPAIN",MULTIFUTBOLL 2 (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/737.ts
+#EXTINF:-1 tvg-id="" tvg-name="MULTIFUTBOLL 1 (ES)" tvg-logo="" group-title="SPAIN",MULTIFUTBOLL 1 (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/738.ts
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTES 3 (ES)" tvg-logo="" group-title="SPAIN",MULTIDEPORTES 3 (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/739.ts
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTES 2 (ES)" tvg-logo="" group-title="SPAIN",MULTIDEPORTES 2 (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/740.ts
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTES 1 (ES)" tvg-logo="" group-title="SPAIN",MULTIDEPORTES 1 (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/741.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 2 HD (ES)" tvg-logo="https://imgur.com/biemqfL.png" group-title="SPAIN",BEIN MAX 2 HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/743.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 1 HD (ES)" tvg-logo="" group-title="SPAIN",BEIN MAX 1 HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/744.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA TV 3 (ES)" tvg-logo="" group-title="SPAIN",BEIN LA LIGA TV 3 (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/745.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA TV 2 (ES)" tvg-logo="" group-title="SPAIN",BEIN LA LIGA TV 2 (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/746.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA TV 1 (ES)" tvg-logo="" group-title="SPAIN",BEIN LA LIGA TV 1 (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/747.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 (ES)" tvg-logo="https://imgur.com/mdvvE1B.png" group-title="SPAIN",Eurosport 2 (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/748.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD (ES)" tvg-logo="https://imgur.com/K6OreiH.png" group-title="SPAIN",Eurosport 1 HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/749.ts
+#EXTINF:-1 tvg-id="" tvg-name="M.GOLF HD (ES)" tvg-logo="" group-title="SPAIN",M.GOLF HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/750.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV (ES)" tvg-logo="https://imgur.com/Uwh6pFm.png" group-title="SPAIN",GOL TV (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/751.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR (ES)" tvg-logo="" group-title="SPAIN",LA LIGA TV BAR (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Futbol HD (ES)" tvg-logo="" group-title="SPAIN",Movistar Futbol HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.ts
+
 #EXTINF:-1,SEVEN - Adelaide AU
 http://thepk.co:2086/damonkem/hKcA2543ra/7550
 #EXTINF:-1,SEVEN - Brisbane AU
@@ -499,20 +581,6 @@ http://thepk.co:2086/damonkem/hKcA2543ra/7548
 http://thepk.co:2086/damonkem/hKcA2543ra/7547
 #EXTINF:-1,SEVEN - Sydney AU
 http://thepk.co:2086/damonkem/hKcA2543ra/7546
-#EXTINF:-1,SCI-FI 4U USA
-http://thepk.co:2086/damonkem/hKcA2543ra/15534
-#EXTINF:-1,SHOWTIME 2 USA
-http://thepk.co:2086/damonkem/hKcA2543ra/331
-#EXTINF:-1,SHOWTIME BEYOND USA
-http://thepk.co:2086/damonkem/hKcA2543ra/1603
-#EXTINF:-1,SHOWTIME EXTREME USA
-http://thepk.co:2086/damonkem/hKcA2543ra/8843
-#EXTINF:-1,SHOWTIME SHOWCASE USA
-http://thepk.co:2086/damonkem/hKcA2543ra/1604
-#EXTINF:-1,SHOWTIME WEST USA
-http://thepk.co:2086/damonkem/hKcA2543ra/8842
-#EXTINF:-1,SHOWTIME EAST USA
-http://thepk.co:2086/damonkem/hKcA2543ra/332
 #EXTINF:-1,LA LIGA TV (English) UK
 http://thepk.co:2086/damonkem/hKcA2543ra/17074
 #EXTINF:-1,RACING UK
@@ -545,6 +613,8 @@ EXTINF:-1,Sky Sports Box Office
 http://iptv-area-51.tv:2095/live/bvd202004/z416wLY5fb/12064.ts
 EXTINF:-1,Sky Super Calcio
 http://redquality.sytes.net:8000/live/martagon/5AAKIIg3RY/17319.ts
+
+
 
 
 #EXTINF:-1,Polsat Sport Premium 1 FHD VIP PL
@@ -2969,6 +3039,10 @@ http://145.239.254.81:8080/live/russ/bq7DXClWnT/4994.ts
                 
 
 #EXTINF:-1,###############  xxx  ###################
+(18+Only)",xxx | SC Strip Club Dressing Room HD
+https://5964ed3e60741.streamlock.net/2001edge/2001DR_RTSP.stream/.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="xxx | Studio66 Live Cam 1" tvg-logo="https://www.satlogo.com/hires/ss/studio_66_tv_uk.png" group-title="xxx (18+Only)",xxx | Studio66 Live Cam 1
+https://5964ed3e60741.streamlock.net/2001edge/2001MS_RTSP.stream/.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="xxx | Babestation" tvg-logo="https://68.media.tumblr.com/avatar_2538a1e76608_128.png" group-title="xxx (18+Only)",xxx | Babestation
 http://iptv-area-51.tv:2095/live/bvd202004/z416wLY5fb/7635.ts
 #EXTINF:-1 tvg-ID="" tvg-name="xxx | Brazzers" tvg-logo="" group-title="xxx (18+Only)",xxx | Brazzers
@@ -3011,10 +3085,7 @@ http://iptv-area-51.tv:2095/live/bvd202004/z416wLY5fb/6299.ts
 http://iptv-area-51.tv:2095/live/bvd202004/z416wLY5fb/12038.ts
 #EXTINF:-1 tvg-ID="" tvg-name="xxx | SC Strip Club Main Stage HD" tvg-logo="https://openclipart.org/image/2400px/svg_to_png/8802/momoko-Silhouette-of-Stripper-on-a-Pole.png" group-title="xxx (18+Only)",xxx | SC Strip Club Main Stage HD
 http://iptv-area-51.tv:2095/live/bvd202004/z416wLY5fb/4095.ts
-#EXTINF:-1 tvg-ID="" tvg-name="xxx | SC Strip Club Dressing Room HD" tvg-logo="https://openclipart.org/image/2400px/svg_to_png/8802/momoko-Silhouette-of-Stripper-on-a-Pole.png" group-title="xxx (18+Only)",xxx | SC Strip Club Dressing Room HD
-http://iptv-area-51.tv:2095/live/bvd202004/z416wLY5fb/4094.ts
-#EXTINF:-1 tvg-ID="" tvg-name="xxx | Studio66 Live Cam 1" tvg-logo="https://www.satlogo.com/hires/ss/studio_66_tv_uk.png" group-title="xxx (18+Only)",xxx | Studio66 Live Cam 1
-http://iptv-area-51.tv:2095/live/bvd202004/z416wLY5fb/12523.ts
+#EXTINF:-1 tvg-ID="" tvg-name="xxx | SC Strip Club Dressing Room HD" tvg-logo="https://openclipart.org/image/2400px/svg_to_png/8802/momoko-Silhouette-of-Stripper-on-a-Pole.png" group-title="xxx 
 #EXTINF:-1 tvg-ID="" tvg-name="xxx |  young girls" tvg-logo="https://68.media.tumblr.com/avatar_2538a1e76608_128.png" group-title="xxx (18+Only)",xxx |  young girls
 http://iptv-area-51.tv:2095/live/bvd202004/z416wLY5fb/7703.ts
 
@@ -3236,287 +3307,287 @@ http://194.116.78.102:1935/webtv_live4/_definst_/9UXJ2BJMTMNR/playlist.m3u8
 #EXTINF:-1 ,SportItalia
 http://l1tvlive1-lh.akamaihd.net/i/p-2786_u-_l-2786_hls_a-_c-DE_e-885278_i-5484528720171217122906_k-_q-_t-hds/sportitalia247_1@5383/index_1200_av-p.m3u8
 #EXTINF:-1,Discovery Channel HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1276.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1276.ts
 #EXTINF:-1,Discovery Science HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1277.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1277.ts
 #EXTINF:-1,Discovery Travel & Living HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1278.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1278.ts
 #EXTINF:-1,Disney Channel HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5185.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5185.ts
 #EXTINF:-1,Disney XD HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5181.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5181.ts
 #EXTINF:-1,Disney Junior IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5184.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5184.ts
 #EXTINF:-1,Dmax IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1274.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1274.ts
 #EXTINF:-1,Euronews IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5194.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5194.ts
 #EXTINF:-1,EuroSport 1 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1260.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1260.ts
 #EXTINF:-1,EuroSport 2 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1259.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1259.ts
 #EXTINF:-1,Fine Living IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5220.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5220.ts
 #EXTINF:-1,Frisbee IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5180.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5180.ts
 #EXTINF:-1,Focus IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1273.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1273.ts
 #EXTINF:-1,Fox Animation HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1287.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1287.ts
 #EXTINF:-1,Fox HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1290.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1290.ts
 #EXTINF:-1,Fox Comedy HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1288.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1288.ts
 #EXTINF:-1,Fox Crime HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1289.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1289.ts
 #EXTINF:-1,Fox Life +1 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1285.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1285.ts
 #EXTINF:-1,Fox Life HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1286.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1286.ts
 #EXTINF:-1,Gambero Rosso HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1272.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1272.ts
 #EXTINF:-1,History HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1275.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1275.ts
 #EXTINF:-1,Investigation Discovery IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5200.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5200.ts
 #EXTINF:-1,Inter Channel IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/329.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/329.ts
 #EXTINF:-1,Iris IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5233.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5233.ts
 #EXTINF:-1,Italia 2 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/328.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/328.ts
 #EXTINF:-1,Italia Uno IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/327.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/327.ts
 #EXTINF:-1,Italian Fishing IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1251.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1251.ts
 #EXTINF:-1,K2 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5179.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5179.ts
 #EXTINF:-1,La 5 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5232.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5232.ts
 #EXTINF:-1,La7 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5231.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5231.ts
 #EXTINF:-1,La7d HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5230.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5230.ts
 #EXTINF:-1,La 7D FHD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/6539.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/6539.ts
 #EXTINF:-1,Lazio Style Channel IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1258.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1258.ts
 #EXTINF:-1,M2O IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5177.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5177.ts
 #EXTINF:-1,m2otv IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/4045.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4045.ts
 #EXTINF:-1,Manga IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5182.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5182.ts
 #EXTINF:-1,Marco Polo IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5199.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5199.ts
 #EXTINF:-1,Milan Channel IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/326.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/326.ts
 #EXTINF:-1,Mediaset Extra IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5238.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5238.ts
 #EXTINF:-1,Nat Geo HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1280.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1280.ts
 #EXTINF:-1,Nat Geo People HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1281.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1281.ts
 #EXTINF:-1,Nat Geo Wild HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1279.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1279.ts
 #EXTINF:-1,Nick Junior IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5178.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5178.ts
 #EXTINF:-1,Paramount HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5218.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5218.ts
 #EXTINF:-1,Pese Caccia IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1253.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1253.ts
 #EXTINF:-1,Pescare e Cacciare IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1252.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1252.ts
 #EXTINF:-1,Premium Action HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1299.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1299.ts
 #EXTINF:-1,Premium Action +24 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1298.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1298.ts
 #EXTINF:-1,Premium Cinema +24 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1305.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1305.ts
 #EXTINF:-1,Premium Cinema 2 +24 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1303.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1303.ts
 #EXTINF:-1,Premium Cinema HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1306.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1306.ts
 #EXTINF:-1,Premium Cinema 2 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1304.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1304.ts
 #EXTINF:-1,Premium Cinema Comedy IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1302.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1302.ts
 #EXTINF:-1,Premium Cinema Energy IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1301.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1301.ts
 #EXTINF:-1,Premium Crime HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1294.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1294.ts
 #EXTINF:-1,Premium Crime +24 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1293.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1293.ts
 #EXTINF:-1,Premium Emotion IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1297.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1297.ts
 #EXTINF:-1,Premium Stories IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1295.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1295.ts
 #EXTINF:-1,Premium Joi IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1300.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1300.ts
 #EXTINF:-1,Premium Studio Universal IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1296.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1296.ts
 #EXTINF:-1,PrimaFila 1 HD 1080P
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/2195.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/2195.ts
 #EXTINF:-1,PrimaFila 2 HD 1080P
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/2194.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/2194.ts
 #EXTINF:-1,PrimaFila 3 HD 1080P
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/2193.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/2193.ts
 #EXTINF:-1,PrimaFila 4 HD 1080P
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/2192.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/2192.ts
 #EXTINF:-1,PrimaFila 5 HD 1080P
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/2191.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/2191.ts
 #EXTINF:-1,PrimaFila 6 HD 1080P
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/2190.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/2190.ts
 #EXTINF:-1,PrimaFila 7 HD 1080P
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/2189.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/2189.ts
 #EXTINF:-1,PrimaFila 8 HD 1080P
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/2188.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/2188.ts
 #EXTINF:-1,PrimaFila 9 HD 1080P
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/2187.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/2187.ts
 #EXTINF:-1,Radio Capital TV IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5175.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5175.ts
 #EXTINF:-1,Radio 105 TV IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5176.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5176.ts
 #EXTINF:-1,Radio Italia TV IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5174.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5174.ts
 #EXTINF:-1,Rai 1 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/325.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/325.ts
 #EXTINF:-1,Rai 2 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/324.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/324.ts
 #EXTINF:-1,Rai 3 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/323.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/323.ts
 #EXTINF:-1,Rai 4 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5240.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5240.ts
 #EXTINF:-1,Rai 5 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5239.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5239.ts
 #EXTINF:-1,Rai Gulp IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5191.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5191.ts
 #EXTINF:-1,Rai News 24 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5195.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5195.ts
 #EXTINF:-1,Rai Movie IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5237.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5237.ts
 #EXTINF:-1,Rai Premium IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5236.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5236.ts
 #EXTINF:-1,Rai Scuola IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5234.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5234.ts
 #EXTINF:-1,Rai Storia IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5235.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5235.ts
 #EXTINF:-1,Rai YoYo HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5190.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5190.ts
 #EXTINF:-1,Real Giallo IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1270.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1270.ts
 #EXTINF:-1,Real Time FHD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1283.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1283.ts
 #EXTINF:-1,Rete 4 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1314.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1314.ts
 #EXTINF:-1,Roma Channel IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1256.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1256.ts
 #EXTINF:-1,RSI La 1 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1313.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1313.ts
 #EXTINF:-1,RSI La 2 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1312.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1312.ts
 #EXTINF:-1,RTL 102.5 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5170.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5170.ts
 #EXTINF:-1,Sky 3D IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1307.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1307.ts
 #EXTINF:-1,Sky Arte HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5198.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5198.ts
 #EXTINF:-1,Sky Atlantic HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1291.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1291.ts
 #EXTINF:-1,Sky Cinema Uno HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/322.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/322.ts
 #EXTINF:-1,Sky Cinema +1 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1311.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1311.ts
 #EXTINF:-1,Sky Cinema +24 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1310.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1310.ts
 #EXTINF:-1,Sky Cinema Cult HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1309.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1309.ts
 #EXTINF:-1,Sky Cinema Classic HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/321.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/321.ts
 #EXTINF:-1,Sky Cinema Comedy HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/320.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/320.ts
 #EXTINF:-1,Sky Cinema Family HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/319.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/319.ts
 #EXTINF:-1,Sky Cinema Hits HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1308.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1308.ts
 #EXTINF:-1,Sky Cinema Max HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/318.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/318.ts
 #EXTINF:-1,Sky Virgin Music TV IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5172.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5172.ts
 #EXTINF:-1,Sky Cinema Passion HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/317.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/317.ts
 #EXTINF:-1,Super TV IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5211.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5211.ts
 #EXTINF:-1,Sky TG 24 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5197.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5197.ts
 #EXTINF:-1,Sky Uno IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/314.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/314.ts
 #EXTINF:-1,Sky Uno +1 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1292.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1292.ts
 #EXTINF:-1,Super! IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5189.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5189.ts
 #EXTINF:-1,Telecolor IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5226.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5226.ts
 #EXTINF:-1,Tg Com 24 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5196.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5196.ts
 #EXTINF:-1,Top Crime IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1269.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1269.ts
 #EXTINF:-1,TV8 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5229.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5229.ts
 #EXTINF:-1,TV2000 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1268.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1268.ts
 #EXTINF:-1,Wrestling IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5212.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5212.ts
 #EXTINF:-1,Rai Sport 1 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1264.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1264.ts
 #EXTINF:-1,Rai Sport 2 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1263.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1263.ts
 #EXTINF:-1,Premium Calcio 1 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5206.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5206.ts
 #EXTINF:-1,Premium Calcio 2 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5205.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5205.ts
 #EXTINF:-1,Premium Calcio 3 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5204.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5204.ts
 #EXTINF:-1,Premium Calcio 4 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5203.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5203.ts
 #EXTINF:-1,Premium Calcio 5 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5202.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5202.ts
 #EXTINF:-1,Premium Calcio 6 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5201.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5201.ts
 #EXTINF:-1,Premium Sport HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/312.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/312.ts
 #EXTINF:-1,Premium Sport 2 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/311.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/311.ts
 #EXTINF:-1,Sky Calcio 1 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/307.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/307.ts
 #EXTINF:-1,Sky Calcio 2 IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/306.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/306.ts
 #EXTINF:-1,Sky Calcio 3 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5210.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5210.ts
 #EXTINF:-1,Sky Calcio 4 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5209.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5209.ts
 #EXTINF:-1,Sky Calcio 5 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5208.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5208.ts
 #EXTINF:-1,Sky Calcio 6 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5207.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5207.ts
 #EXTINF:-1,Sport Italia IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1261.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1261.ts
 #EXTINF:-1,Sky Sport 24 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/309.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/309.ts
 #EXTINF:-1,Sky Sport F1 HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/308.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/308.ts
 #EXTINF:-1,Sky Sport Football HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/315.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/315.ts
 #EXTINF:-1,Sky Sport MotoGP HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/310.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/310.ts
 #EXTINF:-1,Sky Sport NBA HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1265.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1265.ts
 #EXTINF:-1,Sky Sport Serie A FHD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15077.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15077.ts
 #EXTINF:-1,Sky Sport Uno FHD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/316.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/316.ts
 #EXTINF:-1,Super Tennis HD IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1262.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1262.ts
 
 #EXTINF:-1 tvg-id="WRESTLING SPORTS" group-title="WRESTLING SPORTS",=== WRESTLING SPORTS ===
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/800px-Impact_Wrestling_Logo.svg.png" group-title="WRESTLING SPORTS",Impact Wrestling
@@ -3524,8 +3595,7 @@ http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WWENET.png" tvg-id=" group-title="WRESTLING SPORTS",WWE HD
 http://live.eternaltv.net:25461/live/Dbear69/97h9rHG2ac/16514.ts
 
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WWENET.png" tvg-id=" group-title="WRESTLING SPORTS",WWE
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/16643.ts
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WWENET.png" tvg-id=" group-title="WRESTLING SPORTS",WWEhttp://31.220.0.13:1935/tv/WWUpWhubqN20180321/playlist.m3u8?hlsendtime=1541550480&hlsstarttime=0&hlshash=w-V-yq07KJDaeq7itg_FeMEZ-cwzK7pxSK0G3SaU6yg=
 
 #EXTINF:-1,tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/60761_logo_wwe_tv.png" group-title="WRESTLING SPORTS" , WWE
 http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/7778.ts
@@ -3537,184 +3607,189 @@ http://23.237.22.82:8086/udp/127.0.0.1:56063
 #EXTINF:-1,Black Jesus
 http://xxxswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
 #EXTINF:-1,Sky Arts HD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10777.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10777.ts
 #EXTINF:-1,Sky Atlantic FHD UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/7598.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/7598.ts
 #EXTINF:-1,Sky Box Office UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/1806.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1806.ts
 #EXTINF:-1,Sky Cinema Action FHD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10849.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10849.ts
 #EXTINF:-1,Sky Cinema Action HD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10788.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10788.ts
 #EXTINF:-1,Sky Cinema Animation HD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10787.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10787.ts
 #EXTINF:-1,Sky Cinema Box Office 1 FHD UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5726.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5726.ts
 #EXTINF:-1,Sky Cinema Box Office 2 FHD UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5725.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5725.ts
 #EXTINF:-1,Sky Cinema Box Office 3D FHD UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5724.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5724.ts
 #EXTINF:-1,Sky Cinema Box Office 3D UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5727.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5727.ts
 #EXTINF:-1,Sky Cinema Box Office 4 FHD UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/5723.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/5723.ts
 #EXTINF:-1,Sky Cinema Comedy FHD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10847.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10847.ts
 #EXTINF:-1,Sky Cinema Comedy HD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10786.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10786.ts
 #EXTINF:-1,Sky Cinema Crime & Thriller FHD UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/338.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/338.ts
 #EXTINF:-1,Sky Cinema Disney FHD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10846.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10846.ts
 #EXTINF:-1,Sky Cinema Disney HD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10785.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10785.ts
 #EXTINF:-1,Sky Cinema Drama FHD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10845.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10845.ts
 #EXTINF:-1,Sky Cinema Drama HD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10784.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10784.ts
 #EXTINF:-1,Sky Cinema Greats FHD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10844.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10844.ts
 #EXTINF:-1,Sky Cinema Greats HD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10783.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10783.ts
 #EXTINF:-1,Sky Cinema Hits FHD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10842.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10842.ts
 #EXTINF:-1,Sky Cinema Hits HD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10781.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10781.ts
 #EXTINF:-1,Sky Cinema Premiere FHD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10841.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10841.ts
 #EXTINF:-1,Sky Cinema Premiere HD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10780.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10780.ts
 #EXTINF:-1,Sky Cinema Select FHD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10840.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10840.ts
 #EXTINF:-1,Sky Cinema Select HD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10779.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10779.ts
 #EXTINF:-1,Sky Cinema Thriller FHD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10839.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10839.ts
 #EXTINF:-1,Sky Cinema Thriller HD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10778.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10778.ts
 #EXTINF:-1,Sky Living FHD VIP UK
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/10838.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10838.ts
 
 #EXTINF:-1,HBO Comedy HD US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/530.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/530.ts
 #EXTINF:-1,HBO East US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/483.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/483.ts
 #EXTINF:-1,HBO Family HD US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/7748.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/7748.ts
 #EXTINF:-1,HBO HD US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/531.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/531.ts
 #EXTINF:-1,HBO Signature HD US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/7747.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/7747.ts
 #EXTINF:-1,HBO Signature US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/484.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/484.ts
 #EXTINF:-1,HBO US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/7776.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/7776.ts
 #EXTINF:-1,HBO Zone US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/532.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/532.ts
 #EXTINF:-1,HGTV HD US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/495.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/495.ts
 #EXTINF:-1,HGTV US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/7782.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/7782.ts
 #EXTINF:-1,HIFI US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/516.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/516.ts
 #EXTINF:-1,Hallmark Channel HD US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/7746.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/7746.ts
 #EXTINF:-1,Starz Comedy US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/537.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/537.ts
 #EXTINF:-1,Starz Edge HD US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/519.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/519.ts
 #EXTINF:-1,Starz Edge US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/7780.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/7780.ts
 #EXTINF:-1,Starz Encore HD US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/7731.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/7731.ts
 #EXTINF:-1,Starz Encore US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/538.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/538.ts
 #EXTINF:-1,SyFy HD US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/548.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/548.ts
 #EXTINF:-1,SyFy US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/7779.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/7779.ts
 #EXTINF:-1,TBS HD US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/578.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/578.ts
 #EXTINF:-1,TNT HD US
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/549.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/549.ts
 
 #EXTINF:-1,TBS
 http://170.250.96.20:8117/streams/TBS.m3u8
-
-#EXTINF:-1, BEIN MOVIES 1 HD
-http://live.eternaltv.net:25461/live/Dbear69/97h9rHG2ac/23433.ts
-#EXTINF:-1, BEIN MOVIES 2 HD
-http://live.eternaltv.net:25461/live/Dbear69/97h9rHG2ac/23432.ts
-#EXTINF:-1, BEIN MOVIES 3 HD
-http://live.eternaltv.net:25461/live/Dbear69/97h9rHG2ac/23431.ts
-#EXTINF:-1, BEIN MOVIES 4 HD
-http://live.eternaltv.net:25461/live/Dbear69/97h9rHG2ac/23430.ts
+#EXTINF:-1,SCI-FI 4U USA
+http://thepk.co:2086/damonkem/hKcA2543ra/15534
+#EXTINF:-1,SHOWTIME 2 USA
+http://thepk.co:2086/damonkem/hKcA2543ra/331
+#EXTINF:-1,SHOWTIME BEYOND USA
+http://thepk.co:2086/damonkem/hKcA2543ra/1603
+#EXTINF:-1,SHOWTIME EXTREME USA
+http://thepk.co:2086/damonkem/hKcA2543ra/8843
+#EXTINF:-1,SHOWTIME SHOWCASE USA
+http://thepk.co:2086/damonkem/hKcA2543ra/1604
+#EXTINF:-1,SHOWTIME WEST USA
+http://thepk.co:2086/damonkem/hKcA2543ra/8842
+#EXTINF:-1,SHOWTIME EAST USA
+http://thepk.co:2086/damonkem/hKcA2543ra/332
 
 #EXTINF:-1,----- PrimaFila Sky Premium Movies (Vetrina) -----
 #EXTINF:-1,Sky Cinema +1 HD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15152.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15152.ts
 #EXTINF:-1,Sky Cinema  1 VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15151.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15151.ts
 #EXTINF:-1,Sky Cinema  24 FHD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15150.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15150.ts
 #EXTINF:-1,Sky Cinema  24 HD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15149.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15149.ts
 #EXTINF:-1,Sky Cinema  24 VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15148.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15148.ts
 #EXTINF:-1,Sky Cinema 1 FHD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15147.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15147.ts
 #EXTINF:-1,Sky Cinema 1 HD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15146.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15146.ts
 #EXTINF:-1,Sky Cinema 1 VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15145.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15145.ts
 #EXTINF:-1,Sky Cinema Classic HD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15144.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15144.ts
 #EXTINF:-1,Sky Cinema Classic VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15143.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15143.ts
 #EXTINF:-1,Sky Cinema Comedy  1 HD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15142.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15142.ts
 #EXTINF:-1,Sky Cinema Comedy FHD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15141.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15141.ts
 #EXTINF:-1,Sky Cinema Comedy HD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15140.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15140.ts
 #EXTINF:-1,Sky Cinema Comedy VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15139.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15139.ts
 #EXTINF:-1,Sky Cinema Cult +1 HD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15138.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15138.ts
 #EXTINF:-1,Sky Cinema Cult HD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15137.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15137.ts
 #EXTINF:-1,Sky Cinema Cult VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15136.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15136.ts
 #EXTINF:-1,Sky Cinema Family  1 HD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15135.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15135.ts
 #EXTINF:-1,Sky Cinema Family FHD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15134.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15134.ts
 #EXTINF:-1,Sky Cinema Family HD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15133.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15133.ts
 #EXTINF:-1,Sky Cinema Family VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15132.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15132.ts
 #EXTINF:-1,Sky Cinema Hits  1 HD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15131.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15131.ts
 #EXTINF:-1,Sky Cinema Hits FHD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15130.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15130.ts
 #EXTINF:-1,Sky Cinema Hits HD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15129.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15129.ts
 #EXTINF:-1,Sky Cinema Hits VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15128.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15128.ts
 #EXTINF:-1,Sky Cinema Max +1 HD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15127.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15127.ts
 #EXTINF:-1,Sky Cinema Max FHD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15126.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15126.ts
 #EXTINF:-1,Sky Cinema Max HD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15125.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15125.ts
 #EXTINF:-1,Sky Cinema Max VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15124.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15124.ts
 #EXTINF:-1,Sky Cinema Passion +1 HD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15123.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15123.ts
 #EXTINF:-1,Sky Cinema Passion HD VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15122.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15122.ts
 #EXTINF:-1,Sky Cinema Passion VIP IT
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/15121.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/15121.ts
 #EXTINF:-1,SYFY
 http://23.237.22.82:8086/udp/127.0.0.1:56063
 #EXTINF:-1,Floogals Universal Kids
@@ -3856,6 +3931,8 @@ http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams
 
 
 #EXTINF:-1,##########   AFRICA   ##########
+EXTINF:-1,AF:GH TV
+http://37.48.120.77:8080/hls/ghtvonline.m3u8
 EXTINF:-1,AF: TPAI
 http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/3244.ts
 #EXTINF:-1,AF: RTS 1
@@ -4240,7 +4317,7 @@ http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/11563.ts
 #EXTINF:-1,US: ABC News
 http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/16630.ts
 #EXTINF:-1,US: Bloomberg HD*
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/16628.ts
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1,US: Fox News HD
 http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/16622.ts
 #EXTINF:-1,US: MSNBC News
@@ -4254,11 +4331,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/01/BBC-Arabic-1.jpg" group-title="NEWS CHANNEL",BBC ARABIC TV
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,CNN USA
-http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/568.ts
-#EXTINF:-1 tvg-id="NEWS" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_nav_bottom.png" group-title="NEWS CHANNEL",CNN
-http://evolutiontvpro.com:8080/live/Brettcollier1977/N392avrr/19118.ts
-#EXTINF:-1,tvg-id="FOX NEWS" group-title="NEWS CHANNEL",FOX NEWS
-http://live.eternaltv.net:25461/live/Jlizvic/VicLiz1975/14125.ts
+http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/568.ts
 
 #EXTINF:-1,tvg-id="Fox News" group-title="NEWS CHANNEL",Fox News
 http://epsilon-c2.liux.tv/en-FOXNews/mono.m3u8?token=f6513dd3-1017-41bd-b904-3929edaaa21d
