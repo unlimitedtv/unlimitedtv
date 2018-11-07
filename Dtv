@@ -3,122 +3,29 @@
 #EXTINF:-1 tvg-ID="beIN Sport 1 HD ARB" tvg-name="beIN SPORTS 1HD" tvg-logo="https://imgur.com/fo0WWnT.png" group-title="BEINSPORTS",beIN SPORT 1HD
 http://redquality.sytes.net:8000/live/martagon/5AAKIIg3RY/17228.ts
 #EXTINF:-1 tvg-ID="beIN Sport 2 HD ARB" tvg-name="beIN SPORTS 2HD" tvg-logo="https://imgur.com/VS9WTSD.png" group-title="BEINSPORTS",beIN SPORTS 2HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8935.ts
+http://iptv-area-51.tv:2095/live/bvd202004/z416wLY5fb/13296.ts
 #EXTINF:-1 tvg-ID="beIN Sports 3 HD ARB" tvg-name="beIN SPORTS 3HD" tvg-logo="https://imgur.com/8FH6LF7.png" group-title="BEINSPORTS",beIN SPORTS 3HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8936.ts
+http://iptv-area-51.tv:2095/live/bvd202004/z416wLY5fb/13297.ts
 #EXTINF:-1 tvg-ID="beIN Sports 4 HD ARB" tvg-name="beIN SPORTS 4HD" tvg-logo="https://imgur.com/NwWQUgr.png" group-title="BEINSPORTS",beIN SPORTS 4HD
 http://redquality.sytes.net:8000/live/martagon/5AAKIIg3RY/17230.ts
 #EXTINF:-1 tvg-ID="beIN Sports 5 HD ARB" tvg-name="beIN SPORTS 5HD" tvg-logo="https://imgur.com/6X0hJCU.png" group-title="BEINSPORTS",beIN SPORTS 5HD
 http://redquality.sytes.net:8000/live/martagon/5AAKIIg3RY/17231.ts
 #EXTINF:-1 tvg-ID="beIN Sports 6 HD ARB" tvg-name="beIN SPORTS 6HD" tvg-logo="https://imgur.com/LxmecFV.png" group-title="BEINSPORTS",beIN SPORTS 6HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8939.ts
+http://iptv-area-51.tv:2095/live/bvd202004/z416wLY5fb/13301.ts
 #EXTINF:-1 tvg-ID="beIN Sports 7 HD ARB" tvg-name="beIN SPORTS 7HD" tvg-logo="https://imgur.com/bYozrjv.png" group-title="BEINSPORTS",beIN SPORTS 7HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8940.ts
+http://iptv-area-51.tv:2095/live/bvd202004/z416wLY5fb/13302.ts
 #EXTINF:-1 tvg-ID="beIN Sports 8 HD ARB" tvg-name="beIN SPORTS 8HD" tvg-logo="https://imgur.com/j9kSK37.png" group-title="BEINSPORTS",beIN SPORTS 8HD
 http://redquality.sytes.net:8000/live/martagon/5AAKIIg3RY/17232.ts
 #EXTINF:-1 tvg-ID="beIN Sports 9 HD ARB" tvg-name="beIN SPORTS 9HD" tvg-logo="https://imgur.com/I5GP1sD.png" group-title="BEINSPORTS",beIN SPORTS 9HD
 http://redquality.sytes.net:8000/live/martagon/5AAKIIg3RY/17229.ts
-#EXTINF:-1 tvg-ID="beIN Sports 10 HD ARB" tvg-name="beIN SPORTS 10HD" tvg-logo="https://imgur.com/fodrra3.png" group-title="BEINSPORTS",beIN SPORTS 10HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11.ts
-#EXTINF:-1 tvg-ID="beIN Sports 11 HD ARB" tvg-name="beIN SPORTS 11HD" tvg-logo="https://imgur.com/KGegOMw.png" group-title="BEINSPORTS",beIN SPORTS 11HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8520.ts
-#EXTINF:-1 tvg-ID="beIN Sports 12 HD ARB" tvg-name="beIN SPORTS 12HD" tvg-logo="https://imgur.com/7JmzOGU.png" group-title="BEINSPORTS",beIN SPORTS 12HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8537.ts
-#EXTINF:-1,BEIN SPORTS 13HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/2801.ts
-#EXTINF:-1,BEIN SPORTS 14HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/2802.ts
-#EXTINF:-1,BEIN SPORTS 15HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/2803.ts
-#EXTINF:-1,BEIN SPORTS 16 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/2804.ts
-#EXTINF:-1,BEIN SPORTS 17 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/2805.ts
-
-
+#EXTINF:-1 tvg-ID="beIN Sports 10 HD ARB" tvg-name="beIN SPORTS 10HD" group-title="BEINSPORTS",beIN SPORTS 10HD
+http://iptv-area-51.tv:2095/live/bvd202004/z416wLY5fb/13305.ts
+#EXTINF:-1 tvg-ID="beIN Sports 11 HD ARB" tvg-name="beIN SPORTS 11HD" group-title="BEINSPORTS",beIN SPORTS 11HD
+http://iptv-area-51.tv:2095/live/bvd202004/z416wLY5fb/13306.ts
+#EXTINF:-1 tvg-ID="beIN Sports 12 HD ARB" tvg-name="beIN SPORTS 12HD" group-title="BEINSPORTS",beIN SPORTS 12HD
+http://iptv-area-51.tv:2095/live/bvd202004/z416wLY5fb/13307.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="««------SKY SPORTS------»»" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Sky_Sports_logo_2017.svg" group-title="SKY SPORTS",««------SKY SPORTS------»»
-
-#EXTINF:-1,IT : Premium Sport HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6937.ts
-#EXTINF:-1,IT | Premium Calcio
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6957.ts
-#EXTINF:-1,IT | Premium Calcio 1*
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6897.ts
-#EXTINF:-1,IT | Premium Calcio 2*
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6898.ts
-#EXTINF:-1,IT | Premium Calcio 3*
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6899.ts
-#EXTINF:-1,IT | Premium Calcio 4
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6900.ts
-#EXTINF:-1,IT | Premium Calcio 5*
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6901.ts
-#EXTINF:-1,IT | Sky Calcio 1
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6963.ts
-#EXTINF:-1,IT | Sky Calcio 2
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6964.ts
-#EXTINF:-1,IT | Sky Calcio 3
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6965.ts
-#EXTINF:-1,IT | Sky Calcio 4
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6966.ts
-#EXTINF:-1,IT | Sky Calcio 5
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6967.ts
-#EXTINF:-1,IT | Sky Calcio 6
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6968.ts
-#EXTINF:-1,IT | Sky Calcio 7
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6969.ts
-#EXTINF:-1,IT | Sky Moto GP HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6931.ts
-#EXTINF:-1,IT | Sky Sport 24 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6932.ts
-#EXTINF:-1,IT | Sky Sport F1 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6933.ts
-#EXTINF:-1,IT | Sky Sport1 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6934.ts
-#EXTINF:-1,IT | Sky Sport2 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6935.ts
-#EXTINF:-1,IT | Sky Sport3 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6936.ts
-#EXTINF:-1,IT | SPORT ITALIA
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6976.ts
-#EXTINF:-1,IT | Supercalcio HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6977.ts
-#EXTINF:-1,Sky Sports News HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/5055.ts
-#EXTINF:-1,Sky Sports Main Events HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/5012.ts
-#EXTINF:-1,SKY SPORTS Premier League
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/4976.ts
-#EXTINF:-1,Sky Sport Football HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8920.ts
-#EXTINF:-1,Sky Sport Arena HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8972.ts
-#EXTINF:-1,SKY SPORTS The Open
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/5057.ts
-#EXTINF:-1,Sky Sport Action
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8973.ts
-#EXTINF:-1,Sky Sports Cricket HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/5027.ts
-#EXTINF:-1,SKY SPORTS F1 HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/5035.ts
-#EXTINF:-1,Sky Sport Golf
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/5041.ts
-#EXTINF:-1,Sky Sports 1
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8893.ts
-#EXTINF:-1,sky sports 2
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8892.ts
-#EXTINF:-1,SKY SPORTS 3
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8894.ts
-#EXTINF:-1,Sky Sports 4
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8895.ts
-#EXTINF:-1,Sky Sports 5
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8896.ts
-#EXTINF:-1,BT Sport 1 HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/4974.ts
-#EXTINF:-1,BT Sport 2 HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/4975.ts
-#EXTINF:-1,BT Sport 3 HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8631.ts
 #EXTINF:-1,Sky Sports Box Office PPV live during events
 http://premium-iptv.link:6969/live/tobyhughes1977@gmail.com/GHitSX8H6v/7060.ts
 #EXTINF:-1,ITV BOX OFFICE PPV
@@ -127,34 +34,8 @@ http://145.239.254.81:8080/live/russ/bq7DXClWnT/8536.ts
 http://super1.ideaiptv.com:8000/live/toby/guue222/3780.ts
 #EXTINF:-1,PPV Event 1
 http://super1.ideaiptv.com:8000/live/toby/guue222/3974.ts
-#EXTINF:-1,PPV Event 2
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8898.ts
-#EXTINF:-1,Racing Uk
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8452.ts
-#EXTINF:-1,At The Races
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/5048.ts
-#EXTINF:-1,BT Sport Extra 2
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8911.ts
-#EXTINF:-1,BT Sport Extra 3
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8912.ts
-#EXTINF:-1,BT Sport Extra 4
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8913.ts
-#EXTINF:-1,Eir Sports1
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8925.ts
-#EXTINF:-1,Eir Sports2
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8926.ts
 #EXTINF:-1,Eurosport 1HD
 http://premium-iptv.link:6969/live/tobyhughes1977@gmail.com/GHitSX8H6v/7689.ts
-#EXTINF:-1,EUROSPORT 2 HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8625.ts
-#EXTINF:-1,UFC Fight pass
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8640.ts
-#EXTINF:-1,WWE HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8543.ts
-#EXTINF:-1,BOX-Nation-HD
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/5209.ts
-#EXTINF:-1,Fight Box Network
-http://145.239.254.81:8080/live/russ/bq7DXClWnT/8902.ts
 
 
 
@@ -485,9 +366,31 @@ http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/1813.ts
 #EXTINF:-1,Setanta Sport 
 http://ott-cdn.ucom.am/s81/index.m3u8
 #EXTINF:-1,Setanta Sport Plus 
-http://ott-cdn.ucom.am/s82/index.m3u8
+#http://ott-cdn.ucom.am/s82/index.m3u8
 EXTINF:-1,Liga NoS
 http://ott-cdn.ucom.am/s41/index.m3u8
+#EXTINF:-1,ESPN
+http://80.80.160.168/live/6/2500000/live.m3u8
+#EXTINF:-1,ESPN 2
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1,SPORTS MAX HD
+http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1,SPORTS MAX 2 HD
+http://161.0.157.9/PLTV/88888888/224/3221226777/index.m3u8
+#EXTINF:-1,CCTV 5 Sport HD
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1,SPORT HD
+http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221226646/1.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://61.58.60.230:9000/live/75.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://61.58.60.230:9000/live/102.m3u8
+#EXTINF:-1,IRC Sport TV
+http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
+#EXTINF:-1,Tennis HD
+http://61.216.177.73/sta/ch91865001.m3u8
+#EXTINF:-1,Trace Sports Stars HD
+http://61.216.177.73/sta/ch91865016.m3u8
 
 #EXTINF:-1,Super Sport 1 HD
 http://tv.smartal.net:25461/QR58FxAssE/BkzsermI3h/999
@@ -1048,620 +951,6 @@ http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/809.ts
 
 
 #EXTINF:-1,###############  FRANCE  ###################-
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/5123.ts
-#EXTINF:-1,==== CINEMA =====
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6433.ts
-#EXTINF:-1,FR|CANAL CINEMA HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6430.ts
-#EXTINF:-1,FR|CANAL CINEMA SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6429.ts
-#EXTINF:-1,FR|Canal Series HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6428.ts
-#EXTINF:-1,FR|Canal Series SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6427.ts
-#EXTINF:-1,FR|Canal Family HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6426.ts
-#EXTINF:-1,FR|Canal Family SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6425.ts
-#EXTINF:-1,FR|Canal Decale HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6424.ts
-#EXTINF:-1,FR|Canal Decale SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6423.ts
-#EXTINF:-1,FR|Cine Premier HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6422.ts
-#EXTINF:-1,FR|Cine Premier SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6421.ts
-#EXTINF:-1,FR|Cine Frisson HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6420.ts
-#EXTINF:-1,FR|Cine Frisson SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6419.ts
-#EXTINF:-1,FR|Cine Famiz HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6418.ts
-#EXTINF:-1,FR|Cine Famiz SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6417.ts
-#EXTINF:-1,FR|Cine Emotion HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6416.ts
-#EXTINF:-1,FR|Cine Emotion SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6415.ts
-#EXTINF:-1,FR|Cine Classic HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6414.ts
-#EXTINF:-1,FR|Cine Classic SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6413.ts
-#EXTINF:-1,FR|Cine FX HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6404.ts
-#EXTINF:-1,FR|Cine FX SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6403.ts
-#EXTINF:-1,FR|Cine Polar HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6406.ts
-#EXTINF:-1,FR|Cine Polar SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6405.ts
-#EXTINF:-1,FR|Cine Club HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6412.ts
-#EXTINF:-1,FR|Cine Club SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6411.ts
-#EXTINF:-1,FR|COMEDIE HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6410.ts
-#EXTINF:-1,FR|COMEDIE SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6409.ts
-#EXTINF:-1,FR|OCS CHOC HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9547.ts
-#EXTINF:-1,FR|OCS CHOC SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6398.ts
-#EXTINF:-1,FR|OCS CITY HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9546.ts
-#EXTINF:-1,FR|OCS CITY SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6399.ts
-#EXTINF:-1,FR|OCS GEANTS HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9545.ts
-#EXTINF:-1,FR|OCS GEANTS SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6400.ts
-#EXTINF:-1,FR|OCS Max HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6402.ts
-#EXTINF:-1,FR|OCS Max SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6401.ts
-#EXTINF:-1,FR|TV BREIZH HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6432.ts
-#EXTINF:-1,FR|TV BREIZH SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6431.ts
-#EXTINF:-1,FR|Serie Club HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6408.ts
-#EXTINF:-1,FR|Serie Club SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6407.ts
-#EXTINF:-1,FR|13EME RUE HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6395.ts
-#EXTINF:-1,FR|13EME RUE SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9548.ts
-#EXTINF:-1,FR|TCM CINEMA HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6397.ts
-#EXTINF:-1,FR|TCM CINEMA SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9549.ts
-#EXTINF:-1,FR|ACTION HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6396.ts
-#EXTINF:-1,FR|ACTION SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9550.ts
-#EXTINF:-1,FR|SYFY HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6394.ts
-#EXTINF:-1,FR|SYFY SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9551.ts
-#EXTINF:-1,FR|PARAMOUNT CHANNEL HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6393.ts
-#EXTINF:-1,FR|PARAMOUNT CHANNEL DECALE HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9552.ts
-#EXTINF:-1,FR|POLAR PLUS HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9544.ts
-#EXTINF:-1,===== CHAINES TNT =====
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/5122.ts
-#EXTINF:-1,FR|TF1 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6261.ts
-#EXTINF:-1,FR|TF1 SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6260.ts
-#EXTINF:-1,|FR| TF1  1 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11901.ts
-#EXTINF:-1,FR|M6 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6251.ts
-#EXTINF:-1,FR|M6 SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6250.ts
-#EXTINF:-1,FR|CANAL HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6255.ts
-#EXTINF:-1,FR|CANAL SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6254.ts
-#EXTINF:-1,FR|France 2 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6259.ts
-#EXTINF:-1,FR|France 2 SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6258.ts
-#EXTINF:-1,FR|France 3 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6257.ts
-#EXTINF:-1,FR|France 3 SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6256.ts
-#EXTINF:-1,FR|FRANCE 4 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6235.ts
-#EXTINF:-1,FR|FRANCE 4 SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6234.ts
-#EXTINF:-1,FR|France 5 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6253.ts
-#EXTINF:-1,FR|France 5 SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6252.ts
-#EXTINF:-1,FR|France O HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6225.ts
-#EXTINF:-1,FR|France O SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6224.ts
-#EXTINF:-1,FR|ARTE HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6249.ts
-#EXTINF:-1,FR|ARTE SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6248.ts
-#EXTINF:-1,FR|C8 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6247.ts
-#EXTINF:-1,FR|C8 SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6246.ts
-#EXTINF:-1,FR|W9 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6245.ts
-#EXTINF:-1,FR|W9 SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6244.ts
-#EXTINF:-1,FR|TMC HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6243.ts
-#EXTINF:-1,FR|TMC SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6242.ts
-#EXTINF:-1,|FR| TMC  1 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11900.ts
-#EXTINF:-1,FR|TFX HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6241.ts
-#EXTINF:-1,FR|TFX SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6240.ts
-#EXTINF:-1,FR|NRJ 12 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6239.ts
-#EXTINF:-1,FR|NRJ 12 SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6238.ts
-#EXTINF:-1,FR|LCP/Public Senat HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6237.ts
-#EXTINF:-1,FR|LCP/PUBLIC SENAT SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6236.ts
-#EXTINF:-1,FR|BFM TV HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6233.ts
-#EXTINF:-1,FR|BFM TV SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6232.ts
-#EXTINF:-1,FR|CNews HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6231.ts
-#EXTINF:-1,FR|CNews SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6230.ts
-#EXTINF:-1,FR|CStar HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6229.ts
-#EXTINF:-1,FR|CStar SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6228.ts
-#EXTINF:-1,FR|Gulli HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6227.ts
-#EXTINF:-1,FR|Gulli SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6226.ts
-#EXTINF:-1,FR|TF1 SERIES FILMS HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6223.ts
-#EXTINF:-1,FR|TF1 SERIES FILMS SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6222.ts
-#EXTINF:-1,FR|L' EQUIPE HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6221.ts
-#EXTINF:-1,FR|L' EQUIPE SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6220.ts
-#EXTINF:-1,FR|6TER HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6219.ts
-#EXTINF:-1,FR|6TER SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6218.ts
-#EXTINF:-1,FR|NUMERO 23 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6217.ts
-#EXTINF:-1,FR|NUMERO 23 SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6216.ts
-#EXTINF:-1,FR|RMC Decouverte HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6215.ts
-#EXTINF:-1,FR|RMC Decouverte SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6214.ts
-#EXTINF:-1,FR|Cherie 25 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6213.ts
-#EXTINF:-1,FR|Cherie 25 SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6212.ts
-#EXTINF:-1,FR|LCI HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6211.ts
-#EXTINF:-1,FR LCI SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6210.ts
-#EXTINF:-1,FR|FRANCE INFO HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6209.ts
-#EXTINF:-1,FR|FRANCE INFO SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6208.ts
-#EXTINF:-1,===== Generaliste =====
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6207.ts
-#EXTINF:-1,FR|AB1 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6204.ts
-#EXTINF:-1,FR|AB1 SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6203.ts
-#EXTINF:-1,FR|AB3 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6202.ts
-#EXTINF:-1,FR|AB3 SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6201.ts
-#EXTINF:-1,FR|TEVA HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6206.ts
-#EXTINF:-1,FR|TEVA SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6205.ts
-#EXTINF:-1,FR|RTL 9 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6200.ts
-#EXTINF:-1,FR|RTL 9 SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6199.ts
-#EXTINF:-1,FR|PARIS PREMIERE HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6198.ts
-#EXTINF:-1,FR PARIS PREMIERE SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6197.ts
-#EXTINF:-1,FR|ALTICE STUDIO HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10130.ts
-#EXTINF:-1,FR|ALTICE STUDIO SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10134.ts
-#EXTINF:-1,FR|BET HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10118.ts
-#EXTINF:-1,FR|BET SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10133.ts
-#EXTINF:-1,===== Regionale =====
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6196.ts
-#EXTINF:-1,|FR| MY CUISINE HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11893.ts
-#EXTINF:-1,|FR| RT FRANCE
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11895.ts
-#EXTINF:-1,|FR| SUNDANCE CHANNEL HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11899.ts
-#EXTINF:-1,FR|MA TELE
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6195.ts
-#EXTINF:-1,FR|WEO
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6194.ts
-#EXTINF:-1,FR|RTI 1
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6436.ts
-#EXTINF:-1,FR|Canal Alpha
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10123.ts
-#EXTINF:-1,FR|La Tele
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10122.ts
-#EXTINF:-1,FR|Leman Bleu
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10124.ts
-#EXTINF:-1,FR|LFM TV HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10119.ts
-#EXTINF:-1,FR|Nautical Channel HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10132.ts
-#EXTINF:-1,FR|Polar
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10131.ts
-#EXTINF:-1,FR|Rouge TV
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10125.ts
-#EXTINF:-1,===== DECOUVERTE =====
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6392.ts
-#EXTINF:-1,FR|MA CHAINE SPORT BIEN- ETRE
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9564.ts
-#EXTINF:-1,FR|LIVE AU COEURS DES REFUGES
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9414.ts
-#EXTINF:-1,FR|TV8 Mont Blanc
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9413.ts
-#EXTINF:-1,FR|LUCKY JACK TV
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6391.ts
-#EXTINF:-1,FR|CLUBBING TV
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6390.ts
-#EXTINF:-1,FR|CCTV
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6389.ts
-#EXTINF:-1,FR|DEMAIN TV
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6388.ts
-#EXTINF:-1,FR|INDIES LIVE
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6386.ts
-#EXTINF:-1,FR|OUATCH TV
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6387.ts
-#EXTINF:-1,FR|Crime District HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6382.ts
-#EXTINF:-1,FR|TREK TV HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6385.ts
-#EXTINF:-1,FR|AB MOTEURS
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6384.ts
-#EXTINF:-1,FR|USHUAIA TV HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6383.ts
-#EXTINF:-1,FR|PLANETE PLUS HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6377.ts
-#EXTINF:-1,FR|PLANETE A et E HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6380.ts
-#EXTINF:-1,FR|PLANETE CI HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6381.ts
-#EXTINF:-1,FR|SEASON HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6379.ts
-#EXTINF:-1,FR|E! ENTERTAINMENT HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6378.ts
-#EXTINF:-1,FR|VOYAGE HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6376.ts
-#EXTINF:-1,FR|TOUTE L' HISTOIRE HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6375.ts
-#EXTINF:-1,FR|SCIENCE ET VIE TV HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6374.ts
-#EXTINF:-1,FR|DISCOVERY CHANNEL HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6372.ts
-#EXTINF:-1,FR|DISCOVERY SCIENCE HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6373.ts
-#EXTINF:-1,FR|INVESTIGATION DISCOVERY
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9565.ts
-#EXTINF:-1,|FR| DISCOVERY FAMILY HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11894.ts
-#EXTINF:-1,FR|NAT GEO HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6370.ts
-#EXTINF:-1,FR|NAT GEO WILD HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6371.ts
-#EXTINF:-1,FR|CHASSE ET PECHE HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6369.ts
-#EXTINF:-1,FR|FASHION TV HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6368.ts
-#EXTINF:-1,FR|HISTOIRE HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6366.ts
-#EXTINF:-1,FR|MEN'S UP
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6367.ts
-#EXTINF:-1,FR|LUXE TV HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6365.ts
-#EXTINF:-1,FR|QVC HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6364.ts
-#EXTINF:-1,FR|M6 BOUTIQUE ET CO
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6363.ts
-#EXTINF:-1,FR|ANIMAUX HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6362.ts
-#EXTINF:-1,FR|TV5 MONDE HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6356.ts
-#EXTINF:-1,FR|FOOT PLUS
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6296.ts
-#EXTINF:-1,FR|NOLIFE HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6361.ts
-#EXTINF:-1,FR|RTS UN
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9143.ts
-#EXTINF:-1,FR|RTS DEUX
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9144.ts
-#EXTINF:-1,FR|VIVOLTA
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9142.ts
-#EXTINF:-1,FR|MYZEN TV HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10380.ts
-#EXTINF:-1,===== INFOS=====
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6360.ts
-#EXTINF:-1,FR|LCP 100%
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6355.ts
-#EXTINF:-1,FR|EUROSPORT NEWS
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6359.ts
-#EXTINF:-1,FR|FRANCE 24 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6358.ts
-#EXTINF:-1,FR|PUBLIC SENAT 24H/24
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6354.ts
-#EXTINF:-1,FR|i24NEWS HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6353.ts
-#EXTINF:-1,FR|EURONEWS HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6357.ts
-#EXTINF:-1,FR|BFM BUSINESS
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9152.ts
-#EXTINF:-1,FR|CANAL NEWS
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9153.ts
-#EXTINF:-1,FR|RT FRANCE
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11980.ts
-#EXTINF:-1,FR|GAME ONE
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6347.ts
-#EXTINF:-1,FR|PIWI
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6348.ts
-#EXTINF:-1,FR|TIJI HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6350.ts
-#EXTINF:-1,FR|Canal J HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6351.ts
-#EXTINF:-1,FR|TELETOON
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6349.ts
-#EXTINF:-1,|FR| TELETOON  1 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11891.ts
-#EXTINF:-1,FR|NICKELODEON HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6346.ts
-#EXTINF:-1,FR|NICKELODEON 4TEEN
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6345.ts
-#EXTINF:-1,FR|NICKELODEON JUNIOR HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10406.ts
-#EXTINF:-1,|FR| NICKELODEON  1
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11889.ts
-#EXTINF:-1,|FR| NICKELODEON JUNIOR
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11888.ts
-#EXTINF:-1,FR|MANGAS HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6344.ts
-#EXTINF:-1,FR|MANGAS SD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9553.ts
-#EXTINF:-1,FR|CARTOON NETWORK HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6343.ts
-#EXTINF:-1,FR|BOOMERANG HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6342.ts
-#EXTINF:-1,FR|GONG HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6333.ts
-#EXTINF:-1,|FR| GONG MAX
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11887.ts
-#EXTINF:-1,FR|DISNEY CHANNEL HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6337.ts
-#EXTINF:-1,FR|DISNEY CHANNEL  PLUS 1
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6336.ts
-#EXTINF:-1,FR|DISNEY CINEMA HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6338.ts
-#EXTINF:-1,FR|DISNEY JUNIOR
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6339.ts
-#EXTINF:-1,FR|DISNEY XD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6340.ts
-#EXTINF:-1,FR|GINX
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6335.ts
-#EXTINF:-1,FR|J ONE HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6334.ts
-#EXTINF:-1,FR|Toonami HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6332.ts
-#EXTINF:-1,|FR| GAME ONE  1
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11890.ts
-#EXTINF:-1,FR|BOING HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6341.ts
-#EXTINF:-1,FR|Tele avatar le dernier maitre de l'air (en test)
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10129.ts
-#EXTINF:-1,FR|ELLE GIRL
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9151.ts
-#EXTINF:-1,|FR| PITCHOUN TV
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11886.ts
-#EXTINF:-1,=====MUSIK=====
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6331.ts
-#EXTINF:-1,FR|MTV FRANCE HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6330.ts
-#EXTINF:-1,FR|BEUR FM TV
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6322.ts
-#EXTINF:-1,FR|MTV HITS HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6329.ts
-#EXTINF:-1,FR|MTV BASE
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6327.ts
-#EXTINF:-1,FR|M6 MUSIC HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6328.ts
-#EXTINF:-1,FR|VIRGIN RADIO TV
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6326.ts
-#EXTINF:-1,FR|MCM HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6321.ts
-#EXTINF:-1,FR|MCM TOP HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6320.ts
-#EXTINF:-1,FR|TRACE AFRICA HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6323.ts
-#EXTINF:-1,FR|TRACE TROPICAL HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6324.ts
-#EXTINF:-1,FR|TRACE URBAN HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6325.ts
-#EXTINF:-1,FR|TRACE GOSPEL
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10379.ts
-#EXTINF:-1,FR|TRACE MZIKI
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10378.ts
-#EXTINF:-1,FR|TRACE NAIJA
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10377.ts
-#EXTINF:-1,FR|TRACE TOCA
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10376.ts
-#EXTINF:-1,FR|BEBLACK AFRICA
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6318.ts
-#EXTINF:-1,FR|BEBLACK CARIBBEAN
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6317.ts
-#EXTINF:-1,FR|BEBLACK CLASSIK
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6319.ts
-#EXTINF:-1,FR|NRJ HITS
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6315.ts
-#EXTINF:-1,FR|NRJ TV
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6316.ts
-#EXTINF:-1,FR|OFIVE TV
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6314.ts
-#EXTINF:-1,FR|BRAVA
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6313.ts
-#EXTINF:-1,FR RADIO  MONTE CARLO
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6434.ts
-#EXTINF:-1,FR|TLM
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6312.ts
-#EXTINF:-1,FR|MEZZO FR
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9148.ts
-#EXTINF:-1,FR|MEZZO LIVE
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9147.ts
-#EXTINF:-1,FR|RFM TV
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9145.ts
-#EXTINF:-1,FR|skyrock lille
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10128.ts
-#EXTINF:-1,|FR| MTV DANCE
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11885.ts
-#EXTINF:-1,|FR| MTV ROCK
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11884.ts
-#EXTINF:-1,FR|PITCHOUN TV
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10430.ts
-#EXTINF:-1,===== France Sport =====
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6302.ts
-#EXTINF:-1,FR|CANAL PLUS SPORT HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6300.ts
-#EXTINF:-1,FR|CANAL SPORT HD  (LOCAL)
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6298.ts
-#EXTINF:-1,FR|CANAL SPORT (LOCAL)
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6299.ts
-#EXTINF:-1,FR|BEIN SPORTS 1 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6289.ts
-#EXTINF:-1,FR|BEIN SPORTS 2 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6288.ts
-#EXTINF:-1,FR|BEIN SPORTS 3 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6287.ts
-#EXTINF:-1,FR|BEINSPORT 1 HD (LOCAL)
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6286.ts
-#EXTINF:-1,FR|BEINSPORT 2 HD (LOCAL)
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6285.ts
-#EXTINF:-1,FR|BEINSPORT 3 HD (LOCAL)
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6284.ts
-#EXTINF:-1,FR|Bein Sport Max 4 (LOCAL)
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6282.ts
-#EXTINF:-1,FR|Bein Sport Max 5 (LOCAL)
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6280.ts
-#EXTINF:-1,FR|Bein Sport Max 6 (LOCAL)
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6278.ts
-#EXTINF:-1,FR|Bein Sport Max 7 (LOCAL)
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6276.ts
-#EXTINF:-1,FR|Bein Sport Max 8 (LOCAL)
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6275.ts
-#EXTINF:-1,FR|Bein Sport Max 9 (LOCAL)
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6274.ts
-#EXTINF:-1,FR|Bein Sport Max 10 (LOCAL)
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6273.ts
-#EXTINF:-1,FR|RMC Sport News HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11997.ts
-#EXTINF:-1,|FR|RMC SPORT 1 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/12360.ts
-#EXTINF:-1,|FR|RMC SPORT 2 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/12359.ts
-#EXTINF:-1,|FR|RMC SPORT 3 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/12358.ts
-#EXTINF:-1,|FR|RMC SPORT 4 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/12357.ts
-#EXTINF:-1,|FR|RMC-SPORT-1 L
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/12363.ts
-#EXTINF:-1,|FR|RMC-SPORT-2 L
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/12362.ts
-#EXTINF:-1,|FR|RMC-SPORT-3 L
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/12361.ts
-#EXTINF:-1,|FR|RMC Sport Access 1 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/12366.ts
-#EXTINF:-1,|FR|RMC Sport Access 2 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/12365.ts
-#EXTINF:-1,|FR|RMC Sport Access 3 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/12364.ts
-#EXTINF:-1,|FR|RMC Sport Live 5 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/12371.ts
-#EXTINF:-1,|FR|RMC Sport Live 6 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/12370.ts
-#EXTINF:-1,|FR|RMC Sport Live 7 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/12369.ts
-#EXTINF:-1,|FR|RMC Sport Live 8 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/12367.ts
-#EXTINF:-1,|FR|RMC Sport Live 9 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/12368.ts
-#EXTINF:-1,FR|RMC Sport Live 10 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11988.ts
-#EXTINF:-1,FR|RMC Sport Live 11 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11987.ts
-#EXTINF:-1,FR|RMC Sport Live 12 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11986.ts
-#EXTINF:-1,FR|RMC Sport Live 13 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11985.ts
-#EXTINF:-1,FR|RMC Sport Live 14 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11984.ts
-#EXTINF:-1,FR|RMC Sport Live 15 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11983.ts
-#EXTINF:-1,FR|RMC Sport Live 16 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11982.ts
-#EXTINF:-1,FR|Girondin TV
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11977.ts
-#EXTINF:-1,FR|OL TV
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11978.ts
-#EXTINF:-1,FR|OM TV
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11979.ts
-#EXTINF:-1,FR|Trace Sport Star HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/11976.ts
-#EXTINF:-1,FR|EUROSPORT 1 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6295.ts
-#EXTINF:-1,FR|EUROSPORT 2 HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6294.ts
-#EXTINF:-1,FR|MUSCULATION TV HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/10381.ts
-#EXTINF:-1,FR|INFOSPORT PLUS
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6297.ts
-#EXTINF:-1,FR|GOLF CHANNEL HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6290.ts
-#EXTINF:-1,FR|BFM SPORT
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6291.ts
-#EXTINF:-1,FR|EQUIDIA LIVE
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6293.ts
-#EXTINF:-1,FR|MOTORSPORT TV HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/6301.ts
-#EXTINF:-1,FR|MOTORSPORT TV
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9146.ts
-#EXTINF:-1,FR|EXTREME SPORTS
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9150.ts
-#EXTINF:-1,FR|GOLF PLUS HD
-http://hostiptv.com:8089/live/qB8F4zyBF/2mIf48Wr1a/9149.ts
-
 
 
 
@@ -3595,10 +2884,11 @@ http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WWENET.png" tvg-id=" group-title="WRESTLING SPORTS",WWE HD
 http://live.eternaltv.net:25461/live/Dbear69/97h9rHG2ac/16514.ts
 
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WWENET.png" tvg-id=" group-title="WRESTLING SPORTS",WWEhttp://31.220.0.13:1935/tv/WWUpWhubqN20180321/playlist.m3u8?hlsendtime=1541550480&hlsstarttime=0&hlshash=w-V-yq07KJDaeq7itg_FeMEZ-cwzK7pxSK0G3SaU6yg=
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WWENET.png" tvg-id=" group-title="WRESTLING SPORTS",WWE
+http://31.220.0.13:1935/tv/WWUpWhubqN20180321/playlist.m3u8?hlsendtime=1541550480&hlsstarttime=0&hlshash=w-V-yq07KJDaeq7itg_FeMEZ-cwzK7pxSK0G3SaU6yg=
 
 #EXTINF:-1,tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/60761_logo_wwe_tv.png" group-title="WRESTLING SPORTS" , WWE
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/7778.ts
+http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/7778.ts
 
 
 #EXTINF:-1 tvg-id="MoViEs USA & UK" group-title="MoViEs USA & UK",=== MoViEs USA & UK ===
@@ -3845,7 +3135,7 @@ http://162.212.178.131:1935/EYESAFRICA/eyesafrica2/chunklist_w241941449.m3u8
 #EXTINF:-1,EYE AFRICA 4 TV
 http://162.212.178.131:1935/EYESAFRICA/eyesafrica4/chunklist_w989197964.m3u8
 #EXTINF:-1,Music Senegal
-http://rb-group-server.com:25461/live/myriam/123456/11506.ts
+http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11506.ts
 #EXTINF:-1,RTV ISLAM
 http://tekoiptv.ch:8000/live/Buritv/Z5bQ7LCyZn/1657.ts
 #EXTINF:-1,Beatz HD 
@@ -3877,7 +3167,7 @@ https://stream-04.dc3.dailymotion.com/dm/3/x6cq41k/live-1.m3u8
 #EXTINF:-1,RTS 1
 http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/3243.ts
 #EXTINF:-1,RTS 2
-http://rb-group-server.com:25461/live/myriam/123456/11511.ts
+http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11511.ts
 #EXTINF:-1,2STV (Senegal)
 http://dani.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/14833.ts
 #EXTINF:-1,DBM
@@ -4285,12 +3575,12 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 
 #EXTINF:-1 tvg-id="MOVIE AFRICA" group-title="MOVIE AFRICA",=== MOVIE AFRICA ===
 #EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="MOVIE AFRICA", ROK HD
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/9819.ts
+http://179.43.156.222:8080/live/rq0JSv6kU7/8iUKx77b4b/9819.ts
 
 #EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="MOVIE AFRICA", ROK SD
-http://rb-group-server.com:25461/live/myriam/123456/11548.ts
+http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11548.ts
 #EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="MOVIE AFRICA", ROK ***
-http://dani.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/10774.ts
+http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/10774.ts
 
 #EXTINF:-1,tvg-id="Nollywood TV" group-title="MOVIE AFRICA", Nollywood TV
 http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10297.ts
