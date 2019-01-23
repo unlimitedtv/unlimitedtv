@@ -84,7 +84,7 @@ http://mysisli.com/36bay2/gin/gin-tfm/index.m3u8
 http://81.171.10.35:9088/afm/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",Diaspora 24 TV
 rtmp://diaspora24.tv/diaspora24tv//diaspora24
-#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/292_1538822224_big.jpg" group-title="MUSICAL AFRICAL",Reggae Vibes
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/292_1538822224_big.jpg" group-title="MUSICAL AFRICA",Reggae Vibes
 http://81.171.10.35:9088/rvibes/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/277_1534175303_big.jpg" group-title="MUSICAL AFRICA",Musiq Channel HD
 http://81.171.10.35:9088/musiq/index.m3u8
