@@ -22,11 +22,12 @@ http://wowza2.mysoltv.com:1992/UK_BT_SPORT_ESPN_NEW/index.m3u8
 #EXTINF:-1,group-title="SPORTS",Sky Sports News
 http://sp.inlinetv.ca:1992/SK_NEWS/index.m3u8
 #EXTINF:-1,group-title="SPORTS",Sky Sports Arena
-http://wowza2.mysoltv.com:1992/SK_ARENA/index.m3u8                   
+http://wowza2.mysoltv.com:1992/SK_ARENA/index.m3u8
+http://sp.inlinetv.ca:1992/SK_ARENA/index.m3u8                     
 #EXTINF:-1,group-title="SPORTS",Sky Sports Golf
 http://sp.inlinetv.ca:1992/SK_GOLF/index.m3u8
 #EXTINF:-1,group-title="SPORTS",Sky Sports Football
-http://wowza2.mysoltv.com:1992/SK_FOOTBALL/index.m3u8   
+http://wowza2.mysoltv.com:1992/SK_FOOTBALL/index.m3u8     
 #EXTINF:-1,group-title="SPORTS",sky Sports 1
 http://wowza2.mysoltv.com:1992/SK_01/index.m3u8
 #EXTINF:-1,group-title="SPORTS",Sky Sports 2
@@ -84,102 +85,84 @@ http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/
 #EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="AFRICA MOVIE AND ENTERTAINMENT", ROK
 http://stream.ecable.tv:9088/rok/index.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2018/11/150X150-1.png" group-title="AFRICA MOVIE AND ENTERTAINMENT",African Cinema
-http://81.171.10.35:9088/afc/index.m3u8
+http://81.171.10.35:9088/afc/index.m3u8 
 #EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/i9BHmciszfs97WvubBOJglSWf2LcffDH-XG-o13y_M_3kVo93lmSFzgsfjQ683EnNB-0zA=s85" group-title="AFRICA MOVIE AND ENTERTAINMENT", NEC
 http://bk7l2g37dx53-hls-live.5centscdn.com/NEC/293e4db7d0e2a1475766fcc5fba8bfa3.sdp/index.m3u8
-#EXTINF:-1,group-title="AFRICA",ADOM
-http://81.171.10.35:9088/adom/index.m3u8
-#EXTINF:-1,group-title="AFRICA",GH TV
-http://37.48.120.77:8080/hls/ghtvonline.m3u8
-#EXTINF:-1,group-title="AFRICA",Adom tv
-http://sportsgolive.flashmediacast.com:1935/sportsgolive/adom/chunklist_w1218222613.m3u8
-#EXTINF:-1,group-title="AFRICA",ORTM
-https://stream-02.ix7.dailymotion.com/dm/3/x5tcmdy/live-2.m3u8
-#EXTINF:-1,group-title="AFRICA",RTI
-http://185.59.221.143:1935/rticdn/smil:rti1.smil/chunklist_w459928445_b650000.m3u8
-#EXTINF:-1,group-title="AFRICA",RTI 2
-http://185.59.221.143:1935/rticdn/smil:rti2.smil/chunklist_w647390492_b650000.m3u8
-#EXTINF:-1,group-title="AFRICA",Beatz HD 
-http://beats.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8
-#EXTINF:-1,group-title="AFRICA",NRJ HITS
-http://5.196.138.6:1935/live/nrjbelgique/master.m3u8
-#EXTINF:-1,group-title="AFRICA",AFRIQUE MEDIA
-https://stream-09.dc3.dailymotion.com/dm/3/x5dk3kj/live-3.m3u8
-#EXTINF:-1,group-title="AFRICA",TFM
-http://81.171.10.35:9088/tfm/index.m3u8
-#EXTINF:-1,group-title="AFRICA",RTS1
-http://mysisli.com/36bay2/gin/gin-rts1/index.m3u8
-#EXTINF:-1,group-title="AFRICA",TFM
-http://mysisli.com/36bay2/gin/gin-tfm/index.m3u8
-#EXTINF:-1,group-title="AFRICA",Walf tv
-https://stream-13.dc3.dailymotion.com/dm/3/x5s5vw3/live-1.m3u8
-#EXTINF:-1,group-title="AFRICA",MOURIDE TV
-rtmp://162.212.178.131/Livemouridetv/mouridetv
-http://162.212.178.131:1935/Livemouridetv/mouridetv/chunklist_w1739364370.m3u8
-#EXTINF:-1,group-title="AFRICA",Diaspora 24 TV
-rtmp://diaspora24.tv/diaspora24tv//diaspora24
-https://stream-04.dc3.dailymotion.com/dm/3/x6cq41k/live-1.m3u8
-#EXTINF:-1,group-title="AFRICA",DBM
-https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist_w300555392.m3u8
-#EXTINF:-1,group-title="AFRICA",AF: A2i TV
-http://162.212.178.131:1935/live/Ai2tv/chunklist_w166709358.m3u8
-#EXTINF:-1,group-title="AFRICA",Diaspora24
-https://stream-09.ix7.dailymotion.com/dm/3/x6cq41k/live-1.m3u8
-#EXTINF:-1,group-title="AFRICA",TVC
+#EXTINF:-1,group-title="SKY CINEMA",Sky Cinema Action & Adventure*
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Action&Adventure_NEW/index.m3u8
+#EXTINF:-1,group-title="SKY CINEMA",Sky Cinema Sci-Fi & Horror*
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_SciFi&Horror_NEW/index.m3u8
+#EXTINF:-1,group-title="SKY CINEMA",Sky Cinema Drama*
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_drama_NEW/index.m3u8
+#EXTINF:-1,group-title="SKY CINEMA",Sky Cinema greats*     
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_greats_NEW/index.m3u8
+#EXTINF:-1,group-title="SKY CINEMA",Sky Cinema Showcase*      
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_showcase_NEW/index.m3u8
+#EXTINF:-1,group-title="SKY CINEMA",Sky Cinema Thriller*     
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_thriller_NEW/index.m3u8
+#EXTINF:-1,group-title="SKY CINEMA",Sky Select*   
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_select_NEW/index.m3u8
+#EXTINF:-1,group-title="SKY CINEMA",Sky Cinema Family* 
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_family_NEW/index.m3u8
+#EXTINF:-1,group-title="SKY CINEMA",Sky Cinema Comedy*     
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_comedy_NEW/index.m3u8
+#EXTINF:-1,group-title="SKY CINEMA",MOREMAX
+http://wowza2.mysoltv.com:1992/USA_Cinemax_MoreMax2/index.m3u8
+#EXTINF:-1,group-title="SKY CINEMA",SKY CINEMA DISNEY*
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_disney_NEW/index.m3u8
+#EXTINF:-1,group-title="NIGERIA",TVC
 http://stream.ecable.tv:9088/tvc/index.m3u8
-#EXTINF:-1,group-title="AFRICA",NTAi
+#EXTINF:-1,group-title="NIGERIA",NTAi
 http://stream.ecable.tv:9088/nta/index.m3u8
 http://bk7l2g37dx53-hls-live.5centscdn.com/NTAi/8890bd6207cb14550461bfcdefacabe6.sdp/index.m3u8
-#EXTINF:-1,group-title="AFRICA",BEN
+#EXTINF:-1,group-title="NIGERIA",BEN
 http://bentv.ashttp9.visionip.tv/live/bentv-bentv-bentv-hsslive-25f-4X3-SD/chunklist.m3u8?ref=bentelevision.com&USER=BenTV%2520Player&wowzasessionid=1416719627
-#EXTINF:-1,group-title="AFRICA",ITV BENIN
+#EXTINF:-1,group-title="NIGERIA",ITV BENIN
 http://flash.netcasterusa.com:1935/itvlive/itvlive/chunklist_w1848631395.m3u8
-#EXTINF:-1,group-title="AFRICA",CHANNELS 24*
+#EXTINF:-1,group-title="NIGERIA",CHANNELS 24*
 http://edge1.cdn.tvnow.ids-africa.com/mchannels/channelstv_hi.m3u8
-#EXTINF:-1,group-title="AFRICA",ARISE NEWS
+#EXTINF:-1,group-title="NIGERIA",ARISE NEWS
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,group-title="AFRICA",Ghana TV Abroad
+#EXTINF:-1,group-title="GHANA",Ghana TV Abroad
 http://198.7.63.116:8080/hls/ghtvabroad.m3u8
-#EXTINF:-1,group-title="AFRICA",Ghana TV Canada
+#EXTINF:-1,group-title="GHANA",Ghana TV Canada
 http://uni8rtmp.tulix.tv/ghanaglobal/ghanaglobal/chunklist_w654362398.m3u8
-#EXTINF:-1,group-title="AFRICA",Ghana: Joy News
+#EXTINF:-1,group-title="GHANA",Joy News
 http://stream.ecable.tv:9088/joy/index.m3u8
-#EXTINF:-1,group-title="AFRICA",Ghana: TV3 
+#EXTINF:-1,group-title="GHANA",TV3 
 http://81.171.10.35:9088/tv3/index.m3u8
-#EXTINF:-1,group-title="AFRICA",Ghana: GHONE
+#EXTINF:-1,group-title="GHANA",GHONE
 http://stream.ecable.tv:9088/ghone/index.m3u8
-#EXTINF:-1,group-title="AFRICA",Clouds TV
-http://stream.ecable.tv:9088/clouds/index.m3u8
-#EXTINF:-1,group-title="AFRICA",City TV
-http://stream.ecable.tv:9088/citytv/index.m3u8
-#EXTINF:-1,group-title="AFRICA",Ghana: Metro TV
+#EXTINF:-1,group-title="GHANA",Metro TV
 http://stream.ecable.tv:9088/metrotv/index.m3u8
-#EXTINF:-1,group-title="AFRICA",Ghana: GTV
+#EXTINF:-1,group-title="GHANA",GTV
 http://stream.ecable.tv:9088/ghanatv/index.m3u8
-#EXTINF:-1,group-title="AFRICA",Ghana: GH
+#EXTINF:-1,group-title="GHANA",GH
 http://stream.ecable.tv:9088/tvafrica/index.m3u8
-#EXTINF:-1,group-title="AFRICA",Ghana: Gh TV
+#EXTINF:-1,group-title="GHANA",GhTV
 http://37.48.120.77:8080/hls/ghtvonline.m3u8  
-#EXTINF:-1,group-title="AFRICA",abn tv
+#EXTINF:-1,group-title="GHANA",abn tv
 http://stream.ecable.tv:9088/abntv/index.m3u8
 http://81.171.10.35:9088/abntv/index.m3u8
-#EXTINF:-1,group-title="AFRICA",Musiq Channel HD
-http://81.171.10.35:9088/musiq/index.m3u8
-#EXTINF:-1,group-title="AFRICA",Afrobeats
-http://stream.ecable.tv:9088/afb/index.m3u8
-#EXTINF:-1,group-title="AFRICA",Tele Congo
-http://81.171.10.35:9088/congo/index.m3u8
-#EXTINF:-1,group-title="AFRICA",ORTM
-http://81.171.10.35:9088/ortm/index.m3u8
-#EXTINF:-1,group-title="AFRICA",ORTB
-http://81.171.10.35:9088/ortb/index.m3u8
-#EXTINF:-1,group-title="AFRICA",TVT
-http://81.171.10.35:9088/tvt/index.m3u8
-#EXTINF:-1,group-title="AFRICA",REGGAE VIBES
-http://81.171.10.35:9088/rvibes/index.m3u8
-#EXTINF:-1,group-title="AFRICA",ATINKA
+#EXTINF:-1,group-title="GHANA",ATINKA
 http://81.171.10.35:9088/atinka/index.m3u8
-#EXTINF:-1,group-title="AFRICA",AFRIQUE MEDIA
+#EXTINF:-1,group-title="GHANA",ADOM
+http://81.171.10.35:9088/adom/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",AFRIQUE MEDIA
 http://81.171.10.35:9088/afm/index.m3u8
-#EXTINF:-1,group-title="AFRICA",RTS1
+#EXTINF:-1,group-title="SENEGAL",RTS1
 http://81.171.10.35:9088/rts1/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",AF: A2i TV
+http://162.212.178.131:1935/live/Ai2tv/chunklist_w166709358.m3u8
+#EXTINF:-1,group-title="SENEGAL",Diaspora24
+rtmp://diaspora24.tv/diaspora24tv//diaspora24
+#EXTINF:-1,group-title="SENEGAL",tfm
+http://81.171.10.35:9088/tfm/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",rts1
+http://mysisli.com/36bay2/gin/gin-rts1/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",TFM
+http://mysisli.com/36bay2/gin/gin-tfm/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",Walf tv
+https://stream-13.dc3.dailymotion.com/dm/3/x5s5vw3/live-1.m3u8
+#EXTINF:-1,group-title="SENEGAL",MOURIDE TV
+rtmp://162.212.178.131/Livemouridetv/mouridetv
