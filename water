@@ -22,13 +22,11 @@ http://wowza2.mysoltv.com:1992/UK_BT_SPORT_ESPN_NEW/index.m3u8
 #EXTINF:-1,group-title="SPORTS",Sky Sports News
 http://sp.inlinetv.ca:1992/SK_NEWS/index.m3u8
 #EXTINF:-1,group-title="SPORTS",Sky Sports Arena
-http://wowza2.mysoltv.com:1992/SK_ARENA/index.m3u8
-http://sp.inlinetv.ca:1992/SK_ARENA/index.m3u8                     
+http://wowza2.mysoltv.com:1992/SK_ARENA/index.m3u8                   
 #EXTINF:-1,group-title="SPORTS",Sky Sports Golf
 http://sp.inlinetv.ca:1992/SK_GOLF/index.m3u8
 #EXTINF:-1,group-title="SPORTS",Sky Sports Football
-http://wowza2.mysoltv.com:1992/SK_FOOTBALL/index.m3u8
-http://sp.inlinetv.ca:1992/SK_FOOTBALL/index.m3u8     
+http://wowza2.mysoltv.com:1992/SK_FOOTBALL/index.m3u8   
 #EXTINF:-1,group-title="SPORTS",sky Sports 1
 http://wowza2.mysoltv.com:1992/SK_01/index.m3u8
 #EXTINF:-1,group-title="SPORTS",Sky Sports 2
@@ -45,8 +43,6 @@ http://wowza2.mysoltv.com:1992/SK_PREMIERE/index.m3u8
 http://wowza2.mysoltv.com:1992/SK_MAINEVENT/index.m3u8
 #EXTINF:-1,group-title="SPORTS",beIN SPORTS 1 HD
 http://wowza2.mysoltv.com:1992/B1/index.m3u8
-
-http://sp.inlinetv.ca:1992/B1/index.m3u8
 #EXTINF:-1,group-title="SPORTS",beIN SPORTS 2 HD
 http://wowza2.mysoltv.com:1992/B2/index.m3u8
 #EXTINF:-1,group-title="SPORTS",beIN SPORTS 3 HD
@@ -175,8 +171,6 @@ http://stream.ecable.tv:9088/afb/index.m3u8
 http://81.171.10.35:9088/congo/index.m3u8
 #EXTINF:-1,group-title="AFRICA",ORTM
 http://81.171.10.35:9088/ortm/index.m3u8
-#EXTINF:-1,group-title="AFRICA",NTV
-http://ericmedia.tv:25461/live/middleware/london/1422.m3u8
 #EXTINF:-1,group-title="AFRICA",ORTB
 http://81.171.10.35:9088/ortb/index.m3u8
 #EXTINF:-1,group-title="AFRICA",TVT
