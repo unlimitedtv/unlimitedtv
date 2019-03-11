@@ -5,8 +5,8 @@ http://stream.ecable.tv:9080/afm/index.m3u8
 http://stream.ecable.tv:9080/rts1/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",AF: A2i TV
 http://162.212.178.131:1935/live/Ai2tv/chunklist_w166709358.m3u8
-#EXTINF:-1,group-title="SENEGAL",D24
-rtmp://diaspora24.tv/diaspora24tv/diaspora24
+#EXTINF:-1,group-title="SENEGAL",Mouride tv
+rtmp://162.212.178.131/Livemouridetv/mouridetv
 #EXTINF:-1,group-title="SENEGAL",TFM
 http://stream.ecable.tv:9080/tfm/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",rts1
