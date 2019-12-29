@@ -1,15 +1,1729 @@
 #EXTM3U
+#EXTINF:-1,group-title="NEWS CHANNEL",FOX NEWS
+http://www.mytvonlinesky.orguscnn.m3u8@1128700637.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8
+#EXTINF:-1,group-title="NEWS CHANNEL",Aljazeera News
+https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
+#EXTINF:-1,tvg-logo="http://mypanel.myddns.me/logos/PT/cnn.png",group-title="NEWS CHANNEL",CNN HD
+http://mysisli.com/36bay2/gin/giniko_cnnint_1000kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="NEWS CHANNEL",CNN INTERNATIONAL
+http://ott-cdn.ucom.am/s27/index.m3u8
+#EXTINF:-1,tvg-logo="http://johnpenrose.org/wp/wp-content/uploads/2017/05/BBC-News.png",group-title="NEWS CHANNEL",BBC NEWS
+http://mysisli.com/36bay2/gin/giniko_bbcnews_900kb_36bay2/index.m3u8
+http://fdc-ams-1.jforbes.club:8080/UK_BBC_World_News/index.m3u8
+#EXTINF:-1,tvg-logo="http://starsat.co.za/wp-content/uploads/2016/07/BBC-World-News-1.png"group-title="NEWS CHANNEL",BBC WORLD NEWS
+http://mysisli.com/36bay2/gin/giniko_bbcworldnews_900kb_36bay2/index.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1,tvg-logo="http://starsat.co.za/wp-content/uploads/2016/07/BBC-World-News-1.png"group-title="NEWS CHANNEL",BBC WORLD NEWS*
+http://ott-cdn.ucom.am/s24/index.m3u8
+http://88.119.220.2/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/675.jpg",group-title="NEWS CHANNEL",Euro News
+http://mysisli.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
+#EXTINF:-1,tvg-id="Sky News" group-title="NEWS CHANNEL",SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,tvg-id="Sky News" group-title="NEWS CHANNEL",SKY NEWS*
+http://mysisli.com/36bay2/gin/giniko_skynewsintl_800kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="NEWS CHANNEL",Sky News Australia
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1,tvg-id="France 24 English HD" group-title="NEWS CHANNEL",France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1,tvg-id="France 24 English HD" group-title="NEWS CHANNEL",FRANCE 24
+http://mysisli.com/36bay2/gin/giniko_france24english_900kb_36bay2/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/754.png",group-title="NEWS CHANNEL",CNBC
+http://mysisli.com/36bay2/gin/giniko_cnbc_800kb_36bay2/index.m3u8
+#EXTINF:-1,tvg-id="CBS HD" group-title="NEWS CHANNEL",CBSN HD*
+http://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:-1,tvg-id="CBS HD" group-title="NEWS CHANNEL",CBSN HD
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
+#EXTINF:-1,tvg-id="CBS HD" group-title="NEWS CHANNEL",MSNBC
+https://1161275585.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
+#EXTINF:-1,group-title="NEWS CHANNEL",RT
+http://mysisli.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/index.m3u8
+http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
+#EXTINF:-1,group-title="NEWS CHANNEL",US: Bloomberg HD*
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,tvg-id="ARISE NEWS" group-title="NEWS CHANNEL",ARISE NEWS
+https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1,tvg-id="ARISE NEWS" group-title="NEWS CHANNEL",TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+http://mysisli.com/36bay2/gin/giniko_trtworld_900kb_36bay2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",NBC
+http://weak_spell.carniferou.club/edge/NBC/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lBMs6-yNoq3pBz6tYaKFB41oRt-itCsasgdMb1QpiZupyPHdJLgvHLIbQQ8HVpqK0Sbt=s152",group-title="VIP SPORTS",NBCSN
+http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lBMs6-yNoq3pBz6tYaKFB41oRt-itCsasgdMb1QpiZupyPHdJLgvHLIbQQ8HVpqK0Sbt=s152",group-title="VIP SPORTS",NBC SPORTS NETWORK
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/26439.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rJ5lJcL.jpg",group-title="VIP SPORTS",BT Sport 1 HD
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PS6Bb8H.png",group-title="VIP SPORTS",BT Sport 2
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+#EXTINF:-1,group-title="VIP SPORTS",BT Sport 1 SD
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/247.ts
+#EXTINF:-1,group-title="VIP SPORTS",BT SPORT 1 HD*
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16555.ts
+#EXTINF:-1,group-title="VIP SPORTS",BT Sport 2 SD
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/248.ts
+#EXTINF:-1,group-title="VIP SPORTS",BT SPORT 2 HD*
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16554.ts
+#EXTINF:-1,group-title="VIP SPORTS",BT Sport 3 SD
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16553.ts
+#EXTINF:-1,group-title="VIP SPORTS",BT SPORT 3 HD*
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/249.ts
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16553.ts
+#EXTINF:-1,group-title="VIP SPORTS",BT SPORT ESPN*
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16549.ts
+
+
+#EXTINF:-1,group-title="VIP SPORTS",SPORT TV 3
+https://mmm.sportbar.biz/lba/NGM5OTZhZmE2YWMwYzBjNTdlZmQzZTgyNGM4YTJkMGQ=/g2/pt3sport.m3u8
+#EXTINF:-1,group-title="VIP SPORTS",SPORT TV 2
+https://mmm.sportbar.biz/lba/NGM5OTZhZmE2YWMwYzBjNTdlZmQzZTgyNGM4YTJkMGQ=/g1/sport2port.m3u8
+#EXTINF:-1,group-title="VIP SPORTS",SPORT TV 1
+https://mmm.sportbar.biz/lba/NGM5OTZhZmE2YWMwYzBjNTdlZmQzZTgyNGM4YTJkMGQ=/g1/tv1pt.m3u8
+#EXTINF:-1,group-title="VIP SPORTS",SPORT TV 4 FHD
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/463.ts
+
+
+#EXTINF:-1,tvg-logo="http://livetv.am/assets/img/tv/setanta-sport.png",group-title="VIP SPORTS",SETANTA SPORTS
+http://ott-cdn.ucom.am/s81/index.m3u8
+http://178.124.183.12/hls/FWHTTL8YXU/variant.m3u8
+
+#EXTINF:-1,tvg-logo="http://livetv.am/assets/img/tv/setanta-sport-plus.png",group-title="VIP SPORTS",Setanta Eurasia +
+http://ott-cdn.ucom.am/s82/index.m3u8
+http://109.248.236.41:4433/udp/238.1.1.61:1234
+#EXTINF:-1,group-title="VIP SPORTS",SETANTA SPORTS PLUS
+http://ott-cdn.ucom.am/s82/index.m3u8
+
+#EXTINF:-1,group-title="VIP SPORTS",beIN SPORTS 1 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/14116
+#EXTINF:-1,group-title="VIP SPORTS",FR: BEIN SPORTS 1 FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47056
+#EXTINF:-1,group-title="VIP SPORTS",beIN SPORTS 2
+http://etvhosting.xyz:8080/Rottie/LucyLiu/14115
+#EXTINF:-1,group-title="VIP SPORTS",FR: BEIN SPORTS 2
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/3940.ts
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/47057.ts
+#EXTINF:-1,group-title="VIP SPORTS",FR: beIN SPORTS 3 HD
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/47058.ts
+#EXTINF:-1,group-title="VIP SPORTS",beIN SPORTS 3 HD
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/23625.ts
+#EXTINF:-1,group-title="VIP SPORTS",beIN SPORTS 4 HD
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/3938.ts
+#EXTINF:-1,group-title="VIP SPORTS",beIN SPORTS 4
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14113.ts
+#EXTINF:-1,group-title="VIP SPORTS",beIN SPORTS 5HD
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14112.ts
+
+#EXTINF:-1,group-title="VIP SPORTS",beIN SPORTS 6 HD
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/23622.ts
+#EXTINF:-1,group-title="VIP SPORTS",beIN SPORTS 7 HD
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14110.ts
+http://etvhosting.xyz:8080/Rottie/LucyLiu/23621
+#EXTINF:-1,group-title="VIP SPORTS",BEIN SPORTS 8
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14109.ts
+#EXTINF:-1,group-title="VIP SPORTS",BEIN SPORTS 9
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14108.ts
+#EXTINF:-1,group-title="VIP SPORTS",BEIN SPORTS 9 HD
+http://iptv2.premium-stv.com:8888/live/beIN9SpO/HHFHhjGHjkh/17.ts
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14107.ts
+#EXTINF:-1,group-title="VIP SPORTS",BEIN SPORTS 10*
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/3944.ts
+#EXTINF:-1,group-title="VIP SPORTS",BEIN SPORTS 11
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/3943.ts
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14106.ts
+#EXTINF:-1,group-title="VIP SPORTS",BEIN SPORTS 12
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14105.ts
+
+#EXTINF:-1,group-title="VIP SPORTS",Sky Sports Premier league
+http://sds4.selez.xyz/hls/skyepllsh/chunks.m3u8
+#EXTINF:-1,group-title="VIP SPORTS",Sky Sports Main Event
+http://95.170.215.120/hls/m3u8/Sky-S-main-even.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",group-title="VIP SPORTS",Sky Sports Football HD
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBF6vAk.png",group-title="VIP SPORTS",Sky Sports Premier League HD
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",group-title="VIP SPORTS",Sky Sports Football HD
+http://95.170.215.120:80/hls/Sky-Spo-football-N.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgcR1ju.jpg",group-title="VIP SPORTS",Sky Sports Main Event
+http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
+#EXTINF:-1,group-title="VIP SPORTS",Sky Sports PREMIER LEAGUE
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16567.ts
+#EXTINF:-1,group-title="VIP SPORTS",Sky Sports FOOTBALL HD
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/199.ts
+http://etvhosting.xyz:8080/Rottie/LucyLiu/16565
+
+#EXTINF:-1,group-title="VIP SPORTS",PREMIER SPORTS 1 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/20642
+#EXTINF:-1,group-title="VIP SPORTS",UK: PREMIER SPORTS 2 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/41938
+#EXTINF:-1,group-title="VIP SPORTS",Sky Sports MAIN EVENT HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/16563
+#EXTINF:-1,group-title="VIP SPORTS",Sky Sports MIX HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/16573
+#EXTINF:-1,tvg-logo="https://i.imgur.com/ud7AVaF.png",group-title="VIP SPORTS",MATCH 1
+http://188.35.9.11:2025
+https://sportbar.biz/lba/123/g11/mfootball1.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/ud7AVaF.png",group-title="VIP SPORTS",MATCH 2
+http://188.35.9.11:2026
+#EXTINF:-1,tvg-logo="https://i.imgur.com/ud7AVaF.png",group-title="VIP SPORTS",MATCH 3
+http://188.35.9.11:2027
+https://sportbar.biz/lba/123/g12/matfoot3.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/ud7AVaF.png",group-title="VIP SPORTS",MATCH PREMIER HD
+http://109.248.236.41:4433/udp/238.1.1.14:1234
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7V46L55.png",group-title="VIP SPORTS",C More Football
+http://95.170.215.120/hls/m3u8/CMore-Football.m3u8
+
+
+
+#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 1 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/23627
+#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 2 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/23626
+#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 3 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/23625
+#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 4 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/23624
+#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 9 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/23620
+#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 10 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/23618
+#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 11 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/23617
+#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 5 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/23623
+#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 6 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/23622
+#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 7 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/23621
+#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 8 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/23619
+
+
+#EXTINF:-1,group-title="WORLD SPORTS",PPV 1
+http://etvhosting.xyz:8080/Rottie/LucyLiu/45319
+#EXTINF:-1,group-title="WORLD SPORTS",PPV 2 
+http://etvhosting.xyz:8080/Rottie/LucyLiu/45321
+#EXTINF:-1,group-title="WORLD SPORTS",PPV 3
+http://etvhosting.xyz:8080/Rottie/LucyLiu/45323
+#EXTINF:-1,group-title="WORLD SPORTS",PPV 4
+http://etvhosting.xyz:8080/Rottie/LucyLiu/45325
+#EXTINF:-1,group-title="WORLD SPORTS",PPV 5
+http://etvhosting.xyz:8080/Rottie/LucyLiu/45327
+#EXTINF:-1,group-title="WORLD SPORTS",BT Sport 1 SD
+https://sportbar.biz/lba/123/g2/btuk1.m3u8
+#EXTINF:-1,group-title="WORLD SPORTS",BT SPORT 1 HD*
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16552.ts
+#EXTINF:-1,group-title="WORLD SPORTS",BT SPORT 2 HD*
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16551.ts
+#EXTINF:-1,group-title="WORLD SPORTS",BT SPORT 3 HD*
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16550.ts
+#EXTINF:-1,group-title="WORLD SPORTS",BT SPORT 3 HD 720 50fps*
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/43124.t
+#EXTINF:-1,group-title="WORLD SPORTS",BT SPORT ESPN*
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16549.ts
+
+
+#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports PREMIER LEAGUE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/16567
+#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports PREMIER LEAGUE HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/16559
+#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports FOOTBALL HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/16565
+#EXTINF:-1,group-title="WORLD SPORTS",PREMIER SPORTS 1 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/20642
+#EXTINF:-1,group-title="WORLD SPORTS",UK: PREMIER SPORTS 2 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/41938
+#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports ACTION HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/16561
+#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports ARENA HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/16566
+#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports F1
+http://etvhosting.xyz:8080/Rottie/LucyLiu/16564
+#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports F1 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/16558
+#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports MAIN EVENT HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/16563
+#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports MIX HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/16573
+#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports NEWS HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/16572
+
+#EXTINF:-1,group-title="WORLD SPORTS",SETANTA SPORTS
+http://ott-cdn.ucom.am/s81/index.m3u8
+#EXTINF:-1,group-title="WORLD SPORTS",Setanta Eurasia +
+http://109.248.236.41:4433/udp/238.1.1.61:1234
+#EXTINF:-1,group-title="WORLD SPORTS",SETANTA SPORTS PLUS
+http://ott-cdn.ucom.am/s82/index.m3u8
+
+
+#EXTINF:-1,group-title="WORLD SPORTS",beIN SPORTS 1 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/14116
+#EXTINF:-1,group-title="WORLD SPORTS",FR: BEIN SPORTS 1 FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47056
+#EXTINF:-1,group-title="WORLD SPORTS",beIN SPORTS 2
+http://etvhosting.xyz:8080/Rottie/LucyLiu/14115
+#EXTINF:-1,group-title="WORLD SPORTS",BEIN SPORTS 2 HD
+http://212.8.243.150:8525/live/younesstemara/SdtVyQDfqf/6016
+#EXTINF:-1,group-title="WORLD SPORTS",FR: BEIN SPORTS 2 FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47057
+#EXTINF:-1,group-title="WORLD SPORTS",FR: beIN SPORTS 3 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47058
+#EXTINF:-1,group-title="WORLD SPORTS",beIN SPORTS 3 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/23625
+#EXTINF:-1,group-title="WORLD SPORTS",beIN SPORTS 4
+http://etvhosting.xyz:8080/Rottie/LucyLiu/14113
+#EXTINF:-1,group-title="WORLD SPORTS",beIN SPORTS 5HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/14112
+
+#EXTINF:-1,group-title="WORLD SPORTS",beIN SPORTS 6 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/23622
+http://iptv2.premium-stv.com:8888/live/BEIN6/ZffOncRDKK/41.ts
+#EXTINF:-1,group-title="WORLD SPORTS",beIN SPORTS 7 HD
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14110.ts
+http://etvhosting.xyz:8080/Rottie/LucyLiu/23621
+#EXTINF:-1,group-title="WORLD SPORTS",BEIN SPORTS 8
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14109.ts
+http://iptv2.premium-stv.com:8888/live/beIN8sport/gDVffDVh/16.ts
+#EXTINF:-1,group-title="WORLD SPORTS",BEIN SPORTS 9
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14108.ts
+#EXTINF:-1,group-title="WORLD SPORTS",BEIN SPORTS 9 HD
+http://iptv2.premium-stv.com:8888/live/beIN9SpO/HHFHhjGHjkh/17.ts
+#EXTINF:-1,group-title="WORLD SPORTS",BEIN SPORTS 10
+http://ad.mysisli.com/live/beinxxx10/tracks-v1a1/mono.m3u8
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14107.ts
+#EXTINF:-1,group-title="WORLD SPORTS",BEIN SPORTS 10*
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/3944.ts
+#EXTINF:-1,group-title="WORLD SPORTS",BEIN SPORTS 11
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14106.ts
+#EXTINF:-1,group-title="WORLD SPORTS",BEIN SPORTS 11HD
+http://topiptv.net:5890/live/younesstemara/SdtVyQDfqf/21.ts
+#EXTINF:-1,group-title="WORLD SPORTS",bEIN Sports 11 HD*
+http://fdc-ams-1.jforbes.club:8080/Bein_Sports_11_HD/index.m3u8
+#EXTINF:-1,group-title="WORLD SPORTS",BEIN SPORTS 12
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14105.ts
+ 
+#EXTINF:-1,group-title="WORLD SPORTS",USA: ESPN
+http://etvhosting.xyz:8080/Rottie/LucyLiu/14124
+#EXTINF:-1,group-title="WORLD SPORTS",USA: ESPN 2
+http://etvhosting.xyz:8080/Rottie/LucyLiu/14123
+#EXTINF:-1,group-title="WORLD SPORTS",FOX SPORTS NEWS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+
+
+
+#EXTINF:-1,group-title="SKY SPORTS",Eir Sport 1
+http://fdc-ams-1.jforbes.club:8080/UK_Eir_Sport_1/index.m3u8
+#EXTINF:-1,group-title="SKY SPORTS",Eir Sport 2
+http://fdc-ams-1.jforbes.club:8080/UK_Eir_Sport_2/index.m3u8
+#EXTINF:-1,group-title="SKY SPORTS",UK: PREMIER SPORTS 1 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/20642
+#EXTINF:-1,group-title="SKY SPORTS",UK: PREMIER SPORTS 2 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/41938
+#EXTINF:-1,group-title="SKY SPORTS",UK: SKY SPORTS PREMIER LEAGUE
+http://iptv-line.com:7899/villavacacionaljavea1/nehjmRgV/2459
+#EXTINF:-1,group-title="SKY SPORTS",UK: SKY SPORTS GOLF
+http://iptv-line.com:7899/villavacacionaljavea1/nehjmRgV/2460
+#EXTINF:-1,group-title="SKY SPORTS",UK: SKY SPORTS ACTION
+http://iptv-line.com:7899/villavacacionaljavea1/nehjmRgV/2461
+#EXTINF:-1,group-title="SKY SPORTS",UK: SKY SPORTS CRICKET
+http://iptv-line.com:7899/villavacacionaljavea1/nehjmRgV/2462
+#EXTINF:-1,group-title="SKY SPORTS",UK: SKY SPORTS MAIN EVENT
+http://iptv-line.com:7899/villavacacionaljavea1/nehjmRgV/2463
+
+
+
+
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/800px-Impact_Wrestling_Logo.svg.png" group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",Impact Wrestling
+http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",WWE NETWORK HD
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16514.ts
+#EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",WWE NETWORK
+http://cdnak19.cast4u.info/channels/4/10804.m3u8 
+#EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",FIGHT BOX
+http://92.43.140.249/s86/04.m3u8
+#EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",SPORT FIGHT HD
+http://188.35.9.11:21151/udp/193i
+
+#EXTINF:-1,group-title="DOCUMENTARIES",BBC ONE
+http://mysisli.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="DOCUMENTARIES",BBC TWO
+http://mysisli.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="DOCUMENTARIES",BBC THREE
+http://mysisli.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="DOCUMENTARIES",Animal Planet
+http://etvhosting.xyz:8080/Rottie/LucyLiu/19412
+#EXTINF:-1,group-title="DOCUMENTARIES",CRIME INVESTIGATIO
+http://etvhosting.xyz:8080/Rottie/LucyLiu/27758
+#EXTINF:-1,group-title="DOCUMENTARIES",Discovery Channel
+http://etvhosting.xyz:8080/Rottie/LucyLiu/19528
+#EXTINF:-1,group-title="DOCUMENTARIES",DISCOVERY HISTORY
+http://etvhosting.xyz:8080/Rottie/LucyLiu/14156
+#EXTINF:-1,group-title="DOCUMENTARIES",DISCOVERY HOME HEALTH
+http://etvhosting.xyz:8080/Rottie/LucyLiu/27757
+#EXTINF:-1,group-title="DOCUMENTARIES",DISCOVERY HOME n HEALTH
+http://etvhosting.xyz:8080/Rottie/LucyLiu/27756
+#EXTINF:-1,group-title="DOCUMENTARIES",DISCOVERY SCIENCE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/27755
+#EXTINF:-1,group-title="DOCUMENTARIES",DISCOVERY SHED
+http://etvhosting.xyz:8080/Rottie/LucyLiu/19527
+#EXTINF:-1,group-title="DOCUMENTARIES",Discovery Turbo
+http://etvhosting.xyz:8080/Rottie/LucyLiu/19526
+#EXTINF:-1,group-title="DOCUMENTARIES",DMAX
+http://etvhosting.xyz:8080/Rottie/LucyLiu/19437
+
+#EXTINF:-1,group-title="MOVIE CHANNELS",ACTION- ADULT SWIM
+http://etvhosting.xyz:8080/Rottie/LucyLiu/29329
+#EXTINF:-1,group-title="MOVIE CHANNELS",AMC
+http://etvhosting.xyz:8080/Rottie/LucyLiu/29440
+#EXTINF:-1,group-title="MOVIE CHANNELS",AMC HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/19993
+
+
+#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema GREATS
+http://etvhosting.xyz:8080/Rottie/LucyLiu/19401
+#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema PREMIERE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/19408
+#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema ACTION
+http://etvhosting.xyz:8080/Rottie/LucyLiu/19407
+#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema COMEDY
+http://etvhosting.xyz:8080/Rottie/LucyLiu/19405
+#EXTINF:-1,group-title="MOVIE CHANNELS",UK: Sky Cinema Disney
+http://etvhosting.xyz:8080/Rottie/LucyLiu/19403
+#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema DRAMA & ROMANCE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/19406
+#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema FAMILY
+http://etvhosting.xyz:8080/Rottie/LucyLiu/19404
+#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema HITS
+http://etvhosting.xyz:8080/Rottie/LucyLiu/19402
+#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema SCI-FI/HORROR
+http://etvhosting.xyz:8080/Rottie/LucyLiu/19400
+#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema SELECT
+http://etvhosting.xyz:8080/Rottie/LucyLiu/19399
+#EXTINF:-1,group-title="MOVIE CHANNELS",UK: Sky Cinema THRILLER
+http://etvhosting.xyz:8080/Rottie/LucyLiu/25582
+
+
+
+#EXTINF:-1,group-title="MOVIE CHANNELS",24 BOX TV
+http://51.158.190.97/hls/stream.m3u8
+#EXTINF:-1,group-title="MOVIE CHANNELS",STAR MOVIES HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1,group-title="MOVIE CHANNELS",CINE SERIES
+http://mysisli.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="MOVIE CHANNELS",CINE FILM
+http://mysisli.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/index.m3u8
+
+#EXTINF:-1,group-title="MOVIE CHANNELS",HOLLYWOOD MOVIES 5
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1,group-title="MOVIE CHANNELS",HOLLYWOOD MOVIES 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1,group-title="MOVIE CHANNELS",HOLLYWOOD MOVIES 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1,group-title="MOVIE CHANNELS",HOLLYWOOD MOVIES 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SHOWTIME 2
+http://etvhosting.xyz:8080/Rottie/LucyLiu/40584
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SHOWTIME BEYOND
+http://etvhosting.xyz:8080/Rottie/LucyLiu/41936
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SHOWTIME EXTREME
+http://etvhosting.xyz:8080/Rottie/LucyLiu/16482
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SHOWTIME FAMILY ZONE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/41956
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SHOWTIME HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/14127
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SHOWTIME NEXT
+http://etvhosting.xyz:8080/Rottie/LucyLiu/41935
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SHOWTIME SHOWCASE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/40292
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SHOWTIME WOMEN
+http://etvhosting.xyz:8080/Rottie/LucyLiu/41957
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SMITHSONIAN CHANNEL
+http://etvhosting.xyz:8080/Rottie/LucyLiu/37904
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SONY MOVIE CHANNEL
+http://etvhosting.xyz:8080/Rottie/LucyLiu/41300
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ
+http://etvhosting.xyz:8080/Rottie/LucyLiu/16481
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ CINEMA
+http://etvhosting.xyz:8080/Rottie/LucyLiu/41958
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ COMEDY
+http://etvhosting.xyz:8080/Rottie/LucyLiu/25489
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ EDGE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/39907
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ ENCORE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/36272
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ ENCORE ACTION
+http://etvhosting.xyz:8080/Rottie/LucyLiu/41309
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ ENCORE BLACK
+http://etvhosting.xyz:8080/Rottie/LucyLiu/41949
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ ENCORE CLASSIC
+http://etvhosting.xyz:8080/Rottie/LucyLiu/41310
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ ENCORE FAMILY
+http://etvhosting.xyz:8080/Rottie/LucyLiu/41950
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ ENCORE SUSPENSE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/41311
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ ENCORE WESTERNS
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35530
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ IN BLACK
+http://etvhosting.xyz:8080/Rottie/LucyLiu/40832
+#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ KIDS & FAMILY
+http://etvhosting.xyz:8080/Rottie/LucyLiu/25255
+
+
+#EXTINF:-1,group-title="BAMBINI",NICK JR
+http://213.174.8.7:9100/index.m3u8
+#EXTINF:-1,group-title="BAMBINI",Cartoons 4U
+https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8
+#EXTINF:-1,group-title="BAMBINI",PEPPA PIG
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46178
+#EXTINF:-1,group-title="BAMBINI",DISNEY CHANNEL
+http://etvhosting.xyz:8080/Rottie/LucyLiu/19413
+#EXTINF:-1,group-title="BAMBINI",DISNEY JUNIOR HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/27785
+#EXTINF:-1,group-title="BAMBINI",DISNEY XD HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/27784
+#EXTINF:-1,group-title="BAMBINI",3ABN KIDS 
+https://3abn.sechls01.visionip.tv/live/visiontvuk-3abn-3-abn-kids-hsslive-25f-SD/index.m3u8
+#EXTINF:-1,group-title="BAMBINI",UK: NICK TOONS
+http://etvhosting.xyz:8080/Rottie/LucyLiu/27723
+#EXTINF:-1,group-title="BAMBINI",UK: NICK JR TOO
+http://etvhosting.xyz:8080/Rottie/LucyLiu/27725
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/188px-Ducktv-logo.jpg" group-title="BAMBINI", Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nickelodeon.uk.png" group-title="BAMBINI", Nickelodeon
+http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/150px-PBS_Kids_Logo.svg.png" group-title="BAMBINI", PBS Kids
+http://190.80.3.28/PBS/PBS.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Pop_%28UK_TV_channel%29_logo.png" group-title="BAMBINI", POP Kids
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="BAMBINI",TCT Kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EJHkFZY.png" group-title="CHRISTIAN TV",Caught-Up TV (NG)
+https://streaming.viewsat.eu/viewsatstream31/viewsatstream31.smil/chunklist_w99324512_b900000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/09SjzBB.png" group-title="CHRISTIAN TV",ACNN (NG)
+https://streaming.viewsat.eu/viewsatstream14/viewsatstream14.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iPmlvaj.png" group-title="CHRISTIAN TV",Divine Hand (NG)
+https://streaming.viewsat.eu/viewsatstream10/viewsatstream10.smil/chunklist.m3u8
+#EXTINF:-1,tvg-logo="http://vod.landiptv.live/files/t20.png",group-title="CHRISTIAN TV",Emmanuel TV
+http://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4oRRKxP.png" group-title="CHRISTIAN TV",African Broadcasting Network (NG)
+https://streaming.viewsat.eu/viewsatstream04/viewsatstream04.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OzDHzX.png" group-title="CHRISTIAN TV",Clearview TV (NG)
+https://arlie.castr.io/live_0da03430b2d211e98c034d9d566d4031/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xu12lWj.png" group-title="CHRISTIAN TV",KICC TV (GB)
+https://streaming.viewsat.eu/viewsatstream20/viewsatstream20.smil/playlist.m3u8
+#EXTINF:-1,group-title="CHRISTIAN TV",CFTV (Champions of Fire TV Nigeria) 
+http://109.169.48.7/hls-live/CFTV/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,tvg-id="FAITH TV" group-title="CHRISTIAN TV", FAITH TV
+https://aos001faithtv-live-hls.secure.footprint.net/faithtv/live/streamVideo750.m3u8
+#EXTINF:-1,group-title="CHRISTIAN TV",BRIDE TV
+https://streaming.viewsat.eu/viewsatstream13/viewsatstream13.smil/playlist.m3u8
+#EXTINF:-1,tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CHRISTIAN TV", LIBERATION TV
+https://streaming.viewsat.eu/viewsatstream11/viewsatstream11.smil/chunklist_w335873955_b900000.m3u8
+#EXTINF:-1,tvg-id="Loveworld Plus TV" group-title="CHRISTIAN TV", Loveworld Plus TV
+https://hls.live.metacdn.com/2450C7/bedkcjfty/lwplus_628.m3u8
+#EXTINF:-1,tvg-id="Resurrection TV" group-title="CHRISTIAN TV", Resurrection TV
+http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/playlist.m3u8
+http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist_w1696819076_b1500000.m3u8
+#EXTINF:-1,tvg-id="Chosen TV" group-title="CHRISTIAN TV", Chosen TV
+https://streaming.viewsat.eu/viewsatstream24/viewsatstream24.smil/playlist.m3u8
+#EXTINF:-1,tvg-id="Chosen TV" group-title="CHRISTIAN TV",SALVATION TV
+https://5b77aa17a748d.streamlock.net:1634/salvation/smil:live-hd-stream.smil/playlist.m3u8
+#EXTINF:-1,tvg-logo="http://dovevision.org/wp-content/uploads/2017/12/logo-1.png" group-title="CHRISTIAN TV",Dove TV
+https://streaming.viewsat.eu/viewsatstream03/viewsatstream03.smil/master.m3u8
+#EXTINF:-1,tvg-id="REVELATION TV" group-title="CHRISTIAN TV", REVELATION TV
+https://christianworld.sechls01.visionip.tv/live/visiontvuk-christianworld-revelationtv-hsslive-25f-16x9-SD/index.m3u8
+#EXTINF:-1,tvg-id="DUNAMIS TV" group-title="CHRISTIAN TV", DUNAMIS TV
+https://christianworld.sechls01.visionip.tv/live/visiontvuk-religion-dunamistv-SD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YwpDGTC.png" group-title="CHRISTIAN TV",Possibility TV (NG)
+http://mysisli.com/ds-damsky3stream/liveticker16/720p/chunklist.m3u8
+#EXTINF:-1,tvg-id="DUNAMIS TV" group-title="CHRISTIAN TV",FOURSQUARE TV
+https://streaming.viewsat.eu/viewsatstream33/viewsatstream33.smil/playlist.m3u8
+#EXTINF:-1,tvg-id="DUNAMIS TV" group-title="CHRISTIAN TV",HIS PRESENCE TV
+https://streaming.viewsat.eu/viewsatstream36/viewsatstream36.smil/playlist.m3u8
+#EXTINF:-1,tvg-id="DUNAMIS TV" group-title="CHRISTIAN TV",BROTHER FIRE TV
+https://streaming.viewsat.eu/viewsatstream37/viewsatstream37.smil/playlist.m3u8
+#EXTINF:-1,tvg-id="Spirit TV" group-title="CHRISTIAN TV", Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1,tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CHRISTIAN TV",More Grace Television
+http://109.169.48.7/hls-live/MGTV/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,tvg-id="GoodnewS GoodnewS Television" group-title="CHRISTIAN TV", GoodnewS Television
+http://live.wmncdn.net/goodnews/live.stream/index.m3u8
+#EXTINF:-1,tvg-id="ACBN" group-title="CHRISTIAN TV",ACBN
+http://moses.videocdn.scaleengine.net/moses-live/play/acbnlive/chunklist_w1094216934.m3u8
+#EXTINF:-1,tvg-id="" group-title="CHRISTIAN TV",LOVE WORLD USA
+https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/index_2328_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,group-title="CHRISTIAN TV",OPM
+https://streaming.viewsat.eu/viewsatstream06/viewsatstream063/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",YANGA TV
+https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-yanga-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",ZEE WORLD
+http://pockettv.xyz/api/zee.m3u8?c=world
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2018/11/150X150-1.png" group-title="AFRICA MOVIE AND ENTERTAINMENT",African Cinema*
+https://stream.ecable.tv/africancine/index.m3u8
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",Women Exercises
+http://mysisli.com/36bay2/gin/giniko_womexerc_1000kb_36bay2/index.m3u8
+#EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="AFRICA MOVIE AND ENTERTAINMENT",ROK
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45643
+https://stream.ecable.tv/rok/index.m3u8
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",MIAMI TV
+http://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",KITCHEN HACKS
+http://mysisli.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",FTV
+http://ott-cdn.ucom.am/s31/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/34.jpg" group-title="AFRICA MOVIE AND ENTERTAINMENT",FASHION ONE
+http://mysisli.com/36bay2/gin/giniko_fashionone_800kb_36bay2/index.m3u8
+
+
+#EXTINF:-1,tvg-logo="https://myspirit.tv/wp-content/uploads/2017/01/SpiritLogoFull244x86.png",group-title="AFRICA MUSIC", Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/333_1557515892_250.jpg",group-title="AFRICA MUSIC",AsSalt TV
+https://stream.ecable.tv/asstv/index.m3u8
+#EXTINF:-1,group-title="AFRICA MUSIC",BOOM TV
+http://stream.ecable.tv:9080/boom/index.m3u8
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/51_1550569898_250.jpg" group-title="AFRICA MUSIC",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",AFRICA GOSPEL
+rtmp://webtvonlive.vedge.infomaniak.com/livecast/teststream
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE GOSPEL
+http://d2ktlibtvvj8vp.cloudfront.net:80/trace_gospel/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE GOSPEL**
+http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE NAIJA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+http://dmitry-tv.ru/his/CH_TRACE_NAIJAHD_720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE AFRICA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE TROPICAL
+http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE KITOKO
+http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE URBAN
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/4/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE REGGAE
+http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_reggae-midfi.aac
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/292_1553026485_250.jpg",group-title="AFRICA MUSIC",Reggae Vibes
+http://stream.ecable.tv:9080/rvibes/index.m3u8
+#EXTINF:-1,group-title="AFRICA MUSIC",DBM
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist_w300555392.m3u8
+
+
+#EXTINF:-1,tvg-logo="http://musicchoice.com/wp-content/uploads/2018/05/og_image.png",group-title="MTV MUSIC",MC Play
+http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/master.m3u8
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunks.m3u8
+
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV LIVE HD*
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27731.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV HITS*
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27732.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV DANCE*
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27734.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV HD*
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27733.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV CLASSIC*
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27735.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV BASE*
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27736.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV MUSIC UK
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27730.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV OMG
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27729.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV ROCKS
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27728.m3u8
+
+
+#EXTINF:-1,tvg-logo="https://static-media.streema.com/media/cache/b7/8a/b78a3c3cf07506b44690549e1fee533f.jpg",group-title="CHRISTIAN MUSIC TV & RADIO",Black Gospel 
+http://stream.trace.tv/trace_playlist_gospel-midfi.aac
+#EXTINF:-1,group-title="CHRISTIAN MUSIC TV & RADIO",CBN RADIO (PRAISE)
+https://streams.cbnradio.com/praise-128K?
+#EXTINF:-1,group-title="CHRISTIAN MUSIC TV & RADIO",CBN RADIO (GOSPEL)
+https://streams.cbnradio.com/gospel-128K?
+#EXTINF:-1,group-title="CHRISTIAN MUSIC TV & RADIO",LoveWorld Radio Australia
+http://stream.radio.co/s0a970f188/listen
+#EXTINF:-1,group-title="CHRISTIAN MUSIC TV & RADIO",Gospel Hits
+http://hestia.cdnstream.com/1627_128
+#EXTINF:-1,group-title="CHRISTIAN MUSIC TV & RADIO",GPraise
+http://ice.zradio.org/g/high.mp3
+#EXTINF:-1,group-title="CHRISTIAN MUSIC TV & RADIO",PRAISE 106.5
+http://crista-kwpz.streamguys1.com/kwpzmp3
+#EXTINF:-1,group-title="CHRISTIAN MUSIC TV & RADIO",KBCN PRAISE
+http://my.radiolize.com/radio/8370/radio.mp3
+#EXTINF:-1,group-title="CHRISTIAN MUSIC TV & RADIO",CONTEMPORARY MUSIC
+http://icecast.allworship.com/contemporary
+#EXTINF:-1,group-title="CHRISTIAN MUSIC TV & RADIO",PRAISE AND WORSHIP
+http://icecast.allworship.com/praise
+http://s4.myradiostream.com:4252/listen.mp3
+#EXTINF:-1,group-title="CHRISTIAN MUSIC TV & RADIO",Prayer Power Radio
+http://158.69.38.194:8130/;stream/1
+
+
+
+
+#EXTINF:-1,group-title="RADIO FM",AFRO VIBES
+http://209.126.119.76:8356/stream
+#EXTINF:-1,group-title="RADIO FM",REGGAE MUSIC
+http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_reggae-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",WIZKID
+http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_wizkid-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",BEACH PARTY
+http://stream.trace.tv/trace_playlist_beachparty-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",SUMMER JAM
+http://stream.trace.tv/trace_playlist_hotsummer-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",ALTERNATIVE R&B
+http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_alternative_rnb-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",HIP HOP USA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_hiphop-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",R&B DIVAS
+http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_rnb_divas-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",GUILTY PLEASURE
+http://stream.trace.tv/trace_playlist_guiltypleasure-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",NIGHT MOOD
+http://stream.trace.tv/trace_playlist_nightmood-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",STRIP CLUB
+http://stream.trace.tv/trace_playlist_stripclub-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",SOUL MUSIC
+http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_soul-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",LOVE MUSIC
+http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_love-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",SEXUAL HEALING MUSIC
+http://stream.trace.tv/trace_playlist_sexualhealing-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",OLD SCHOOL R&B MUSIC
+http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_rnb_oldschool-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",GOOD VIBES ONLY
+http://stream.trace.tv/trace_playlist_goodvibesonly-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",HOME COCOONING
+http://stream.trace.tv/trace_playlist_homecocooning-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",EASY MORNING
+http://stream.trace.tv/trace_playlist_easymorning-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",AFRO CLASSICS
+http://stream.trace.tv/trace_playlist_afro_classics-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",HEART BREAK
+http://stream.trace.tv/trace_playlist_heartbreaker-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",SLEEP WELL
+http://stream.trace.tv/trace_playlist_sleepwell-midfi.aac
+#EXTINF:-1,group-title="RADIO FM",104.9 The River
+http://stream.riverradio.com:8000/wcvofm.mp3
+#EXTINF:-1,group-title="RADIO FM",POSITIVE LIFE RADIO
+http://173.244.209.143:8162/live
+#EXTINF:-1,group-title="RADIO FM",Smooth FM 98.1 NG
+http://smoothlive.smooth981.fm:8000/smoothlivefm128
+#EXTINF:-1,group-title="RADIO FM",City 105.1 FM NG
+http://edge.mixlr.com/channel/hqpry
+#EXTINF:-1,group-title="RADIO FM",Metro 97.7 FM NG
+http://162.241.33.182:7668/;
+#EXTINF:-1,group-title="RADIO FM",Naija FM
+http://naijafmlagos.atunwadigital.streamguys1.com/naijafmlagos
+#EXTINF:-1,group-title="RADIO FM",Cool FM 96.9 Lagos
+http://node-26.zeno.fm/a4mzh0n1v8quv?rj-ttl=5&rj-tok=AAABbjd9SjUAb3wKiPXzSJnKLg
+#EXTINF:-1,group-title="RADIO FM",(Naija)MAX 102.3 FM
+http://maxfm1023.thrilliant.com.ng:9193/stream%E2%80%8B
+#EXTINF:-1,group-title="RADIO FM",(Naija)234Radio
+http://streaming.radio.co/s7f3695a64/listen
+#EXTINF:-1,group-title="RADIO FM",Urban Hitz Radio
+http://s25.myradiostream.com:14158/;
+#EXTINF:-1,group-title="RADIO FM",The Rap MIXX
+http://ais-sa2.cdnstream1.com/1988_128.mp3
+#EXTINF:-1,group-title="RADIO FM",Boss Radio 60s Songs
+http://204.77.222.2:8098/stream
+#EXTINF:-1,group-title="RADIO FM",80s
+http://fluxfm.hoerradar.de/flux-80er-mp3-hq?sABC=5qp08770%230%235q1s3rs0336on8ppq715pr945q5qs66o%23gharva&amsparams=playerid:tunein;skey:1572898672
+#EXTINF:-1,group-title="RADIO FM",The Big 80s Station
+http://s5.nexuscast.com:8065/;
+#EXTINF:-1,group-title="RADIO FM",ENERGY Hits 90
+http://185.52.127.172/de/56246/mp3_128.mp3
+#EXTINF:-1,group-title="RADIO FM",IP music SLOW
+http://live7.avf.ch:8000/ipmusicslow320
+#EXTINF:-1,group-title="RADIO FM",RetroRadio.FM - Smooth Easy Hits
+http://ams-2.1radio.mk/1709_128
+#EXTINF:-1,group-title="RADIO FM",POSITVITY EASY
+http://ample-15.radiojar.com/d90sb07byuquv?rj-ttl=5&rj-tok=AAABbjdqKPwAiVjcGF8ASR__Nw
+#EXTINF:-1,group-title="RADIO FM",181.FM Mellow Gold
+http://listen.181fm.com/181-mellow_128k.mp3?noPreRoll=true
+#EXTINF:-1,group-title="RADIO FM",Old School 104.7
+http://ice10.securenetsystems.net/KQIE2
+#EXTINF:-1,group-title="RADIO FM",181.FM True R&B
+http://listen.181fm.com/181-rnb_128k.mp3?noPreRoll=true
+#EXTINF:-1,group-title="RADIO FM",GotRadio Bit O Blues
+http://pureplay.cdnstream1.com/6019_128.mp3
+#EXTINF:-1,group-title="RADIO FM",RADIO PARADISE
+http://stream-tx3.radioparadise.com/mp3-192
+#EXTINF:-1,group-title="RADIO FM",HEART UK
+http://media-ice.musicradio.com/HeartDorset
+#EXTINF:-1,group-title="RADIO FM",CAPITAL FM
+http://vis.media-ice.musicradio.com/CapitalUK
+#EXTINF:-1,group-title="RADIO FM",RnB HIP HOP (NAIJA)
+http://192.99.41.102:5429/;
+#EXTINF:-1,group-title="RADIO FM",GOTRADIO
+http://pureplay.cdnstream1.com/6024_128.mp3
+#EXTINF:-1,group-title="RADIO FM",THE SOUL
+http://65.60.5.207/proxy/wosrdb?mp=/stream
+#EXTINF:-1,tvg-logo="https://cdn-profiles.tunein.com/s174310/images/logoq.png?t=155368",group-title="RADIO FM",(101.1)THE FAM DIGITAL RADIO
+http://107.181.227.250:8118/stream
+#EXTINF:-1,group-title="RADIO FM",Reggae Airways
+http://76.164.217.100:7059/stream
+#EXTINF:-1,group-title="RADIO FM",DANCEHALL LINK
+https://streamer.radio.co/s30d82be5e/listen
+#EXTINF:-1,group-title="RADIO FM",Reggae Trade Radio
+http://strm112.1.fm/reggae_mobile_mp3
+#EXTINF:-1,group-title="RADIO FM",RASTFM
+http://108.59.11.81:8255/;
+
+
+#EXTINF:-1,group-title="NIGERIA",ARISE NEWS
+https://news.sechls01.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/channels_tv_ng_24.png",group-title="NIGERIA",CHANNELS 24
+https://stream.ecable.tv/channels/index.m3u8
+http://31.24.228.207:1935/live/mobile_240p/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/channels_tv_ng_24.png",group-title="NIGERIA",CHANNELS 24*
+http://31.24.231.140/mchannels/channelstv_hd.m3u8
+http://edge1.cdn.tvnow.ids-africa.com/mchannels/channelstv_hi.m3u8
+
+#EXTINF:-1,tvg-logo="http://www.iafrica.tv/ics/uploads/NTAi248x2351.png" group-title="NIGERIA", NTAi*
+https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-ntai-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1,tvg-logo="http://www.iafrica.tv/ics/uploads/NTAi248x2351.png" group-title="NIGERIA", NTAi
+http://mysisli.com/36bay2/gin/giniko_ntaint_900kb_36bay2/index.m3u8
+#EXTINF:-1,tvg-logo="http://212.8.253.112/logo/AFRICA/TVCNEWS.png",group-title="NIGERIA",TVC NEWS
+https://stream.ecable.tv/tvc/index.m3u8
+#EXTINF:-1,tvg-logo="http://212.8.253.112/logo/AFRICA/BEN.png",group-title="NIGERIA",BEN
+https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-bentv-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1,tvg-logo="http://212.8.253.112/logo/AFRICA/BEN.png",group-title="NIGERIA",BEN TV
+http://bentv.ashttp9.visionip.tv/live/bentv-bentv-bentv-hsslive-25f-4X3-SD/chunklist.m3u8
+http://stream.ecable.tv:9080/ben/index.m3u8
+#EXTINF:-1,tvg-logo="" group-title="NIGERIA",LAGOS TV
+http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
+#EXTINF:-1,tvg-logo="",group-title="NIGERIA",VOA
+https://stream.ecable.tv/voxafricauk/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/81.jpeg",group-title="NIGERIA",VOA
+http://mysisli.com/36bay2/gin/giniko_voxafrica_900kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-logo="http://voxafrica.com/wp-content/uploads/2016/10/logo-screen.png" group-title="NIGERIA",Vox Africa
+http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist.m3u8
+https://stream.ecable.tv/voxafrica/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/ait_international.png",group-title="NIGERIA",AIT
+http://stream.ecable.tv:9080/ait/index.m3u8
+#EXTINF:-1,tvg-logo="",group-title="NIGERIA",GN TV
+https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-gntv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1,tvg-logo="",group-title="NIGERIA",NEWS CENTRAL
+https://news.sechls01.visionip.tv/live/visiontvuk-news-newscentral-hsslive-25f-SDq/chunklist.m3u8
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/266_1551611564_250.jpg",group-title="NIGERIA",Arewa24
+http://stream.ecable.tv:9080/arewa24/index.m3u8
+#EXTINF:-1,tvg-logo="" group-title="NIGERIA",SPORTS TONIGHT
+https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1,tvg-logo="" group-title="NIGERIA",AFROVIBES RADIO
+http://209.126.119.76:8356/stream
+#EXTINF:-1,tvg-logo="",group-title="NIGERIA",SPOT LIGHT
+https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+
+
+#EXTINF:-1,tvg-logo="" group-title="GHANA",MAX TV
+https://stream.ecable.tv/maxtv/index.m3u8
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/joy_news_gh.png",group-title="GHANA",Joy News
+http://stream.ecable.tv:9080/joynews/index.m3u8
+#EXTINF:-1,group-title="GHANA",Joy News*
+https://bk7l2g37dx53-hls-live.5centscdn.com/joynews/72781e965e0681e980034a778ee7067b.sdp/index.m3u8
+http://stream.ecable.tv:9080/joynews/index.m3u8
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/joy-prime-gh.png",group-title="GHANA",Joy Prime
+https://stream.ecable.tv/joyprime/index.m3u8
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/tv3_gh.png",group-title="GHANA",TV3 
+https://stream.ecable.tv/tv3/index.m3u8
+#EXTINF:-1,group-title="GHANA",VOA AFRICA
+http://mysisli.com/36bay2/gin/giniko_voxafrica_900kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="GHANA",VOA UK
+https://stream.ecable.tv/voxafricauk/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="GHANA",GHANA TV
+https://stream.ecable.tv/ghanatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2018/02/united_tv_gh.png",group-title="GHANA",United TV
+http://stream.ecable.tv:9080/utv/index.m3u8
+#EXTINF:-1,group-title="GHANA",CITI TV
+https://stream.ecable.tv/citi/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="GHANA",abn TV 
+http://stream.ecable.tv:9080/abntv/index.m3u8
+#EXTINF:-1,group-title="GHANA",ATINKA TV
+https://stream.ecable.tv/atinka/index.m3u8
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2018/01/adom_tv_gh.png",group-title="GHANA",ADOM
+http://stream.ecable.tv:9080/adom/index.m3u8
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2018/01/adom_tv_gh.png",group-title="GHANA",ADOM*
+https://bk7l2g37dx53-hls-live.5centscdn.com/adom/5b97b7d64a64c7cd54c18b07e93570a1.sdp/index.m3u8
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/12/citizen_tv_ke.png",group-title="GHANA",CITIZEN
+https://vidhttps.r.worldssl.net/citizentv-origin/liveabr/citizentv-origin/live2/chunks.m3u8
+https://stream.ecable.tv/citizen/index.m3u8
+#EXTINF:-1,group-title="GHANA",GTV Sports+
+https://stream.ecable.tv/gtvsp/index.m3u8
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/kessben_tv_gh.png",group-title="GHANA",KESSBEN TV
+https://stream.ecable.tv/kessben/index.m3u8
+#EXTINF:-1,group-title="GHANA",AGOO TV
+https://stream.ecable.tv/agoo/index.m3u8
+#EXTINF:-1,group-title="GHANA",PAN AFRICA
+https://stream.ecable.tv/panafrica/index.m3u8
+#EXTINF:-1,group-title="GHANA",KWESE
+https://stream.ecable.tv/kwese/index.m3u8
+#EXTINF:-1,group-title="GHANA",Royal TV
+https://stream.ecable.tv/royaltv/index.m3u8
+#EXTINF:-1,group-title="GHANA",TV XYZ
+https://stream.ecable.tv/tvxyz/index.m3u8
+#EXTINF:-1,group-title="GHANA",ANGEL TV
+https://stream.ecable.tv/angel/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="GHANA",SWEET TV
+https://stream.ecable.tv/sweettv/index.m3u8
+#EXTINF:-1,group-title="GHANA",SAM TV
+https://streaming.viewsat.eu/viewsatstream22/viewsatstream22.smil/playlist.m3u8
+EXTINF:-1,tvg-logo="https://cdn-radiotime-logos.tunein.com/s158507q.png",group-title="GHANA",GHRadio1
+http://radioservers.biz:9946/;
+#EXTINF:-1,tvg-logo="https://cdn-profiles.tunein.com/s228220/images/logoq.jpg?t=155552",group-title="GHANA",ATINKA fM
+http://node-31.zeno.fm/kecxxgxyd0quv?rj-ttl=5&rj-tok=AAABb1MiSSQAXW_HZ7v9ktKbeA
+#EXTINF:-1,tvg-logo="https://cdn-profiles.tunein.com/s7540/images/logoq.png?t=152102,group-title="GHANA",JOY FM
+http://mmg.streamguys1.com/JoyFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f
+#EXTINF:-1,group-title="GHANA",ADOM FM TV 
+http://adomtv.atunwadigital.streamguys1.com/adomtv
+#EXTINF:-1,tvg-logo="https://cdn-profiles.tunein.com/s81890/images/logoq.png?t=152102",group-title="GHANA",ADOM FM
+http://mmg.streamguys1.com/AdomFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f
+#EXTINF:-1,tvg-logo="https://cdn-profiles.tunein.com/s47684/images/logoq.png?t=154642"group-title="GHANA",PEACE FM
+http://peacefm.atunwadigital.streamguys1.com/peacefm
+#EXTINF:-1,tvg-logo="https://cdn-profiles.tunein.com/s89189/images/logoq.png?t=152102"group-title="GHANA",ASEMPA FM
+http://mmg.streamguys1.com/AsempaFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f
+#EXTINF:-1,group-title="GHANA",ATL FM 100.5
+http://sirius.shoutca.st:8971/stream
+#EXTINF:-1,group-title="GHANA",BOHYE 95.3 FM
+http://node-24.zeno.fm/qdpch13x5f5tv?rj-ttl=5&rj-tok=AAABbmwPLB8AMjKaAuksaeD_yw
+#EXTINF:-1,group-title="GHANA",GhanaSky FM
+http://198.7.63.116:8028/;ghanasky
+#EXTINF:-1,group-title="GHANA",Koowaa FM
+http://the.radioservers.biz:9852/;
+#EXTINF:-1,group-title="GHANA",OFM RADIO
+http://198.7.63.116:8028/;ofmtv
+#EXTINF:-1,group-title="GHANA",SPICE 91.9
+http://sp0001.letslink.pro:8006/stream
+
+
+
+
+#EXTINF:-1,group-title="IVORY COAST",RTI 1
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/chunklist.m3u8
+#EXTINF:-1,group-title="IVORY COAST",RTI 2
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/chunklist.m3u8
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/ORTM.png",group-title="IVORY COAST",ORTM MALI
+http://mysisli.com/36bay2/gin/giniko_ortm_800kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="IVORY COAST",CHERIFLA TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45545
+#EXTINF:-1,group-title="IVORY COAST", TRACE AFRICA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
+#EXTINF:-1,group-title="IVORY COAST",AFRICA GOSPEL
+rtmp://webtvonlive.vedge.infomaniak.com/livecast/teststream
+#EXTINF:-1,group-title="IVORY COAST",VIBE RADIO COTE D'IVOIRE
+http://217.182.132.143:8000/viberadio-ci.mp3
+#EXTINF:-1,group-title="IVORY COAST",TVT
+https://stream.ecable.tv/tvt/index.m3u8
+#EXTINF:-1,group-title="IVORY COAST",Tele 50
+https://stream.ecable.tv/tele50/index.m3u8
+#EXTINF:-1,group-title="IVORY COAST",RTNC
+https://stream.ecable.tv/rtnc/index.m3u8
+#EXTINF:-1,group-title="IVORY COAST",ORTB TV
+https://stream.ecable.tv/ortb/index.m3u8
+#EXTINF:-1,group-title="IVORY COAST",RTB TV
+https://stream.ecable.tv/rtb/index.m3u8
+#EXTINF:-1,group-title="IVORY COAST",DIGITA CONGO TV
+https://stream.ecable.tv/dcc/index.m3u8
+#EXTINF:-1,group-title="IVORY COAST",BF1
+https://stream.ecable.tv/bf1/index.m3u8
+
+#EXTINF:-1,tvg-logo="",group-title="CAMEROUN",Pan Africa
+https://stream.ecable.tv/panafrica/index.m3u8
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/311_1551612734_250.jpg",group-title="CAMEROUN",EQUINOXE*
+https://stream.ecable.tv/equinox/index.m3u8
+http://iptv6.premium-stv.com:25461/afriquepro1gsqeg532/4685466531422/919
+#EXTINF:-1,group-title="CAMEROUN",CRTV
+https://stream.ecable.tv/crtv/index.m3u8
+#EXTINF:-1,group-title="CAMEROUN",CRTV*
+https://stream-14.dc3.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql565ysupamtfQVpYkp7svCKRTg)/dm/3/x7otnk4/s/live-3.m3u8
+
+
+#EXTINF:-1,group-title="CAMEROUN", TRACE AFRICA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
+
+#EXTINF:-1,group-title="CAMEROUN",AFTRICA GOSPEL
+rtmp://webtvonlive.vedge.infomaniak.com/livecast/teststream
+#EXTINF:-1,group-title="CAMEROUN",CANAL 2 MOVIE
+https://stream.ecable.tv/canal2movie/index.m3u8
+#EXTINF:-1,group-title="CAMEROUN",CANAL 2 ENGLISH
+https://stream.ecable.tv/canal2eng/index.m3u8
+#EXTINF:-1,group-title="CAMEROUN",CANAL2 INTER
+http://stream.ecable.tv/canal2movie/index.m3u8
+#EXTINF:-1,group-title="CAMEROUN",VISION 4
+https://stream.ecable.tv/vision4/index.m3u8
+#EXTINF:-1,group-title="CAMEROUN",VISION 4*
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1,group-title="CAMEROUN",BF1
+https://stream.ecable.tv/bf1/index.m3u8
+#EXTINF:-1,group-title="CAMEROUN",ROK
+http://iptv6.premium-stv.com:25461/sourceafriquepro2/8625874572/849
+#EXTINF:-1,group-title="CAMEROUN",BOOM TV
+https://stream.ecable.tv:9080/boom/index.m3u8
+#EXTINF:-1,group-title="CAMEROUN",GTV Sports+
+https://stream.ecable.tv/gtvsp/index.m3u8
+#EXTINF:-1,group-title="CAMEROUN",STV
+https://stream.ecable.tv/stv/index.m3u8
+#EXTINF:-1,group-title="CAMEROUN",Tele 50
+https://stream.ecable.tv/tele50/index.m3u8
+#EXTINF:-1,group-title="CAMEROUN",RTNC
+https://stream.ecable.tv/rtnc/index.m3u8
+#EXTINF:-1,group-title="CAMEROUN",Francophonie 24
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1,group-title="CAMEROUN",CONSO TV AFRIQUE
+http://connectiktv.ddns.net:5000/consotv/consotv/chunklist.m3u8
+#EXTINF:-1,group-title="CAMEROUN",DREAM CHANNEL
+http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8
+#EXTINF:-1,group-title="CAMEROUN",TCV
+http://videos.nosi.cv/live/smil:tcvlive.smil/chunklist_w638628307_b25128000_sleng.m3u8
+#EXTINF:-1,group-title="CAMEROUN",RTGA
+https://stream.ecable.tv/rtga/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="CAMEROUN",KIN 24
+https://stream.ecable.tv/kin24/index.m3u8
+#EXTINF:-1,group-title="CAMEROUN",TVT
+https://stream.ecable.tv/tvt/index.m3u8
+
+
+
+#EXTINF:-1,group-title="SENEGAL", TRACE AFRICA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
+#EXTINF:-1,group-title="SENEGAL",IIPC TV
+http://mysisli.com/36bay2/gin/giniko_iipctv_800kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",GAMBIA: QTV
+https://stream.ecable.tv/qtv/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",CANAL 2 MOVIE
+https://stream.ecable.tv/canal2movie/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",CANAL2 INTER
+https://stream.ecable.tv/canal2movie/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",BF1
+https://stream.ecable.tv/bf1/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",TFM
+https://stream.ecable.tv/tfm/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",TFM Senegal
+http://mysisli.com/36bay2/gin/giniko_tfm_900kb_36bay2/index.m3u8
+http://bozztv.com/36bay2/gin/giniko_tfm_900kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",RTS 1
+http://mysisli.com/36bay2/gin/giniko_rts1_900kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",TFM RELIGION
+https://stream.ecable.tv/tfmreligion/tracks-v1a1/mono.m3u8
+https://stream.ecable.tv/tfmreligion/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",TMC: Ai2musique
+http://162.212.178.131:1935/live/Ai2tvmusique/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",M6
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/49166
+http://163.172.43.207:8081/m6/live/chunks.m3u8
+#EXTINF:-1,group-title="SENEGAL",2S TV
+http://stream.ecable.tv:9080/2stv/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",AF: A2i TV
+http://162.212.178.131:1935/live/Ai2tv/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",TELE MUSIC SENEGAL
+http://live.telemusik.live:1935/rezopropartner_1/rezopropartner_1/.m3u8
+#EXTINF:-1,group-title="SENEGAL",FRANCE 24
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1,group-title="SENEGAL",TV5 MONDE INFO
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",TVT
+https://stream.ecable.tv/tvt/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",Tele 50
+https://stream.ecable.tv/tele50/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",RTNC
+https://stream.ecable.tv/rtnc/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",Francophonie 24
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1,group-title="SENEGAL",AFRIQUE MEDIA
 http://stream.ecable.tv:9080/afm/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",TV5 MONDE
+http://188.35.9.11:21121/udp/175d
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/266_1551611564_250.jpg",group-title="SENEGAL",Arewa24
+#EXTINF:-1,group-title="SENEGAL",CONSO TV AFRIQUE
+http://connectiktv.ddns.net:5000/consotv/consotv/chunklist.m3u8
+#EXTINF:-1,group-title="SENEGAL",DREAM CHANNEL
+http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8
+#EXTINF:-1,group-title="SENEGAL",Francophonie 24
+http://mv2.tvfrancophonie.org/live/Stream1/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",TRACE URBAN
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+#EXTINF:-1,group-title="SENEGAL",RTS2
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45553
 #EXTINF:-1,group-title="SENEGAL",RTS1
-http://stream.ecable.tv:9080/rts1/index.m3u8
-#EXTINF:-1,group-title="SENEGAL",AF: A2i TV
-http://162.212.178.131:1935/live/Ai2tv/chunklist_w166709358.m3u8
-#EXTINF:-1,group-title="SENEGAL",Mouride tv
-rtmp://162.212.178.131/Livemouridetv/mouridetv
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45554
 #EXTINF:-1,group-title="SENEGAL",TFM
-http://stream.ecable.tv:9080/tfm/index.m3u8
-#EXTINF:-1,group-title="SENEGAL",rts1
-http://mysisli.com/36bay2/gin/gin-rts1/index.m3u8
-#EXTINF:-1,group-title="SENEGAL",tfm
-http://mysisli.com/36bay2/gin/gin-tfm/index.m3u8
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45555
+#EXTINF:-1,group-title="SENEGAL",TFM RELIGIONS
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45556
+#EXTINF:-1,group-title="SENEGAL",7TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45557
+#EXTINF:-1,group-title="SENEGAL",DTV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45558
+#EXTINF:-1,group-title="SENEGAL",SEN TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45559
+#EXTINF:-1,group-title="SENEGAL",WALF
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45560
+#EXTINF:-1,group-title="SENEGAL",MOURIDE TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45561
+#EXTINF:-1,group-title="SENEGAL",MUSIC TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45562
+#EXTINF:-1,group-title="SENEGAL",SERIE SN
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45563
+#EXTINF:-1,group-title="SENEGAL",ASFIYAHI TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45564
+#EXTINF:-1,group-title="SENEGAL",D24
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45565
+#EXTINF:-1,group-title="SENEGAL",TOUBA TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45566
+#EXTINF:-1,group-title="SENEGAL",RDV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45567
+#EXTINF:-1,group-title="SENEGAL",D5 TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45568
+#EXTINF:-1,group-title="SENEGAL",TMS
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45569
+#EXTINF:-1,group-title="SENEGAL",AL AZHAR TOUBA TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45570
+#EXTINF:-1,group-title="SENEGAL",BICHRI TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45571
+#EXTINF:-1,group-title="SENEGAL",A2I TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45572
+#EXTINF:-1,group-title="SENEGAL",A2I TV MUSIC
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45573
+#EXTINF:-1,group-title="SENEGAL",A2I TV RELIGION
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45574
+#EXTINF:-1,group-title="SENEGAL",AL MOURIDIYYAH TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45575
+#EXTINF:-1,group-title="SENEGAL",RTF TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45576
+#EXTINF:-1,group-title="SENEGAL",TNT EVENTS
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45577
+#EXTINF:-1,group-title="SENEGAL",TVS
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45578
+#EXTINF:-1,group-title="SENEGAL",TOUBA MONDEBI
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45579
+#EXTINF:-1,group-title="SENEGAL",DBS
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45580
+#EXTINF:-1,group-title="SENEGAL",MOURCHID TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45581
+#EXTINF:-1,group-title="SENEGAL",LOBS TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45582
+#EXTINF:-1,group-title="SENEGAL",IMEDIA TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45583
+#EXTINF:-1,group-title="SENEGAL",YELLY TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45584
+#EXTINF:-1,group-title="SENEGAL",LAMP FALL TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45585
+#EXTINF:-1,group-title="SENEGAL",AFRICA7 TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45586
+#EXTINF:-1,group-title="SENEGAL",RTJ
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45587
+#EXTINF:-1,group-title="SENEGAL",BANTAMBA TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45588
+#EXTINF:-1,group-title="SENEGAL",ASONGA TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45589
+#EXTINF:-1,group-title="SENEGAL",PEOPLE TV
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45590
+#EXTINF:-1,group-title="SENEGAL",SANGA NOVLAS
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45591
+#EXTINF:-1,group-title="SENEGAL",TELE-ECOLE
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45592
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" group-title="ITALY",Rai 1 (Opt-1)
+http://ott-cdn.ucom.am/s29/index.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" group-title="ITALY",Rai 1 (Opt-2)
+http://92.43.140.249/s29/04.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1200px-Rai_4_-_Logo_2016.svg.png" group-title="ITALY",Rai 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AHFUyxQ.png" group-title="ITALY",Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1280px-Rai_Movie_-_Logo_2017.svg.png" group-title="ITALY",Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1280px-Rai_News_24_-_Logo_2013.svg.png" group-title="ITALY",Rai News 24
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/1280px-Rai_Premium_-_Logo_2017.svg.png" group-title="ITALY",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/Rai_Südtirol.svg-0.png" group-title="ITALY",Rai Sudtirol (Switzerland)
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/POJxnLG.png" group-title="ITALY",Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LDcsCZC.png" group-title="ITALY",RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U5c8F0J.png" group-title="ITALY",Rete 4
+https://1.ip2stream.icu/live/rete_4_hd/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://alpitv.com/wp-content/uploads/2018/06/logo.png" group-title="ITALY",Rete Biella TV
+rtmp://sb.top-ix.org:1935/retebiella/streaming
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reggio_TV_logo.png" group-title="ITALY",ReggioTV
+https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EiIygb1.png" group-title="ITALY",Rei TV Sicilia
+https://ad.mysisli.com/live/ReiTv/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vClKdtx.png" group-title="ITALY",Rete Oro
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DoBLaA.png" group-title="ITALY",Reteconomy
+http://streaming.reteconomy.it/live/reteconomy/playlist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vvVgZN2.png" group-title="ITALY",Retesole Lazio
+http://5c389faa13be3.streamlock.net:1935/8058/8058/playlist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kEje57b.png" group-title="ITALY",Reteveneta
+https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pk5flAT.png" group-title="ITALY",RMK TV Sciacca
+http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mekD49a.png" group-title="ITALY",RMM Marche
+http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZtIFM2.png" group-title="ITALY",RTC Telecalabria
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAuAcpv.png" group-title="ITALY",RTC Quarta Rete
+http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmxfdmy.png" group-title="ITALY",RTL Radio
+https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/1200px-Logo_Radio_Televisione_Peloritana.svg.png" group-title="ITALY",RTP Sicilia
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmpQGTr.png" group-title="ITALY",RTR 99 Lazio
+https://57068da1deb21.streamlock.net/radiortr99/radiortr99/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/791293/logo_rtr.png" group-title="ITALY",RTTR TV Trento
+http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="ITALY",RTV (San Marino)
+https://dlxommsyqo2g0.cloudfront.net/smrtv-ch01/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="ITALY",RTV Sport (San Marino)
+https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="http://www.sardegna1.tv/wp-content/uploads/2015/07/logo.png" group-title="ITALY",Sardegna Uno
+https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="http://webtv.senato.it/application/xmanager/projects/leg17/img/home/logo_interne.gif" group-title="ITALY",Senato TV
+http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uKiiXXl.png" group-title="ITALY",Sicilia TV
+https://ad.mysisli.com/live/siciliatv/tracks-v1a1/mono.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OkIK1jS.png" group-title="ITALY",Siciliamedia TV
+http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
+ 
+
+
+#EXTINF:-1,group-title="FRANCIA",France -6TER HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47052
+#EXTINF:-1,group-title="FRANCIA",France -ALTICE STUDIO FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47053
+#EXTINF:-1,group-title="FRANCIA",France -ARTE HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47054
+#EXTINF:-1,group-title="FRANCIA",France -BE CURIOUS FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47055
+#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT 1 FR HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47056
+#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT 2 FR HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47057
+#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT 3 FR HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47058
+#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT-MAX-10FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47059
+#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT-MAX-4FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47060
+#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT-MAX-5FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47061
+#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT-MAX-6FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47062
+#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT-MAX-7FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47063
+#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT-MAX-8FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47064
+#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT-MAX-9FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47065
+#EXTINF:-1,group-title="FRANCIA",France -BET
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47066
+#EXTINF:-1,group-title="FRANCIA",France -BFM SPORT FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47068
+#EXTINF:-1,group-title="FRANCIA",France -BRAVA HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47069
+#EXTINF:-1,group-title="FRANCIA",France -CANAL  CINEMA HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47070
+#EXTINF:-1,group-title="FRANCIA",France -CANAL  DECALE HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47071
+#EXTINF:-1,group-title="FRANCIA",France -CANAL  FAMILY HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47072
+#EXTINF:-1,group-title="FRANCIA",France -CANAL  HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47073
+#EXTINF:-1,group-title="FRANCIA",France -CANAL  SERIES HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47074
+#EXTINF:-1,group-title="FRANCIA",France -CANAL  SPORT HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47075
+#EXTINF:-1,group-title="FRANCIA",France -CANAL J HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47076
+#EXTINF:-1,group-title="FRANCIA",France -CHASSE&PECHE HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47077
+#EXTINF:-1,group-title="FRANCIA",France -CINE  CLUB HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47078
+#EXTINF:-1,group-title="FRANCIA",France -CINE  EMOTION HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47079
+#EXTINF:-1,group-title="FRANCIA",France -CINE  FAMIZ HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47080
+#EXTINF:-1,group-title="FRANCIA",France -CINE  FRISSON HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47081
+#EXTINF:-1,group-title="FRANCIA",France -CRIME DISTRICT HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47083
+#EXTINF:-1,group-title="FRANCIA",France -DISCOVERY  FAMILY FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47084
+#EXTINF:-1,group-title="FRANCIA",France -DISCOVERY HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47085
+#EXTINF:-1,group-title="FRANCIA",France -DISCOVERY INVESTIGATION
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47086
+#EXTINF:-1,group-title="FRANCIA",France -DISCOVERY INVESTIGATION FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47087
+#EXTINF:-1,group-title="FRANCIA",France -DISCOVERY SCIENCE HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47088
+#EXTINF:-1,group-title="FRANCIA",France -DISNEY CHANNEL 1 FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47089
+#EXTINF:-1,group-title="FRANCIA",France -DISNEY CHANNEL HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47090
+#EXTINF:-1,group-title="FRANCIA",France -DISNEY CINEMA HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47091
+#EXTINF:-1,group-title="FRANCIA",France -E! ENTERTAINMENT HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47092
+#EXTINF:-1,group-title="FRANCIA",France -EQUIDIA LIFE HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47093
+#EXTINF:-1,group-title="FRANCIA",France -EQUIDIA LIVE HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47094
+#EXTINF:-1,group-title="FRANCIA",France -EURONEWS
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47095
+#EXTINF:-1,group-title="FRANCIA",France -EUROSPORT 1 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47096
+#EXTINF:-1,group-title="FRANCIA",France -EUROSPORT 2 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47097
+#EXTINF:-1,group-title="FRANCIA",France -FRANCE 2 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47098
+#EXTINF:-1,group-title="FRANCIA",France -FRANCE 3 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47099
+#EXTINF:-1,group-title="FRANCIA",France -FRANCE 4 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47100
+#EXTINF:-1,group-title="FRANCIA",France -FRANCE 5 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47101
+#EXTINF:-1,group-title="FRANCIA",France -FRANCE O HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47102
+#EXTINF:-1,group-title="FRANCIA",France -GAME ONE 1
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47103
+#EXTINF:-1,group-title="FRANCIA",France -GAME ONE HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47104
+#EXTINF:-1,group-title="FRANCIA",France -HISTOIRE HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47105
+#EXTINF:-1,group-title="FRANCIA",France -I24 NEWS HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47106
+#EXTINF:-1,group-title="FRANCIA",France -J.ONE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47107
+#EXTINF:-1,group-title="FRANCIA",France -MOTORSPORT.TV HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47108
+#EXTINF:-1,group-title="FRANCIA",France -MY CUISINE FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47109
+#EXTINF:-1,group-title="FRANCIA",France -NATIONAL GEO WILD HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47110
+#EXTINF:-1,group-title="FRANCIA",France -NATIONAL GEOGRAPHIC HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47111
+#EXTINF:-1,group-title="FRANCIA",France -NICKELODEON JUN
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47112
+#EXTINF:-1,group-title="FRANCIA",France -NRJ12 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47113
+#EXTINF:-1,group-title="FRANCIA",France -NUMERO 23 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47114
+#EXTINF:-1,group-title="FRANCIA",France -OCS CHOC FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47115
+#EXTINF:-1,group-title="FRANCIA",France -OCS CITY FHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47116
+#EXTINF:-1,group-title="FRANCIA",France -OCS GEANTS
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47117
+#EXTINF:-1,group-title="FRANCIA",France -OCS GEANTS HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47118
+#EXTINF:-1,group-title="FRANCIA",France -OL TV HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47119
+#EXTINF:-1,group-title="FRANCIA",France -PARAMOUNT CHANNEL HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47120
+#EXTINF:-1,group-title="FRANCIA",France -PARAMOUNT DECALE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47121
+#EXTINF:-1,group-title="FRANCIA",France -PIWI  HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47122
+#EXTINF:-1,group-title="FRANCIA",France -PLANETE  HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47123
+#EXTINF:-1,group-title="FRANCIA",France -PLANETE AE HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47124
+#EXTINF:-1,group-title="FRANCIA",France -PLANETE CI HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47125
+#EXTINF:-1,group-title="FRANCIA",France -POLAR  FULLHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47126
+#EXTINF:-1,group-title="FRANCIA",France -RFM TV HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47127
+#EXTINF:-1,group-title="FRANCIA",France -RTL9 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47128
+#EXTINF:-1,group-title="FRANCIA",France -SUNDANCE TV FULLHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47129
+#EXTINF:-1,group-title="FRANCIA",France -SYFY HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47130
+#EXTINF:-1,group-title="FRANCIA",France -TCM CINEMA HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47131
+#EXTINF:-1,group-title="FRANCIA",France -TFX HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47132
+#EXTINF:-1,group-title="FRANCIA",France -TMC 1
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47133
+#EXTINF:-1,group-title="FRANCIA",France -TMC HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47134
+#EXTINF:-1,group-title="FRANCIA",France -TOONAMI
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47135
+#EXTINF:-1,group-title="FRANCIA",France -TOUTE L'HISTOIRE HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47136
+#EXTINF:-1,group-title="FRANCIA",France -TRACE AFRICA FULLHD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47137
+#EXTINF:-1,group-title="FRANCIA",France -TRACE URBAN HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47138
+#EXTINF:-1,group-title="FRANCIA",France -TV BREIZH HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47139
+#EXTINF:-1,group-title="FRANCIA",France -USHUAIA TV HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47140
+#EXTINF:-1,group-title="FRANCIA",France -VOYAGE HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47141
+#EXTINF:-1,group-title="FRANCIA",France -W9 HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47142
+#EXTINF:-1,group-title="FRANCIA",France -WARNER TV
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47143
+#EXTINF:-1,group-title="FRANCIA",France -WEO HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/47144
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France24English.fr.png" group-title="FRANCIA",France 24
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/ARTE.fr.png"  group-title="FRANCIA",Arte
+http://163.172.43.207:8081/arte/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/BFMTV.fr.png"  group-title="FRANCIA",BFM 
+https://bcovlive-a.akamaihd.net/ad0bc848023a4ff28030dc2b02a718ad/eu-central-1/876450610001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/BFMBusiness.fr.png"  group-title="FRANCIA",BFM Business
+https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_BFM_Lyon_M%C3%A9tropole_2019.png"  group-title="FRANCIA",BFM Lyon
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_2008_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png"  group-title="FRANCIA",BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://www.bblackafrica.tv/wp-content/uploads/2018/02/les-logos-bblack-africa.png"  group-title="FRANCIA",BeBlack Africa
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.bblackafrica.tv/wp-content/uploads/2018/02/les-logos-bblack-caribbean-300x124.png"  group-title="FRANCIA",BeBlack Caribbean
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3784017_logo_beblack_classik.png"  group-title="FRANCIA",BeBlack Classik
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/C8.fr.png"  group-title="FRANCIA",C8
+http://163.172.43.207:8081/d8/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/CanalJ.fr.png"  group-title="FRANCIA",Canal J
+http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Cherie25.fr.png"  group-title="FRANCIA",Chérie 25
+http://163.172.43.207:8081/cherie25/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/CStar.fr.png"  group-title="FRANCIA",CStar
+http://163.172.43.207:8081/d17/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.cnews.fr/sites/all/themes/directmatinv4/cnews-logo.png"  group-title="FRANCIA",C News
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/42325
+http://163.172.43.207:8081/itele/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/CGTN_-_fran%C3%A7ais.png"  group-title="FRANCIA",CGTN Français
+http://220.158.149.28:8180/live/TV00000000000000000016@HHZT
+#EXTINF:-1 tvg-logo="https://www.d5tv.fr/fond-d5-v3.png"  group-title="FRANCIA",D5 TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lVdTSe78n3c/maxresdefault.jpg"  group-title="FRANCIA",EMCI TV Paris
+https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
+#EXTINF:-1 tvg-logo="http://languedutravail.org/sites/default/files/tv-francophonie_3.jpg"  group-title="FRANCIA",Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 tvg-logo="https://www.grandlille.tv/wp-content/uploads/2018/10/grand-lille-info-tv-logo.png" group-title="FRANCIA",Grand Lille TV 
+http://str81.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w1118883208_b1464000.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Gulli.fr.png" group-title="FRANCIA",Gulli
+http://163.172.43.207:8081/gulli/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.gongnetworks.com/images/logo.jpg" group-title="FRANCIA",Gong
+http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.gongnetworks.com/images/bt-gongmax-hover.jpg"  group-title="FRANCIA",Gong Max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://s2-ssl.dmcdn.net/hOONk/x1080-png/MAC.jpg"  group-title="FRANCIA",Isarel 24 Français
+https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1504905935/6907.png"  group-title="FRANCIA",La Chaine Normande
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.lci.fr/assets/images/logo_lci.png"  group-title="FRANCIA",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Mezzo.fr.png" group-title="FRANCIA",Mezzo
+http://92.43.140.249/s35/04.m3u8
+#EXTINF:-1 tvg-logo="https://www.monacochannel.mc/var/monaco/storage/images/media/monaco-channel/icones-chaines/logo-monaco-info-2018/5096065-2-fre-FR/Logo-Monaco-Info-2018_40x40.png" group-title="FRANCIA",Monaco Info
+http://46.105.34.238/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/NRJ12.fr.png" group-title="FRANCIA",NRJ 12
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/49191
+http://163.172.43.207:8081/nrj12/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/200px-RT-France-logo.svg.png" group-title="FRANCIA",RT français
+http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_T%C3%A9b%C3%A9o.svg/1200px-Logo_T%C3%A9b%C3%A9o.svg.png" group-title="FRANCIA",Tébéo
+https://live2.awedia.com/hls/tebeo_hi.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1.fr.png" group-title="FRANCIA",TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1SeriesFilms.fr.png" group-title="FRANCIA",TF1 Séries Films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TFX.fr.png" group-title="FRANCIA",TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TeleToonPlus.fr.png" group-title="FRANCIA",Télétoon
+http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TMC.fr.png" group-title="FRANCIA",TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="https://www.tv3v.fr/images/logo_tv3v.png" group-title="FRANCIA",TV3V
+https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TraceUrban.fr.png" group-title="FRANCIA",Trace Urban
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="FRANCIA",TV5 Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 tvg-logo="http://nowtv.now.com/shares/channelPreview/img/en_hk/color/ch713_170_122.jpg" group-title="FRANCIA",TV5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/d1202aa528842711efdfca7838e400e2.jpeg" group-title="FRANCIA",TV5 Europe
+http://ott-cdn.ucom.am/s75/04.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TV5MondeAsia.fr.png" group-title="FRANCIA",TV5 Maghreb-Orient
+http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
+#EXTINF:-1 tvg-logo="http://www.centraltv.fr/wp-content/uploads/tv7_colmar_fr.png" group-title="FRANCIA",TV7 Colmar
+http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvpi.fr/wp-content/themes/tvpi/images/logo-tvpi.jpg" group-title="FRANCIA",TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvr.bzh/sites/default/files/logo.png" group-title="FRANCIA",TVR Bretagne
+https://origin1.dvmr.fr/hls/tvr/tvr.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/via93.tv/wp-content/uploads/2018/01/logo-via93-TVM.jpg" group-title="FRANCIA",TVM Est parisien
+https://cineplume.vedge.infomaniak.com/livecast/cineplume/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/W9.fr.png" group-title="FRANCIA",W9
+http://163.172.43.207:8081/w9/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://televisiontma.pagesperso-orange.fr/Images/Logo-TMA-pour-annonceurs.png" group-title="FRANCIA",TMA Caraïbes
+http://hls.tmacaraibes.com/live/index.m3u8
+
+
+
+
+#EXTINF:-1,group-title="FOR ADULTS",JASMIN.TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",POV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1,group-title="FOR ADULTS",Dorcel TV (18+)
+http://188.35.9.11:21141/udp/214h
+#EXTINF:-1,group-title="FOR ADULTS",sun rise
+http://188.35.9.11:21051/udp/071l
+http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2
+
+#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 1
+http://etvhosting.xyz:8080/Rottie/LucyLiu/39905
+#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 10
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35484
+#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 11
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35514
+#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 12
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35510
+#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 14
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35522
+#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 16
+http://etvhosting.xyz:8080/Rottie/LucyLiu/34512
+#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 17
+http://etvhosting.xyz:8080/Rottie/LucyLiu/34517
+#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 2
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35453
+#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 4
+http://etvhosting.xyz:8080/Rottie/LucyLiu/34487
+#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 5
+http://etvhosting.xyz:8080/Rottie/LucyLiu/27978
+#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 6
+http://etvhosting.xyz:8080/Rottie/LucyLiu/34486
+#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 9
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35485
+#EXTINF:-1,group-title="FOR ADULTS",ADULT8
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35473
+#EXTINF:-1,group-title="FOR ADULTS",Blacked
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35524
+#EXTINF:-1,group-title="FOR ADULTS",Brazzers tv
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35523
+#EXTINF:-1,group-title="FOR ADULTS",DORCEL HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35518
+#EXTINF:-1,group-title="FOR ADULTS",Hot
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35520
+#EXTINF:-1,group-title="FOR ADULTS",Hustler HD
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35513
+#EXTINF:-1,group-title="FOR ADULTS",PLAYBOY CHANNEL
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35465
+#EXTINF:-1,group-title="FOR ADULTS",Porn
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35519
+#EXTINF:-1,group-title="FOR ADULTS",SCT
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35509
+#EXTINF:-1,group-title="FOR ADULTS",SIRINA
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35423
+#EXTINF:-1,group-title="FOR ADULTS",Taboo
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35459
+#EXTINF:-1,group-title="FOR ADULTS",XXX Stars
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35391
+#EXTINF:-1,XXX:Eye Candy
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35398
+#EXTINF:-1,XXX:In The Butt!
+http://etvhosting.xyz:8080/Rottie/LucyLiu/35393
+#EXTINF:-1,group-title="FOR ADULTS",Bangbros 1
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46635
+#EXTINF:-1,group-title="FOR ADULTS",Bad Teens Punished
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46641
+#EXTINF:-1,group-title="FOR ADULTS",DDF Network 1
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46642
+#EXTINF:-1,group-title="FOR ADULTS",DDF Network 2
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46643
+#EXTINF:-1,group-title="FOR ADULTS",DDF Network 3
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46644
+#EXTINF:-1,group-title="FOR ADULTS",Erotic
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46645
+#EXTINF:-1,group-title="FOR ADULTS",XXX3
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46646
+#EXTINF:-1,group-title="FOR ADULTS",Girls Way 1
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46648
+#EXTINF:-1,group-title="FOR ADULTS",Girls Way 2
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46649
+#EXTINF:-1,group-title="FOR ADULTS",Girls Way 3
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46650
+#EXTINF:-1,group-title="FOR ADULTS",Lesbian New Sensations 1
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46652
+#EXTINF:-1,group-title="FOR ADULTS",Lesbian New Sensations 2
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46653
+#EXTINF:-1,group-title="FOR ADULTS",Lesbian X-Art 1
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46654
+#EXTINF:-1,group-title="FOR ADULTS",Lesbian X-Art 2
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46655
+#EXTINF:-1,group-title="FOR ADULTS",Mad Sex Party 1
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46656
+#EXTINF:-1,group-title="FOR ADULTS",Mad Sex Party 2
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46657
+#EXTINF:-1,group-title="FOR ADULTS",Max XXX
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46658
+#EXTINF:-1,group-title="FOR ADULTS",Max XXX 2
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46659
+#EXTINF:-1,group-title="FOR ADULTS",MetArt Network 2
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46660
+#EXTINF:-1,group-title="FOR ADULTS",MetArt Network 3
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46661
+#EXTINF:-1,group-title="FOR ADULTS",Miami TV
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46662
+#EXTINF:-1,group-title="FOR ADULTS",MOFOS
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46663
+#EXTINF:-1,group-title="FOR ADULTS",Nubiles
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46665
+#EXTINF:-1,group-title="FOR ADULTS",Passie XXX
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46666
+#EXTINF:-1,group-title="FOR ADULTS",Penthouse Quickies
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46667
+#EXTINF:-1,group-title="FOR ADULTS",Perv Mom
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46668
+#EXTINF:-1,group-title="FOR ADULTS",Petite
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46669
+#EXTINF:-1,group-title="FOR ADULTS",Playboy TV
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46670
+#EXTINF:-1,group-title="FOR ADULTS",Porn Pros Network 2
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46671
+#EXTINF:-1,group-title="FOR ADULTS",Porn Pros Network 3
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46672
+#EXTINF:-1,group-title="FOR ADULTS",Radical Pass 2
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46673
+#EXTINF:-1,group-title="FOR ADULTS",Radical Pass 3
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46674
+#EXTINF:-1,group-title="FOR ADULTS",Reality Kings 1
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46675
+#EXTINF:-1,group-title="FOR ADULTS",Reality Kings 2
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46676
+#EXTINF:-1,group-title="FOR ADULTS",Shot Her First
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46677
+#EXTINF:-1,group-title="FOR ADULTS",Sirina
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46678
+#EXTINF:-1,group-title="FOR ADULTS",Sis Loves Me
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46679
+#EXTINF:-1,group-title="FOR ADULTS",Step Siblings Caught
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46680
+#EXTINF:-1,group-title="FOR ADULTS",Team Skeet 1
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46681
+#EXTINF:-1,group-title="FOR ADULTS",Team Skeet 2
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46682
+#EXTINF:-1,group-title="FOR ADULTS",VISIT-X
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46683
+#EXTINF:-1,group-title="FOR ADULTS",Vivid TV Europe
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46684
+#EXTINF:-1,group-title="FOR ADULTS",Vixen 1
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46685
+#EXTINF:-1,group-title="FOR ADULTS",Vixen 2
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46686
+#EXTINF:-1,group-title="FOR ADULTS",BIG ASS TUBE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46687
+#EXTINF:-1,group-title="FOR ADULTS",BIG DICK TUBE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46688
+#EXTINF:-1,group-title="FOR ADULTS",BIG TITS TUBE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46689
+#EXTINF:-1,group-title="FOR ADULTS",BLOWJOB TUBE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46690
+#EXTINF:-1,group-title="FOR ADULTS",CUCKOLD TUBE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46691
+#EXTINF:-1,group-title="FOR ADULTS",FETISH TUBE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46692
+#EXTINF:-1,group-title="FOR ADULTS",HARDCORE TUBE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46693
+#EXTINF:-1,group-title="FOR ADULTS",LATINA TUBE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46694
+#EXTINF:-1,group-title="FOR ADULTS",PORNSTAR TUBE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46695
+#EXTINF:-1,group-title="FOR ADULTS",POV TUBE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46696
+#EXTINF:-1,group-title="FOR ADULTS",RUSSIAN TUBE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46697
+#EXTINF:-1,group-title="FOR ADULTS",SHEMALE TUBE 1 (SD)
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46698
+#EXTINF:-1,group-title="FOR ADULTS",SHEMALE TUBE 1 (UHD)
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46699
+#EXTINF:-1,group-title="FOR ADULTS",SHEMALE TUBE 2 (SD)
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46700
+#EXTINF:-1,group-title="FOR ADULTS",SHEMALE TUBE 2 (UHD)
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46701
+#EXTINF:-1,group-title="FOR ADULTS",THREESOME TUBE
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46702
+#EXTINF:-1,group-title="FOR ADULTS",Porn Pros Network 1
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46703
+#EXTINF:-1,group-title="FOR ADULTS",MetArt Network 1
+http://etvhosting.xyz:8080/Rottie/LucyLiu/46704
