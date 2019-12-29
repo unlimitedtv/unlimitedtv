@@ -679,7 +679,8 @@ http://158.69.38.194:8130/;stream/1
 
 
 
-
+#EXTINF:-1,tvg-logo="https://cdn-profiles.tunein.com/s222450/images/logoq.jpg",group-title="RADIO FM",ENERGY Rap US
+http://185.52.127.157/de/33041/mp3_128.mp3
 #EXTINF:-1,group-title="RADIO FM",AFRO VIBES
 http://209.126.119.76:8356/stream
 #EXTINF:-1,group-title="RADIO FM",REGGAE MUSIC
