@@ -49,6 +49,12 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://mysisli.com/36bay2/gin/giniko_trtworld_900kb_36bay2/index.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT Sport 1 HD
+http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT Sport 2 HD
+http://weak_spell.carniferou.club/edge/BTS2/chunks.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",NBC
 http://weak_spell.carniferou.club/edge/NBC/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lBMs6-yNoq3pBz6tYaKFB41oRt-itCsasgdMb1QpiZupyPHdJLgvHLIbQQ8HVpqK0Sbt=s152",group-title="VIP SPORTS",NBCSN
