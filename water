@@ -51,6 +51,7 @@ http://mysisli.com/36bay2/gin/giniko_trtworld_900kb_36bay2/index.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT Sport 1 HD
 http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT Sport 2 HD
@@ -59,11 +60,9 @@ http://weak_spell.carniferou.club/edge/BTS2/chunks.m3u8
 http://weak_spell.carniferou.club/edge/NBC/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lBMs6-yNoq3pBz6tYaKFB41oRt-itCsasgdMb1QpiZupyPHdJLgvHLIbQQ8HVpqK0Sbt=s152",group-title="VIP SPORTS",NBCSN
 http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lBMs6-yNoq3pBz6tYaKFB41oRt-itCsasgdMb1QpiZupyPHdJLgvHLIbQQ8HVpqK0Sbt=s152",group-title="VIP SPORTS",NBC SPORTS NETWORK
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/26439.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rJ5lJcL.jpg",group-title="VIP SPORTS",BT Sport 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rJ5lJcL.jpg",group-title="VIP SPORTS",BT Sport 1
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PS6Bb8H.png",group-title="VIP SPORTS",BT Sport 2
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
@@ -93,7 +92,8 @@ https://mmm.sportbar.biz/lba/NGM5OTZhZmE2YWMwYzBjNTdlZmQzZTgyNGM4YTJkMGQ=/g1/tv1
 #EXTINF:-1,group-title="VIP SPORTS",SPORT TV 4 FHD
 http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/463.ts
 
-
+#EXTINF:-1,group-title="VIP SPORTS",BT ESPN HD
+https://mmm.sportbar.biz/lba/123/g7/btse.m3u8
 #EXTINF:-1,tvg-logo="http://livetv.am/assets/img/tv/setanta-sport.png",group-title="VIP SPORTS",SETANTA SPORTS
 http://ott-cdn.ucom.am/s81/index.m3u8
 http://178.124.183.12/hls/FWHTTL8YXU/variant.m3u8
@@ -104,26 +104,62 @@ http://109.248.236.41:4433/udp/238.1.1.61:1234
 #EXTINF:-1,group-title="VIP SPORTS",SETANTA SPORTS PLUS
 http://ott-cdn.ucom.am/s82/index.m3u8
 
+#EXTINF:-1,group-title="VIP SPORTS",Sky Sports Premier league
+http://sds4.selez.xyz/hls/skyepllsh/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",group-title="VIP SPORTS",Sky Sports Football HD
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBF6vAk.png",group-title="VIP SPORTS",Sky Sports Premier League HD
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",group-title="VIP SPORTS",Sky Sports Football HD
+http://95.170.215.120:80/hls/Sky-Spo-football-N.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgcR1ju.jpg",group-title="VIP SPORTS",Sky Sports Main Event
+http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
+
+#EXTINF:-1,tvg-logo="https://i.imgur.com/ud7AVaF.png",group-title="VIP SPORTS",MATCH 1
+https://sportbar.biz/lba/123/g11/mfootball1.m3u8
+http://188.35.9.11:2025
+#EXTINF:-1,tvg-logo="https://i.imgur.com/ud7AVaF.png",group-title="VIP SPORTS",MATCH 2
+http://188.35.9.11:2026
+#EXTINF:-1,tvg-logo="https://i.imgur.com/ud7AVaF.png",group-title="VIP SPORTS",MATCH 3
+https://sportbar.biz/lba/123/g12/matfoot3.m3u8
+http://188.35.9.11:2027
+#EXTINF:-1,tvg-logo="https://i.imgur.com/ud7AVaF.png",group-title="VIP SPORTS",MATCH PREMIER HD
+http://109.248.236.41:4433/udp/238.1.1.14:1234
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7V46L55.png",group-title="VIP SPORTS",C More Football
+http://95.170.215.120/hls/m3u8/CMore-Football.m3u8
+
 #EXTINF:-1,group-title="VIP SPORTS",beIN SPORTS 1 HD
+https://2204.janjua.pw:8088/live/beinsportsza1qa/playlist.m3u8?id=95679&wowzasessionid=3737820442&pk=fa5788f12de6583b4e760ad5cf65e1e19ee8d7da0e54558eaf15cc67cdea60a8
 http://etvhosting.xyz:8080/Rottie/LucyLiu/14116
 #EXTINF:-1,group-title="VIP SPORTS",FR: BEIN SPORTS 1 FHD
 http://etvhosting.xyz:8080/Rottie/LucyLiu/47056
 #EXTINF:-1,group-title="VIP SPORTS",beIN SPORTS 2
+https://2d04.janjua.pw:8088/live/ebsinrpost2h/playlist.m3u8?id=95662&wowzasessionid=170495464&pk=fa5788f12de6583b4e760ad5cf65e1e19ee8d7da0e54558eaf15cc67cdea60a8
 http://etvhosting.xyz:8080/Rottie/LucyLiu/14115
 #EXTINF:-1,group-title="VIP SPORTS",FR: BEIN SPORTS 2
 http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/3940.ts
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/47057.ts
 #EXTINF:-1,group-title="VIP SPORTS",FR: beIN SPORTS 3 HD
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/3939.ts
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/47058.ts
 #EXTINF:-1,group-title="VIP SPORTS",beIN SPORTS 3 HD
+https://2202.janjua.pw:8088/live/beinsportsdxzs3/playlist.m3u8?id=95394&wowzasessionid=514948885&pk=fa5788f12de6583b4e760ad5cf65e1e19ee8d7da0e54558eaf15cc67cdea60a8
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/23625.ts
 #EXTINF:-1,group-title="VIP SPORTS",beIN SPORTS 4 HD
 http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/3938.ts
 #EXTINF:-1,group-title="VIP SPORTS",beIN SPORTS 4
+https://2201.janjua.pw:8088/live/beinsportshd4hadz/playlist.m3u8?id=95530&wowzasessionid=3155370889&pk=fa5788f12de6583b4e760ad5cf65e1e19ee8d7da0e54558eaf15cc67cdea60a8
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14113.ts
+#EXTINF:-1,group-title="VIP SPORTS",BEIN SPORTS 11
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/3943.ts
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14106.ts
+#EXTINF:-1,group-title="VIP SPORTS",BEIN SPORTS 12
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/3938.ts
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14105.ts
 #EXTINF:-1,group-title="VIP SPORTS",beIN SPORTS 5HD
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/3937.ts
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14112.ts
-
 #EXTINF:-1,group-title="VIP SPORTS",beIN SPORTS 6 HD
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/23622.ts
 #EXTINF:-1,group-title="VIP SPORTS",beIN SPORTS 7 HD
@@ -133,29 +169,10 @@ http://etvhosting.xyz:8080/Rottie/LucyLiu/23621
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14109.ts
 #EXTINF:-1,group-title="VIP SPORTS",BEIN SPORTS 9
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14108.ts
-#EXTINF:-1,group-title="VIP SPORTS",BEIN SPORTS 9 HD
-http://iptv2.premium-stv.com:8888/live/beIN9SpO/HHFHhjGHjkh/17.ts
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14107.ts
 #EXTINF:-1,group-title="VIP SPORTS",BEIN SPORTS 10*
 http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/3944.ts
-#EXTINF:-1,group-title="VIP SPORTS",BEIN SPORTS 11
-http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/3943.ts
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14106.ts
-#EXTINF:-1,group-title="VIP SPORTS",BEIN SPORTS 12
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14105.ts
 
-#EXTINF:-1,group-title="VIP SPORTS",Sky Sports Premier league
-http://sds4.selez.xyz/hls/skyepllsh/chunks.m3u8
-#EXTINF:-1,group-title="VIP SPORTS",Sky Sports Main Event
-http://95.170.215.120/hls/m3u8/Sky-S-main-even.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",group-title="VIP SPORTS",Sky Sports Football HD
-http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBF6vAk.png",group-title="VIP SPORTS",Sky Sports Premier League HD
-http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",group-title="VIP SPORTS",Sky Sports Football HD
-http://95.170.215.120:80/hls/Sky-Spo-football-N.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TgcR1ju.jpg",group-title="VIP SPORTS",Sky Sports Main Event
-http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
 #EXTINF:-1,group-title="VIP SPORTS",Sky Sports PREMIER LEAGUE
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16567.ts
 #EXTINF:-1,group-title="VIP SPORTS",Sky Sports FOOTBALL HD
@@ -170,20 +187,6 @@ http://etvhosting.xyz:8080/Rottie/LucyLiu/41938
 http://etvhosting.xyz:8080/Rottie/LucyLiu/16563
 #EXTINF:-1,group-title="VIP SPORTS",Sky Sports MIX HD
 http://etvhosting.xyz:8080/Rottie/LucyLiu/16573
-#EXTINF:-1,tvg-logo="https://i.imgur.com/ud7AVaF.png",group-title="VIP SPORTS",MATCH 1
-http://188.35.9.11:2025
-https://sportbar.biz/lba/123/g11/mfootball1.m3u8
-#EXTINF:-1,tvg-logo="https://i.imgur.com/ud7AVaF.png",group-title="VIP SPORTS",MATCH 2
-http://188.35.9.11:2026
-#EXTINF:-1,tvg-logo="https://i.imgur.com/ud7AVaF.png",group-title="VIP SPORTS",MATCH 3
-http://188.35.9.11:2027
-https://sportbar.biz/lba/123/g12/matfoot3.m3u8
-#EXTINF:-1,tvg-logo="https://i.imgur.com/ud7AVaF.png",group-title="VIP SPORTS",MATCH PREMIER HD
-http://109.248.236.41:4433/udp/238.1.1.14:1234
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7V46L55.png",group-title="VIP SPORTS",C More Football
-http://95.170.215.120/hls/m3u8/CMore-Football.m3u8
-
 
 
 #EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 1 HD
