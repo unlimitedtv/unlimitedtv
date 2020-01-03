@@ -48,20 +48,19 @@ https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstrea
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://mysisli.com/36bay2/gin/giniko_trtworld_900kb_36bay2/index.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT Sport 1 HD
 http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT Sport 2 HD
 http://weak_spell.carniferou.club/edge/BTS2/chunks.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",NBC
 http://weak_spell.carniferou.club/edge/NBC/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lBMs6-yNoq3pBz6tYaKFB41oRt-itCsasgdMb1QpiZupyPHdJLgvHLIbQQ8HVpqK0Sbt=s152",group-title="VIP SPORTS",NBCSN
 http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lBMs6-yNoq3pBz6tYaKFB41oRt-itCsasgdMb1QpiZupyPHdJLgvHLIbQQ8HVpqK0Sbt=s152",group-title="VIP SPORTS",NBC SPORTS NETWORK
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/26439.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ5lJcL.jpg",group-title="VIP SPORTS",BT Sport 1
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PS6Bb8H.png",group-title="VIP SPORTS",BT Sport 2
@@ -150,6 +149,7 @@ http://etvhosting.xyz:8080/live/Rottie/LucyLiu/23625.ts
 http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/3938.ts
 #EXTINF:-1,group-title="VIP SPORTS",beIN SPORTS 4
 http://fluidtv.ddns.net:25461/danhenderson/DdCwiBuWIb/36025
+http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14113.ts
 #EXTINF:-1,group-title="VIP SPORTS",BEIN SPORTS 11
 http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/3943.ts
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14106.ts
@@ -186,6 +186,7 @@ http://etvhosting.xyz:8080/Rottie/LucyLiu/41938
 http://etvhosting.xyz:8080/Rottie/LucyLiu/16563
 #EXTINF:-1,group-title="VIP SPORTS",Sky Sports MIX HD
 http://etvhosting.xyz:8080/Rottie/LucyLiu/16573
+
 
 
 #EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 1 HD
@@ -600,13 +601,16 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/333_1557515892_250.jpg",group-title="AFRICA MUSIC",AsSalt TV
 https://stream.ecable.tv/asstv/index.m3u8
 #EXTINF:-1,group-title="AFRICA MUSIC",BOOM TV
-http://stream.ecable.tv:9080/boom/index.m3u8
-#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/51_1550569898_250.jpg" group-title="AFRICA MUSIC",Afrobeats
+https://stream.ecable.tv/boom/index.m3u8
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/51_1550569898_250.jpg" group-title="AFRICA MUSIC",AFROBEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/292_1553026485_250.jpg",group-title="AFRICA MUSIC",REGGAE VIBES
+https://stream.ecable.tv/rvibes/index.m3u8
+#EXTINF:-1,group-title="AFRICA MUSIC",DBM
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist_w300555392.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",AFRICA GOSPEL
 rtmp://webtvonlive.vedge.infomaniak.com/livecast/teststream
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE GOSPEL
-http://d2ktlibtvvj8vp.cloudfront.net:80/trace_gospel/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE GOSPEL**
 http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE NAIJA
@@ -622,11 +626,6 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/4/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE REGGAE
 http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_reggae-midfi.aac
-#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/292_1553026485_250.jpg",group-title="AFRICA MUSIC",Reggae Vibes
-http://stream.ecable.tv:9080/rvibes/index.m3u8
-#EXTINF:-1,group-title="AFRICA MUSIC",DBM
-https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist_w300555392.m3u8
-
 
 #EXTINF:-1,tvg-logo="http://musicchoice.com/wp-content/uploads/2018/05/og_image.png",group-title="MTV MUSIC",MC Play
 http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/master.m3u8
@@ -686,9 +685,14 @@ http://s4.myradiostream.com:4252/listen.mp3
 http://158.69.38.194:8130/;stream/1
 
 
-
-#EXTINF:-1,tvg-logo="https://cdn-profiles.tunein.com/s222450/images/logoq.jpg",group-title="RADIO FM",ENERGY Rap US
-http://185.52.127.157/de/33041/mp3_128.mp3
+#EXTINF:-1,tvg-logo="",group-title="RADIO FM",NAIJA PRAISE
+http://pipe.ukprostream.com:8090/stream/1/
+#EXTINF:-1,tvg-logo="",group-title="RADIO FM",LAGOS JUMP
+http://51.140.125.134:8000/stream/1/
+#EXTINF:-1,tvg-logo="",group-title="RADIO FM",MAX FM
+http://maxfm1023.thrilliant.com.ng:9193/stream/1/
+#EXTINF:-1,tvg-logo="",group-title="RADIO FM",FM 947
+https://21313.live.streamtheworld.com/FM947_SC
 #EXTINF:-1,group-title="RADIO FM",AFRO VIBES
 http://209.126.119.76:8356/stream
 #EXTINF:-1,group-title="RADIO FM",REGGAE MUSIC
@@ -731,8 +735,6 @@ http://stream.trace.tv/trace_playlist_afro_classics-midfi.aac
 http://stream.trace.tv/trace_playlist_heartbreaker-midfi.aac
 #EXTINF:-1,group-title="RADIO FM",SLEEP WELL
 http://stream.trace.tv/trace_playlist_sleepwell-midfi.aac
-#EXTINF:-1,group-title="RADIO FM",104.9 The River
-http://stream.riverradio.com:8000/wcvofm.mp3
 #EXTINF:-1,group-title="RADIO FM",POSITIVE LIFE RADIO
 http://173.244.209.143:8162/live
 #EXTINF:-1,group-title="RADIO FM",Smooth FM 98.1 NG
@@ -759,8 +761,6 @@ http://204.77.222.2:8098/stream
 http://fluxfm.hoerradar.de/flux-80er-mp3-hq?sABC=5qp08770%230%235q1s3rs0336on8ppq715pr945q5qs66o%23gharva&amsparams=playerid:tunein;skey:1572898672
 #EXTINF:-1,group-title="RADIO FM",The Big 80s Station
 http://s5.nexuscast.com:8065/;
-#EXTINF:-1,group-title="RADIO FM",ENERGY Hits 90
-http://185.52.127.172/de/56246/mp3_128.mp3
 #EXTINF:-1,group-title="RADIO FM",IP music SLOW
 http://live7.avf.ch:8000/ipmusicslow320
 #EXTINF:-1,group-title="RADIO FM",RetroRadio.FM - Smooth Easy Hits
@@ -773,8 +773,6 @@ http://listen.181fm.com/181-mellow_128k.mp3?noPreRoll=true
 http://ice10.securenetsystems.net/KQIE2
 #EXTINF:-1,group-title="RADIO FM",181.FM True R&B
 http://listen.181fm.com/181-rnb_128k.mp3?noPreRoll=true
-#EXTINF:-1,group-title="RADIO FM",GotRadio Bit O Blues
-http://pureplay.cdnstream1.com/6019_128.mp3
 #EXTINF:-1,group-title="RADIO FM",RADIO PARADISE
 http://stream-tx3.radioparadise.com/mp3-192
 #EXTINF:-1,group-title="RADIO FM",HEART UK
@@ -783,8 +781,6 @@ http://media-ice.musicradio.com/HeartDorset
 http://vis.media-ice.musicradio.com/CapitalUK
 #EXTINF:-1,group-title="RADIO FM",RnB HIP HOP (NAIJA)
 http://192.99.41.102:5429/;
-#EXTINF:-1,group-title="RADIO FM",GOTRADIO
-http://pureplay.cdnstream1.com/6024_128.mp3
 #EXTINF:-1,group-title="RADIO FM",THE SOUL
 http://65.60.5.207/proxy/wosrdb?mp=/stream
 #EXTINF:-1,tvg-logo="https://cdn-profiles.tunein.com/s174310/images/logoq.png?t=155368",group-title="RADIO FM",(101.1)THE FAM DIGITAL RADIO
@@ -924,8 +920,8 @@ http://198.7.63.116:8028/;ofmtv
 http://sp0001.letslink.pro:8006/stream
 
 
-
-
+#EXTINF:-1,group-title="IVORY COAST",CANAL 54
+https://stream.ecable.tv/canaf54/index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",RTI 1
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/chunklist.m3u8
 #EXTINF:-1,group-title="IVORY COAST",RTI 2
