@@ -48,9 +48,11 @@ https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstrea
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://mysisli.com/36bay2/gin/giniko_trtworld_900kb_36bay2/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Bein Sports
+http://weak_spell.carniferou.club/edge/Bein/chunks.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT Sport 1 HD
 http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT Sport 2 HD
 http://weak_spell.carniferou.club/edge/BTS2/chunks.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",NBC
