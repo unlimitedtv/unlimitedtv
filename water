@@ -89,6 +89,9 @@ http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lBMs6-yNoq3pBz6tYaKFB41oRt-itCsasgdMb1QpiZupyPHdJLgvHLIbQQ8HVpqK0Sbt=s152",group-title="VIP SPORTS",NBC SPORTS NETWORK
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/26439.ts
 
+
+#EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 3
+http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/58
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ5lJcL.jpg",group-title="VIP SPORTS",BT Sport 1
 https://mmm.sportbar.biz/lba/NGM5OTZhZmE2YWMwYzBjNTdlZmQzZTgyNGM4YTJkMGQ=/g2/btuk1.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
@@ -986,8 +989,8 @@ https://stream.ecable.tv/tvt/index.m3u8
 
 #EXTINF:-1,group-title="SENEGAL", TRACE AFRICA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
-#EXTINF:-1,group-title="SENEGAL",IIPC TV
-http://mysisli.com/36bay2/gin/giniko_iipctv_800kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",Al Quran Al Kareem
+http://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",GAMBIA: QTV
 https://stream.ecable.tv/qtv/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",CANAL 2 MOVIE
@@ -1123,6 +1126,17 @@ http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45591
 #EXTINF:-1,group-title="SENEGAL",TELE-ECOLE
 http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45592
 
+#EXTINF:-1,group-title="SAUDI ARABIA",SAUDI TV 1
+http://bozztv.com/36bay2/gin/giniko_sauditv_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="SAUDI ARABIA",Abu Dhabi Al Oula
+http://bozztv.com/36bay2/gin/giniko_abudhabitv_1000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="SAUDI ARABIA",Al Sunnah
+http://bozztv.com/36bay2/gin/giniko_saudisunnah_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,group-title="SAUDI ARABIA",Al Quran Al Kareem
+http://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="SAUDI ARABIA",
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" group-title="ITALY",Rai 1 (Opt-1)
 http://ott-cdn.ucom.am/s29/index.m3u8?fluxustv.m3u8
  
@@ -1155,7 +1169,22 @@ https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U5c8F0J.png" group-title="ITALY",Rete 4
 https://1.ip2stream.icu/live/rete_4_hd/playlist.m3u8
- 
+#EXTINF:-1 tvg-logo="" group-title="ITALY",RAI 4 HD
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/44978
+#EXTINF:-1 tvg-logo="" group-title="ITALY",CANALE 5 HD
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/44980
+#EXTINF:-1 tvg-logo="" group-title="ITALY",ITALIA 1 HD
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/44982
+#EXTINF:-1 tvg-logo="" group-title="ITALY",IRIS
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/44984
+#EXTINF:-1 tvg-logo="" group-title="ITALY",LA 5
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/44985
+#EXTINF:-1 tvg-logo="" group-title="ITALY",LA 7D
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/44986
+#EXTINF:-1 tvg-logo="" group-title="ITALY",RSI LA1 HD
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/44989
+#EXTINF:-1 tvg-logo="" group-title="ITALY",RSI LA2 HD
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/44991
 #EXTINF:-1 tvg-logo="https://alpitv.com/wp-content/uploads/2018/06/logo.png" group-title="ITALY",Rete Biella TV
 rtmp://sb.top-ix.org:1935/retebiella/streaming
  
