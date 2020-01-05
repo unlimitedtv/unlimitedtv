@@ -581,14 +581,14 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
 http://dmitry-tv.ru/his/CH_TRACE_NAIJAHD_720.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE AFRICA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE TROPICAL
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE VAULT
+http://d2ktlibtvvj8vp.cloudfront.net/trace_vault/6/prog_index.m3u8
+EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE TROPICAL
 http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE KITOKO
 http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE URBAN
 http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/4/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE REGGAE
-http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_reggae-midfi.aac
 
 #EXTINF:-1,tvg-logo="http://musicchoice.com/wp-content/uploads/2018/05/og_image.png",group-title="MTV MUSIC",MC Play
 http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/master.m3u8
