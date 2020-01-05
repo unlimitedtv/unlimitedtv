@@ -106,8 +106,7 @@ http://ott-cdn.ucom.am/s82/index.m3u8
 http://109.248.236.41:4433/udp/238.1.1.61:1234
 #EXTINF:-1,group-title="VIP SPORTS",SETANTA SPORTS PLUS
 http://ott-cdn.ucom.am/s82/index.m3u8
-#EXTINF:-1,group-title="VIP SPORTS",PREMIER SPORTS
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/49775
+
 #EXTINF:-1,group-title="VIP SPORTS",beiN Sports 1
 http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/5223
 #EXTINF:-1,group-title="VIP SPORTS",FR: BEIN SPORTS 1 FHD
@@ -172,7 +171,7 @@ http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16567.ts
 http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/199.ts
 http://etvhosting.xyz:8080/Rottie/LucyLiu/16565
 
-#EXTINF:-1,group-title="VIP SPORTS",PREMIER SPORTS
+#EXTINF:-1,group-title="VIP SPORTS",UK: PREMIER SPORTS
 http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/49775
 http://etvhosting.xyz:8080/Rottie/LucyLiu/20642
 #EXTINF:-1,group-title="VIP SPORTS",PREMIER SPORTS 2
@@ -486,7 +485,6 @@ https://streaming.viewsat.eu/viewsatstream14/viewsatstream14.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPmlvaj.png" group-title="CHRISTIAN TV",Divine Hand (NG)
 https://streaming.viewsat.eu/viewsatstream10/viewsatstream10.smil/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://vod.landiptv.live/files/t20.png",group-title="CHRISTIAN TV",Emmanuel TV
-https://api.new.livestream.com/accounts/23202872/events/7200883/broadcasts/200461503.secure.m3u8
 https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4oRRKxP.png" group-title="CHRISTIAN TV",African Broadcasting Network (NG)
 https://streaming.viewsat.eu/viewsatstream04/viewsatstream04.smil/playlist.m3u8
@@ -549,6 +547,8 @@ http://mysisli.com/36bay2/gin/giniko_womexerc_1000kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="AFRICA MOVIE AND ENTERTAINMENT",ROK
 http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45643
 https://stream.ecable.tv/rok/index.m3u8
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",CNN MUSIC
+https://1861340594.rsc.cdn77.org/QdBI-5np3m-gW5f2CL6XTg==,1578196803/ls-54548-1/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",MIAMI TV
 http://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",KITCHEN HACKS
@@ -578,17 +578,16 @@ rtmp://webtvonlive.vedge.infomaniak.com/livecast/teststream
 http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE NAIJA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-http://dmitry-tv.ru/his/CH_TRACE_NAIJAHD_720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE URBAN
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE Urban
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE AFRICA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE VAULT
-http://d2ktlibtvvj8vp.cloudfront.net/trace_vault/6/prog_index.m3u8
-EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE TROPICAL
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE TROPICAL
 http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE KITOKO
 http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE URBAN
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/4/prog_index.m3u8
 
 #EXTINF:-1,tvg-logo="http://musicchoice.com/wp-content/uploads/2018/05/og_image.png",group-title="MTV MUSIC",MC Play
 http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/master.m3u8
