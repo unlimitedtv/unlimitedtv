@@ -487,7 +487,8 @@ https://streaming.viewsat.eu/viewsatstream14/viewsatstream14.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPmlvaj.png" group-title="CHRISTIAN TV",Divine Hand (NG)
 https://streaming.viewsat.eu/viewsatstream10/viewsatstream10.smil/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://vod.landiptv.live/files/t20.png",group-title="CHRISTIAN TV",Emmanuel TV
-http://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
+https://api.new.livestream.com/accounts/23202872/events/7200883/broadcasts/200461503.secure.m3u8
+https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4oRRKxP.png" group-title="CHRISTIAN TV",African Broadcasting Network (NG)
 https://streaming.viewsat.eu/viewsatstream04/viewsatstream04.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OzDHzX.png" group-title="CHRISTIAN TV",Clearview TV (NG)
