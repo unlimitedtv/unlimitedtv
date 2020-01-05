@@ -106,7 +106,8 @@ http://ott-cdn.ucom.am/s82/index.m3u8
 http://109.248.236.41:4433/udp/238.1.1.61:1234
 #EXTINF:-1,group-title="VIP SPORTS",SETANTA SPORTS PLUS
 http://ott-cdn.ucom.am/s82/index.m3u8
-
+#EXTINF:-1,group-title="VIP SPORTS",PREMIER SPORTS
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/49775
 #EXTINF:-1,group-title="VIP SPORTS",beiN Sports 1
 http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/5223
 #EXTINF:-1,group-title="VIP SPORTS",FR: BEIN SPORTS 1 FHD
@@ -171,7 +172,8 @@ http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16567.ts
 http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/199.ts
 http://etvhosting.xyz:8080/Rottie/LucyLiu/16565
 
-#EXTINF:-1,group-title="VIP SPORTS",PREMIER SPORTS 1 HD
+#EXTINF:-1,group-title="VIP SPORTS",PREMIER SPORTS
+http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/49775
 http://etvhosting.xyz:8080/Rottie/LucyLiu/20642
 #EXTINF:-1,group-title="VIP SPORTS",UK: PREMIER SPORTS 2 HD
 http://etvhosting.xyz:8080/Rottie/LucyLiu/41938
