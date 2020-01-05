@@ -58,8 +58,16 @@ http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
 http://weak_spell.carniferou.club/edge/BTS2/chunks.m3u8
 #EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBC
 http://weak_spell.carniferou.club/edge/NBC/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lBMs6-yNoq3pBz6tYaKFB41oRt-itCsasgdMb1QpiZupyPHdJLgvHLIbQQ8HVpqK0Sbt=s152",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",,NBCSN
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lBMs6-yNoq3pBz6tYaKFB41oRt-itCsasgdMb1QpiZupyPHdJLgvHLIbQQ8HVpqK0Sbt=s152",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBCSN
 http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
+#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",PREMIER SPORT
+http://weak_spell.carniferou.club/edge/PS1/chunks.m3u8
+#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",PREMIER SPORT 2
+http://cdn1.hdstreams.club/live/ch2/index.m3u8
+#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",PREMIER SPORT 2*
+http://weak_spell.carniferou.club/edge/PS2/chunks.m3u8
+#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",La Liga TV
+http://34.102.207.198/live/lll/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",LIVE ONLY: Bein Sports HD
 http://weak_spell.carniferou.club/edge/Bein/chunks.m3u8
