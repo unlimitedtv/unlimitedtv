@@ -68,6 +68,12 @@ http://cdn1.hdstreams.club/live/ch2/index.m3u8
 http://weak_spell.carniferou.club/edge/PS2/chunks.m3u8
 #EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",La Liga TV
 http://34.102.207.198/live/lll/chunks.m3u8
+#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBA 1
+http://weak_spell.carniferou.club/edge/NBA1/chunks.m3u8
+#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBA 2
+http://weak_spell.carniferou.club/edge/NBA2/chunks.m3u8
+#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBA 3
+http://weak_spell.carniferou.club/edge/NBA3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",LIVE ONLY: Bein Sports HD
 http://weak_spell.carniferou.club/edge/Bein/chunks.m3u8
