@@ -86,7 +86,7 @@ http://weak_spell.carniferou.club/edge/NBC/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lBMs6-yNoq3pBz6tYaKFB41oRt-itCsasgdMb1QpiZupyPHdJLgvHLIbQQ8HVpqK0Sbt=s152",group-title="VIP SPORTS",LIVE ONLY: NBCSN
 http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",NBC
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",NBCSN
 http://34.102.207.198/live/lll/chunks.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",PREMIER SPORTS
 http://weak_spell.carniferou.club/edge/PS1/chunks.m3u8
