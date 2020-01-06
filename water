@@ -49,7 +49,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://mysisli.com/36bay2/gin/giniko_trtworld_900kb_36bay2/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",Bein Sports HD
+#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",Bein Sports USA
 http://weak_spell.carniferou.club/edge/Bein/chunks.m3u8
 #EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",BT Sport 1 HD
 http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
@@ -66,7 +66,7 @@ http://weak_spell.carniferou.club/edge/PS1/chunks.m3u8
 http://cdn1.hdstreams.club/live/ch2/index.m3u8
 #EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",PREMIER SPORTS 2*
 http://weak_spell.carniferou.club/edge/PS2/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",La Liga TV
+#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBCSN
 http://34.102.207.198/live/lll/chunks.m3u8
 #EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBA 1
 http://weak_spell.carniferou.club/edge/NBA1/chunks.m3u8
@@ -75,7 +75,7 @@ http://weak_spell.carniferou.club/edge/NBA2/chunks.m3u8
 #EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBA 3
 http://weak_spell.carniferou.club/edge/NBA3/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",LIVE ONLY: Bein Sports HD
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",LIVE ONLY: Bein Sports US
 http://weak_spell.carniferou.club/edge/Bein/chunks.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",LIVE ONLY: BT Sport 1 HD
 http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
