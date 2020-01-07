@@ -96,12 +96,11 @@ http://weak_spell.carniferou.club/edge/BTS2/chunks.m3u8
 http://weak_spell.carniferou.club/edge/NBC/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lBMs6-yNoq3pBz6tYaKFB41oRt-itCsasgdMb1QpiZupyPHdJLgvHLIbQQ8HVpqK0Sbt=s152",group-title="VIP SPORTS",LIVE ONLY: NBCSN
 http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lBMs6-yNoq3pBz6tYaKFB41oRt-itCsasgdMb1QpiZupyPHdJLgvHLIbQQ8HVpqK0Sbt=s152",group-title="VIP SPORTS",NBC SPORTS NETWORK
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/26439.ts
 
 
-#EXTINF:-1,group-title="VIP SPORTS",Sky Sports Premier league
-http://sds4.selez.xyz/hls/skyepllsh/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",group-title="VIP SPORTS",Sky Sports Football HD
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",group-title="VIP SPORTS",Sky Sports Football HD
@@ -109,12 +108,12 @@ http://95.170.215.120:80/hls/Sky-Spo-football-N.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgcR1ju.jpg",group-title="VIP SPORTS",Sky Sports Main Event
 http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
 #EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 3
-http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/58
+http://iptv7.premium-stv.com:25461/live/rmcsport3/1557539943/58.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ5lJcL.jpg",group-title="VIP SPORTS",BT Sport 1
-https://mmm.sportbar.biz/lba/NGM5OTZhZmE2YWMwYzBjNTdlZmQzZTgyNGM4YTJkMGQ=/g2/btuk1.m3u8
+https://mmm.sportbar.biz/lba/123/g2/btuk1.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PS6Bb8H.png",group-title="VIP SPORTS",BT Sport 2
-https://mmm.sportbar.biz/lba/NGM5OTZhZmE2YWMwYzBjNTdlZmQzZTgyNGM4YTJkMGQ=/g3/ukbt2sport.m3u8
+https://mmm.sportbar.biz/123/g3/ukbt2sport.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
 #EXTINF:-1,group-title="VIP SPORTS",BT Sport 3
 https://mmm.sportbar.biz/lba/NGM5OTZhZmE2YWMwYzBjNTdlZmQzZTgyNGM4YTJkMGQ=/g2/3btsporteu.m3u8
@@ -128,6 +127,7 @@ https://mmm.sportbar.biz/lba/NGM5OTZhZmE2YWMwYzBjNTdlZmQzZTgyNGM4YTJkMGQ=/g2/pt3
 #EXTINF:-1,group-title="VIP SPORTS",SPORT TV 2
 https://mmm.sportbar.biz/lba/NGM5OTZhZmE2YWMwYzBjNTdlZmQzZTgyNGM4YTJkMGQ=/g1/sport2port.m3u8
 #EXTINF:-1,group-title="VIP SPORTS",SPORT TV 1
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/460.ts
 https://mmm.sportbar.biz/lba/NGM5OTZhZmE2YWMwYzBjNTdlZmQzZTgyNGM4YTJkMGQ=/g1/tv1pt.m3u8
 #EXTINF:-1,group-title="VIP SPORTS",SPORT TV 4 FHD
 http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/463.ts
@@ -1744,5 +1744,5 @@ http://etvhosting.xyz:8080/Rottie/LucyLiu/46701
 http://etvhosting.xyz:8080/Rottie/LucyLiu/46702
 #EXTINF:-1,group-title="FOR ADULTS",Porn Pros Network 1
 http://etvhosting.xyz:8080/Rottie/LucyLiu/46703
-#EXTINF:-1,group-ti="FOR ADULTS",MetArt Network 1
+#EXTINF:-1,group-title="FOR ADULTS",MetArt Network 1
 http://etvhosting.xyz:8080/Rottie/LucyLiu/46704
