@@ -75,7 +75,8 @@ http://weak_spell.carniferou.club/edge/NBA1/chunks.m3u8
 http://weak_spell.carniferou.club/edge/NBA2/chunks.m3u8
 #EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBA 3
 http://weak_spell.carniferou.club/edge/NBA3/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",SKY SPORTS MAIN EVENT
+http://weak_spell.carniferou.club/edge/SSME/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS", SKY SPORTS MAIN EVENT
 http://weak_spell.carniferou.club/edge/SSME/chunks.m3u8
@@ -121,11 +122,10 @@ http://etvhosting.xyz:8080/Rottie/LucyLiu/16555
 https://mmm.sportbar.biz/lba/N2I1NGMxZGRiNDA5OWVjNWI4OGYzMmMzNjY5ZGE3MDY=/g3/ukbt2sport.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PS6Bb8H.png",group-title="VIP SPORTS",BT Sport 2*
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16551
 http://etvhosting.xyz:8080/Rottie/LucyLiu/16554
 #EXTINF:-1,group-title="VIP SPORTS",BT Sport 3
 https://mmm.sportbar.biz/lba/NGM5OTZhZmE2YWMwYzBjNTdlZmQzZTgyNGM4YTJkMGQ=/g2/3btsporteu.m3u8
-#EXTINF:-1,group-title="VIP SPORTS",BT Sport 3
+#EXTINF:-1,group-title="VIP SPORTS",BT Sport 3*
 http://etvhosting.xyz:8080/Rottie/LucyLiu/16550
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16553.ts
 #EXTINF:-1,group-title="VIP SPORTS",BT ESPN HD
@@ -135,7 +135,7 @@ https://mmm.sportbar.biz/lba/NGM5OTZhZmE2YWMwYzBjNTdlZmQzZTgyNGM4YTJkMGQ=/g2/pt3
 #EXTINF:-1,group-title="VIP SPORTS",SPORT TV 2
 https://mmm.sportbar.biz/lba/123/g1/sport2port.m3u8
 #EXTINF:-1,group-title="VIP SPORTS",SPORT TV 1
-https://mmm.sportbar.biz/lba/NGM5OTZhZmE2YWMwYzBjNTdlZmQzZTgyNGM4YTJkMGQ=/g1/tv1pt.m3u8
+https://mmm.sportbar.biz/lba/123/g1/tv1pt.m3u8
 #EXTINF:-1,group-title="VIP SPORTS",SPORT TV 4 FHD
 http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/463.ts
 
@@ -148,28 +148,6 @@ http://ott-cdn.ucom.am/s82/index.m3u8
 http://109.248.236.41:4433/udp/238.1.1.61:1234
 #EXTINF:-1,group-title="VIP SPORTS",SETANTA SPORTS PLUS
 http://ott-cdn.ucom.am/s82/index.m3u8
-
-#EXTINF:-1,group-title="VIP SPORTS",beiN Sports 1
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/5223
-#EXTINF:-1,group-title="VIP SPORTS",FR: BEIN SPORTS 1 FHD
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/49229
-#EXTINF:-1,group-title="VIP SPORTS",beiN Sports 2
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/5225
-#EXTINF:-1,group-title="VIP SPORTS",FR: BEIN SPORTS 2
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/49230
-#EXTINF:-1,group-title="VIP SPORTS",beiN Sports 3
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/5227
-#EXTINF:-1,group-title="VIP SPORTS",FR: beIN SPORTS 3 HD
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/49231
-#EXTINF:-1,group-title="VIP SPORTS",beiN Sports 4
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/5229
-#EXTINF:-1,group-title="VIP SPORTS",beiN Sports 10
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/5240
-#EXTINF:-1,group-title="VIP SPORTS",beiN Sports 11
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/5241
-#EXTINF:-1,group-title="VIP SPORTS",beiN Sports 12
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/5242
-
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/ud7AVaF.png",group-title="VIP SPORTS",MATCH 1
 https://sportbar.biz/lba/123/g11/mfootball1.m3u8
@@ -186,16 +164,6 @@ http://109.248.236.41:4433/udp/238.1.1.14:1234
 http://95.170.215.120/hls/m3u8/CMore-Football.m3u8
 
 
-#EXTINF:-1,group-title="VIP SPORTS",beiN Sports 5
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/5231
-#EXTINF:-1,group-title="VIP SPORTS",beiN Sports 6
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/5233
-#EXTINF:-1,group-title="VIP SPORTS",beiN Sports 7
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/5235
-#EXTINF:-1,group-title="VIP SPORTS",beiN Sports 8
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/5237
-#EXTINF:-1,group-title="VIP SPORTS",beiN Sports 9
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/5239
 
 #EXTINF:-1,group-title="VIP SPORTS",Sky Sports PREMIER LEAGUE
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16567.ts
@@ -204,8 +172,6 @@ http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/199.ts
 http://etvhosting.xyz:8080/Rottie/LucyLiu/16565
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBF6vAk.png",group-title="VIP SPORTS",Sky Sports Premier League HD
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
-#EXTINF:-1,group-title="VIP SPORTS",UK: PREMIER SPORTS
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/49775
 http://etvhosting.xyz:8080/Rottie/LucyLiu/20642
 #EXTINF:-1,group-title="VIP SPORTS",PREMIER SPORTS 2
 http://etvhosting.xyz:8080/Rottie/LucyLiu/41938
