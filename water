@@ -41,6 +41,7 @@ http://mysisli.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/index.m3u8
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
 #EXTINF:-1,group-title="NEWS CHANNEL",US: Bloomberg HD*
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+http://cdnak15.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1,tvg-id="ARISE NEWS" group-title="NEWS CHANNEL",ARISE NEWS
 https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,tvg-id="ARISE NEWS" group-title="NEWS CHANNEL",TRT WORLD
@@ -78,32 +79,26 @@ http://weak_spell.carniferou.club/edge/NBA3/chunks.m3u8
 #EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",SKY SPORTS MAIN EVENT
 http://weak_spell.carniferou.club/edge/SSME/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS", SKY SPORTS MAIN EVENT
-http://weak_spell.carniferou.club/edge/SSME/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS", #VAMOS
-https://cdn.dailysport.pw/1/1.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",PREMIER SPORTS 
-http://weak_spell.carniferou.club/edge/PS1/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",PREMIER SPORTS 2
-http://weak_spell.carniferou.club/edge/PS2/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Movistar liga de campeones
-https://cdn.dailysport.pw/5/5.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Movistar LaLiga
-https://cdn.dailysport.pw/6/6.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",LIVE ONLY: Bein Sports HD
-http://weak_spell.carniferou.club/edge/Bein/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",LIVE ONLY: BT Sport 1 HD
-http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",LIVE ONLY: BT Sport 2 HD
-http://weak_spell.carniferou.club/edge/BTS2/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",LIVE ONLY: NBC
-http://weak_spell.carniferou.club/edge/NBC/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lBMs6-yNoq3pBz6tYaKFB41oRt-itCsasgdMb1QpiZupyPHdJLgvHLIbQQ8HVpqK0Sbt=s152",group-title="VIP SPORTS",LIVE ONLY: NBCSN
-http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lBMs6-yNoq3pBz6tYaKFB41oRt-itCsasgdMb1QpiZupyPHdJLgvHLIbQQ8HVpqK0Sbt=s152",group-title="VIP SPORTS",NBC SPORTS NETWORK
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/26439.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORTS 1
+https://2d04.janjua.pw:8088/live/beunsports1hbz/playlist.m3u8?id=95908&wowzasessionid=7810293841&pk=70bac79904c45d7ec2be635fa64caaf80f6712c2408466d4d8d91de93a63a26e
 
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORTS 3
+https://2d04.janjua.pw:8088/live/beinsportsdxzs3/playlist.m3u8?id=95394&wowzasessionid=3507018465&pk=70bac79904c45d7ec2be635fa64caaf80f6712c2408466d4d8d91de93a63a26e
+
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORTS 4
+https://2d02.janjua.pw:8088/live/beinsportsg4gva/playlist.m3u8?id=95835&wowzasessionid=5919834&pk=70bac79904c45d7ec2be635fa64caaf80f6712c2408466d4d8d91de93a63a26e
+
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORTS 5
+https://2d02.janjua.pw:8088/live/beinsportd5a/playlist.m3u8?id=95813&wowzasessionid=3977471285&pk=70bac79904c45d7ec2be635fa64caaf80f6712c2408466d4d8d91de93a63a26e
+
+
+
+
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Premier Sports Hd
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/4329.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Premier Sports 2
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/4330.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",group-title="VIP SPORTS",Sky Sports Football HD
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
@@ -117,17 +112,16 @@ http://iptv7.premium-stv.com:25461/live/rmcsport3/1557539943/58.ts
 https://mmm.sportbar.biz/lba/N2I1NGMxZGRiNDA5OWVjNWI4OGYzMmMzNjY5ZGE3MDY/g2/btuk1.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ5lJcL.jpg",group-title="VIP SPORTS",BT Sport 1*
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16555
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/247.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PS6Bb8H.png",group-title="VIP SPORTS",BT Sport 2
 https://mmm.sportbar.biz/lba/N2I1NGMxZGRiNDA5OWVjNWI4OGYzMmMzNjY5ZGE3MDY=/g3/ukbt2sport.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PS6Bb8H.png",group-title="VIP SPORTS",BT Sport 2*
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16554
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/248.ts
 #EXTINF:-1,group-title="VIP SPORTS",BT Sport 3
 https://mmm.sportbar.biz/lba/NGM5OTZhZmE2YWMwYzBjNTdlZmQzZTgyNGM4YTJkMGQ=/g2/3btsporteu.m3u8
 #EXTINF:-1,group-title="VIP SPORTS",BT Sport 3*
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16550
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16553.ts
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/249.ts
 #EXTINF:-1,group-title="VIP SPORTS",BT ESPN HD
 https://mmm.sportbar.biz/lba/123/g7/btse.m3u8
 #EXTINF:-1,group-title="VIP SPORTS",SPORT TV 3
@@ -138,6 +132,9 @@ https://mmm.sportbar.biz/lba/123/g1/sport2port.m3u8
 https://mmm.sportbar.biz/lba/123/g1/tv1pt.m3u8
 #EXTINF:-1,group-title="VIP SPORTS",SPORT TV 4 FHD
 http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/463.ts
+
+#EXTINF:-1,group-title="VIP SPORTS",SPORT TV 5 FHD
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/464.ts
 
 #EXTINF:-1,tvg-logo="http://livetv.am/assets/img/tv/setanta-sport.png",group-title="VIP SPORTS",SETANTA SPORTS
 http://ott-cdn.ucom.am/s81/index.m3u8
@@ -164,96 +161,15 @@ http://109.248.236.41:4433/udp/238.1.1.14:1234
 http://95.170.215.120/hls/m3u8/CMore-Football.m3u8
 
 
-
-#EXTINF:-1,group-title="VIP SPORTS",Sky Sports PREMIER LEAGUE
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16567.ts
+#EXTINF:-1,group-title="VIP SPORTS",Sky Sports MAIN EVENTS
+http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/197.ts
 #EXTINF:-1,group-title="VIP SPORTS",Sky Sports FOOTBALL HD
 http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/199.ts
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16565
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBF6vAk.png",group-title="VIP SPORTS",Sky Sports Premier League HD
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
-http://etvhosting.xyz:8080/Rottie/LucyLiu/20642
-#EXTINF:-1,group-title="VIP SPORTS",PREMIER SPORTS 2
-http://etvhosting.xyz:8080/Rottie/LucyLiu/41938
-#EXTINF:-1,group-title="VIP SPORTS",Sky Sports MAIN EVENT HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16563
-#EXTINF:-1,group-title="VIP SPORTS",Sky Sports MIX HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16573
 
 
 
-#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 1 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/23627
-#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 2 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/23626
-#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 3 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/23625
-#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 4 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/23624
-#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 9 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/23620
-#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 10 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/23618
-#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 11 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/23617
-#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 5 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/23623
-#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 6 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/23622
-#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 7 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/23621
-#EXTINF:-1,group-title="BEIN SPORTS",AR: BEIN SPORTS 8 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/23619
-
-
-#EXTINF:-1,group-title="WORLD SPORTS",PPV 1
-http://etvhosting.xyz:8080/Rottie/LucyLiu/45319
-#EXTINF:-1,group-title="WORLD SPORTS",PPV 2 
-http://etvhosting.xyz:8080/Rottie/LucyLiu/45321
-#EXTINF:-1,group-title="WORLD SPORTS",PPV 3
-http://etvhosting.xyz:8080/Rottie/LucyLiu/45323
-#EXTINF:-1,group-title="WORLD SPORTS",PPV 4
-http://etvhosting.xyz:8080/Rottie/LucyLiu/45325
-#EXTINF:-1,group-title="WORLD SPORTS",PPV 5
-http://etvhosting.xyz:8080/Rottie/LucyLiu/45327
-#EXTINF:-1,group-title="WORLD SPORTS",BT Sport 1 SD
-https://sportbar.biz/lba/123/g2/btuk1.m3u8
-#EXTINF:-1,group-title="WORLD SPORTS",BT SPORT 1 HD*
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16552.ts
-#EXTINF:-1,group-title="WORLD SPORTS",BT SPORT 2 HD*
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16551.ts
-#EXTINF:-1,group-title="WORLD SPORTS",BT SPORT 3 HD*
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16550.ts
-#EXTINF:-1,group-title="WORLD SPORTS",BT SPORT 3 HD 720 50fps*
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/43124.t
-#EXTINF:-1,group-title="WORLD SPORTS",BT SPORT ESPN*
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16549.ts
-
-
-#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports PREMIER LEAGUE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16567
-#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports PREMIER LEAGUE HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16559
-#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports FOOTBALL HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16565
-#EXTINF:-1,group-title="WORLD SPORTS",PREMIER SPORTS 1 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/20642
-#EXTINF:-1,group-title="WORLD SPORTS",UK: PREMIER SPORTS 2 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/41938
-#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports ACTION HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16561
-#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports ARENA HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16566
-#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports F1
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16564
-#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports F1 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16558
-#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports MAIN EVENT HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16563
-#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports MIX HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16573
-#EXTINF:-1,group-title="WORLD SPORTS",Sky Sports NEWS HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16572
 
 #EXTINF:-1,group-title="WORLD SPORTS",SETANTA SPORTS
 http://ott-cdn.ucom.am/s81/index.m3u8
@@ -263,47 +179,6 @@ http://109.248.236.41:4433/udp/238.1.1.61:1234
 http://ott-cdn.ucom.am/s82/index.m3u8
 
 
-#EXTINF:-1,group-title="WORLD SPORTS",beIN SPORTS 1 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/14116
-#EXTINF:-1,group-title="WORLD SPORTS",FR: BEIN SPORTS 1 FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47056
-#EXTINF:-1,group-title="WORLD SPORTS",beIN SPORTS 2
-http://etvhosting.xyz:8080/Rottie/LucyLiu/14115
-#EXTINF:-1,group-title="WORLD SPORTS",BEIN SPORTS 2 HD
-http://212.8.243.150:8525/live/younesstemara/SdtVyQDfqf/6016
-#EXTINF:-1,group-title="WORLD SPORTS",FR: BEIN SPORTS 2 FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47057
-#EXTINF:-1,group-title="WORLD SPORTS",FR: beIN SPORTS 3 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47058
-#EXTINF:-1,group-title="WORLD SPORTS",beIN SPORTS 3 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/23625
-#EXTINF:-1,group-title="WORLD SPORTS",beIN SPORTS 4
-http://etvhosting.xyz:8080/Rottie/LucyLiu/14113
-#EXTINF:-1,group-title="WORLD SPORTS",beIN SPORTS 5HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/14112
-
-#EXTINF:-1,group-title="WORLD SPORTS",beIN SPORTS 6 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/23622
-http://iptv2.premium-stv.com:8888/live/BEIN6/ZffOncRDKK/41.ts
-#EXTINF:-1,group-title="WORLD SPORTS",beIN SPORTS 7 HD
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14110.ts
-http://etvhosting.xyz:8080/Rottie/LucyLiu/23621
-#EXTINF:-1,group-title="WORLD SPORTS",BEIN SPORTS 8
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14109.ts
-http://iptv2.premium-stv.com:8888/live/beIN8sport/gDVffDVh/16.ts
-#EXTINF:-1,group-title="WORLD SPORTS",BEIN SPORTS 9
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14108.ts
-#EXTINF:-1,group-title="WORLD SPORTS",BEIN SPORTS 10
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14107.ts
-#EXTINF:-1,group-title="WORLD SPORTS",BEIN SPORTS 11
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14106.ts
-#EXTINF:-1,group-title="WORLD SPORTS",BEIN SPORTS 12
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/14105.ts
- 
-#EXTINF:-1,group-title="WORLD SPORTS",USA: ESPN
-http://etvhosting.xyz:8080/Rottie/LucyLiu/14124
-#EXTINF:-1,group-title="WORLD SPORTS",USA: ESPN 2
-http://etvhosting.xyz:8080/Rottie/LucyLiu/14123
 #EXTINF:-1,group-title="WORLD SPORTS",FOX SPORTS NEWS
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
@@ -314,7 +189,7 @@ http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8
 #EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",WWE NETWORK HD
 http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16514.ts
 #EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",WWE NETWORK
-http://cdnak19.cast4u.info/channels/4/10804.m3u8 
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",FIGHT BOX
 http://92.43.140.249/s86/04.m3u8
 #EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",SPORT FIGHT HD
@@ -326,57 +201,6 @@ http://mysisli.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/index.m3u8
 http://mysisli.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="DOCUMENTARIES",BBC THREE
 http://mysisli.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/index.m3u8
-#EXTINF:-1,group-title="DOCUMENTARIES",Animal Planet
-http://etvhosting.xyz:8080/Rottie/LucyLiu/19412
-#EXTINF:-1,group-title="DOCUMENTARIES",CRIME INVESTIGATIO
-http://etvhosting.xyz:8080/Rottie/LucyLiu/27758
-#EXTINF:-1,group-title="DOCUMENTARIES",Discovery Channel
-http://etvhosting.xyz:8080/Rottie/LucyLiu/19528
-#EXTINF:-1,group-title="DOCUMENTARIES",DISCOVERY HISTORY
-http://etvhosting.xyz:8080/Rottie/LucyLiu/14156
-#EXTINF:-1,group-title="DOCUMENTARIES",DISCOVERY HOME HEALTH
-http://etvhosting.xyz:8080/Rottie/LucyLiu/27757
-#EXTINF:-1,group-title="DOCUMENTARIES",DISCOVERY HOME n HEALTH
-http://etvhosting.xyz:8080/Rottie/LucyLiu/27756
-#EXTINF:-1,group-title="DOCUMENTARIES",DISCOVERY SCIENCE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/27755
-#EXTINF:-1,group-title="DOCUMENTARIES",DISCOVERY SHED
-http://etvhosting.xyz:8080/Rottie/LucyLiu/19527
-#EXTINF:-1,group-title="DOCUMENTARIES",Discovery Turbo
-http://etvhosting.xyz:8080/Rottie/LucyLiu/19526
-#EXTINF:-1,group-title="DOCUMENTARIES",DMAX
-http://etvhosting.xyz:8080/Rottie/LucyLiu/19437
-
-#EXTINF:-1,group-title="MOVIE CHANNELS",ACTION- ADULT SWIM
-http://etvhosting.xyz:8080/Rottie/LucyLiu/29329
-#EXTINF:-1,group-title="MOVIE CHANNELS",AMC
-http://etvhosting.xyz:8080/Rottie/LucyLiu/29440
-#EXTINF:-1,group-title="MOVIE CHANNELS",AMC HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/19993
-
-
-#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema GREATS
-http://etvhosting.xyz:8080/Rottie/LucyLiu/19401
-#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema PREMIERE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/19408
-#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema ACTION
-http://etvhosting.xyz:8080/Rottie/LucyLiu/19407
-#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema COMEDY
-http://etvhosting.xyz:8080/Rottie/LucyLiu/19405
-#EXTINF:-1,group-title="MOVIE CHANNELS",UK: Sky Cinema Disney
-http://etvhosting.xyz:8080/Rottie/LucyLiu/19403
-#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema DRAMA & ROMANCE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/19406
-#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema FAMILY
-http://etvhosting.xyz:8080/Rottie/LucyLiu/19404
-#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema HITS
-http://etvhosting.xyz:8080/Rottie/LucyLiu/19402
-#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema SCI-FI/HORROR
-http://etvhosting.xyz:8080/Rottie/LucyLiu/19400
-#EXTINF:-1,group-title="MOVIE CHANNELS",UK: SKY Cinema SELECT
-http://etvhosting.xyz:8080/Rottie/LucyLiu/19399
-#EXTINF:-1,group-title="MOVIE CHANNELS",UK: Sky Cinema THRILLER
-http://etvhosting.xyz:8080/Rottie/LucyLiu/25582
 
 
 
@@ -485,6 +309,9 @@ https://streaming.viewsat.eu/viewsatstream14/viewsatstream14.smil/playlist.m3u8
 https://streaming.viewsat.eu/viewsatstream10/viewsatstream10.smil/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://vod.landiptv.live/files/t20.png",group-title="CHRISTIAN TV",Emmanuel TV
 https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
+
+#EXTINF:-1,tvg-logo="http://vod.landiptv.live/files/t20.png",group-title="CHRISTIAN TV",Emmanuel TV*
+https://playback.akamaized.net/streams/23202872_7200883_lsipodabt7y0znb0wxu_1/media/23202872_7200883_lsipodabt7y0znb0wxu_1@4628000pb.m3u8?dw=14400&ts=1578646800&hdnts=exp=1578819802~acl=/streams/23202872_7200883_lsipodabt7y0znb0wxu_1/media*~hmac=78f6ab5982174d7cdca55e23d62cf995bec745623303d3a45604d420c473aa31
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4oRRKxP.png" group-title="CHRISTIAN TV",African Broadcasting Network (NG)
 https://streaming.viewsat.eu/viewsatstream04/viewsatstream04.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OzDHzX.png" group-title="CHRISTIAN TV",Clearview TV (NG)
@@ -1027,86 +854,6 @@ http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8
 http://mv2.tvfrancophonie.org/live/Stream1/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TRACE URBAN
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
-#EXTINF:-1,group-title="SENEGAL",RTS2
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45553
-#EXTINF:-1,group-title="SENEGAL",RTS1
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45554
-#EXTINF:-1,group-title="SENEGAL",TFM
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45555
-#EXTINF:-1,group-title="SENEGAL",TFM RELIGIONS
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45556
-#EXTINF:-1,group-title="SENEGAL",7TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45557
-#EXTINF:-1,group-title="SENEGAL",DTV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45558
-#EXTINF:-1,group-title="SENEGAL",SEN TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45559
-#EXTINF:-1,group-title="SENEGAL",WALF
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45560
-#EXTINF:-1,group-title="SENEGAL",MOURIDE TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45561
-#EXTINF:-1,group-title="SENEGAL",MUSIC TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45562
-#EXTINF:-1,group-title="SENEGAL",SERIE SN
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45563
-#EXTINF:-1,group-title="SENEGAL",ASFIYAHI TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45564
-#EXTINF:-1,group-title="SENEGAL",D24
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45565
-#EXTINF:-1,group-title="SENEGAL",TOUBA TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45566
-#EXTINF:-1,group-title="SENEGAL",RDV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45567
-#EXTINF:-1,group-title="SENEGAL",D5 TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45568
-#EXTINF:-1,group-title="SENEGAL",TMS
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45569
-#EXTINF:-1,group-title="SENEGAL",AL AZHAR TOUBA TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45570
-#EXTINF:-1,group-title="SENEGAL",BICHRI TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45571
-#EXTINF:-1,group-title="SENEGAL",A2I TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45572
-#EXTINF:-1,group-title="SENEGAL",A2I TV MUSIC
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45573
-#EXTINF:-1,group-title="SENEGAL",A2I TV RELIGION
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45574
-#EXTINF:-1,group-title="SENEGAL",AL MOURIDIYYAH TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45575
-#EXTINF:-1,group-title="SENEGAL",RTF TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45576
-#EXTINF:-1,group-title="SENEGAL",TNT EVENTS
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45577
-#EXTINF:-1,group-title="SENEGAL",TVS
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45578
-#EXTINF:-1,group-title="SENEGAL",TOUBA MONDEBI
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45579
-#EXTINF:-1,group-title="SENEGAL",DBS
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45580
-#EXTINF:-1,group-title="SENEGAL",MOURCHID TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45581
-#EXTINF:-1,group-title="SENEGAL",LOBS TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45582
-#EXTINF:-1,group-title="SENEGAL",IMEDIA TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45583
-#EXTINF:-1,group-title="SENEGAL",YELLY TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45584
-#EXTINF:-1,group-title="SENEGAL",LAMP FALL TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45585
-#EXTINF:-1,group-title="SENEGAL",AFRICA7 TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45586
-#EXTINF:-1,group-title="SENEGAL",RTJ
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45587
-#EXTINF:-1,group-title="SENEGAL",BANTAMBA TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45588
-#EXTINF:-1,group-title="SENEGAL",ASONGA TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45589
-#EXTINF:-1,group-title="SENEGAL",PEOPLE TV
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45590
-#EXTINF:-1,group-title="SENEGAL",SANGA NOVLAS
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45591
-#EXTINF:-1,group-title="SENEGAL",TELE-ECOLE
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45592
 
 #EXTINF:-1,group-title="SAUDI ARABIA",SAUDI TV 1
 http://bozztv.com/36bay2/gin/giniko_sauditv_900kb_36bay2/tracks-v1a1/mono.m3u8
@@ -1151,22 +898,6 @@ https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U5c8F0J.png" group-title="ITALY",Rete 4
 https://1.ip2stream.icu/live/rete_4_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ITALY",RAI 4 HD
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/44978
-#EXTINF:-1 tvg-logo="" group-title="ITALY",CANALE 5 HD
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/44980
-#EXTINF:-1 tvg-logo="" group-title="ITALY",ITALIA 1 HD
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/44982
-#EXTINF:-1 tvg-logo="" group-title="ITALY",IRIS
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/44984
-#EXTINF:-1 tvg-logo="" group-title="ITALY",LA 5
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/44985
-#EXTINF:-1 tvg-logo="" group-title="ITALY",LA 7D
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/44986
-#EXTINF:-1 tvg-logo="" group-title="ITALY",RSI LA1 HD
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/44989
-#EXTINF:-1 tvg-logo="" group-title="ITALY",RSI LA2 HD
-http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/44991
 #EXTINF:-1 tvg-logo="https://alpitv.com/wp-content/uploads/2018/06/logo.png" group-title="ITALY",Rete Biella TV
 rtmp://sb.top-ix.org:1935/retebiella/streaming
  
@@ -1221,188 +952,7 @@ http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
  
 
 
-#EXTINF:-1,group-title="FRANCIA",France -6TER HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47052
-#EXTINF:-1,group-title="FRANCIA",France -ALTICE STUDIO FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47053
-#EXTINF:-1,group-title="FRANCIA",France -ARTE HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47054
-#EXTINF:-1,group-title="FRANCIA",France -BE CURIOUS FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47055
-#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT 1 FR HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47056
-#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT 2 FR HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47057
-#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT 3 FR HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47058
-#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT-MAX-10FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47059
-#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT-MAX-4FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47060
-#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT-MAX-5FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47061
-#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT-MAX-6FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47062
-#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT-MAX-7FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47063
-#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT-MAX-8FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47064
-#EXTINF:-1,group-title="FRANCIA",France -BEINSPORT-MAX-9FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47065
-#EXTINF:-1,group-title="FRANCIA",France -BET
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47066
-#EXTINF:-1,group-title="FRANCIA",France -BFM SPORT FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47068
-#EXTINF:-1,group-title="FRANCIA",France -BRAVA HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47069
-#EXTINF:-1,group-title="FRANCIA",France -CANAL  CINEMA HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47070
-#EXTINF:-1,group-title="FRANCIA",France -CANAL  DECALE HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47071
-#EXTINF:-1,group-title="FRANCIA",France -CANAL  FAMILY HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47072
-#EXTINF:-1,group-title="FRANCIA",France -CANAL  HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47073
-#EXTINF:-1,group-title="FRANCIA",France -CANAL  SERIES HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47074
-#EXTINF:-1,group-title="FRANCIA",France -CANAL  SPORT HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47075
-#EXTINF:-1,group-title="FRANCIA",France -CANAL J HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47076
-#EXTINF:-1,group-title="FRANCIA",France -CHASSE&PECHE HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47077
-#EXTINF:-1,group-title="FRANCIA",France -CINE  CLUB HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47078
-#EXTINF:-1,group-title="FRANCIA",France -CINE  EMOTION HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47079
-#EXTINF:-1,group-title="FRANCIA",France -CINE  FAMIZ HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47080
-#EXTINF:-1,group-title="FRANCIA",France -CINE  FRISSON HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47081
-#EXTINF:-1,group-title="FRANCIA",France -CRIME DISTRICT HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47083
-#EXTINF:-1,group-title="FRANCIA",France -DISCOVERY  FAMILY FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47084
-#EXTINF:-1,group-title="FRANCIA",France -DISCOVERY HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47085
-#EXTINF:-1,group-title="FRANCIA",France -DISCOVERY INVESTIGATION
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47086
-#EXTINF:-1,group-title="FRANCIA",France -DISCOVERY INVESTIGATION FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47087
-#EXTINF:-1,group-title="FRANCIA",France -DISCOVERY SCIENCE HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47088
-#EXTINF:-1,group-title="FRANCIA",France -DISNEY CHANNEL 1 FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47089
-#EXTINF:-1,group-title="FRANCIA",France -DISNEY CHANNEL HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47090
-#EXTINF:-1,group-title="FRANCIA",France -DISNEY CINEMA HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47091
-#EXTINF:-1,group-title="FRANCIA",France -E! ENTERTAINMENT HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47092
-#EXTINF:-1,group-title="FRANCIA",France -EQUIDIA LIFE HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47093
-#EXTINF:-1,group-title="FRANCIA",France -EQUIDIA LIVE HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47094
-#EXTINF:-1,group-title="FRANCIA",France -EURONEWS
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47095
-#EXTINF:-1,group-title="FRANCIA",France -EUROSPORT 1 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47096
-#EXTINF:-1,group-title="FRANCIA",France -EUROSPORT 2 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47097
-#EXTINF:-1,group-title="FRANCIA",France -FRANCE 2 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47098
-#EXTINF:-1,group-title="FRANCIA",France -FRANCE 3 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47099
-#EXTINF:-1,group-title="FRANCIA",France -FRANCE 4 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47100
-#EXTINF:-1,group-title="FRANCIA",France -FRANCE 5 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47101
-#EXTINF:-1,group-title="FRANCIA",France -FRANCE O HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47102
-#EXTINF:-1,group-title="FRANCIA",France -GAME ONE 1
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47103
-#EXTINF:-1,group-title="FRANCIA",France -GAME ONE HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47104
-#EXTINF:-1,group-title="FRANCIA",France -HISTOIRE HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47105
-#EXTINF:-1,group-title="FRANCIA",France -I24 NEWS HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47106
-#EXTINF:-1,group-title="FRANCIA",France -J.ONE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47107
-#EXTINF:-1,group-title="FRANCIA",France -MOTORSPORT.TV HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47108
-#EXTINF:-1,group-title="FRANCIA",France -MY CUISINE FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47109
-#EXTINF:-1,group-title="FRANCIA",France -NATIONAL GEO WILD HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47110
-#EXTINF:-1,group-title="FRANCIA",France -NATIONAL GEOGRAPHIC HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47111
-#EXTINF:-1,group-title="FRANCIA",France -NICKELODEON JUN
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47112
-#EXTINF:-1,group-title="FRANCIA",France -NRJ12 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47113
-#EXTINF:-1,group-title="FRANCIA",France -NUMERO 23 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47114
-#EXTINF:-1,group-title="FRANCIA",France -OCS CHOC FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47115
-#EXTINF:-1,group-title="FRANCIA",France -OCS CITY FHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47116
-#EXTINF:-1,group-title="FRANCIA",France -OCS GEANTS
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47117
-#EXTINF:-1,group-title="FRANCIA",France -OCS GEANTS HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47118
-#EXTINF:-1,group-title="FRANCIA",France -OL TV HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47119
-#EXTINF:-1,group-title="FRANCIA",France -PARAMOUNT CHANNEL HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47120
-#EXTINF:-1,group-title="FRANCIA",France -PARAMOUNT DECALE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47121
-#EXTINF:-1,group-title="FRANCIA",France -PIWI  HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47122
-#EXTINF:-1,group-title="FRANCIA",France -PLANETE  HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47123
-#EXTINF:-1,group-title="FRANCIA",France -PLANETE AE HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47124
-#EXTINF:-1,group-title="FRANCIA",France -PLANETE CI HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47125
-#EXTINF:-1,group-title="FRANCIA",France -POLAR  FULLHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47126
-#EXTINF:-1,group-title="FRANCIA",France -RFM TV HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47127
-#EXTINF:-1,group-title="FRANCIA",France -RTL9 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47128
-#EXTINF:-1,group-title="FRANCIA",France -SUNDANCE TV FULLHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47129
-#EXTINF:-1,group-title="FRANCIA",France -SYFY HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47130
-#EXTINF:-1,group-title="FRANCIA",France -TCM CINEMA HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47131
-#EXTINF:-1,group-title="FRANCIA",France -TFX HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47132
-#EXTINF:-1,group-title="FRANCIA",France -TMC 1
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47133
-#EXTINF:-1,group-title="FRANCIA",France -TMC HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47134
-#EXTINF:-1,group-title="FRANCIA",France -TOONAMI
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47135
-#EXTINF:-1,group-title="FRANCIA",France -TOUTE L'HISTOIRE HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47136
-#EXTINF:-1,group-title="FRANCIA",France -TRACE AFRICA FULLHD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47137
-#EXTINF:-1,group-title="FRANCIA",France -TRACE URBAN HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47138
-#EXTINF:-1,group-title="FRANCIA",France -TV BREIZH HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47139
-#EXTINF:-1,group-title="FRANCIA",France -USHUAIA TV HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47140
-#EXTINF:-1,group-title="FRANCIA",France -VOYAGE HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47141
-#EXTINF:-1,group-title="FRANCIA",France -W9 HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47142
-#EXTINF:-1,group-title="FRANCIA",France -WARNER TV
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47143
-#EXTINF:-1,group-title="FRANCIA",France -WEO HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/47144
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France24English.fr.png" group-title="FRANCIA",France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/ARTE.fr.png"  group-title="FRANCIA",Arte
@@ -1541,181 +1091,4 @@ http://live.redtraffic.xyz/threesome.m3u8
 http://188.35.9.11:21141/udp/214h
 #EXTINF:-1,group-title="FOR ADULTS",sun rise
 http://188.35.9.11:21051/udp/071l
-http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2
-
-#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 1
-http://etvhosting.xyz:8080/Rottie/LucyLiu/39905
-#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 10
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35484
-#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 11
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35514
-#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 12
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35510
-#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 14
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35522
-#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 16
-http://etvhosting.xyz:8080/Rottie/LucyLiu/34512
-#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 17
-http://etvhosting.xyz:8080/Rottie/LucyLiu/34517
-#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 2
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35453
-#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 4
-http://etvhosting.xyz:8080/Rottie/LucyLiu/34487
-#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 5
-http://etvhosting.xyz:8080/Rottie/LucyLiu/27978
-#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 6
-http://etvhosting.xyz:8080/Rottie/LucyLiu/34486
-#EXTINF:-1,group-title="FOR ADULTS",ADULT CHANNEL 9
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35485
-#EXTINF:-1,group-title="FOR ADULTS",ADULT8
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35473
-#EXTINF:-1,group-title="FOR ADULTS",Blacked
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35524
-#EXTINF:-1,group-title="FOR ADULTS",Brazzers tv
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35523
-#EXTINF:-1,group-title="FOR ADULTS",DORCEL HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35518
-#EXTINF:-1,group-title="FOR ADULTS",Hot
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35520
-#EXTINF:-1,group-title="FOR ADULTS",Hustler HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35513
-#EXTINF:-1,group-title="FOR ADULTS",PLAYBOY CHANNEL
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35465
-#EXTINF:-1,group-title="FOR ADULTS",Porn
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35519
-#EXTINF:-1,group-title="FOR ADULTS",SCT
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35509
-#EXTINF:-1,group-title="FOR ADULTS",SIRINA
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35423
-#EXTINF:-1,group-title="FOR ADULTS",Taboo
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35459
-#EXTINF:-1,group-title="FOR ADULTS",XXX Stars
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35391
-#EXTINF:-1,XXX:Eye Candy
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35398
-#EXTINF:-1,XXX:In The Butt!
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35393
-#EXTINF:-1,group-title="FOR ADULTS",Bangbros 1
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46635
-#EXTINF:-1,group-title="FOR ADULTS",Bad Teens Punished
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46641
-#EXTINF:-1,group-title="FOR ADULTS",DDF Network 1
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46642
-#EXTINF:-1,group-title="FOR ADULTS",DDF Network 2
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46643
-#EXTINF:-1,group-title="FOR ADULTS",DDF Network 3
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46644
-#EXTINF:-1,group-title="FOR ADULTS",Erotic
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46645
-#EXTINF:-1,group-title="FOR ADULTS",XXX3
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46646
-#EXTINF:-1,group-title="FOR ADULTS",Girls Way 1
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46648
-#EXTINF:-1,group-title="FOR ADULTS",Girls Way 2
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46649
-#EXTINF:-1,group-title="FOR ADULTS",Girls Way 3
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46650
-#EXTINF:-1,group-title="FOR ADULTS",Lesbian New Sensations 1
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46652
-#EXTINF:-1,group-title="FOR ADULTS",Lesbian New Sensations 2
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46653
-#EXTINF:-1,group-title="FOR ADULTS",Lesbian X-Art 1
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46654
-#EXTINF:-1,group-title="FOR ADULTS",Lesbian X-Art 2
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46655
-#EXTINF:-1,group-title="FOR ADULTS",Mad Sex Party 1
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46656
-#EXTINF:-1,group-title="FOR ADULTS",Mad Sex Party 2
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46657
-#EXTINF:-1,group-title="FOR ADULTS",Max XXX
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46658
-#EXTINF:-1,group-title="FOR ADULTS",Max XXX 2
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46659
-#EXTINF:-1,group-title="FOR ADULTS",MetArt Network 2
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46660
-#EXTINF:-1,group-title="FOR ADULTS",MetArt Network 3
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46661
-#EXTINF:-1,group-title="FOR ADULTS",Miami TV
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46662
-#EXTINF:-1,group-title="FOR ADULTS",MOFOS
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46663
-#EXTINF:-1,group-title="FOR ADULTS",Nubiles
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46665
-#EXTINF:-1,group-title="FOR ADULTS",Passie XXX
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46666
-#EXTINF:-1,group-title="FOR ADULTS",Penthouse Quickies
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46667
-#EXTINF:-1,group-title="FOR ADULTS",Perv Mom
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46668
-#EXTINF:-1,group-title="FOR ADULTS",Petite
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46669
-#EXTINF:-1,group-title="FOR ADULTS",Playboy TV
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46670
-#EXTINF:-1,group-title="FOR ADULTS",Porn Pros Network 2
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46671
-#EXTINF:-1,group-title="FOR ADULTS",Porn Pros Network 3
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46672
-#EXTINF:-1,group-title="FOR ADULTS",Radical Pass 2
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46673
-#EXTINF:-1,group-title="FOR ADULTS",Radical Pass 3
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46674
-#EXTINF:-1,group-title="FOR ADULTS",Reality Kings 1
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46675
-#EXTINF:-1,group-title="FOR ADULTS",Reality Kings 2
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46676
-#EXTINF:-1,group-title="FOR ADULTS",Shot Her First
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46677
-#EXTINF:-1,group-title="FOR ADULTS",Sirina
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46678
-#EXTINF:-1,group-title="FOR ADULTS",Sis Loves Me
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46679
-#EXTINF:-1,group-title="FOR ADULTS",Step Siblings Caught
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46680
-#EXTINF:-1,group-title="FOR ADULTS",Team Skeet 1
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46681
-#EXTINF:-1,group-title="FOR ADULTS",Team Skeet 2
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46682
-#EXTINF:-1,group-title="FOR ADULTS",VISIT-X
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46683
-#EXTINF:-1,group-title="FOR ADULTS",Vivid TV Europe
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46684
-#EXTINF:-1,group-title="FOR ADULTS",Vixen 1
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46685
-#EXTINF:-1,group-title="FOR ADULTS",Vixen 2
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46686
-#EXTINF:-1,group-title="FOR ADULTS",BIG ASS TUBE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46687
-#EXTINF:-1,group-title="FOR ADULTS",BIG DICK TUBE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46688
-#EXTINF:-1,group-title="FOR ADULTS",BIG TITS TUBE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46689
-#EXTINF:-1,group-title="FOR ADULTS",BLOWJOB TUBE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46690
-#EXTINF:-1,group-title="FOR ADULTS",CUCKOLD TUBE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46691
-#EXTINF:-1,group-title="FOR ADULTS",FETISH TUBE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46692
-#EXTINF:-1,group-title="FOR ADULTS",HARDCORE TUBE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46693
-#EXTINF:-1,group-title="FOR ADULTS",LATINA TUBE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46694
-#EXTINF:-1,group-title="FOR ADULTS",PORNSTAR TUBE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46695
-#EXTINF:-1,group-title="FOR ADULTS",POV TUBE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46696
-#EXTINF:-1,group-title="FOR ADULTS",RUSSIAN TUBE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46697
-#EXTINF:-1,group-title="FOR ADULTS",SHEMALE TUBE 1 (SD)
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46698
-#EXTINF:-1,group-title="FOR ADULTS",SHEMALE TUBE 1 (UHD)
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46699
-#EXTINF:-1,group-title="FOR ADULTS",SHEMALE TUBE 2 (SD)
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46700
-#EXTINF:-1,group-title="FOR ADULTS",SHEMALE TUBE 2 (UHD)
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46701
-#EXTINF:-1,group-title="FOR ADULTS",THREESOME TUBE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46702
-#EXTINF:-1,group-title="FOR ADULTS",Porn Pros Network 1
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46703
-#EXTINF:-1,group-title="FOR ADULTS",MetArt Network 1
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46704
+http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8
