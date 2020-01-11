@@ -80,19 +80,6 @@ http://weak_spell.carniferou.club/edge/NBA3/chunks.m3u8
 http://weak_spell.carniferou.club/edge/SSME/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORTS 1
-https://2d04.janjua.pw:8088/live/beunsports1hbz/playlist.m3u8?id=95908&wowzasessionid=7810293841&pk=70bac79904c45d7ec2be635fa64caaf80f6712c2408466d4d8d91de93a63a26e
-
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORTS 3
-https://2d04.janjua.pw:8088/live/beinsportsdxzs3/playlist.m3u8?id=95394&wowzasessionid=3507018465&pk=70bac79904c45d7ec2be635fa64caaf80f6712c2408466d4d8d91de93a63a26e
-
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORTS 4
-https://2d02.janjua.pw:8088/live/beinsportsg4gva/playlist.m3u8?id=95835&wowzasessionid=5919834&pk=70bac79904c45d7ec2be635fa64caaf80f6712c2408466d4d8d91de93a63a26e
-
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORTS 5
-https://2d02.janjua.pw:8088/live/beinsportd5a/playlist.m3u8?id=95813&wowzasessionid=3977471285&pk=70bac79904c45d7ec2be635fa64caaf80f6712c2408466d4d8d91de93a63a26e
-
-
 
 
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Premier Sports Hd
@@ -898,14 +885,9 @@ https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U5c8F0J.png" group-title="ITALY",Rete 4
 https://1.ip2stream.icu/live/rete_4_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://alpitv.com/wp-content/uploads/2018/06/logo.png" group-title="ITALY",Rete Biella TV
-rtmp://sb.top-ix.org:1935/retebiella/streaming
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reggio_TV_logo.png" group-title="ITALY",ReggioTV
-https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EiIygb1.png" group-title="ITALY",Rei TV Sicilia
-https://ad.mysisli.com/live/ReiTv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ITALY",Parole di Vita
+http://195.142.109.181:8035
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vClKdtx.png" group-title="ITALY",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8?fluxustv.m3u8
@@ -1029,6 +1011,8 @@ https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TraceUrban.fr.png" group-title="FRANCIA",Trace Urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FRANCIA",TV5 MONDE
+http://195.142.109.181:8015
 #EXTINF:-1 tvg-logo="https://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="FRANCIA",TV5 Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1 tvg-logo="http://nowtv.now.com/shares/channelPreview/img/en_hk/color/ch713_170_122.jpg" group-title="FRANCIA",TV5 Style
@@ -1091,4 +1075,4 @@ http://live.redtraffic.xyz/threesome.m3u8
 http://188.35.9.11:21141/udp/214h
 #EXTINF:-1,group-title="FOR ADULTS",sun rise
 http://188.35.9.11:21051/udp/071l
-http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8
+http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2
