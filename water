@@ -182,6 +182,11 @@ http://92.43.140.249/s86/04.m3u8
 #EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",SPORT FIGHT HD
 http://188.35.9.11:21151/udp/193i
 
+
+
+#EXTINF:-1,group-title="DOCUMENTARIES",GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
+
 #EXTINF:-1,group-title="DOCUMENTARIES",BBC ONE
 http://mysisli.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="DOCUMENTARIES",BBC TWO
@@ -210,52 +215,6 @@ http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
 
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SHOWTIME 2
-http://etvhosting.xyz:8080/Rottie/LucyLiu/40584
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SHOWTIME BEYOND
-http://etvhosting.xyz:8080/Rottie/LucyLiu/41936
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SHOWTIME EXTREME
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16482
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SHOWTIME FAMILY ZONE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/41956
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SHOWTIME HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/14127
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SHOWTIME NEXT
-http://etvhosting.xyz:8080/Rottie/LucyLiu/41935
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SHOWTIME SHOWCASE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/40292
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SHOWTIME WOMEN
-http://etvhosting.xyz:8080/Rottie/LucyLiu/41957
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SMITHSONIAN CHANNEL
-http://etvhosting.xyz:8080/Rottie/LucyLiu/37904
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: SONY MOVIE CHANNEL
-http://etvhosting.xyz:8080/Rottie/LucyLiu/41300
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ
-http://etvhosting.xyz:8080/Rottie/LucyLiu/16481
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ CINEMA
-http://etvhosting.xyz:8080/Rottie/LucyLiu/41958
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ COMEDY
-http://etvhosting.xyz:8080/Rottie/LucyLiu/25489
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ EDGE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/39907
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ ENCORE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/36272
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ ENCORE ACTION
-http://etvhosting.xyz:8080/Rottie/LucyLiu/41309
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ ENCORE BLACK
-http://etvhosting.xyz:8080/Rottie/LucyLiu/41949
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ ENCORE CLASSIC
-http://etvhosting.xyz:8080/Rottie/LucyLiu/41310
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ ENCORE FAMILY
-http://etvhosting.xyz:8080/Rottie/LucyLiu/41950
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ ENCORE SUSPENSE
-http://etvhosting.xyz:8080/Rottie/LucyLiu/41311
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ ENCORE WESTERNS
-http://etvhosting.xyz:8080/Rottie/LucyLiu/35530
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ IN BLACK
-http://etvhosting.xyz:8080/Rottie/LucyLiu/40832
-#EXTINF:-1,group-title="MOVIE CHANNELS",USA: STARZ KIDS & FAMILY
-http://etvhosting.xyz:8080/Rottie/LucyLiu/25255
 
 
 #EXTINF:-1,group-title="BAMBINI",NICK JR
@@ -296,9 +255,6 @@ https://streaming.viewsat.eu/viewsatstream14/viewsatstream14.smil/playlist.m3u8
 https://streaming.viewsat.eu/viewsatstream10/viewsatstream10.smil/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://vod.landiptv.live/files/t20.png",group-title="CHRISTIAN TV",Emmanuel TV
 https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
-
-#EXTINF:-1,tvg-logo="http://vod.landiptv.live/files/t20.png",group-title="CHRISTIAN TV",Emmanuel TV*
-https://playback.akamaized.net/streams/23202872_7200883_lsipodabt7y0znb0wxu_1/media/23202872_7200883_lsipodabt7y0znb0wxu_1@4628000pb.m3u8?dw=14400&ts=1578646800&hdnts=exp=1578819802~acl=/streams/23202872_7200883_lsipodabt7y0znb0wxu_1/media*~hmac=78f6ab5982174d7cdca55e23d62cf995bec745623303d3a45604d420c473aa31
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4oRRKxP.png" group-title="CHRISTIAN TV",African Broadcasting Network (NG)
 https://streaming.viewsat.eu/viewsatstream04/viewsatstream04.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OzDHzX.png" group-title="CHRISTIAN TV",Clearview TV (NG)
@@ -363,9 +319,17 @@ https://stream.ecable.tv/rok/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",CNN MUSIC
 https://1861340594.rsc.cdn77.org/QdBI-5np3m-gW5f2CL6XTg==,1578196803/ls-54548-1/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",MIAMI TV
-http://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w30480388_b2592000.m3u8
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",MIAMI TV*
+http://mysisli.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",KITCHEN HACKS
 http://mysisli.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",QUICK CRAFTS
+http://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",QUICK BEAUTY
+http://bozztv.com/36bay2/gin/giniko_5minbeauty_1500kb_36bay2/index.m3u8
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",LIFE HACKS
+http://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",FTV
 http://ott-cdn.ucom.am/s31/index.m3u8
 #EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/34.jpg" group-title="AFRICA MOVIE AND ENTERTAINMENT",FASHION ONE
@@ -406,34 +370,10 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/master.m3u8
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunks.m3u8
 
-
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV LIVE HD*
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27731.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV HITS*
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27732.m3u8
-
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV DANCE*
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27734.m3u8
-
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV HD*
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27733.m3u8
-
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV CLASSIC*
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27735.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV BASE*
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27736.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",MTV
+#EXTINF:-1 tvg-id="California Music Channel(CMTV)-US" tvg-name="California Music Channel(CMTV)-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" group-title="MUSIC",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MUSIC",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV MUSIC UK
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27730.m3u8
-
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV OMG
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27729.m3u8
-
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MTV MUSIC",UK: MTV ROCKS
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/27728.m3u8
-
 
 #EXTINF:-1,tvg-logo="https://static-media.streema.com/media/cache/b7/8a/b78a3c3cf07506b44690549e1fee533f.jpg",group-title="CHRISTIAN MUSIC TV & RADIO",Black Gospel 
 http://stream.trace.tv/trace_playlist_gospel-midfi.aac
@@ -933,7 +873,17 @@ https://ad.mysisli.com/live/siciliatv/tracks-v1a1/mono.m3u8?fluxustv.m3u8
 http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
  
 
+#EXTINF:-1 tvg-id="Notele" tvg-name="Notele" tvg-language="French" tvg-country="FR" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="FRANCIA",Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
 
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",D5TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RTI 1
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/master.m3u8
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RTI 2
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MY COMEDY
+https://live.creacast.com/mycomedy/smil:mycomedy.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France24English.fr.png" group-title="FRANCIA",France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
