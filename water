@@ -96,23 +96,23 @@ http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
 #EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 3
 http://iptv7.premium-stv.com:25461/live/rmcsport3/1557539943/58.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ5lJcL.jpg",group-title="VIP SPORTS",BT Sport 1
-https://mmm.sportbar.biz/lba/N2I1NGMxZGRiNDA5OWVjNWI4OGYzMmMzNjY5ZGE3MDY/g2/btuk1.m3u8
+https://mmm.sportbar.biz/lba/123/g2/btuk1.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ5lJcL.jpg",group-title="VIP SPORTS",BT Sport 1*
 http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/247.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PS6Bb8H.png",group-title="VIP SPORTS",BT Sport 2
-https://mmm.sportbar.biz/lba/N2I1NGMxZGRiNDA5OWVjNWI4OGYzMmMzNjY5ZGE3MDY=/g3/ukbt2sport.m3u8
+https://mmm.sportbar.biz/lba/123/g3/ukbt2sport.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PS6Bb8H.png",group-title="VIP SPORTS",BT Sport 2*
 http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/248.ts
 #EXTINF:-1,group-title="VIP SPORTS",BT Sport 3
-https://mmm.sportbar.biz/lba/NGM5OTZhZmE2YWMwYzBjNTdlZmQzZTgyNGM4YTJkMGQ=/g2/3btsporteu.m3u8
+https://mmm.sportbar.biz/lba/123/g2/3btsporteu.m3u8
 #EXTINF:-1,group-title="VIP SPORTS",BT Sport 3*
 http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/249.ts
 #EXTINF:-1,group-title="VIP SPORTS",BT ESPN HD
 https://mmm.sportbar.biz/lba/123/g7/btse.m3u8
 #EXTINF:-1,group-title="VIP SPORTS",SPORT TV 3
-https://mmm.sportbar.biz/lba/NGM5OTZhZmE2YWMwYzBjNTdlZmQzZTgyNGM4YTJkMGQ=/g2/pt3sport.m3u8
+https://mmm.sportbar.biz/lba/123/g2/pt3sport.m3u8
 #EXTINF:-1,group-title="VIP SPORTS",SPORT TV 2
 https://mmm.sportbar.biz/lba/123/g1/sport2port.m3u8
 #EXTINF:-1,group-title="VIP SPORTS",SPORT TV 1
@@ -868,15 +868,15 @@ https://www.mytivu.it/Application/Channels/Giallo.php
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/motortrend.png", |IT| MOTOR TREND 
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8?hdnts=st=1570986189~exp=1571072589~acl=/i/*~hmac=39beeed96fab2cce673a35c9ed5c0266c9bacf0d32ff9a5aeb5c70f3459af517&mux_audio=true 
 #EXTINF:-1, ======== TIVUSAT SPORT ======== https://salva59sg.tk/film/video1.mp4 
-#EXTINF:-1 tvg-id="" group-title="ITALIA TIVUSAT SPORT" tvg-logo="http://logo.premium-ott.com:8000/logo/sportitalia.png", |IT| SPORT ITALIA 
+#EXTINF:-1 tvg-id="" group-title="ITALIA " tvg-logo="http://logo.premium-ott.com:8000/logo/sportitalia.png", |IT| SPORT ITALIA 
 https://www.mytivu.it/Application/Channels/SI.php 
-#EXTINF:-1 tvg-id="" group-title="ITALIA TIVUSAT SPORT" tvg-logo="https://www.sportitalia.com/image/original/5d148c147531b.png?v=20190627092749", |IT| SPORT ITALIA 24 LIVE 
+#EXTINF:-1 tvg-id="" group-title="ITALIA " tvg-logo="https://www.sportitalia.com/image/original/5d148c147531b.png?v=20190627092749", |IT| SPORT ITALIA 24 LIVE 
 https://www.mytivu.it/Application/Channels/SILive24.php 
-#EXTINF:-1 tvg-id="" group-title="ITALIA TIVUSAT SPORT" tvg-logo="https://www.sportitalia.com/image/original/5d148c8e81ba4.png?v=20190627092951", |IT| SPORT ITALIA CALCIO 
+#EXTINF:-1 tvg-id="" group-title="ITALIA " tvg-logo="https://www.sportitalia.com/image/original/5d148c8e81ba4.png?v=20190627092951", |IT| SPORT ITALIA CALCIO 
 https://www.mytivu.it/Application/Channels/SISoloCalcio.php 
-#EXTINF:-1 tvg-id="" group-title="ITALIA TIVUSAT SPORT" tvg-logo="https://www.sportitalia.com/image/original/5d148ad43f988.png?v=20190627092229", |IT| SPORT ITALIA MOTORI https://www.mytivu.it/Application/Channels/SIMotori.php #EXTINF:-1 tvg-id="" group-title="ITALIA TIVUSAT SPORT" tvg-logo="http://udinews.tv/images/logo.png", |IT| UDINESE TV 
+#EXTINF:-1 tvg-id="" group-title="ITALIA " tvg-logo="https://www.sportitalia.com/image/original/5d148ad43f988.png?v=20190627092229", |IT| SPORT ITALIA MOTORI https://www.mytivu.it/Application/Channels/SIMotori.php #EXTINF:-1 tvg-id="" group-title="ITALIA " tvg-logo="http://udinews.tv/images/logo.png", |IT| UDINESE TV 
 http://api.new.livestream.com/accounts/UdinewsTV/events/Udinese/live.m3u8 
-#EXTINF:-1 tvg-id="" group-title="ITALIA TIVUSAT SPORT" tvg-logo="https://www.sportitalia.com/image/original/5cd41fdd8b420.png?v=20190924155720", |IT| TELE ROMAGNA SPORT 
+#EXTINF:-1 tvg-id="" group-title="ITALIA " tvg-logo="https://www.sportitalia.com/image/original/5cd41fdd8b420.png?v=20190924155720", |IT| TELE ROMAGNA SPORT 
 http://livetr.teleromagna.it/sport/live/playlist.m3u8 ott.com:8000/logo/la7.png", |IT| LA 7 
 https://www.mytivu.it/Application/Channels/La7.php 
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/la7.png", |IT| LA 7 HD 
@@ -908,7 +908,7 @@ https://dlxommsyqo2g0.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/playli
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://hl.museostorico.it/sites/default/files/logo.png", |IT| HISTORY LAB 
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8 
 #EXTINF:-1, ======== CAMERA ITALIA ======== https://salva59sg.tk/film/video1.mp4 
-#EXTINF:-1 tvg-id="" group-title="ITALIA CAMERA " tvg-logo="", |IT| PETITE ITALIA USA 
+#EXTINF:-1 tvg-id="" group-title="ITALIA " tvg-logo="", |IT| PETITE ITALIA USA 
 https://videos3.earthcam.com/fecnetwork/5775.flv/chunklist_w479992477.m3u8 
 #EXTINF:-1, ======== RADIO ITA TV ======== https://salva59sg.tk/film/video1.mp4 
 #EXTINF:-1 tvg-id="DEEJAYTV" group-title="RADIO ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/deejay.png", |IT| DEEJAY TV 
