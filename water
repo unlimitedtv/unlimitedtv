@@ -808,15 +808,15 @@ http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:-1 tvg-id="RAI 4" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rai4.png", |IT| RAI 4 
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8 
 #EXTINF:-1 tvg-id="RAI 5" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rai5.png", |IT| RAI 5 
-https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on 
+https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on.m3u8
 #EXTINF:-1 tvg-id="Rainews.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rainews24.png", |IT| RAI NEWS 
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1200/chunklist.m3u8 
 #EXTINF:-1 tvg-id="Raigulp.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raigulp.png", |IT| RAI GULP 
-https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8?sd=10&rebase=on 
+https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8?sd=10&rebase=on.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raimovie.png", |IT| RAI MOVIE 
 https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raipremium.png", |IT| RAI PREMIUM 
-https://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8?sd=10&rebase=on 
+https://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8?sd=10&rebase=on.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raiyoyo.png", |IT| RAI YOYO 
 https://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="italiauno.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/italia1.png", |IT| ITALIA 1 
@@ -884,7 +884,7 @@ http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="https://playplex.mtvnimages.com/uri/mgid:arc:content:paramount.intl:d415c1b1-3125-4d3f-ab4f-4a5cc63e1172?stage=live&ep=web.paramountplus.it", |IT| SPIKE 
 http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8 
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="https://playplex.mtvnimages.com/uri/mgid:arc:content:paramount.intl:d415c1b1-3125-4d3f-ab4f-4a5cc63e1172?stage=live&ep=web.paramountplus.it", |IT| SPIKE HD 
-http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_800_av-p.m3u8?sd=10&rebase=on 
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_800_av-p.m3u8?sd=10&rebase=on.m3u8
 #EXTINF:-1 tvg-id="TV2000" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/tv2000.png", |IT| TV2000 
 http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8 
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/tv2000.png", |IT| TV2000 HD 
