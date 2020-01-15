@@ -33,9 +33,6 @@ http://mysisli.com/36bay2/gin/giniko_cnbc_800kb_36bay2/index.m3u8
 http://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:-1,tvg-id="CBS HD" group-title="NEWS CHANNEL",CBSN HD
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
-#EXTINF:-1,tvg-id="CBS HD" group-title="NEWS CHANNEL",MSNBC
-https://1161275585.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
 #EXTINF:-1,group-title="NEWS CHANNEL",RT
 http://mysisli.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/index.m3u8
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
@@ -316,8 +313,12 @@ http://mysisli.com/36bay2/gin/giniko_womexerc_1000kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="AFRICA MOVIE AND ENTERTAINMENT",ROK
 http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45643
 https://stream.ecable.tv/rok/index.m3u8
-#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",CNN MUSIC
-https://1861340594.rsc.cdn77.org/QdBI-5np3m-gW5f2CL6XTg==,1578196803/ls-54548-1/index.m3u8
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",AFRIWOOD SERIES
+https://stream.ecable.tv/afris/index.m3u8
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",ROMANZA+
+https://stream.ecable.tv/romanza/index.m3u8
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",TRUE AFRICAN
+https://stream.ecable.tv/trueaf/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",MIAMI TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w30480388_b2592000.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",MIAMI TV*
@@ -534,7 +535,7 @@ http://stream.ecable.tv:9080/ben/index.m3u8
 http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
 #EXTINF:-1,tvg-logo="",group-title="NIGERIA",VOA
 https://stream.ecable.tv/voxafricauk/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/81.jpeg",group-title="NIGERIA",VOA
+#EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/81.jpeg",group-title="NIGERIA",Vox Africa*
 http://mysisli.com/36bay2/gin/giniko_voxafrica_900kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="http://voxafrica.com/wp-content/uploads/2016/10/logo-screen.png" group-title="NIGERIA",Vox Africa
 http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist.m3u8
@@ -543,16 +544,10 @@ https://stream.ecable.tv/voxafrica/tracks-v1a1/mono.m3u8
 http://stream.ecable.tv:9080/ait/index.m3u8
 #EXTINF:-1,tvg-logo="",group-title="NIGERIA",GN TV
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-gntv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,tvg-logo="",group-title="NIGERIA",NEWS CENTRAL
-https://news.sechls01.visionip.tv/live/visiontvuk-news-newscentral-hsslive-25f-SDq/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/266_1551611564_250.jpg",group-title="NIGERIA",Arewa24
 http://stream.ecable.tv:9080/arewa24/index.m3u8
-#EXTINF:-1,tvg-logo="" group-title="NIGERIA",SPORTS TONIGHT
-https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,tvg-logo="" group-title="NIGERIA",AFROVIBES RADIO
 http://209.126.119.76:8356/stream
-#EXTINF:-1,tvg-logo="",group-title="NIGERIA",SPOT LIGHT
-https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-spotlighttv-hsslive-25f-SD/chunklist.m3u8
 
 
 #EXTINF:-1,tvg-logo="" group-title="GHANA",MAX TV
@@ -589,6 +584,12 @@ https://vidhttps.r.worldssl.net/citizentv-origin/liveabr/citizentv-origin/live2/
 https://stream.ecable.tv/citizen/index.m3u8
 #EXTINF:-1,group-title="GHANA",GTV Sports+
 https://stream.ecable.tv/gtvsp/index.m3u8
+#EXTINF:-1,tvg-logo="",group-title="GHANA",NEWS CENTRAL
+https://news.sechls01.visionip.tv/live/visiontvuk-news-newscentral-hsslive-25f-SDq/chunklist.m3u8
+#EXTINF:-1,tvg-logo="" group-title="GHANA",SPORTS TONIGHT
+https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1,tvg-logo="",group-title="GHANA",SPOT LIGHT
+https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-spotlighttv-hsslive-25f-SD/chunklist.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/kessben_tv_gh.png",group-title="GHANA",KESSBEN TV
 https://stream.ecable.tv/kessben/index.m3u8
 #EXTINF:-1,group-title="GHANA",AGOO TV
