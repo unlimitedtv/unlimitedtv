@@ -313,16 +313,12 @@ http://mysisli.com/36bay2/gin/giniko_womexerc_1000kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="AFRICA MOVIE AND ENTERTAINMENT",ROK
 http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45643
 https://stream.ecable.tv/rok/index.m3u8
-#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",AFRIWOOD SERIES
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/371_1579095708_small.jpg" group-title="AFRICA MOVIE AND ENTERTAINMENT",AFRIWOOD SERIES
 https://stream.ecable.tv/afris/index.m3u8
-#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",ROMANZA+
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/373_1579099781_small.jpg" group-title="AFRICA MOVIE AND ENTERTAINMENT",ROMANZA+
 https://stream.ecable.tv/romanza/index.m3u8
-#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",TRUE AFRICAN
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/372_1579098959_small.jpg" group-title="AFRICA MOVIE AND ENTERTAINMENT",TRUE AFRICAN
 https://stream.ecable.tv/trueaf/index.m3u8
-#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",MIAMI TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w30480388_b2592000.m3u8
-#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",MIAMI TV*
-http://mysisli.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",KITCHEN HACKS
 http://mysisli.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",QUICK CRAFTS
@@ -592,7 +588,7 @@ https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-sportst
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-spotlighttv-hsslive-25f-SD/chunklist.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/kessben_tv_gh.png",group-title="GHANA",KESSBEN TV
 https://stream.ecable.tv/kessben/index.m3u8
-#EXTINF:-1,group-title="GHANA",AGOO TV
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/357_1574852219_small.jpg",group-title="GHANA",AGOO TV
 https://stream.ecable.tv/agoo/index.m3u8
 #EXTINF:-1,group-title="GHANA",PAN AFRICA
 https://stream.ecable.tv/panafrica/index.m3u8
@@ -638,7 +634,7 @@ http://sp0001.letslink.pro:8006/stream
 
 #EXTINF:-1,group-title="IVORY COAST",CANAL 54
 https://stream.ecable.tv/canaf54/index.m3u8
-#EXTINF:-1,group-title="IVORY COAST",RTI 1
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/5_1550597150_small.jpg",group-title="IVORY COAST",RTI 1
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/chunklist.m3u8
 #EXTINF:-1,group-title="IVORY COAST",RTI 2
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/chunklist.m3u8
@@ -1089,6 +1085,12 @@ http://hls.tmacaraibes.com/live/index.m3u8
 
 #EXTINF:-1,group-title="FOR ADULTS",JASMIN.TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,tvg-logo="" group-title="FOR ADULTS",MIAMI TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w30480388_b2592000.m3u8
+#EXTINF:-1,tvg-logo="" group-title="FOR ADULTS",MIAMI TV*
+http://mysisli.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="FOR ADULTS",ADULT PLAY
+https://stream.ecable.tv/adultplay/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Big Ass
 http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Big Dick
