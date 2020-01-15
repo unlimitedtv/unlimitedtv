@@ -520,7 +520,7 @@ http://edge1.cdn.tvnow.ids-africa.com/mchannels/channelstv_hi.m3u8
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-ntai-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://www.iafrica.tv/ics/uploads/NTAi248x2351.png" group-title="NIGERIA", NTAi
 http://mysisli.com/36bay2/gin/giniko_ntaint_900kb_36bay2/index.m3u8
-#EXTINF:-1,tvg-logo="http://212.8.253.112/logo/AFRICA/TVCNEWS.png",group-title="NIGERIA",TVC NEWS
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/308_1550676829_small.jpg",group-title="NIGERIA",TVC NEWS
 https://stream.ecable.tv/tvc/index.m3u8
 #EXTINF:-1,tvg-logo="http://212.8.253.112/logo/AFRICA/BEN.png",group-title="NIGERIA",BEN
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-bentv-hsslive-25f-4x3-SD/chunklist.m3u8
