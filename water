@@ -636,7 +636,7 @@ http://sp0001.letslink.pro:8006/stream
 https://stream.ecable.tv/canaf54/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/5_1550597150_small.jpg",group-title="IVORY COAST",RTI 1
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/chunklist.m3u8
-#EXTINF:-1,group-title="IVORY COAST",RTI 2
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/331_1556140134_small.jpg"group-title="IVORY COAST",RTI 2
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/chunklist.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/ORTM.png",group-title="IVORY COAST",ORTM MALI
 http://mysisli.com/36bay2/gin/giniko_ortm_800kb_36bay2/index.m3u8
@@ -667,8 +667,7 @@ https://stream.ecable.tv/bf1/index.m3u8
 https://stream.ecable.tv/panafrica/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/311_1551612734_250.jpg",group-title="CAMEROUN",EQUINOXE*
 https://stream.ecable.tv/equinox/index.m3u8
-http://iptv6.premium-stv.com:25461/afriquepro1gsqeg532/4685466531422/919
-#EXTINF:-1,group-title="CAMEROUN",CRTV
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/323_1554561564_small.jpg",group-title="CAMEROUN",CRTV
 https://stream.ecable.tv/crtv/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",CRTV*
 https://stream-14.dc3.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql565ysupamtfQVpYkp7svCKRTg)/dm/3/x7otnk4/s/live-3.m3u8
@@ -677,8 +676,6 @@ https://stream-14.dc3.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql565ysupamtfQVpYkp7sv
 #EXTINF:-1,group-title="CAMEROUN", TRACE AFRICA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
 
-#EXTINF:-1,group-title="CAMEROUN",AFTRICA GOSPEL
-rtmp://webtvonlive.vedge.infomaniak.com/livecast/teststream
 #EXTINF:-1,group-title="CAMEROUN",CANAL 2 MOVIE
 https://stream.ecable.tv/canal2movie/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",CANAL 2 ENGLISH
@@ -691,8 +688,6 @@ https://stream.ecable.tv/vision4/index.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",BF1
 https://stream.ecable.tv/bf1/index.m3u8
-#EXTINF:-1,group-title="CAMEROUN",ROK
-http://iptv6.premium-stv.com:25461/sourceafriquepro2/8625874572/849
 #EXTINF:-1,group-title="CAMEROUN",BOOM TV
 https://stream.ecable.tv:9080/boom/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",GTV Sports+
@@ -1081,15 +1076,13 @@ http://163.172.43.207:8081/w9/live/playlist.m3u8
 http://hls.tmacaraibes.com/live/index.m3u8
 
 
-
-
 #EXTINF:-1,group-title="FOR ADULTS",JASMIN.TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1,tvg-logo="" group-title="FOR ADULTS",MIAMI TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w30480388_b2592000.m3u8
 #EXTINF:-1,tvg-logo="" group-title="FOR ADULTS",MIAMI TV*
 http://mysisli.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
-#EXTINF:-1,group-title="FOR ADULTS",ADULT PLAY
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/319_1553385799_small.jpg", group-title="FOR ADULTS",ADULT PLAY
 https://stream.ecable.tv/adultplay/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Big Ass
 http://live.redtraffic.xyz/bigass.m3u8
