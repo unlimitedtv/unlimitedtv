@@ -197,8 +197,6 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/800px-Impact_Wrestling_Logo.svg.png" group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",Impact Wrestling
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",WWE NETWORK HD
-http://etvhosting.xyz:8080/live/Rottie/LucyLiu/16514.ts
 #EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",WWE NETWORK
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",FIGHT BOX
@@ -245,14 +243,6 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 http://213.174.8.7:9100/index.m3u8
 #EXTINF:-1,group-title="BAMBINI",Cartoons 4U
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8
-#EXTINF:-1,group-title="BAMBINI",PEPPA PIG
-http://etvhosting.xyz:8080/Rottie/LucyLiu/46178
-#EXTINF:-1,group-title="BAMBINI",DISNEY CHANNEL
-http://etvhosting.xyz:8080/Rottie/LucyLiu/19413
-#EXTINF:-1,group-title="BAMBINI",DISNEY JUNIOR HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/27785
-#EXTINF:-1,group-title="BAMBINI",DISNEY XD HD
-http://etvhosting.xyz:8080/Rottie/LucyLiu/27784
 #EXTINF:-1,group-title="BAMBINI",3ABN KIDS 
 https://3abn.sechls01.visionip.tv/live/visiontvuk-3abn-3-abn-kids-hsslive-25f-SD/index.m3u8
 #EXTINF:-1,group-title="BAMBINI",UK: NICK TOONS
@@ -375,10 +365,12 @@ https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist_w300555392.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE GOSPEL**
 http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TV GOSPEL
-http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE GOSPEL SA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE NAIJA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE AFRIKORA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE URBAN
 http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE Urban
@@ -671,8 +663,8 @@ http://mysisli.com/36bay2/gin/giniko_ortm_800kb_36bay2/index.m3u8
 http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45545
 #EXTINF:-1,group-title="IVORY COAST", TRACE AFRICA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
-#EXTINF:-1,group-title="IVORY COAST",AFRICA GOSPEL
-rtmp://webtvonlive.vedge.infomaniak.com/livecast/teststream
+#EXTINF:-1,group-title="IVORY COAST",TRACE AFRIKORA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",VIBE RADIO COTE D'IVOIRE
 http://217.182.132.143:8000/viberadio-ci.mp3
 #EXTINF:-1,group-title="IVORY COAST",TVT
@@ -702,7 +694,8 @@ https://stream-14.dc3.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql565ysupamtfQVpYkp7sv
 
 #EXTINF:-1,group-title="CAMEROUN", TRACE AFRICA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
-
+#EXTINF:-1,group-title="CAMEROUN",TRACE AFRIKORA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",CANAL 2 MOVIE
 https://stream.ecable.tv/canal2movie/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",CANAL 2 ENGLISH
@@ -744,6 +737,8 @@ https://stream.ecable.tv/tvt/index.m3u8
 
 #EXTINF:-1,group-title="SENEGAL", TRACE AFRICA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
+#EXTINF:-1,group-title="SENEGAL",TRACE AFRIKORA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
 #EXTINF:-1,group-title="SENEGAL",Al Quran Al Kareem
 http://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",GAMBIA: QTV
