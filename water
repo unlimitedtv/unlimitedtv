@@ -248,9 +248,16 @@ https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8
 #EXTINF:-1,group-title="BAMBINI",3ABN KIDS 
 https://3abn.sechls01.visionip.tv/live/visiontvuk-3abn-3-abn-kids-hsslive-25f-SD/index.m3u8
 #EXTINF:-1,group-title="BAMBINI",UK: NICK TOONS
-http://etvhosting.xyz:8080/Rottie/LucyLiu/27723
-#EXTINF:-1,group-title="BAMBINI",UK: NICK JR TOO
-http://etvhosting.xyz:8080/Rottie/LucyLiu/27725
+http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+#EXTINF:-1,group-title="BAMBINI",UK: NICK
+http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1,group-title="BAMBINI",Disney Channel
+http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:-1,group-title="BAMBINI",Disney Junior
+http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
+#EXTINF:-1,group-title="BAMBINI",Disney  XD
+http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/188px-Ducktv-logo.jpg" group-title="BAMBINI", Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nickelodeon.uk.png" group-title="BAMBINI", Nickelodeon
@@ -367,7 +374,7 @@ https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist_w300555392.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE GOSPEL**
 http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE GOSPEL SA
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",SA: TRACE GOSPEL
 http://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE NAIJA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
@@ -392,6 +399,9 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MUSIC",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MUSIC",MTV HITS
+http://88.119.220.2/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
 
 #EXTINF:-1,tvg-logo="https://static-media.streema.com/media/cache/b7/8a/b78a3c3cf07506b44690549e1fee533f.jpg",group-title="CHRISTIAN MUSIC TV & RADIO",Black Gospel 
 http://stream.trace.tv/trace_playlist_gospel-midfi.aac
