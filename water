@@ -36,6 +36,8 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1,group-title="NEWS CHANNEL",RT
 http://mysisli.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/index.m3u8
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
+#EXTINF:-1,group-title="NEWS CHANNEL",DW TV English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1,group-title="NEWS CHANNEL",US: Bloomberg HD*
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 http://cdnak15.cast4u.info/channels/3/10803.m3u8
