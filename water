@@ -432,6 +432,8 @@ http://s4.myradiostream.com:4252/listen.mp3
 http://158.69.38.194:8130/;stream/1
 
 
+#EXTINF:-1,tvg-logo="",group-title="RADIO FM",TRACE NAIJA
+http://stream.trace.tv/trace_naija-midfi.aac
 #EXTINF:-1,tvg-logo="",group-title="RADIO FM",NAIJA PRAISE
 http://pipe.ukprostream.com:8090/stream/1/
 #EXTINF:-1,tvg-logo="",group-title="RADIO FM",LAGOS JUMP
