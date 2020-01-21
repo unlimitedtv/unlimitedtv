@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,group-title="NEWS CHANNEL",FOX NEWS
-http://www.mytvonlinesky.orguscnn.m3u8@1128700637.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8
 #EXTINF:-1,group-title="NEWS CHANNEL",Aljazeera News
 https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
 #EXTINF:-1,tvg-logo="http://mypanel.myddns.me/logos/PT/cnn.png",group-title="NEWS CHANNEL",CNN HD
@@ -373,7 +371,7 @@ https://stream.ecable.tv/rvibes/index.m3u8
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist_w300555392.m3u8
 
 #EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",TRACE GOSPEL
-http://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",TRACE GOSPEL**
 http://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/2016/11/logo_naija1.png" group-title="AFRICA MUSIC",TRACE NAIJA
