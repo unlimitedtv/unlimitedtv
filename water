@@ -372,28 +372,29 @@ https://stream.ecable.tv/rvibes/index.m3u8
 #EXTINF:-1,group-title="AFRICA MUSIC",DBM
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist_w300555392.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE GOSPEL
+#EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",TRACE GOSPEL
 http://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/6/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE GOSPEL(SA)
+#EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",TRACE GOSPEL**
 http://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE NAIJA
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/2016/11/logo_naija1.png" group-title="AFRICA MUSIC",TRACE NAIJA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE AFRIKORA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE URBAN
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE URBAN INTER
 http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE Urban
 http://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE AFRICA
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="AFRICA MUSIC",TRACE AFRICA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE TROPICAL
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="AFRICA MUSIC",TRACE TROPICAL
 http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE KITOKO
+#EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="AFRICA MUSIC",TRACE KITOKO
 http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="AFRICA MUSIC",Trace Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
 
 #EXTINF:-1,tvg-logo="http://musicchoice.com/wp-content/uploads/2018/05/og_image.png",group-title="MUSIC",MC Play
 http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/master.m3u8
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunks.m3u8
 
 #EXTINF:-1 tvg-id="California Music Channel(CMTV)-US" tvg-name="California Music Channel(CMTV)-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" group-title="MUSIC",California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
@@ -402,7 +403,9 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MTV_Logo.png",group-title="MUSIC",MTV HITS
 http://88.119.220.2/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
-
+#EXTINF:-1,tvg-logo="",group-title="MUSIC",COMPANY RADIO TV
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/chunklist.m3u8
+http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
 #EXTINF:-1,tvg-logo="",group-title="MUSIC",DELUXE MUSIC
 http://bozztv.com/36bay2/gin/giniko_deluxemusic_900kb_36bay2/tracks-v1a1/mono.m3u8
 
