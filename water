@@ -112,6 +112,16 @@ http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/12
 http://iptv7.premium-stv.com:25461/live/rmcsport3/1557539943/58.ts
 #EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 5
 http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/66
+
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",RMC SPORT 1*
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39503
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",RMC SPORT 2*
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39502
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",RMC SPORT 3*
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39501
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",RMC SPORT 4*
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39500
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ5lJcL.jpg",group-title="VIP SPORTS",BT Sport 1
 https://mmm.sportbar.biz/lba/123/g2/btuk1.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
@@ -1017,8 +1027,373 @@ https://ad.mysisli.com/live/siciliatv/tracks-v1a1/mono.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OkIK1jS.png" group-title="ITALY",Siciliamedia TV
 http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ALTICE STUDIO FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13787
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ALTICE STUDIO HD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/28413
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ANIMAUX FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13789
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ANIMAUX HD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/14044
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ACTION SD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/28334
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BBLACK AFRICA
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/8051
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MTV HITS HD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/8050
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BBLACK CLASSIK
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/8052
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BE CURIOUS FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13814
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 2 SD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/1007
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",IL TV
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13934
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",INDIES LIVE MUSIC
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/25058
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",INFOSPORT FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13729
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",INFOSPORT HD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/14006
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LA CHAINE METEO FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13783
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NATIONAL GEO WILD FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13719
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NATIONAL GEO FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13718
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS MAX FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13825
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS MAX HD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13996
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS MAX SD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/38198
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OL TV FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13842
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ONZEO FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13786
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE (Série: The Witcher 24/7)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13926
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE 1
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13925
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE 2
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13924
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE 3
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13923
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE 4
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13922
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE 5
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13921
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE 6
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13920
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE 7
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13919
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE 8
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13918
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MONDE DES PETITS
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13848
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",J ONE FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13852
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",J ONE HD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/24938
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LAPIN CRETIN
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/7258
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NICKELODEON+1 FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13854
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NICKELODEON 4 TEEN FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/24957
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NICKELODEON 4 TEEN HD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/24953
+#EXTINF:-1,BEINS AR 1 FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39590
+#EXTINF:-1,BEINS AR 2FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39591
+#EXTINF:-1,BEINS AR 3 FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39592
+#EXTINF:-1,BEINS AR 4 FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39593
+#EXTINF:-1,BEINS AR 5 FHD
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/40047
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ALTICE STUDIO (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39430
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ANIMAUX (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39526
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ARTE (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39469
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ACTION (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39420
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",AB3 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39410
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",AB1 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39411
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",AUTOMOTO LA CHAINE (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39490
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BABY TV (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39517
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEIN SPORT 1 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39499
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEIN SPORT 2(SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39498
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEIN SPORT 3 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39497
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BFM BUSINESS (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39459
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BFM PARIS (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39460
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BFM TV (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39461
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BOOMERANG (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39510
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",C8 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39468
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BOING (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39511
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL +  (SD)
+http://iptv3.premium-stv.com:25461/SPORT@pro2@irr/nscd@z@bljbzd44t@/74
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL  CINEMA (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39441
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL  DECALE (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39440
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL  FAMILY (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39439
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL  SERIES (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39438
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL  SPORT (SD)
+http://iptv3.premium-stv.com:25461/SPORT@pro2@irr/nscd@z@bljbzd44t@/102
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CARTOON NETWORK (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39508
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CHERIE 25 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39443
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL J (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39518
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE  CLASSIC (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39431
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE  CLUB (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39432
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE  EMOTION (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39435
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE  FAMIZ (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39434
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE  FRISSON (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39433
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE  PREMIER (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39436
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CLIQUE TV (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39484
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CNEWS (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39455
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",COMEDY CENTRAL FRANCE (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39417
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CRIME DISTRICT (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39536
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CSTAR (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39448
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CSTAR HITS (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39447
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",COMEDIE  (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39418
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISCOVERY CHANNEL (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39535
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISCOVERY FAMILY (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39534
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISCOVERY INVESTIGATIONS (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39533
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISCOVERY SCIENCES (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39532
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY CHANNEL (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39525
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY CINEMA (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39524
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY JUNIOR (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39523
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY XD (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39522
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",E! ENTERTAINMENT (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39545
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ELLE GIRLS (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39546
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",EQUIDIA (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39492
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",EURONEWS (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39456
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",EUROSPORT 1 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39494
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",EUROSPORT 2 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39493
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FOOT  24/24 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39491
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 2 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39474
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 3 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39473
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 4 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39472
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 5 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39471
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",GAME ONE (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39505
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE INFO (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39457
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",GRAND LILLE TV (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39453
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",GULLI (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39516
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",GOLF  (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39489
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",IDF (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39451
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",INFOSPORT  (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39496
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",J-ONE (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39506
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",L'EQUIPE 21 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39495
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LA CHAINE METEO (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39462
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LA CHAINE PARLEMENTAIRE (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39450
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LCI (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39458
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",HISTOIRE (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39527
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",M6 MUSIC (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39481
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MANGAS (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39507
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",M6 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39470
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MELODY TV (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39478
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MTV FRANCE (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39486
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MTV HITS (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39485
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MY CUISINE (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39540
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MYZEN TV (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39487
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NATIONAL GEO (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39530
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NATIONAL GEO WILD (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39529
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NICKELODEON 4 TEEN (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39520
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NICKELODEON CHANNEL (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39521
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NICKELODEON JUNIOR (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39519
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NON STOP PEOPLE TV (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39543
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS CHOC (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39423
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS CITY (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39424
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS GEANTS (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39425
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS MAX (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39422
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",13EME RUE (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39419
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",6TER (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39446
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",AEROSTAR.TV (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39488
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BET (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39547
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NOVELAS TV (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39541
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NRJ 12 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39463
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NRJ HITS TV (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39479
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OKLM TV (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39480
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ONE TV (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39477
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PARAMOUNT CHANNEL (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39427
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PARAMOUNT DECALE (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39426
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PARIS PREMIERE (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39416
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PLANETE  (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39539
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PLANETE+  A&E (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39538
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC DECOUVERTE (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39444
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT 1 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39503
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT 2 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39502
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT 3 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39501
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT 4 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39500
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PLANETE  CI (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39537
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",POLAR  (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39421
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC NEWS (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39504
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC STORY (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39445
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RTL9 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39415
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",SCIENCE & VIE TV (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39528
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",SERIE CLUB (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39414
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",SUNDANCE (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39544
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",SYFY (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39412
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TCM CINEMA (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39428
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TELETOON  1 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39512
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TELETOON (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39513
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TEVA (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39413
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TF1  1 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39475
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TF1 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39476
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TF1 SERIES / FILMS (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39449
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TFX (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39464
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TIJI (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39514
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TMC  1 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39465
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TMC (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39466
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TOONAMI (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39509
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TRACE TROPICAL (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39483
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TRACE URBAN (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39482
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TV BREIZH (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39548
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",USHUAIA TV (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39531
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",VIA GRAND PARIS (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39452
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",VICELAND TV (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39542
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",W9 (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39467
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",WARNER TV (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39429
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",WEO (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39454
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PIWI  (SD)
+http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39515
 
- #EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 3 FHD
+
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 3 FHD
 http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/4
 #EXTINF:-1 tvg-logo=""  group-title="FRANCIA",M6 FHD
 http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/7
