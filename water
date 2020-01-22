@@ -78,6 +78,7 @@ http://weak_spell.carniferou.club/edge/SSME/chunks.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Bein Sports 1 HD
 http://tvlatina.homeip.net:25461/live/2018JavierP/Pereira3009/3945.ts
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Bein Sports 2 HD
@@ -104,8 +105,13 @@ http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 http://95.170.215.120:80/hls/Sky-Spo-football-N.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgcR1ju.jpg",group-title="VIP SPORTS",Sky Sports Main Event
 http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
+
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",RMC SPORT
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/12
 #EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 3
 http://iptv7.premium-stv.com:25461/live/rmcsport3/1557539943/58.ts
+#EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 5
+http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/66
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ5lJcL.jpg",group-title="VIP SPORTS",BT Sport 1
 https://mmm.sportbar.biz/lba/123/g2/btuk1.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
@@ -752,7 +758,10 @@ https://stream.ecable.tv/kin24/index.m3u8
 https://stream.ecable.tv/tvt/index.m3u8
 
 
-
+#EXTINF:-1,group-title="SENEGAL",M6
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/7
+#EXTINF:-1,group-title="SENEGAL",M6 HD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/6
 #EXTINF:-1,group-title="SENEGAL", TRACE AFRICA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TRACE AFRIKORA
@@ -1007,11 +1016,20 @@ http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR
 https://ad.mysisli.com/live/siciliatv/tracks-v1a1/mono.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OkIK1jS.png" group-title="ITALY",Siciliamedia TV
 http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
- 
 
+
+ #EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 3 FHD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/4
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",M6 FHD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/7
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TMC FHD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/10
 #EXTINF:-1 tvg-id="Notele" tvg-name="Notele" tvg-language="French" tvg-country="FR" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="FRANCIA",Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
-
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",EQUIPE21
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/15
+#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TF1 SD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/1
 #EXTINF:-1 tvg-logo=""  group-title="FRANCIA",D5TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
 #EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RTI 1
