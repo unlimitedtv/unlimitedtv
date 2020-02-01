@@ -79,7 +79,26 @@ http://weak_spell.carniferou.club/edge/NBA6/chunks.m3u8
 http://weak_spell.carniferou.club/edge/NBA7/chunks.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",CANAL+ FHD
+http://iptv3.premium-stv.com:25461/8571361380SPO@RT@pro2@irr@/4538907326nsc@d@z@bljbzd@44t@/66
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",CANAL+ HD
+http://iptv3.premium-stv.com:25461/8571361380SPO@RT@pro2@irr@/4538907326nsc@d@z@bljbzd@44t@/67
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEINSPORT 2 HD
+http://iptv3.premium-stv.com:25461/8571361380SPO@RT@pro2@irr@/4538907326nsc@d@z@bljbzd@44t@/68
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEINSPORT 3 HD
+http://iptv3.premium-stv.com:25461/8571361380SPO@RT@pro2@irr@/4538907326nsc@d@z@bljbzd@44t@/69
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",CANAL+ SPORT HD
+http://iptv3.premium-stv.com:25461/8571361380SPO@RT@pro2@irr@/4538907326nsc@d@z@bljbzd@44t@/70
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEINSPORT 1 HD
+http://iptv3.premium-stv.com:25461/8571361380SPO@RT@pro2@irr@/4538907326nsc@d@z@bljbzd@44t@/71
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT SPORT ESPN HD
+http://iptv3.premium-stv.com:25461/8571361380SPO@RT@pro2@irr@/4538907326nsc@d@z@bljbzd@44t@/97
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT SPORT 1 HD
+http://iptv3.premium-stv.com:25461/8571361380SPO@RT@pro2@irr@/4538907326nsc@d@z@bljbzd@44t@/98
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT SPORT 2 HD
+http://iptv3.premium-stv.com:25461/8571361380SPO@RT@pro2@irr@/4538907326nsc@d@z@bljbzd@44t@/99
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT SPORT 3 HD
+http://iptv3.premium-stv.com:25461/8571361380SPO@RT@pro2@irr@/4538907326nsc@d@z@bljbzd@44t@/100
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",PLAY SPORTS 1
 http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/3633
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",group-title="VIP SPORTS",Sky Sports Football HD
