@@ -183,6 +183,15 @@ http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1/6876169712/1831
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1/6876169712/1820
 #EXTINF:-1 tvg-logo="https://yiptv.com/live-tv/wp-content/uploads/2015/11/bein-n-blog.jpg",group-title="VIP SPORTS",beIN SPORTS N
 http://us.ocache.xyz/sports/beines.m3u8
+
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",TR: BEINSPORT 4
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1456
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",TR: BEINSPORT 3
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1457
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",TR: BEINSPORT 2
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1458
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",TR: BEINSPORT 1
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1459
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",beIN SPORTS 5
 http://us.ocache.xyz/sports/bun5.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",beIN SPORTS 9
