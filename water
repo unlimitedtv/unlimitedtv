@@ -81,15 +81,12 @@ http://weak_spell.carniferou.club/edge/NBA7/chunks.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",DAZN Sport 1
-http://iptvpro.premium-itv.com:8789/live/123321/321123/29587.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",DAZN Sport 2
-http://iptvpro.premium-itv.com:8789/live/123321/321123/29585.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",DAZN Sport 3
-http://iptvpro.premium-itv.com:8789/live/123321/321123/29584.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",DAZN sport 4
-http://iptvpro.premium-itv.com:8789/live/123321/321123/29583.m3u8
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",AU: beIN Sports 1
+http://tvku.live:8888/indra2/in0701/15177
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",AU: beIN Sports 2
+http://tvku.live:8888/indra2/in0701/15178
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",AU: beIN Sports 3
+http://tvku.live:8888/indra2/in0701/15179
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",CANAL+ FHD
 http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/66
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",CANAL+ HD
@@ -356,6 +353,8 @@ http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",WWE
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1/6876169712/1720
+#EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",WWE WWE
+http://tvku.live:8888/indra2/in0701/4349
 #EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",FIGHT BOX
 http://92.43.140.249/s86/04.m3u8
 #EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",SPORT FIGHT HD
@@ -574,6 +573,8 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="AFRICA MUSIC",TRACE KITOKO
 http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE VANILLA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="AFRICA MUSIC",Trace Mziki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
 
