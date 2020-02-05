@@ -80,13 +80,6 @@ http://weak_spell.carniferou.club/edge/NBA7/chunks.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",AU: beIN Sports 1
-http://tvku.live:8888/indra2/in0701/15177
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",AU: beIN Sports 2
-http://tvku.live:8888/indra2/in0701/15178
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",AU: beIN Sports 3
-http://tvku.live:8888/indra2/in0701/15179
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",CANAL+ FHD
 http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/66
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",CANAL+ HD
@@ -118,8 +111,6 @@ http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",group-title="VIP SPORTS",NBCSN
 http://us.ocache.xyz/sports/nbcsn.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FS1
-http://us.ocache.xyz/sports/foxsp1.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",SKYNET 4
 http://us.ocache.xyz/sports/skynet4.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",SPORT TV 1
@@ -134,10 +125,31 @@ http://ott-cdn.ucom.am/s82/index.m3u8
 http://109.248.236.41:4433/udp/238.1.1.61:1234
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",NBA TV
 http://us.ocache.xyz/sports/nbatv.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 1 HD
-http://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 11 FHD
+http://iptv2.premium-stv.com:8888/live/beIN11spo/6hGJ%5E8J2qfvuyY/22.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 7 FHD
+http://iptv2.premium-stv.com:8888/live/beINsports007/jkbbcyb56bbjdo/33.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 7 HD
+http://iptv2.premium-stv.com:8888/live/beINsports007/jkbbcyb56bbjdo/33.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 6 FHD
+http://iptv2.premium-stv.com:8888/live/beIN06/KJGiuBJJLKgk/32.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 5 FHD
+http://iptv2.premium-stv.com:8888/live/beINSPORT5f/jdybJLSDYhtg/29.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 4 FHD
+http://iptv2.premium-stv.com:8888/live/beIN4SPO/GJ%5E8J2qfvuy/28.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 4 HD
+http://iptv2.premium-stv.com:8888/live/beIN4SPO/GJ%5E8J2qfvuy/43.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 3 FHD
+http://iptv2.premium-stv.com:8888/live/beIN03/6hGJ%5E8J2qfvuyY/27.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 2 FHD
+http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ%5E8Jvfc3u2qfyY)V39cN3/26.ts
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 2 HD
-http://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ%5E8Jvfc3u2qfyY)V39cN3/4.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 1 FHD
+http://iptv2.premium-stv.com:8888/live/beinsports1@/unU@hqZ@QH1l@/54.tsD
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 1 HD
+http://iptv2.premium-stv.com:8888/live/beinsports1@/unU@hqZ@QH1l@/52.ts
+
 #EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 3
 http://iptv7.premium-stv.com:25461/live/rmcsport3/1557539943/58.ts
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Z VOETBAL
@@ -351,26 +363,28 @@ http://188.35.9.11:21151/udp/193i
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
 #EXTINF:-1,group-title="DOCUMENTARIES",NAT GEO people
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1,group-title="DOCUMENTARIES",BBC ONE
-http://mysisli.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="DOCUMENTARIES",NAT GEO People HD
+http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1701
+#EXTINF:-1,group-title="DOCUMENTARIES",Nat GEO Wild HD
+http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1702
+
+#EXTINF:-1,group-title="DOCUMENTARIES",Discovery Channel HD
+http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1681
+#EXTINF:-1,group-title="DOCUMENTARIES",Discovery Family HD
+http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1682
+#EXTINF:-1,group-title="DOCUMENTARIES",Discovery IDX
+http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1683
+#EXTINF:-1,group-title="DOCUMENTARIES",Discovery Science HD
+http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1684
 #EXTINF:-1,group-title="DOCUMENTARIES",BBC TWO
 http://mysisli.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
 
 
 
-
-#EXTINF:-1,group-title="MOVIE CHANNELS",ACTION MAX
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1/6876169712/1815
-#EXTINF:-1,group-title="MOVIE CHANNELS",HBO HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1/6876169712/1755
-#EXTINF:-1,group-title="MOVIE CHANNELS",HBO PACIFIC HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1/6876169712/1756
-#EXTINF:-1,group-title="MOVIE CHANNELS",HBO COMEDY HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1/6876169712/1757
-#EXTINF:-1,group-title="MOVIE CHANNELS",OSN ACTION
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1/6876169712/1832
-#EXTINF:-1,group-title="MOVIE CHANNELS",CINE Sony HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1/6876169712/1798
+#EXTINF:-1,group-title="MOVIE CHANNELS",OSN Series First
+http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1708
+#EXTINF:-1,group-title="MOVIE CHANNELS",OSN MOVIES FIRST
+http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1693
 #EXTINF:-1,group-title="MOVIE CHANNELS",24 BOX TV
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",BLUE ANT EXTREME
@@ -387,7 +401,7 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",HOLLYWOOD MOVIES 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",HOLLYWOOD MOVIES 11
+#EXTINF:-1,group-title="MOVIE CHANNELS",HOLLYWOOD ACTION
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",MASTER VAMPIRE TV
 http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
@@ -932,11 +946,11 @@ https://stream.ecable.tv/kin24/index.m3u8
 https://stream.ecable.tv/tvt/index.m3u8
 
 #EXTINF:-1,group-title="SENEGAL",SEN TV
-http://iptvpro.premium-itv.com:8789/123321/321123/47737
+http://iptvpro.premium-itv.com:8789/31031986/31031986/47737
 #EXTINF:-1,group-title="SENEGAL",RTS 1
 http://mysisli.com/36bay2/gin/giniko_rts1_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",RTS 2
-http://iptvpro.premium-itv.com:8789/123321/321123/47721
+http://iptvpro.premium-itv.com:8789/31031986/31031986/47721
 #EXTINF:-1,group-title="SENEGAL",M6
 http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/7
 #EXTINF:-1,group-title="SENEGAL",M6 HD
