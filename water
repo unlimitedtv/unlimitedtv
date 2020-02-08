@@ -111,8 +111,10 @@ http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",group-title="VIP SPORTS",NBCSN
 http://us.ocache.xyz/sports/nbcsn.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",SKYNET 4
-http://us.ocache.xyz/sports/skynet4.m3u8
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FS1
+http://us.ocache.xyz/sports/foxsp1.m3u8
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FS2
+http://us.ocache.xyz/sports/foxsp2.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",SPORT TV 1
 http://us.ocache.xyz/sports/sporttv1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 3 English Premier League
@@ -164,17 +166,13 @@ http://us.ocache.xyz/sports/supersp9.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 11  epl
 http://us.ocache.xyz/sports/supersp11.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Sky Sport Serie A
+http://us.ocache.xyz/sports/skyseria.m3u8
 #EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 3
 http://iptv7.premium-stv.com:25461/live/rmcsport3/1557539943/58.ts
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Z VOETBAL
 http://us.ocache.xyz/sports/ziggovl.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",NBA TV
 http://us.ocache.xyz/sports/nbatv.m3u8
-http://us.ocache.xyz/sports/skyseria.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FS1
-http://us.ocache.xyz/sports/foxsp1.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FS2
-http://us.ocache.xyz/sports/foxsp2.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",SKYNET 3
 http://us.ocache.xyz/sports/skynet3.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",ASTRO SUPERSPORT 4
@@ -196,14 +194,6 @@ http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1457
 http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1458
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",TR: BEINSPORT 1
 http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1459
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",beIN SPORTS 5
-http://us.ocache.xyz/sports/bun5.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",beIN SPORTS 9
-http://us.ocache.xyz/sports/bein9.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",beIN SPORTS 10
-http://us.ocache.xyz/sports/bein10.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",beIN SPORTS 13
-http://us.ocache.xyz/sports/bein13.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ5lJcL.jpg",group-title="VIP SPORTS",BT Sport 1
 http://us.ocache.xyz/sports/btsport1.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT SPORT 2
@@ -217,19 +207,6 @@ http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 http://iptv7.premium-stv.com:25461/live/rmcsport3/1557539943/58.ts
 #EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 5
 http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/66
-
-
-#EXTINF:-1,tvg-logo="https://i.imgur.com/ud7AVaF.png",group-title="VIP SPORTS",MATCH 1
-http://188.35.9.11:2025
-#EXTINF:-1,tvg-logo="https://i.imgur.com/ud7AVaF.png",group-title="VIP SPORTS",MATCH 2
-http://188.35.9.11:2026
-#EXTINF:-1,tvg-logo="https://i.imgur.com/ud7AVaF.png",group-title="VIP SPORTS",MATCH 3
-http://188.35.9.11:2027
-#EXTINF:-1,tvg-logo="https://i.imgur.com/ud7AVaF.png",group-title="VIP SPORTS",MATCH PREMIER HD
-http://109.248.236.41:4433/udp/238.1.1.14:1234
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7V46L55.png",group-title="VIP SPORTS",C More Football
-http://95.170.215.120/hls/m3u8/CMore-Football.m3u8
 
 
 #EXTM3U
