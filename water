@@ -78,30 +78,14 @@ http://weak_spell.carniferou.club/edge/NBA6/chunks.m3u8
 #EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBA 7
 http://weak_spell.carniferou.club/edge/NBA7/chunks.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",CANAL+ FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/66
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",CANAL+ HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/67
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEINSPORT 2 HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/68
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEINSPORT 3 HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/69
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",CANAL+ SPORT HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/70
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEINSPORT 1 HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/71
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT SPORT ESPN HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/97
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT SPORT 1 HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/98
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT SPORT 2 HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/99
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT SPORT 3 HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/100
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Eleven Sports 1 HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1874
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Eleven Sports 2 HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1875
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",PLAY SPORTS 1
 http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/3633
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",PLAY SPORTS 2
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/3634
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",group-title="VIP SPORTS",Sky Sports Football HD
 http://95.170.215.120:80/hls/Sky-Spo-football-N.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgcR1ju.jpg",group-title="VIP SPORTS",Sky Sports Main Event
@@ -125,19 +109,55 @@ http://178.124.183.12/hls/FWHTTL8YXU/variant.m3u8
 #EXTINF:-1,tvg-logo="http://livetv.am/assets/img/tv/setanta-sport-plus.png",group-title="VIP SPORTS",Setanta Eurasia +
 http://ott-cdn.ucom.am/s82/index.m3u8
 http://109.248.236.41:4433/udp/238.1.1.61:1234
+
+
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",USA: BEIN SPORTS HD
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1820.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",TR: BEINSPORT 4
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1456
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",TR: BEINSPORT 3
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1457
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",TR: BEINSPORT 2
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1458
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",TR: BEINSPORT 1
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1459
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 11 FHD
 http://iptv2.premium-stv.com:8888/live/beIN11spo/6hGJ%5E8J2qfvuyY/22.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 7 FHD
-http://iptv2.premium-stv.com:8888/live/beINsports007/jkbbcyb56bbjdo/33.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 10 SD
+http://iptv2.premium-stv.com:8888/live/BEIN10/6hGJ%5E8JqfyY)V39vfc3u2cN3/20.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 9 SD
+http://iptv2.premium-stv.com:8888/live/beIN9SpO/6hGJ%5E8Jvfc3u2qfyY)V39cN3/18.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 9 HD
+http://iptv2.premium-stv.com:8888/live/beIN9SpO/6hGJ%5E8Jvfc3u2qfyY)V39cN3/17.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 9 FHD
+http://iptv2.premium-stv.com:8888/live/beIN9SpO/6hGJ%5E8Jvfc3u2qfyY)V39cN3/30.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 8
+http://iptv2.premium-stv.com:8888/live/beIN8sport/6hG%5E8J2Jqfv%5E8J2uyY/16.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 8 HD 
+http://iptv2.premium-stv.com:8888/live/beIN8sport/6hG%5E8J2Jqfv%5E8J2uyY/15.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 8 FHD 
+http://iptv2.premium-stv.com:8888/live/beIN8sport/6hG%5E8J2Jqfv%5E8J2uyY/34.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 7 SD
+http://iptv2.premium-stv.com:8888/live/beINsports007/jkbbcyb56bbjdo/40.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 7 HD BACKUP
+http://iptv2.premium-stv.com:8888/live/beINsports007/jkbbcyb56bbjdo/14.ts
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 7 HD
+http://iptv2.premium-stv.com:8888/live/beINsports007/jkbbcyb56bbjdo/13.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 7 FHD
 http://iptv2.premium-stv.com:8888/live/beINsports007/jkbbcyb56bbjdo/33.ts
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 6 FHD
 http://iptv2.premium-stv.com:8888/live/beIN06/KJGiuBJJLKgk/32.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 5 SD
+http://iptv2.premium-stv.com:8888/live/beINSPORT5f/jdybJLSDYhtg/42.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 5 HD
+http://iptv2.premium-stv.com:8888/live/beINSPORT5f/jdybJLSDYhtg/9.ts
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 5 FHD
 http://iptv2.premium-stv.com:8888/live/beINSPORT5f/jdybJLSDYhtg/29.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 4 HD
+http://iptv2.premium-stv.com:8888/live/beIN4SPO/GJ%5E8J2qfvuy/7.ts
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 4 FHD
 http://iptv2.premium-stv.com:8888/live/beIN4SPO/GJ%5E8J2qfvuy/28.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 4 HD
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 4 SD
 http://iptv2.premium-stv.com:8888/live/beIN4SPO/GJ%5E8J2qfvuy/43.ts
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 3 FHD
 http://iptv2.premium-stv.com:8888/live/beIN03/6hGJ%5E8J2qfvuyY/27.ts
@@ -149,6 +169,10 @@ http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ%5E8Jvfc3u2qfyY)V39cN3/4.ts
 http://iptv2.premium-stv.com:8888/live/beinsports1@/unU@hqZ@QH1l@/54.tsD
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 1 HD
 http://iptv2.premium-stv.com:8888/live/beinsports1@/unU@hqZ@QH1l@/52.ts
+#EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 3
+http://iptv7.premium-stv.com:25461/live/rmcsport3/1557539943/58.ts
+#EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 5
+http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/61
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 3
 http://us.ocache.xyz/sports/supersp3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 4
@@ -186,14 +210,6 @@ http://us.ocache.xyz/sports/eurosp2.m3u8
 #EXTINF:-1 tvg-logo="https://yiptv.com/live-tv/wp-content/uploads/2015/11/bein-n-blog.jpg",group-title="VIP SPORTS",beIN SPORTS N
 http://us.ocache.xyz/sports/beines.m3u8
 
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",TR: BEINSPORT 4
-http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1456
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",TR: BEINSPORT 3
-http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1457
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",TR: BEINSPORT 2
-http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1458
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",TR: BEINSPORT 1
-http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1459
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ5lJcL.jpg",group-title="VIP SPORTS",BT Sport 1
 http://us.ocache.xyz/sports/btsport1.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT SPORT 2
@@ -203,132 +219,19 @@ http://us.ocache.xyz/sports/btsport2.m3u8
 http://us.ocache.xyz/sports/btsport3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",group-title="VIP SPORTS",Sky Sports Football HD
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 3
-http://iptv7.premium-stv.com:25461/live/rmcsport3/1557539943/58.ts
-#EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 5
-http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/66
 
 
-#EXTM3U
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT 1 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/40
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT 2 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/41
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT 3 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/42
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT 4 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/43
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",FR: BEINSPORT 1 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/44
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",FR: BEINSPORT 2 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/45
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",FR: BEINSPORT 3 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/46
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",CANAL+ SPORT FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/47
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT LIVE 10 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/48
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT LIVE 11 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/49
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT LIVE 12 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/50
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT LIVE 13 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/51
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT LIVE 14 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/52
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT LIVE 15 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/53
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT LIVE 16 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/54
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",BEIN SPORTS MAX 4 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/55
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",BEIN SPORTS MAX 5 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/56
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",BEIN SPORTS MAX 6 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/57
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",BEIN SPORTS MAX 7 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/58
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",BEIN SPORTS MAX 8 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/59
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",BEIN SPORTS MAX 9 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/60
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",BEIN SPORTS MAX 10 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/61
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT 1
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/62
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT 2
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/63
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT 3
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/64
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT 4
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/65
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",CANAL+ FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/66
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",CANAL+ HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/67
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",FR: BEINSPORT 2 HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/68
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",FR: BEINSPORT 3 HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/69
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",CANAL+ SPORT HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/70
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",FR: BEINSPORT 1 HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/71
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",canal + sd
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/74
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",FRANCE 3 FHD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/72
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",FRANCE 3 HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/73
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC.Sport4.SD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/75
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC.Sport3.SD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/76
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC.Sport2.SD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/77
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC.Sport1.SD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/78
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",FR: BEINSPORT 1 sd FR
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/79
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",FR: BEINSPORT 2 sd FR
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/80
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",FR: BEINSPORT 3 sd FR
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/81
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT LIVE 5
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/82
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT LIVE 6
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/83
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT LIVE 7
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/84
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT LIVE 8
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/85
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",RMC SPORT LIVE 9
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/86
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/92
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",CANAL+ sport sd
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/102
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",EUROSPORT 2
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/103
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",EUROSPORT 1
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/104
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",BT SPORT / ESPN HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/97
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",BT SPORT 1 HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/98
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",BT SPORT 2 HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/99
-#EXTINF:-1 tvg-logo=""  group-title="WORLD SPORTS",BT SPORT 3 HD
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/100
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/800px-Impact_Wrestling_Logo.svg.png" group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",Impact Wrestling
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",WWE
 http://51.159.21.231:2052/usapro2@source/799965@26641/1720
-#EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",FIGHT BOX
-http://92.43.140.249/s86/04.m3u8
+#EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS" UFC FIGHT PASS
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1719.ts
+#EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS" UFC FIGHT PASS*
+http://51.159.21.231:2052/usapro2@source/799965@26641/1719
 #EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",SPORT FIGHT HD
 http://188.35.9.11:21151/udp/193i
-
 
 
 #EXTINF:-1,group-title="DOCUMENTARIES",GEO WILD
@@ -361,6 +264,12 @@ http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1693
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",BLUE ANT EXTREME
 http://45.126.83.51/dr9445/h/h15/01.m3u8
+#EXTINF:-1,group-title="MOVIE CHANNELS",MORE MAX HD
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1751.ts
+#EXTINF:-1,group-title="MOVIE CHANNELS",MORE MAX HD*
+http://51.159.21.231:2052/usapro2@source/799965@26641/1751.ts
+#EXTINF:-1,group-title="MOVIE CHANNELS",CINEMAX 5
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1800.ts
 #EXTINF:-1,group-title="MOVIE CHANNELS",STAR MOVIES HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",CINE SERIES
@@ -1304,873 +1213,6 @@ http://hls.tmacaraibes.com/live/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TF1 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13847
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TF1 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13917
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TF1 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13817
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 2 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13739
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 2 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13916
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 2 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1007
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 3 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13738
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 3 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13915
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 3 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1008
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 4 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13737
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 4 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13914
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 4 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1009
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 5 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13736
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 5 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13913
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE Ô FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/89
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 5 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1013
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE O HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13735
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE O SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1021
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",M6 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13726
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",M6 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14003
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",M6 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/90
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PARIS PREMIERE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13824
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PARIS PREMIERE HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13993
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PARIS PREMIERE SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1030
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TMC FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13696
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TMC HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13979
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TMC SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1014
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TV BREIZH HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13693
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TV BREIZH FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13975
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TV BREIZH SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1032
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",6TER FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13793
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",6TER HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14046
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",6TER SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1024
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ARTE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13788
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ARTE HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14043
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ARTE SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/426
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL+ FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14151
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL+ HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14167
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL + SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28345
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL + DECALE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13768
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL + DECALE HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14035
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL + DECALE SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28346
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL + FAMILY FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13767
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL + FAMILY SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14033
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL + FAMILY HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28348
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL + CINEMA FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13769
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL + CINEMA HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28942
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL + CINEMA SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28347
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS MAX FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13825
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS MAX HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13996
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS MAX SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/38198
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS GEANTS FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13833
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS GEANTS HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13846
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS GEANT SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/38199
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS CITY FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13827
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS CITY HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13994
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS CITY SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/38200
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS CHOC FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13834
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS CHOC HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13995
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OCS CHOC SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/38201
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ PREMIER FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13759
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ PREMIER HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14021
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ PREMIER SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28332
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ FRISSON FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13754
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ FRISSON HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14023
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ FRISSON SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28331
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ FAMIZ FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13755
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ FAMIZ HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13941
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ FAMIZ SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28329
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ EMOTION FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13756
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ EMOTION HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14024
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ EMOTION SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28330
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ACTION FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13790
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ACTION HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14045
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ACTION SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28334
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ CLUB FHD 
-http://iptvpro.premium-itv.com:8789/31031986/31031986/47556
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ CLUB HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14025
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ CLUB SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28328
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",WARNER TV FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13784
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",POLAR+  FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13763
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",POLAR+ HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/25041
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TCM CINEMA FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13697
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TCM CINEMA HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13980
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TCM CINEMA SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28337
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ CLASSIC FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13758
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ CLASSIC HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14026
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE+ CLASSIC SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28327
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ALTICE STUDIO FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13787
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",EUROCHANNEL SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28333
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PARAMOUNT CHANNEL FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13713
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PARAMOUNT CHANNEL HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13911
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PARAMOUNT CHANNEL SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28340
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PARAMOUNT DECALE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13829
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PARAMOUNT DECALE HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28339
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANALPLAY 1 
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13970
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANALPLAY 2 
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13962
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANALPLAY 3 
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13961
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANALPLAY 4
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13960
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANALPLAY 5
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13959
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANALPLAY 6
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13958
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANALPLAY 7
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13957
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANALPLAY 8
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13956
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANALPLAY 9
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13955
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANALPLAY 10
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13969
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANALPLAY 11
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13968
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANALPLAY 12
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13967
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANALPLAY 13
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13966
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANALPLAY 14
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13965
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANALPLAY 15
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13964
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANALPLAY 16
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13963
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE (Série: The Witcher 24/7)
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13926
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE 1
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13925
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE 2
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13924
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE 3
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13923
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE 4
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13922
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE 5
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13921
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE 6
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13920
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE 7
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13919
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ORANGE CINE 8
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13918
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ALACARTE 1
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13949
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ALACARTE 2
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13947
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ALACARTE 3
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13946
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ALACARTE 4
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13945
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ALACARTE 5
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13954
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ALACARTE 6
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13953
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ALACARTE 7
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13952
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ALACARTE 8
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13951
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ALACARTE 9
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13950
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ALACARTE 10
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13948
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT NEWS FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/35031
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT 1FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/32713
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT 1HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/32718
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT 1 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/39589
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT ACCESS 1 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/37931
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT 2FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/32714
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT 2HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/32719
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT 2 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/39588
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT ACCESS 2 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/37930
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT 3FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/32715
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT 3HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/32720
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT 3 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/39587
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT ACCESS 3 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/37929
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT 4FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/32716
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT 4HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/32721
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT 4 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/49323
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT 4K
-http://iptvpro.premium-itv.com:8789/31031986/31031986/37942
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT LIVE 5 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/32717
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT LIVE 6 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/37941
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT LIVE 7 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/37940
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT LIVE 8 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/37939
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT LIVE 9 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/37938
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT LIVE 10 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/37937
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT LIVE 11 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/37936
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT LIVE 12 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/37935
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT LIVE 13 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/37934
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT LIVE 14 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/37933
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT LIVE 15 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/37932
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC SPORT LIVE 16 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/35340
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NBA TV
-http://iptvpro.premium-itv.com:8789/31031986/31031986/46216
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",SPORT 365 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/25040
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL+ SPORT FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14156
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL+ SPORT HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14161
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL+ SPORT SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13936
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FOOT+ FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13937
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FOOT+24 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/425
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ONZEO FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13786
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEINSPORTS 1 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14160
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEINSPORTS 1 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14170
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEINSPORT 1 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/92
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEINSPORTS 2 F.HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14159
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEINSPORTS 2 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14169
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEINSPORT 2 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/93
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEINSPORTS 3 F.HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14158
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEINSPORTS 3 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14168
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEINSPORT 3 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/94
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEINSPORT MAX 4
-http://iptvpro.premium-itv.com:8789/31031986/31031986/95
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEINSPORT MAX 5
-http://iptvpro.premium-itv.com:8789/31031986/31031986/39882
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEINSPORT MAX 6
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1089
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEINSPORT MAX 7
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1113
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEINSPORT MAX 8
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1468
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEINSPORT MAX 9
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1469
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BEIN SPORT MAX 10
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1470
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MULTISPORTS 1
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13807
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MULTISPORTS 2
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13802
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MULTISPORTS 3
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13806
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MULTISPORTS 4
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13805
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MULTISPORTS 5
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13804
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MULTISPORTS 6
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13803
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TRACE SPORT FULLHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13797
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",INFOSPORT FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13729
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LEQUIPE 21 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13728
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LEQUIPE 21 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14005
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",EQUIPE 21 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1023
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BFM SPORT FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13843
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",OL TV FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13842
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",EXTREME SPORTS
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13740
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MUSCULATION TV HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13801
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",AUTOMOTO  HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1035
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MOTORSPORT HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13782
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MOTORSPORT FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13722
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",EUROSPORT 1 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13742
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",EUROSPORT 1 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14011
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",EUROSPORT 1 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/57859
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",EUROSPORT 2 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13741
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",EUROSPORT 2 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14010
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",EUROSPORT 2 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/57860
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",l'equipe 21 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13743
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",EQUIDIA HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14012
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LUCKY JACK HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/42548
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24930
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",GOLF+ FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13734
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",GOLF CHANNEL FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13689
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",GOLF CHANNELS HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13977
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",SERIE CLUB FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13830
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",SERIE CLUB HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13986
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL+ SERIES FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13766
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL + SERIES HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28944
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",13EME RUE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13794
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",13EME RUE HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14048
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",SYFY HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13981
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",SYFY FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13698
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",SUNDANCE TV FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13733
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",SUNDANCE CHANNEL SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28338
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TEVA HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/35331
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TEVA FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/25039
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TEVA SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1031
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",COMEDIE+ FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13751
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",COMEDIE  HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14019
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MY CUISINE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13781
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",E! ENTERTAINMENT FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13746
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",E! ENTERTAINEMENT HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14015
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NO STOP PEOPLE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13780
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NON STOP PEOPLE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13928
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",IL TV
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13934
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NRJ12 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13717
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NRJ12 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14047
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NRJ12 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1019
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ELLE GIRL FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13745
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ELLE GIRL HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14014
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BET FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13841
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",VICELAND FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13772
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TV 5 MONDE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/25042
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TV 5 monde
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1033
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CHERIE 25 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13760
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CHERIE 25 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14028
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CHERIE 25 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1027
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TF1 +1 fhd
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13732
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TF1 SÉRIES FILMS SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1022
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",C8 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13823
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",C8 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14036
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",C8 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/188
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CSTAR FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13749
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DIRECT8
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1091
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CSTAR HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13940
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",AZUR TV
-http://iptvpro.premium-itv.com:8789/31031986/31031986/25043
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",WEO FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13795
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",WEO HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/25045
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TV8 MONT BLANC FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13796
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RTL9 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13707
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RTL9 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13989
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RTL9 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1029
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",A+  FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13695
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC STORY FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13715
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC STORY HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13997
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC STORY   SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1025
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TFX FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13716
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TFX HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13998
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TFX SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1015
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",W9 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13690
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",W9 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13973
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",W9 SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/421
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LUXE TV
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1054
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ALSACE 20
-http://iptvpro.premium-itv.com:8789/31031986/31031986/25048
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",VOSGES
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1102
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",M6 BOUTIQUE
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1097
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FASHIONTV
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1064
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",GONG
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24936
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PLANETE+ FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13712
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PLANETE+  HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13991
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PLANETE+ CI FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13710
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PLANETE+  CI HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13992
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PLANETE+ A&E FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13711
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PLANETE+  A&E HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13971
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISCOVERY FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13748
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISCOVERY HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14017
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISCOVERY SCIENCE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13747
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISCOVERY SCIENCE HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14016
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISCOVERY INVESTIGATION FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13836
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISCOVERY INVESTIGATION HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13828
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISCOVERY FAMILY FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13811
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISCOVERY FAMILY HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/25047
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NATIONAL GEO WILD FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13719
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NATIONAL GEO HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13999
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NATIONAL GEO WILD HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14000
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",SCIENCES & VIE HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13987
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",SCIENCES & VIE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13704
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ANIMAUX FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13789
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ANIMAUX HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14044
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",USHUAIA  FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13692
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",USHUAIA HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13974
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",USHUAIA SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1055
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",ULTRA NATURE
-http://iptvpro.premium-itv.com:8789/31031986/31031986/25049
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC DECOUVERTE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13708
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC DECOUVERTE HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13990
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RMC STORY SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1026
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",VOYAGE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13691
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",VOYAGE HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13972
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TREK FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13694
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TREK HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13976
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CHASSE&PECHE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13837
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CHASSE & PECHE HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14029
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",SEASON FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13703
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",SEASON HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13988
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CAMPAGNE TV
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13942
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CRIME DISTRICT FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13750
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CRIME DISTRICT HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14018
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MUSEUM CHANNEL FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13714
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",HISTOIRE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13731
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",HISTOIRE HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14007
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TOUTE L'HISTOIRE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13832
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TOUTE L'HISTOIRE HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/25050
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",HISTOIRE SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1056
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LA CHAINE METEO FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13783
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",EURONEWS FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13835
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",EURONEWS
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13938
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE 24 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/162
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BFM TV FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13770
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BFM TV HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14039
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BFM TV SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/424
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BFM HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13839
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BFM BUISINESS
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1045
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LCI FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13727
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LCI SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1042
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LCP FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13809
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LCP
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1016
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LCP100%
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1046
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CNEWS HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14020
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CNEWS SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1017
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE INFO HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13935
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",FRANCE INFO SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1917
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TV5 MONDE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/25051
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TV5 MONDE HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/25052
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",I24 NEWS FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13730
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",i24 NEWS
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1050
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",M6 MUSIC FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13826
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TRACE URBAIN HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13844
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TRACE URBAIN
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13978
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TRACE URBAIN FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1099
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TRACE URBAN INTER
-http://iptvpro.premium-itv.com:8789/31031986/31031986/9127
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TRACE TROPICAL HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/9128
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TRACE AFRICA HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13771
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TRACE AFRICA FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13720
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MTV LIVE
-http://iptvpro.premium-itv.com:8789/31031986/31031986/25054
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BET
-http://iptvpro.premium-itv.com:8789/31031986/31031986/25057
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TRACE NAIJA
-http://iptvpro.premium-itv.com:8789/31031986/31031986/25055
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TRACE TOCA FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/25056
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MTV HITS HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/8050
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BBLACK CLASSIK
-http://iptvpro.premium-itv.com:8789/31031986/31031986/8052
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BBLACK AFRICA
-http://iptvpro.premium-itv.com:8789/31031986/31031986/8051
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",INDIES LIVE MUSIC
-http://iptvpro.premium-itv.com:8789/31031986/31031986/25058
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MTV MUSIC LIVE
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13721
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MTV MUSIC LIVE
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13930
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MTV DANCE
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13931
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MTV FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13932
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MTV HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14009
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MCM FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13725
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MCM HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14002
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MCM TOP HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1037
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MCM TOP FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13724
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RFM TV FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13709
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",RFM HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24960
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NRJ HITS
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13927
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MEZZO HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14001
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MEZZO LIVE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13723
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BBLACK
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13840
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",VH1 CLASSIC FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13815
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MELODY TV FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13808
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BRAVA FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14038
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DJAZZ TV
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13939
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TELESUD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1101
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MTV HITS FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13845
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LA CHAINE DU PERE NOÊL HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/48784
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY CHANNEL FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13861
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY CHANNEL  HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24948
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY CHANNEL SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1040
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY CHANNEL +1  FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13849
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY CHANNEL +1  HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1041
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY XD FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13862
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY XD HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24942
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY JUNIOR FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13863
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NICKELODEON FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24958
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY JUNIOR HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24934
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY CINEMA FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13860
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY CINEMA HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24940
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NICKELODEON HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/14037
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NICKELODEON+1 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13854
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NICKELODEON JUN FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13851
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NICKELODEON JUNIOR HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24935
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NICKELODEON JUN SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/28344
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",NICKELODEON 4 TEEN FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24957
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TOONAMI FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13850
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TELETOON+ FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13855
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TELETOON+1 
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13869
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PIWI+ FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13867
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PIWI+ HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24937
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CANAL J FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13764
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",Canal J HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24941
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TIJI FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13868
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TIJI HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24949
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BOOMERANG FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13858
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BOOMERANG HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24954
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BOING FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13859
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",BOING HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24945
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CARTOON NETWORK FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13761
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CARTOON NETWORK HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24933
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",GAME ONE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13856
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",GAME ONE HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24952
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",GAMEONE
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1034
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",GAME ONE +1 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13857
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",J ONE FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13852
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",GULLI FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13864
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",GULLI SD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/1020
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MANGAS FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13865
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MANGAS HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24932
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",CINE KIDS HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24959
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY ORANGE 1
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24939
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY ORANGE 2
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24950
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",DISNEY ORANGE 3
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24951
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",PEPPA PIG (LIVE)
-http://iptvpro.premium-itv.com:8789/31031986/31031986/6700
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA", DORA L'EXPLORATRICE (LIVE )
-http://iptvpro.premium-itv.com:8789/31031986/31031986/6713
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LIVE LILO & STITCH (LIVE)
-http://iptvpro.premium-itv.com:8789/31031986/31031986/6736
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",TOM AND JERRY
-http://iptvpro.premium-itv.com:8789/31031986/31031986/6757
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",MASHA ET MICHKA (LIVE )
-http://iptvpro.premium-itv.com:8789/31031986/31031986/7185
-#EXTINF:-1 tvg-logo=""  group-title="FRANCIA",LAPIN CRETIN
-http://iptvpro.premium-itv.com:8789/31031986/31031986/7258
 
 
 #EXTINF:-1,group-title="FOR ADULTS",JASMIN.TV
