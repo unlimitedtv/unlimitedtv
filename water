@@ -114,13 +114,13 @@ http://109.248.236.41:4433/udp/238.1.1.61:1234
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",USA: BEIN SPORTS HD
 http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1820.ts
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",TR: BEINSPORT 4
-http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1456
+http://iptv8.premium-stv.com:2052/turcpro01/hyhksbuyGTYJ876/1456
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",TR: BEINSPORT 3
-http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1457
+http://iptv8.premium-stv.com:2052/turcpro01/hyhksbuyGTYJ876/1457
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",TR: BEINSPORT 2
-http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1458
+http://iptv8.premium-stv.com:2052/turcpro01/hyhksbuyGTYJ876/1458
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",TR: BEINSPORT 1
-http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1459
+http://iptv8.premium-stv.com:2052/turcpro01/hyhksbuyGTYJ876/1459
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 11 FHD
 http://iptv2.premium-stv.com:8888/live/beIN11spo/6hGJ%5E8J2qfvuyY/22.ts
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 10 SD
@@ -173,15 +173,13 @@ http://iptv2.premium-stv.com:8888/live/beinsports1@/unU@hqZ@QH1l@/52.ts
 http://iptv7.premium-stv.com:25461/live/rmcsport3/1557539943/58.ts
 #EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 5
 http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/61
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 3 english p.league
 http://us.ocache.xyz/sports/supersp3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 4
-http://us.ocache.xyz/sports/supersp4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 5
 http://us.ocache.xyz/sports/supersp5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 6 epl
 http://us.ocache.xyz/sports/supersp6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 7 la liga
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 7 spanish la liga
 http://us.ocache.xyz/sports/supersp7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 8
 http://us.ocache.xyz/sports/supersp8.m3u8
@@ -191,25 +189,12 @@ http://us.ocache.xyz/sports/supersp9.m3u8
 http://us.ocache.xyz/sports/supersp11.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Sky Sport Serie A
 http://us.ocache.xyz/sports/skyseria.m3u8
-#EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 3
-http://iptv7.premium-stv.com:25461/live/rmcsport3/1557539943/58.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Z VOETBAL
-http://us.ocache.xyz/sports/ziggovl.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",NBA TV
-http://us.ocache.xyz/sports/nbatv.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",SKYNET 3
-http://us.ocache.xyz/sports/skynet3.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",ASTRO SUPERSPORT 4
-http://us.ocache.xyz/sports/astrosp4.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FOX SOCCER PLUS
 http://us.ocache.xyz/sports/foxsplus.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",EUROSPORT 2
 http://us.ocache.xyz/sports/eurosp2.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://yiptv.com/live-tv/wp-content/uploads/2015/11/bein-n-blog.jpg",group-title="VIP SPORTS",beIN SPORTS N
 http://us.ocache.xyz/sports/beines.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ5lJcL.jpg",group-title="VIP SPORTS",BT Sport 1
 http://us.ocache.xyz/sports/btsport1.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT SPORT 2
@@ -225,11 +210,9 @@ http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/800px-Impact_Wrestling_Logo.svg.png" group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",Impact Wrestling
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",WWE
-http://51.159.21.231:2052/usapro2@source/799965@26641/1720
+http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1720.ts
 #EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS" UFC FIGHT PASS
 http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1719.ts
-#EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS" UFC FIGHT PASS*
-http://51.159.21.231:2052/usapro2@source/799965@26641/1719
 #EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",SPORT FIGHT HD
 http://188.35.9.11:21151/udp/193i
 
@@ -613,13 +596,13 @@ http://108.59.11.81:8255/;
 
 #EXTINF:-1,group-title="NIGERIA",ARISE NEWS
 https://news.sechls01.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/channels_tv_ng_24.png",group-title="NIGERIA",CHANNELS 24
-https://stream.ecable.tv/channels/index.m3u8
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/channels_tv_ng_24.png",group-title="NIGERIA",CHANNELS
 http://31.24.228.207:1935/live/mobile_240p/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/channels_tv_ng_24.png",group-title="NIGERIA",CHANNELS 24*
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/channels_tv_ng_24.png",group-title="NIGERIA",CHANNELS
 http://31.24.231.140/mchannels/channelstv_hd.m3u8
 http://edge1.cdn.tvnow.ids-africa.com/mchannels/channelstv_hi.m3u8
-
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/channels_tv_ng_24.png",group-title="NIGERIA",CHANNELS 24*
+https://stream.ecable.tv/channels/index.m3u8
 #EXTINF:-1,tvg-logo="http://www.iafrica.tv/ics/uploads/NTAi248x2351.png" group-title="NIGERIA", NTAi*
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-ntai-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://www.iafrica.tv/ics/uploads/NTAi248x2351.png" group-title="NIGERIA", NTAi
@@ -826,12 +809,8 @@ https://stream.ecable.tv/kin24/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",TVT
 https://stream.ecable.tv/tvt/index.m3u8
 
-#EXTINF:-1,group-title="SENEGAL",SEN TV
-http://iptvpro.premium-itv.com:8789/31031986/31031986/47737
 #EXTINF:-1,group-title="SENEGAL",RTS 1
 http://mysisli.com/36bay2/gin/giniko_rts1_900kb_36bay2/index.m3u8
-#EXTINF:-1,group-title="SENEGAL",RTS 2
-http://iptvpro.premium-itv.com:8789/31031986/31031986/47721
 #EXTINF:-1,group-title="SENEGAL",M6
 http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/7
 #EXTINF:-1,group-title="SENEGAL",M6 HD
@@ -1090,8 +1069,6 @@ http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR
 https://ad.mysisli.com/live/siciliatv/tracks-v1a1/mono.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OkIK1jS.png" group-title="ITALY",Siciliamedia TV
 http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
-
-
 
 
 
