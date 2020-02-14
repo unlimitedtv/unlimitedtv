@@ -422,27 +422,27 @@ https://stream.ecable.tv/rvibes/index.m3u8
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist_w300555392.m3u8
 
 #EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",TRACE GOSPEL
-http://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/5/prog_index.m3u8
+https://live.traceplay.tv/trace_gospelroa/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",TRACE GOSPEL**
-http://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/6/prog_index.m3u8
+https://live.traceplay.tv/trace_gospelsa/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/2016/11/logo_naija1.png" group-title="AFRICA MUSIC",TRACE NAIJA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+https://live.traceplay.tv/trace_naija/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE AFRIKORA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
+https://live.traceplay.tv/trace_afrikora/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE URBAN INTER
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
+https://live.traceplay.tv/trace_urbaninter/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE Urban
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/6/prog_index.m3u8
+https://live.traceplay.tv/trace_urbandom/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="AFRICA MUSIC",TRACE AFRICA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+https://live.traceplay.tv/trace_africa/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="AFRICA MUSIC",TRACE TROPICAL
-http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+https://live.traceplay.tv/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="AFRICA MUSIC",TRACE KITOKO
-http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+https://live.traceplay.tv/trace_kitoko/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE VANILLA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/6/prog_index.m3u8
+https://live.traceplay.tv/trace_vanilla/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="AFRICA MUSIC",Trace Mziki
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+https://live.traceplay.tv/trace_mizki/6/prog_index.m3u8
 
 #EXTINF:-1,tvg-logo="http://musicchoice.com/wp-content/uploads/2018/05/og_image.png",group-title="MUSIC",MC Play
 http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/master.m3u8
@@ -498,19 +498,19 @@ https://21313.live.streamtheworld.com/FM947_SC
 #EXTINF:-1,group-title="RADIO FM",AFRO VIBES
 http://209.126.119.76:8356/stream
 #EXTINF:-1,group-title="RADIO FM",REGGAE MUSIC
-http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_reggae-midfi.aac
+https://live.traceplay.tv/trace_playlist_reggae-midfi.aac
 #EXTINF:-1,group-title="RADIO FM",WIZKID
-http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_wizkid-midfi.aac
+https://live.traceplay.tv/trace_playlist_wizkid-midfi.aac
 #EXTINF:-1,group-title="RADIO FM",BEACH PARTY
 http://stream.trace.tv/trace_playlist_beachparty-midfi.aac
 #EXTINF:-1,group-title="RADIO FM",SUMMER JAM
 http://stream.trace.tv/trace_playlist_hotsummer-midfi.aac
 #EXTINF:-1,group-title="RADIO FM",ALTERNATIVE R&B
-http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_alternative_rnb-midfi.aac
+https://live.traceplay.tv/trace_playlist_alternative_rnb-midfi.aac
 #EXTINF:-1,group-title="RADIO FM",HIP HOP USA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_hiphop-midfi.aac
+https://live.traceplay.tv/trace_hiphop-midfi.aac
 #EXTINF:-1,group-title="RADIO FM",R&B DIVAS
-http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_rnb_divas-midfi.aac
+https://live.traceplay.tv/trace_playlist_rnb_divas-midfi.aac
 #EXTINF:-1,group-title="RADIO FM",GUILTY PLEASURE
 http://stream.trace.tv/trace_playlist_guiltypleasure-midfi.aac
 #EXTINF:-1,group-title="RADIO FM",NIGHT MOOD
@@ -518,13 +518,13 @@ http://stream.trace.tv/trace_playlist_nightmood-midfi.aac
 #EXTINF:-1,group-title="RADIO FM",STRIP CLUB
 http://stream.trace.tv/trace_playlist_stripclub-midfi.aac
 #EXTINF:-1,group-title="RADIO FM",SOUL MUSIC
-http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_soul-midfi.aac
+https://live.traceplay.tv/trace_playlist_soul-midfi.aac
 #EXTINF:-1,group-title="RADIO FM",LOVE MUSIC
-http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_love-midfi.aac
+https://live.traceplay.tv/trace_playlist_love-midfi.aac
 #EXTINF:-1,group-title="RADIO FM",SEXUAL HEALING MUSIC
 http://stream.trace.tv/trace_playlist_sexualhealing-midfi.aac
 #EXTINF:-1,group-title="RADIO FM",OLD SCHOOL R&B MUSIC
-http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_rnb_oldschool-midfi.aac
+https://live.traceplay.tv/trace_playlist_rnb_oldschool-midfi.aac
 #EXTINF:-1,group-title="RADIO FM",GOOD VIBES ONLY
 http://stream.trace.tv/trace_playlist_goodvibesonly-midfi.aac
 #EXTINF:-1,group-title="RADIO FM",HOME COCOONING
@@ -741,9 +741,9 @@ http://mysisli.com/36bay2/gin/giniko_ortm_800kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",CHERIFLA TV
 http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45545
 #EXTINF:-1,group-title="IVORY COAST", TRACE AFRICA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
+https://live.traceplay.tv/trace_africafr/6/prog_index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",TRACE AFRIKORA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
+https://live.traceplay.tv/trace_afrikora/6/prog_index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",VIBE RADIO COTE D'IVOIRE
 http://217.182.132.143:8000/viberadio-ci.mp3
 #EXTINF:-1,group-title="IVORY COAST",TVT
@@ -772,9 +772,9 @@ https://stream-14.dc3.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql565ysupamtfQVpYkp7sv
 
 
 #EXTINF:-1,group-title="CAMEROUN", TRACE AFRICA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
+https://live.traceplay.tv/trace_africafr/6/prog_index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",TRACE AFRIKORA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
+https://live.traceplay.tv/trace_afrikora/6/prog_index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",CANAL 2 MOVIE
 https://stream.ecable.tv/canal2movie/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",CANAL 2 ENGLISH
@@ -819,9 +819,9 @@ http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/7
 #EXTINF:-1,group-title="SENEGAL",M6 HD
 http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/6
 #EXTINF:-1,group-title="SENEGAL", TRACE AFRICA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
+https://live.traceplay.tv/trace_africafr/6/prog_index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TRACE AFRIKORA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
+https://live.traceplay.tv/trace_afrikora/6/prog_index.m3u8
 #EXTINF:-1,group-title="SENEGAL",Al Quran Al Kareem
 http://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",MOURIDE TV
@@ -877,7 +877,7 @@ http://connectiktv.ddns.net:5000/consotv/consotv/chunklist.m3u8
 #EXTINF:-1,group-title="SENEGAL",DREAM CHANNEL
 http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8
 #EXTINF:-1,group-title="SENEGAL",TRACE URBAN
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+https://live.traceplay.tv/trace_urbaninter/5/prog_index.m3u8
 
 #EXTINF:-1,group-title="SAUDI ARABIA",SAUDI TV 1
 http://bozztv.com/36bay2/gin/giniko_sauditv_900kb_36bay2/tracks-v1a1/mono.m3u8
