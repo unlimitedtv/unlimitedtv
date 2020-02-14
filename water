@@ -382,6 +382,8 @@ https://streaming.viewsat.eu/viewsatstream06/viewsatstream063/playlist.m3u8
 
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",YANGA TV
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-yanga-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT", ET
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_83.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",ZEE WORLD
 http://pockettv.xyz/api/zee.m3u8?c=world
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2018/11/150X150-1.png" group-title="AFRICA MOVIE AND ENTERTAINMENT",African Cinema*
@@ -414,11 +416,10 @@ https://stream.ecable.tv/asstv/index.m3u8
 https://stream.ecable.tv/boom/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/51_1550569898_250.jpg" group-title="AFRICA MUSIC",AFROBEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/292_1553026485_250.jpg",group-title="AFRICA MUSIC",REGGAE VIBES
-https://stream.ecable.tv/rvibes/index.m3u8
 #EXTINF:-1,group-title="AFRICA MUSIC",DBM
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist_w300555392.m3u8
-
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/292_1553026485_250.jpg",group-title="AFRICA MUSIC",REGGAE VIBES
+https://stream.ecable.tv/rvibes/index.m3u8
 #EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",TRACE GOSPEL
 http://live.traceplay.tv/trace_gospelroa/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",TRACE GOSPEL**
@@ -729,7 +730,7 @@ http://198.7.63.116:8028/;ofmtv
 http://sp0001.letslink.pro:8006/stream
 
 
-#EXTINF:-1,group-title="IVORY COAST",CANAL 54
+#EXTINF:-1,group-title="IVORY COAST",CANAF 54
 https://stream.ecable.tv/canaf54/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/5_1550597150_small.jpg",group-title="IVORY COAST",RTI 1
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/chunklist.m3u8
@@ -741,6 +742,7 @@ http://mysisli.com/36bay2/gin/giniko_ortm_800kb_36bay2/index.m3u8
 http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45545
 #EXTINF:-1,group-title="IVORY COAST", TRACE AFRICA
 http://live.traceplay.tv/trace_africafr/6/prog_index.m3u8
+https://d9d73yp7b4cda.cloudfront.net/trace_africafr/6/prog_index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",TRACE AFRIKORA
 http://live.traceplay.tv/trace_afrikora/6/prog_index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",VIBE RADIO COTE D'IVOIRE
