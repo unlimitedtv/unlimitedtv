@@ -96,14 +96,6 @@ http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
 http://us.ocache.xyz/sports/nbcsn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBF6vAk.png",group-title="VIP SPORTS",Sky Sports Premier League
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FS1
-http://us.ocache.xyz/sports/foxsp1.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FS2
-http://us.ocache.xyz/sports/foxsp2.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",SPORT TV 1
-http://us.ocache.xyz/sports/sporttv1.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",SPORT TV 2
-http://us.ocache.xyz/sports/sporttv2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 3 English Premier League
 http://us.ocache.xyz/sports/supersp3.m3u8
 #EXTINF:-1,tvg-logo="http://livetv.am/assets/img/tv/setanta-sport.png",group-title="VIP SPORTS",SETANTA SPORTS
@@ -174,35 +166,6 @@ http://iptv2.premium-stv.com:8888/live/beinsports1@/unU@hqZ@QH1l@/52.ts
 http://iptv7.premium-stv.com:25461/live/rmcsport3/1557539943/58.ts
 #EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 5
 http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/61
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 3 english p.league
-http://us.ocache.xyz/sports/supersp3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 5
-http://us.ocache.xyz/sports/supersp5.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 6 epl
-http://us.ocache.xyz/sports/supersp6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 7 spanish la liga
-http://us.ocache.xyz/sports/supersp7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 8
-http://us.ocache.xyz/sports/supersp8.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 9 serie A
-http://us.ocache.xyz/sports/supersp9.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 11  epl
-http://us.ocache.xyz/sports/supersp11.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Sky Sport Serie A
-http://us.ocache.xyz/sports/skyseria.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FOX SOCCER PLUS
-http://us.ocache.xyz/sports/foxsplus.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",EUROSPORT 2
-http://us.ocache.xyz/sports/eurosp2.m3u8
-#EXTINF:-1 tvg-logo="https://yiptv.com/live-tv/wp-content/uploads/2015/11/bein-n-blog.jpg",group-title="VIP SPORTS",beIN SPORTS N
-http://us.ocache.xyz/sports/beines.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rJ5lJcL.jpg",group-title="VIP SPORTS",BT Sport 1
-http://us.ocache.xyz/sports/btsport1.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT SPORT 2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PS6Bb8H.png",group-title="VIP SPORTS",BT Sport 2
-http://us.ocache.xyz/sports/btsport2.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT SPORT 3
-http://us.ocache.xyz/sports/btsport3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",group-title="VIP SPORTS",Sky Sports Football HD
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 
@@ -420,28 +383,35 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist_w300555392.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/292_1553026485_250.jpg",group-title="AFRICA MUSIC",REGGAE VIBES
 https://stream.ecable.tv/rvibes/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",TRACE GOSPEL
-http://live.traceplay.tv/trace_gospelroa/5/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",TRACE GOSPEL**
-http://live.traceplay.tv/trace_gospelsa/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/2016/11/logo_naija1.png" group-title="AFRICA MUSIC",TRACE NAIJA
-http://live.traceplay.tv/trace_naija/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE AFRIKORA
-http://live.traceplay.tv/trace_afrikora/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE URBAN INTER
-http://live.traceplay.tv/trace_urbaninter/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE Urban
-http://live.traceplay.tv/trace_urbandom/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="AFRICA MUSIC",TRACE AFRICA
-http://live.traceplay.tv/trace_africa/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="AFRICA MUSIC",TRACE TROPICAL
-http://live.traceplay.tv/trace_tropical/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="AFRICA MUSIC",TRACE KITOKO
-http://live.traceplay.tv/trace_kitoko/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE VANILLA
-http://live.traceplay.tv/trace_vanilla/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="AFRICA MUSIC",Trace Mziki
-http://live.traceplay.tv/trace_mizki/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE LATINA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
+
 
 #EXTINF:-1,tvg-logo="http://musicchoice.com/wp-content/uploads/2018/05/og_image.png",group-title="MUSIC",MC Play
 http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/master.m3u8
@@ -487,6 +457,8 @@ http://158.69.38.194:8130/;stream/1
 http://stream.trace.tv/trace_playlist_urban_uk-midfi.aac
 #EXTINF:-1,tvg-logo="",group-title="RADIO FM",TRACE NAIJA
 http://stream.trace.tv/trace_naija-midfi.aac
+#EXTINF:-1,tvg-logo="",group-title="RADIO FM",TRACE SOUTH AFRICA
+http://stream.trace.tv/trace_playlist_urban_sa-midfi.aac
 #EXTINF:-1,tvg-logo="",group-title="RADIO FM",NAIJA PRAISE
 http://pipe.ukprostream.com:8090/stream/1/
 #EXTINF:-1,tvg-logo="",group-title="RADIO FM",LAGOS JUMP
@@ -745,8 +717,12 @@ http://live.traceplay.tv/trace_africafr/6/prog_index.m3u8
 https://d9d73yp7b4cda.cloudfront.net/trace_africafr/6/prog_index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",TRACE AFRIKORA
 http://live.traceplay.tv/trace_afrikora/6/prog_index.m3u8
+#EXTINF:-1,group-title="IVORY COAST",TRACE Cote d'Ivoire FM
+http://stream.trace.tv/trace_fm_ci-midfi.aac
 #EXTINF:-1,group-title="IVORY COAST",VIBE RADIO COTE D'IVOIRE
 http://217.182.132.143:8000/viberadio-ci.mp3
+#EXTINF:-1,group-title="IVORY COAST",TRACE Paris FM
+https://stream.trace.tv/trace_paris-midfi.aac
 #EXTINF:-1,group-title="IVORY COAST",TVT
 https://stream.ecable.tv/tvt/index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",Tele 50
@@ -813,28 +789,22 @@ https://stream.ecable.tv/kin24/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",TVT
 https://stream.ecable.tv/tvt/index.m3u8
 
+
+
+#EXTINF:-1,group-title="SENEGAL",FRANCE 24
+http://mysisli.com/36bay2/gin/giniko_france24french_900kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",FRANCE 24*
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1,group-title="SENEGAL",RTS 1
 http://mysisli.com/36bay2/gin/giniko_rts1_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",M6
 http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/7
 #EXTINF:-1,group-title="SENEGAL",M6 HD
 http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/6
-#EXTINF:-1,group-title="SENEGAL", TRACE AFRICA
-http://live.traceplay.tv/trace_africafr/6/prog_index.m3u8
-#EXTINF:-1,group-title="SENEGAL",TRACE AFRIKORA
-http://live.traceplay.tv/trace_afrikora/6/prog_index.m3u8
 #EXTINF:-1,group-title="SENEGAL",Al Quran Al Kareem
 http://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",MOURIDE TV
 http://162.212.178.131:1935/Livemouridetv/mouridetv/chunklist.m3u8
-#EXTINF:-1,group-title="SENEGAL",GAMBIA: QTV
-https://stream.ecable.tv/qtv/index.m3u8
-#EXTINF:-1,group-title="SENEGAL",CANAL 2 MOVIE
-https://stream.ecable.tv/canal2movie/index.m3u8
-#EXTINF:-1,group-title="SENEGAL",CANAL2 INTER
-https://stream.ecable.tv/canal2movie/index.m3u8
-#EXTINF:-1,group-title="SENEGAL",BF1
-https://stream.ecable.tv/bf1/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TFM
 https://stream.ecable.tv/tfm/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TFM Senegal
@@ -845,17 +815,20 @@ https://stream.ecable.tv/tfmreligion/tracks-v1a1/mono.m3u8
 https://stream.ecable.tv/tfmreligion/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TMC: Ai2musique
 http://162.212.178.131:1935/live/Ai2tvmusique/index.m3u8
-#EXTINF:-1,group-title="SENEGAL",M6*
-http://iptv3.premium-stv.com:25461/SPO@RT@pro2@irr@/nsc@d@z@bljbzd@44t@/96
-http://163.172.43.207:8081/m6/live/chunks.m3u8
 #EXTINF:-1,group-title="SENEGAL",2S TV
 http://stream.ecable.tv:9080/2stv/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",AF: A2i TV
 http://162.212.178.131:1935/live/Ai2tv/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TELE MUSIC SENEGAL
 http://live.telemusik.live:1935/rezopropartner_1/rezopropartner_1/.m3u8
-#EXTINF:-1,group-title="SENEGAL",FRANCE 24
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1,group-title="SENEGAL",GAMBIA: QTV
+https://stream.ecable.tv/qtv/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",CANAL 2 MOVIE
+https://stream.ecable.tv/canal2movie/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",CANAL2 INTER
+https://stream.ecable.tv/canal2movie/index.m3u8
+#EXTINF:-1,group-title="SENEGAL",BF1
+https://stream.ecable.tv/bf1/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TV5 MONDE INFO
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TVT
@@ -877,8 +850,7 @@ http://188.35.9.11:21121/udp/175d
 http://connectiktv.ddns.net:5000/consotv/consotv/chunklist.m3u8
 #EXTINF:-1,group-title="SENEGAL",DREAM CHANNEL
 http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8
-#EXTINF:-1,group-title="SENEGAL",TRACE URBAN
-http://live.traceplay.tv/trace_urbaninter/5/prog_index.m3u8
+
 
 #EXTINF:-1,group-title="SAUDI ARABIA",SAUDI TV 1
 http://bozztv.com/36bay2/gin/giniko_sauditv_900kb_36bay2/tracks-v1a1/mono.m3u8
@@ -886,7 +858,6 @@ http://bozztv.com/36bay2/gin/giniko_sauditv_900kb_36bay2/tracks-v1a1/mono.m3u8
 http://bozztv.com/36bay2/gin/giniko_abudhabitv_1000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="SAUDI ARABIA",Al Sunnah
 http://bozztv.com/36bay2/gin/giniko_saudisunnah_900kb_36bay2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,group-title="SAUDI ARABIA",Al Quran Al Kareem
 http://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SAUDI ARABIA",
