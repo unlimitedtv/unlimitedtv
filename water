@@ -713,10 +713,10 @@ http://mysisli.com/36bay2/gin/giniko_ortm_800kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",CHERIFLA TV
 http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45545
 #EXTINF:-1,group-title="IVORY COAST", TRACE AFRICA
-http://live.traceplay.tv/trace_africafr/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
 https://d9d73yp7b4cda.cloudfront.net/trace_africafr/6/prog_index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",TRACE AFRIKORA
-http://live.traceplay.tv/trace_afrikora/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",TRACE Cote d'Ivoire FM
 http://stream.trace.tv/trace_fm_ci-midfi.aac
 #EXTINF:-1,group-title="IVORY COAST",VIBE RADIO COTE D'IVOIRE
@@ -749,9 +749,9 @@ https://stream-14.dc3.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql565ysupamtfQVpYkp7sv
 
 
 #EXTINF:-1,group-title="CAMEROUN", TRACE AFRICA
-http://live.traceplay.tv/trace_africafr/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",TRACE AFRIKORA
-http://live.traceplay.tv/trace_afrikora/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",CANAL 2 MOVIE
 https://stream.ecable.tv/canal2movie/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",CANAL 2 ENGLISH
