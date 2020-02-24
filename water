@@ -611,69 +611,71 @@ https://stream.ecable.tv/gntv/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/15_1551227152_250.jpg",group-title="NIGERIA",KICC
 https://stream.ecable.tv/kicc/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/266_1551611564_250.jpg",group-title="NIGERIA",Arewa24
-http://stream.ecable.tv:9080/arewa24/index.m3u8
+http://stream.ecable.tv:9080/arewa241/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="NIGERIA",AFROVIBES RADIO
 http://209.126.119.76:8356/stream
 
 
+
+#EXTINF:-1,tvg-logo="" group-title="GHANA",CNN
+https://stream.ecable.tv/cnn/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tvg-logo="" group-title="GHANA",Aljazeera News
+https://stream.ecable.tv/jazeera/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tvg-logo="" group-title="GHANA",ROK
+https://stream.ecable.tv/rok/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="GHANA",MAX TV
-https://stream.ecable.tv/maxtv/index.m3u8
+https://stream.ecable.tv/maxtv1/index.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/joy_news_gh.png",group-title="GHANA",Joy News
-http://stream.ecable.tv:9080/joynews/index.m3u8
-#EXTINF:-1,group-title="GHANA",Joy News*
-https://bk7l2g37dx53-hls-live.5centscdn.com/joynews/72781e965e0681e980034a778ee7067b.sdp/index.m3u8
-http://stream.ecable.tv:9080/joynews/index.m3u8
+https://stream.ecable.tv/joynews1/index.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/joy-prime-gh.png",group-title="GHANA",Joy Prime
-https://stream.ecable.tv/joyprime/index.m3u8
+https://stream.ecable.tv/joyprime1/index.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/tv3_gh.png",group-title="GHANA",TV3 
-https://stream.ecable.tv/tv3/index.m3u8
+https://stream.ecable.tv/tv31/index.m3u8
 #EXTINF:-1,group-title="GHANA",VOA AFRICA
 http://mysisli.com/36bay2/gin/giniko_voxafrica_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="GHANA",VOA UK
 https://stream.ecable.tv/voxafricauk/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="GHANA",GHANA TV
-https://stream.ecable.tv/ghanatv/tracks-v1a1/mono.m3u8
+https://stream.ecable.tv/ghanatv1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2018/02/united_tv_gh.png",group-title="GHANA",United TV
 http://stream.ecable.tv:9080/utv/index.m3u8
 #EXTINF:-1,group-title="GHANA",CITI TV
-https://stream.ecable.tv/citi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="GHANA",abn TV 
-http://stream.ecable.tv:9080/abntv/index.m3u8
+https://stream.ecable.tv/citi1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="GHANA",PAN AFRICA
+https://stream.ecable.tv/panafrica/index.m3u8
+#EXTINF:-1,group-title="GHANA",KWESE
+https://stream.ecable.tv/kwese1/index.m3u8
+#EXTINF:-1,group-title="GHANA",Royal TV
+https://stream.ecable.tv/royaltv1/index.m3u8
+#EXTINF:-1,group-title="GHANA",TV XYZ
+https://stream.ecable.tv/tvxyz1/index.m3u8
+#EXTINF:-1,group-title="GHANA",ANGEL TV
+https://stream.ecable.tv/angel1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="GHANA",SWEET TV
+https://stream.ecable.tv/sweettv1/index.m3u8
 #EXTINF:-1,group-title="GHANA",ATINKA TV
-https://stream.ecable.tv/atinka/index.m3u8
+https://stream.ecable.tv/atinka1/index.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2018/01/adom_tv_gh.png",group-title="GHANA",ADOM
-http://stream.ecable.tv:9080/adom/index.m3u8
-#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2018/01/adom_tv_gh.png",group-title="GHANA",ADOM*
-https://bk7l2g37dx53-hls-live.5centscdn.com/adom/5b97b7d64a64c7cd54c18b07e93570a1.sdp/index.m3u8
+https://stream.ecable.tv/adom1/index.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/12/citizen_tv_ke.png",group-title="GHANA",CITIZEN
 https://vidhttps.r.worldssl.net/citizentv-origin/liveabr/citizentv-origin/live2/chunks.m3u8
-https://stream.ecable.tv/citizen/index.m3u8
+https://stream.ecable.tv/citizen1/index.m3u8
 #EXTINF:-1,group-title="GHANA",GTV Sports+
-https://stream.ecable.tv/gtvsp/index.m3u8
+https://stream.ecable.tv/gtvsp1/index.m3u8
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/kessben_tv_gh.png",group-title="GHANA",KESSBEN TV
+https://stream.ecable.tv/kessben1/index.m3u8
+#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/357_1574852219_small.jpg",group-title="GHANA",AGOO TV
+https://stream.ecable.tv/agoo1/index.m3u8
 #EXTINF:-1,tvg-logo="",group-title="GHANA",NEWS CENTRAL
 https://news.sechls01.visionip.tv/live/visiontvuk-news-newscentral-hsslive-25f-SDq/chunklist.m3u8
 #EXTINF:-1,tvg-logo="" group-title="GHANA",SPORTS TONIGHT
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,tvg-logo="",group-title="GHANA",SPOT LIGHT
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-spotlighttv-hsslive-25f-SD/chunklist.m3u8
-#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/kessben_tv_gh.png",group-title="GHANA",KESSBEN TV
-https://stream.ecable.tv/kessben/index.m3u8
-#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/357_1574852219_small.jpg",group-title="GHANA",AGOO TV
-https://stream.ecable.tv/agoo/index.m3u8
-#EXTINF:-1,group-title="GHANA",PAN AFRICA
-https://stream.ecable.tv/panafrica/index.m3u8
-#EXTINF:-1,group-title="GHANA",KWESE
-https://stream.ecable.tv/kwese/index.m3u8
-#EXTINF:-1,group-title="GHANA",Royal TV
-https://stream.ecable.tv/royaltv/index.m3u8
-#EXTINF:-1,group-title="GHANA",TV XYZ
-https://stream.ecable.tv/tvxyz/index.m3u8
-#EXTINF:-1,group-title="GHANA",ANGEL TV
-https://stream.ecable.tv/angel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="GHANA",SWEET TV
-https://stream.ecable.tv/sweettv/index.m3u8
 #EXTINF:-1,group-title="GHANA",SAM TV
 https://streaming.viewsat.eu/viewsatstream22/viewsatstream22.smil/playlist.m3u8
+#EXTINF:-1,group-title="GHANA",CH7
+https://stream.ecable.tv/gntv/tracks-v1a1/mono.m3u8
 EXTINF:-1,tvg-logo="https://cdn-radiotime-logos.tunein.com/s158507q.png",group-title="GHANA",GHRadio1
 http://radioservers.biz:9946/;
 #EXTINF:-1,tvg-logo="https://cdn-profiles.tunein.com/s228220/images/logoq.jpg?t=155552",group-title="GHANA",ATINKA fM
@@ -724,26 +726,26 @@ http://217.182.132.143:8000/viberadio-ci.mp3
 #EXTINF:-1,group-title="IVORY COAST",TRACE Paris FM
 https://stream.trace.tv/trace_paris-midfi.aac
 #EXTINF:-1,group-title="IVORY COAST",TVT
-https://stream.ecable.tv/tvt/index.m3u8
+https://stream.ecable.tv/tvt1/index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",Tele 50
-https://stream.ecable.tv/tele50/index.m3u8
+https://stream.ecable.tv/tele501/index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",RTNC
-https://stream.ecable.tv/rtnc/index.m3u8
+https://stream.ecable.tv/rtnc1/index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",ORTB TV
-https://stream.ecable.tv/ortb/index.m3u8
+https://stream.ecable.tv/ortb1/index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",RTB TV
-https://stream.ecable.tv/rtb/index.m3u8
+https://stream.ecable.tv/rtb1/index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",DIGITA CONGO TV
-https://stream.ecable.tv/dcc/index.m3u8
+https://stream.ecable.tv/dcc1/index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",BF1
-https://stream.ecable.tv/bf1/index.m3u8
+https://stream.ecable.tv/bf11/index.m3u8
 
 #EXTINF:-1,tvg-logo="",group-title="CAMEROUN",Pan Africa
 https://stream.ecable.tv/panafrica/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/311_1551612734_250.jpg",group-title="CAMEROUN",EQUINOXE*
-https://stream.ecable.tv/equinox/index.m3u8
+https://stream.ecable.tv/equinox1/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/323_1554561564_small.jpg",group-title="CAMEROUN",CRTV
-https://stream.ecable.tv/crtv/index.m3u8
+https://stream.ecable.tv/crtv1/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",CRTV*
 https://stream-14.dc3.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql565ysupamtfQVpYkp7svCKRTg)/dm/3/x7otnk4/s/live-3.m3u8
 
@@ -753,27 +755,25 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",TRACE AFRIKORA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",CANAL 2 MOVIE
-https://stream.ecable.tv/canal2movie/index.m3u8
+https://stream.ecable.tv/canal2movie1/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",CANAL 2 ENGLISH
-https://stream.ecable.tv/canal2eng/index.m3u8
+https://stream.ecable.tv/canal2eng1/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",CANAL2 INTER
-http://stream.ecable.tv/canal2movie/index.m3u8
+http://stream.ecable.tv/canal2movie1/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",VISION 4
-https://stream.ecable.tv/vision4/index.m3u8
+https://stream.ecable.tv/vision41/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",VISION 4*
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",BF1
-https://stream.ecable.tv/bf1/index.m3u8
+https://stream.ecable.tv/bf11/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",BOOM TV
-https://stream.ecable.tv:9080/boom/index.m3u8
-#EXTINF:-1,group-title="CAMEROUN",GTV Sports+
-https://stream.ecable.tv/gtvsp/index.m3u8
+https://stream.ecable.tv/boom1/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",STV
-https://stream.ecable.tv/stv/index.m3u8
+https://stream.ecable.tv/stv1/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",Tele 50
-https://stream.ecable.tv/tele50/index.m3u8
+https://stream.ecable.tv/tele501/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",RTNC
-https://stream.ecable.tv/rtnc/index.m3u8
+https://stream.ecable.tv/rtnc1/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",Francophonie 24
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1,group-title="CAMEROUN",CONSO TV AFRIQUE
@@ -783,11 +783,11 @@ http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8
 #EXTINF:-1,group-title="CAMEROUN",TCV
 http://videos.nosi.cv/live/smil:tcvlive.smil/chunklist_w638628307_b25128000_sleng.m3u8
 #EXTINF:-1,group-title="CAMEROUN",RTGA
-https://stream.ecable.tv/rtga/tracks-v1a1/mono.m3u8
+https://stream.ecable.tv/rtga1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="CAMEROUN",KIN 24
-https://stream.ecable.tv/kin24/index.m3u8
+https://stream.ecable.tv/kin241/index.m3u8
 #EXTINF:-1,group-title="CAMEROUN",TVT
-https://stream.ecable.tv/tvt/index.m3u8
+https://stream.ecable.tv/tvt1/index.m3u8
 
 
 
@@ -806,17 +806,16 @@ http://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",MOURIDE TV
 http://162.212.178.131:1935/Livemouridetv/mouridetv/chunklist.m3u8
 #EXTINF:-1,group-title="SENEGAL",TFM
-https://stream.ecable.tv/tfm/index.m3u8
+https://stream.ecable.tv/tfm1/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TFM Senegal
 http://mysisli.com/36bay2/gin/giniko_tfm_900kb_36bay2/index.m3u8
 http://bozztv.com/36bay2/gin/giniko_tfm_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TFM RELIGION
-https://stream.ecable.tv/tfmreligion/tracks-v1a1/mono.m3u8
-https://stream.ecable.tv/tfmreligion/index.m3u8
+https://stream.ecable.tv/tfmreligion1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="SENEGAL",TMC: Ai2musique
 http://162.212.178.131:1935/live/Ai2tvmusique/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",2S TV
-http://stream.ecable.tv:9080/2stv/index.m3u8
+http://stream.ecable.tv/2stv1/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",AF: A2i TV
 http://162.212.178.131:1935/live/Ai2tv/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TELE MUSIC SENEGAL
