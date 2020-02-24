@@ -92,7 +92,7 @@ http://95.170.215.120:80/hls/Sky-Spo-football-N.m3u8
 http://us.ocache.xyz/sports/skyME.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgcR1ju.jpg",group-title="VIP SPORTS",Sky Sports Main Event*
 http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
-#EXTINF:-1 tvg-logo="",group-title=VIP SPORTS",NBCSN
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",NBCSN
 http://us.ocache.xyz/sports/nbcsn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBF6vAk.png",group-title="VIP SPORTS",Sky Sports Premier League
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
@@ -809,7 +809,6 @@ http://162.212.178.131:1935/Livemouridetv/mouridetv/chunklist.m3u8
 https://stream.ecable.tv/tfm1/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TFM Senegal
 http://mysisli.com/36bay2/gin/giniko_tfm_900kb_36bay2/index.m3u8
-http://bozztv.com/36bay2/gin/giniko_tfm_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TFM RELIGION
 https://stream.ecable.tv/tfmreligion1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="SENEGAL",TMC: Ai2musique
@@ -842,9 +841,6 @@ http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 http://mv2.tvfrancophonie.org/live/Stream1/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",AFRIQUE MEDIA
 http://stream.ecable.tv:9080/afm/index.m3u8
-#EXTINF:-1,group-title="SENEGAL",TV5 MONDE
-http://188.35.9.11:21121/udp/175d
-#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/266_1551611564_250.jpg",group-title="SENEGAL",Arewa24
 #EXTINF:-1,group-title="SENEGAL",CONSO TV AFRIQUE
 http://connectiktv.ddns.net:5000/consotv/consotv/chunklist.m3u8
 #EXTINF:-1,group-title="SENEGAL",DREAM CHANNEL
