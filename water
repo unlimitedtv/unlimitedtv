@@ -82,8 +82,6 @@ http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1874
 http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1875
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",group-title="VIP SPORTS",Sky Sports Football HD
 http://95.170.215.120:80/hls/Sky-Spo-football-N.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TgcR1ju.jpg",group-title="VIP SPORTS",Sky Sports Main Event
-http://us.ocache.xyz/sports/skyME.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgcR1ju.jpg",group-title="VIP SPORTS",Sky Sports Main Event*
 http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",NBCSN
@@ -96,6 +94,8 @@ http://us.ocache.xyz/sports/supersp3.m3u8
 http://ott-cdn.ucom.am/s81/index.m3u8
 #EXTINF:-1,tvg-logo="http://livetv.am/assets/img/tv/setanta-sport-plus.png",group-title="VIP SPORTS",Setanta Eurasia +
 http://ott-cdn.ucom.am/s82/index.m3u8
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",VOO SPORT WORLD 1 HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1898
 
 
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",USA: BEIN SPORTS HD
@@ -189,18 +189,12 @@ http://mysisli.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
 
 
 
-#EXTINF:-1,group-title="MOVIE CHANNELS",OSN Series First
-http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1708
-#EXTINF:-1,group-title="MOVIE CHANNELS",OSN MOVIES FIRST
-http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1693
 #EXTINF:-1,group-title="MOVIE CHANNELS",24 BOX TV
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",BLUE ANT EXTREME
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",MORE MAX HD
 http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1751.ts
-#EXTINF:-1,group-title="MOVIE CHANNELS",MORE MAX HD*
-http://51.159.21.231:2052/usapro2@source/799965@26641/1751.ts
 #EXTINF:-1,group-title="MOVIE CHANNELS",CINEMAX 5
 http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1800.ts
 #EXTINF:-1,group-title="MOVIE CHANNELS",STAR MOVIES HD
@@ -333,8 +327,6 @@ https://streaming.viewsat.eu/viewsatstream06/viewsatstream063/playlist.m3u8
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-yanga-hsslive-25f-SD/chunklist.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT", ET
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_83.m3u8
-#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",ZEE WORLD
-http://pockettv.xyz/api/zee.m3u8?c=world
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2018/11/150X150-1.png" group-title="AFRICA MOVIE AND ENTERTAINMENT",African Cinema*
 https://stream.ecable.tv/africancine/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",Women Exercises
@@ -362,16 +354,11 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/333_1557515892_250.jpg",group-title="AFRICA MUSIC",AsSalt TV
 https://stream.ecable.tv/asstv/index.m3u8
 #EXTINF:-1,group-title="AFRICA MUSIC",BOOM TV
-https://stream.ecable.tv/boom/index.m3u8
+https://stream.ecable.tv/boom1/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/51_1550569898_250.jpg" group-title="AFRICA MUSIC",AFROBEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1,group-title="AFRICA MUSIC",DBM
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist_w300555392.m3u8
-#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/292_1553026485_250.jpg",group-title="AFRICA MUSIC",REGGAE VIBES
-https://stream.ecable.tv/rvibes/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",ENGLISH: TRACE GOSPEL
 http://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",SOUTH AFRICA: TRACE GOSPEL**
@@ -610,10 +597,10 @@ http://209.126.119.76:8356/stream
 https://stream.ecable.tv/cnn/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="" group-title="GHANA",Aljazeera News
 https://stream.ecable.tv/jazeera/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-logo="" group-title="GHANA",ROK
+#EXTINF:-1,tvg-logo="" group-title="GHANA",NOLLYWOOD: ROK
 https://stream.ecable.tv/rok/index.m3u8
-#EXTINF:-1,tvg-logo="" group-title="GHANA",MAX TV
-https://stream.ecable.tv/maxtv1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GHANA",TRACE JAMA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_jama/5/prog_index.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/joy_news_gh.png",group-title="GHANA",Joy News
 https://stream.ecable.tv/joynews1/index.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/joy-prime-gh.png",group-title="GHANA",Joy Prime
@@ -648,15 +635,12 @@ https://stream.ecable.tv/atinka1/index.m3u8
 https://stream.ecable.tv/adom1/index.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/12/citizen_tv_ke.png",group-title="GHANA",CITIZEN
 https://vidhttps.r.worldssl.net/citizentv-origin/liveabr/citizentv-origin/live2/chunks.m3u8
-https://stream.ecable.tv/citizen1/index.m3u8
 #EXTINF:-1,group-title="GHANA",GTV Sports+
 https://stream.ecable.tv/gtvsp1/index.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/kessben_tv_gh.png",group-title="GHANA",KESSBEN TV
 https://stream.ecable.tv/kessben1/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/357_1574852219_small.jpg",group-title="GHANA",AGOO TV
 https://stream.ecable.tv/agoo1/index.m3u8
-#EXTINF:-1,tvg-logo="",group-title="GHANA",NEWS CENTRAL
-https://news.sechls01.visionip.tv/live/visiontvuk-news-newscentral-hsslive-25f-SDq/chunklist.m3u8
 #EXTINF:-1,tvg-logo="" group-title="GHANA",SPORTS TONIGHT
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,tvg-logo="",group-title="GHANA",SPOT LIGHT
@@ -819,11 +803,11 @@ https://stream.ecable.tv/bf1/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TV5 MONDE INFO
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TVT
-https://stream.ecable.tv/tvt/index.m3u8
+https://stream.ecable.tv/tvt1/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",Tele 50
-https://stream.ecable.tv/tele50/index.m3u8
+https://stream.ecable.tv/tele501/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",RTNC
-https://stream.ecable.tv/rtnc/index.m3u8
+https://stream.ecable.tv/rtnc1/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",Francophonie 24
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1,group-title="SENEGAL",Francophonie 24*
@@ -858,23 +842,23 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 #EXTINF:-1 tvg-id="Raitres.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rai3.png", |IT| RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/index.m3u8  
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8 
-#EXTINF:-1 tvg-id="RAI 4" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rai4.png", |IT| RAI 4 
+#EXTINF:-1 tvg-id="RAI 4" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rai4.png", |IT| RAI 4
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8 
-#EXTINF:-1 tvg-id="RAI 5" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rai5.png", |IT| RAI 5 
+#EXTINF:-1 tvg-id="RAI 5" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rai5.png", |IT| RAI 5
 http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on.m3u8
-#EXTINF:-1 tvg-id="Rainews.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rainews24.png", |IT| RAI NEWS 
-http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1200/chunklist.m3u8 
-#EXTINF:-1 tvg-id="Raigulp.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raigulp.png", |IT| RAI GULP 
+#EXTINF:-1 tvg-id="Rainews.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rainews24.png", |IT| RAI NEWS
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 tvg-id="Raigulp.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raigulp.png", |IT| RAI GULP
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8?sd=10&rebase=on.m3u8
-#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raimovie.png", |IT| RAI MOVIE 
+#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raimovie.png", |IT| RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raipremium.png", |IT| RAI PREMIUM 
+#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raipremium.png", |IT| RAI PREMIUM
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8?sd=10&rebase=on.m3u8
-#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raiyoyo.png", |IT| RAI YOYO 
+#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raiyoyo.png", |IT| RAI YOYO
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="italiauno.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/italia1.png", |IT| ITALIA 1 
+#EXTINF:-1 tvg-id="italiauno.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/italia1.png", |IT| ITALIA 1
 http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8 
-#EXTINF:-1 tvg-id="italiadue.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/italia2.png", |IT| ITALIA 2 
+#EXTINF:-1 tvg-id="italiadue.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/italia2.png", |IT| ITALIA 2
 http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8 
 #EXTINF:-1 tvg-id="Retequatro.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rete4.png", |IT| RETE 4
 http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8 
@@ -886,7 +870,7 @@ http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/i
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8 
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="https://cdn.one.accedo.tv/files/5cba0395a6f5470011ca96eb?sessionKey=01DPZGZY9SKN3VEVDGCRY8TBHN12A787B550", |IT| MEDIASET SPORT
 https://streaming.wim.tv/programming/mediasportchannel/playlist.m3u8 
-#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/20@2.png", |IT| 20 MEDIASET 
+#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/20@2.png", |IT| 20 MEDIASET
 http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8 
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/iris.png", |IT| IRIS IN
 http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8 
@@ -900,27 +884,27 @@ http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/i
 http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8 
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/boing.png", |IT| BOING
 http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8 
-#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/R101_-_Logo_2015.svg/1200px-R101_-_Logo_2015.svg.png", |IT| R101TV IN ITALIA 
+#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/R101_-_Logo_2015.svg/1200px-R101_-_Logo_2015.svg.png", |IT| R101TV IN ITALIA
 http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(er)/index.m3u8 
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/ew@2.png", |IT| VIRGIN RADIO TV
 http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8 
-#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/w1@2.png", |IT| M4C 
+#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/w1@2.png", |IT| M4C
 http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(w1)/index.m3u8 
-#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/realtime.png", |IT| REAL TIME 
+#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/realtime.png", |IT| REAL TIME
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=1567361954~exp=1567448354~acl=/*~hmac=8cc08d144acd83b97779543317c1961ba6603e10665e20e4d82140767011a5ee&mux_audio=true
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/realtime.png", |IT| REAL TIME SD
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgCXPVAolwUSPr3BWl4RM8+UR4n9RB8tLM7nMjX6IBdpU7qFWsjJg0ho7k4Llh55CucUOldyfJpQ7Q%3d%3d
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/dmax.png", |IT| DMAX
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/index_1100_av-p.m3u8?sd=10&rebase=on&id=AgCXPVAolwUSLDfDWl5HODaJyChfhNu85fuVkahdFBPTVF9Du59YWikcDLVWKbZN71RQAhFAjoHH2A%3d%3d
 
-#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/nove.png", |IT| NOVE 
+#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/nove.png", |IT| NOVE
 http://www.mytivu.it/Application/Channels/Nove.php 
-#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/giallo.png", |IT| GIALLO 
+#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/giallo.png", |IT| GIALLO
 https://www.mytivu.it/Application/Channels/Giallo.php 
-#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/motortrend.png", |IT| MOTOR TREND 
+#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/motortrend.png", |IT| MOTOR TREND
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8?hdnts=st=1570986189~exp=1571072589~acl=/i/*~hmac=39beeed96fab2cce673a35c9ed5c0266c9bacf0d32ff9a5aeb5c70f3459af517&mux_audio=true 
 #EXTINF:-1, ======== TIVUSAT SPORT ======== https://salva59sg.tk/film/video1.mp4 
-#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/sportitalia.png", |IT| SPORT ITALIA 
+#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/sportitalia.png", |IT| SPORT ITALIA
 https://www.mytivu.it/Application/Channels/SI.php 
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="https://www.sportitalia.com/image/original/5d148c147531b.png?v=20190627092749", |IT| SPORT ITALIA 24 LIVE 
 https://www.mytivu.it/Application/Channels/SILive24.php 
@@ -985,47 +969,47 @@ http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALIA",Parole di Vita
 http://195.142.109.181:8035
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vClKdtx.png" group-title="ITALY",Rete Oro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vClKdtx.png" group-title="ITALIA",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8?fluxustv.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4DoBLaA.png" group-title="ITALY",Reteconomy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DoBLaA.png" group-title="ITALIA",Reteconomy
 http://streaming.reteconomy.it/live/reteconomy/playlist.m3u8?fluxustv.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vvVgZN2.png" group-title="ITALY",Retesole Lazio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vvVgZN2.png" group-title="ITALIA",Retesole Lazio
 http://5c389faa13be3.streamlock.net:1935/8058/8058/playlist.m3u8?fluxustv.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kEje57b.png" group-title="ITALY",Reteveneta
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kEje57b.png" group-title="ITALIA",Reteveneta
 https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8?fluxustv.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pk5flAT.png" group-title="ITALY",RMK TV Sciacca
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pk5flAT.png" group-title="ITALIA",RMK TV Sciacca
 http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8?fluxustv.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mekD49a.png" group-title="ITALY",RMM Marche
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mekD49a.png" group-title="ITALIA",RMM Marche
 http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8?fluxustv.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IZtIFM2.png" group-title="ITALY",RTC Telecalabria
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZtIFM2.png" group-title="ITALIA",RTC Telecalabria
 https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAuAcpv.png" group-title="ITALY",RTC Quarta Rete
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAuAcpv.png" group-title="ITALIA",RTC Quarta Rete
 http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmxfdmy.png" group-title="ITALY",RTL Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmxfdmy.png" group-title="ITALIA",RTL Radio
 https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/1200px-Logo_Radio_Televisione_Peloritana.svg.png" group-title="ITALY",RTP Sicilia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/1200px-Logo_Radio_Televisione_Peloritana.svg.png" group-title="ITALIA",RTP Sicilia
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmpQGTr.png" group-title="ITALY",RTR 99 Lazio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmpQGTr.png" group-title="ITALIA",RTR 99 Lazio
 https://57068da1deb21.streamlock.net/radiortr99/radiortr99/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/791293/logo_rtr.png" group-title="ITALY",RTTR TV Trento
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/791293/logo_rtr.png" group-title="ITALIA",RTTR TV Trento
 http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="ITALY",RTV (San Marino)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="ITALIA",RTV (San Marino)
 https://dlxommsyqo2g0.cloudfront.net/smrtv-ch01/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="ITALY",RTV Sport (San Marino)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="ITALIA",RTV Sport (San Marino)
 https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="http://www.sardegna1.tv/wp-content/uploads/2015/07/logo.png" group-title="ITALY",Sardegna Uno
+#EXTINF:-1 tvg-logo="http://www.sardegna1.tv/wp-content/uploads/2015/07/logo.png" group-title="ITALIA",Sardegna Uno
 https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="http://webtv.senato.it/application/xmanager/projects/leg17/img/home/logo_interne.gif" group-title="ITALY",Senato TV
+#EXTINF:-1 tvg-logo="http://webtv.senato.it/application/xmanager/projects/leg17/img/home/logo_interne.gif" group-title="ITALIA",Senato TV
 http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uKiiXXl.png" group-title="ITALY",Sicilia TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uKiiXXl.png" group-title="ITALIA",Sicilia TV
 https://ad.mysisli.com/live/siciliatv/tracks-v1a1/mono.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OkIK1jS.png" group-title="ITALY",Siciliamedia TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OkIK1jS.png" group-title="ITALIA",Siciliamedia TV
 http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
 
 
