@@ -96,6 +96,10 @@ http://ott-cdn.ucom.am/s81/index.m3u8
 http://ott-cdn.ucom.am/s82/index.m3u8
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",VOO SPORT WORLD 1 HD
 http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1898
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT SPORT 1
+https://cstream5.com/hls/btsport1.m3u8
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT SPORT 2
+https://cstream5.com/hls/btsport2.m3u8
 
 
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",USA: BEIN SPORTS HD
@@ -148,10 +152,68 @@ http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ%5E8Jvfc3u2qfyY)V39cN3/4.ts
 http://iptv2.premium-stv.com:8888/live/beinsports1@/unU@hqZ@QH1l@/54.ts
 #EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 1 HD
 http://iptv2.premium-stv.com:8888/live/beinsports1@/unU@hqZ@QH1l@/52.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 1
+http://iptv7.premium-stv.com:25461/live/BEINSPOR1/6954352897/36
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 1HD
+http://iptv7.premium-stv.com:25461/live/BEINSPOR1/6954352897/37.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 1FHD
+http://iptv7.premium-stv.com:25461/live/BEINSPOR1/6954352897/38.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 2
+http://iptv7.premium-stv.com:25461/live/BEINSPOR2/7479575140/33.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 2HD
+http://iptv7.premium-stv.com:25461/live/BEINSPOR2/7479575140/34.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 2FHD
+http://iptv7.premium-stv.com:25461/live/BEINSPOR2/7479575140/35.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 3
+http://iptv7.premium-stv.com:25461/live/BEINSPOR3/3621301675/30.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 3HD
+http://iptv7.premium-stv.com:25461/live/BEINSPOR3/3621301675/31.ts
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 3FHD
+http://iptv7.premium-stv.com:25461/live/BEINSPOR3/3621301675/32.ts
 #EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 3
 http://iptv7.premium-stv.com:25461/live/rmcsport3/1557539943/58.ts
 #EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 5
 http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/61
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORTV 1 FHD
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1567
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT|SPORTV 3
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1568
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORTV1 HD
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1575
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORTV TV 2
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1576
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORTV 5 HD
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1577
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORTV 5
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1578
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORTV    HD
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1579
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORT TV4
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1580
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORT TV2 HD
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1581
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORT TV1
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1582
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORT TV NBA
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1583
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| Sport TV 4HD
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1584
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORT TV 3 HD
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1585
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORT TV
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1586
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| ELEVEN SPORTS 6
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1610
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| ELEVEN SPORTS 5
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1611
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| ELEVEN SPORTS 4
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1612
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| ELEVEN SPORTS 3 HD
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1613
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| ELEVEN SPORTS 2 HD
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1614
+#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| ELEVEN SPORTS 1 HD
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1615
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",group-title="VIP SPORTS",Sky Sports Football HD
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 
@@ -188,7 +250,8 @@ http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1684
 http://mysisli.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
 
 
-
+#EXTINF:-1,group-title="MOVIE CHANNELS",TOM AND JERRY
+http://aldirect.hls.huya.com/huyalive/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",24 BOX TV
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",BLUE ANT EXTREME
@@ -1142,18 +1205,22 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w3048038
 http://mysisli.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/319_1553385799_small.jpg", group-title="FOR ADULTS",ADULT PLAY
 https://stream.ecable.tv/adultplay/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Anal
+http://live.redtraffic.xyz/anal.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Big Ass
 http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Big Dick
 http://live.redtraffic.xyz/bigdick.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Big Tits
 http://live.redtraffic.xyz/bigtits.m3u8
+http://cdn.adultiptv.net/bigtits.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Blowjob
 http://live.redtraffic.xyz/blowjob.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Cuckold
 http://live.redtraffic.xyz/cuckold.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Fetish
 http://live.redtraffic.xyz/fetish.m3u8
+http://cdn.adultiptv.net/fetish.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Hardcore
 http://live.redtraffic.xyz/hardcore.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Interracial
@@ -1168,14 +1235,15 @@ http://live.redtraffic.xyz/milf.m3u8
 http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Pornstar
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Russianq	2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Russian
 http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Teen
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Threesome
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1,group-title="FOR ADULTS",Dorcel TV (18+)
-http://188.35.9.11:21141/udp/214h
-#EXTINF:-1,group-title="FOR ADULTS",sun rise
-http://188.35.9.11:21051/udp/071l
-http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2
+#EXTINF:-1,group-title="FOR ADULTS",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1,group-title="FOR ADULTS",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
