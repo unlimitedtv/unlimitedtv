@@ -20,6 +20,7 @@ http://mysisli.com/36bay2/gin/giniko_skynewsintl_800kb_36bay2/index.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1,tvg-id="France 24 English HD" group-title="NEWS CHANNEL",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+https://news.sechls01.visionip.tv/live/visiontvuk-news-france24-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,tvg-id="France 24 English HD" group-title="NEWS CHANNEL",FRANCE 24
 http://mysisli.com/36bay2/gin/giniko_france24english_900kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/754.png",group-title="NEWS CHANNEL",CNBC
@@ -322,57 +323,33 @@ http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/150px-PBS_Kids_Logo.svg.png" group-title="BAMBINI", PBS Kids
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Pop_%28UK_TV_channel%29_logo.png" group-title="BAMBINI", POP Kids
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="BAMBINI",TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EJHkFZY.png" group-title="CHRISTIAN TV",Caught-Up TV (NG)
-https://streaming.viewsat.eu/viewsatstream31/viewsatstream31.smil/chunklist_w99324512_b900000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/09SjzBB.png" group-title="CHRISTIAN TV",ACNN (NG)
-https://streaming.viewsat.eu/viewsatstream14/viewsatstream14.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iPmlvaj.png" group-title="CHRISTIAN TV",Divine Hand (NG)
-https://streaming.viewsat.eu/viewsatstream10/viewsatstream10.smil/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://vod.landiptv.live/files/t20.png",group-title="CHRISTIAN TV",Emmanuel TV
 https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4oRRKxP.png" group-title="CHRISTIAN TV",African Broadcasting Network (NG)
-https://streaming.viewsat.eu/viewsatstream04/viewsatstream04.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OzDHzX.png" group-title="CHRISTIAN TV",Clearview TV (NG)
 https://arlie.castr.io/live_0da03430b2d211e98c034d9d566d4031/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xu12lWj.png" group-title="CHRISTIAN TV",KICC TV (GB)
-https://streaming.viewsat.eu/viewsatstream20/viewsatstream20.smil/playlist.m3u8
+https://stream.ecable.tv/kicc/index.m3u8
 #EXTINF:-1,group-title="CHRISTIAN TV",CFTV (Champions of Fire TV Nigeria) 
 http://109.169.48.7/hls-live/CFTV/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1,tvg-id="FAITH TV" group-title="CHRISTIAN TV", FAITH TV
 https://aos001faithtv-live-hls.secure.footprint.net/faithtv/live/streamVideo750.m3u8
-#EXTINF:-1,group-title="CHRISTIAN TV",BRIDE TV
-https://streaming.viewsat.eu/viewsatstream13/viewsatstream13.smil/playlist.m3u8
-#EXTINF:-1,tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CHRISTIAN TV", LIBERATION TV
-https://streaming.viewsat.eu/viewsatstream11/viewsatstream11.smil/chunklist_w335873955_b900000.m3u8
 #EXTINF:-1,tvg-id="Loveworld Plus TV" group-title="CHRISTIAN TV", Loveworld Plus TV
 https://hls.live.metacdn.com/2450C7/bedkcjfty/lwplus_628.m3u8
 #EXTINF:-1,tvg-id="Resurrection TV" group-title="CHRISTIAN TV", Resurrection TV
 http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/playlist.m3u8
 http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist_w1696819076_b1500000.m3u8
-#EXTINF:-1,tvg-id="Chosen TV" group-title="CHRISTIAN TV", Chosen TV
-https://streaming.viewsat.eu/viewsatstream24/viewsatstream24.smil/playlist.m3u8
 #EXTINF:-1,tvg-id="Chosen TV" group-title="CHRISTIAN TV",SALVATION TV
 https://5b77aa17a748d.streamlock.net:1634/salvation/smil:live-hd-stream.smil/playlist.m3u8
-#EXTINF:-1,tvg-logo="http://dovevision.org/wp-content/uploads/2017/12/logo-1.png" group-title="CHRISTIAN TV",Dove TV
-https://streaming.viewsat.eu/viewsatstream03/viewsatstream03.smil/master.m3u8
 #EXTINF:-1,tvg-id="REVELATION TV" group-title="CHRISTIAN TV", REVELATION TV
 https://christianworld.sechls01.visionip.tv/live/visiontvuk-christianworld-revelationtv-hsslive-25f-16x9-SD/index.m3u8
 #EXTINF:-1,tvg-id="DUNAMIS TV" group-title="CHRISTIAN TV", DUNAMIS TV
 https://christianworld.sechls01.visionip.tv/live/visiontvuk-religion-dunamistv-SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YwpDGTC.png" group-title="CHRISTIAN TV",Possibility TV (NG)
 http://mysisli.com/ds-damsky3stream/liveticker16/720p/chunklist.m3u8
-#EXTINF:-1,tvg-id="DUNAMIS TV" group-title="CHRISTIAN TV",FOURSQUARE TV
-https://streaming.viewsat.eu/viewsatstream33/viewsatstream33.smil/playlist.m3u8
-#EXTINF:-1,tvg-id="DUNAMIS TV" group-title="CHRISTIAN TV",HIS PRESENCE TV
-https://streaming.viewsat.eu/viewsatstream36/viewsatstream36.smil/playlist.m3u8
-#EXTINF:-1,tvg-id="DUNAMIS TV" group-title="CHRISTIAN TV",BROTHER FIRE TV
-https://streaming.viewsat.eu/viewsatstream37/viewsatstream37.smil/playlist.m3u8
 #EXTINF:-1,tvg-id="Spirit TV" group-title="CHRISTIAN TV", Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1,tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CHRISTIAN TV",More Grace Television
@@ -383,8 +360,6 @@ http://live.wmncdn.net/goodnews/live.stream/index.m3u8
 http://moses.videocdn.scaleengine.net/moses-live/play/acbnlive/chunklist_w1094216934.m3u8
 #EXTINF:-1,tvg-id="" group-title="CHRISTIAN TV",LOVE WORLD USA
 https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/index_2328_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,group-title="CHRISTIAN TV",OPM
-https://streaming.viewsat.eu/viewsatstream06/viewsatstream063/playlist.m3u8
 
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",YANGA TV
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-yanga-hsslive-25f-SD/chunklist.m3u8
@@ -629,7 +604,7 @@ https://streamer.gridpapaservers.com/TVCSEPT/myStreamHD_240p/chunklist.m3u8
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-bentv-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://212.8.253.112/logo/AFRICA/BEN.png",group-title="NIGERIA",BEN TV
 http://bentv.ashttp9.visionip.tv/live/bentv-bentv-bentv-hsslive-25f-4X3-SD/chunklist.m3u8
-https://stream.ecable.tv:9080/ben/index.m3u8
+http://stream.ecable.tv/ben/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="NIGERIA",LAGOS TV
 http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
 #EXTINF:-1,tvg-logo="",group-title="NIGERIA",BIAFRA TV
@@ -650,7 +625,7 @@ https://stream.ecable.tv/gntv/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/15_1551227152_250.jpg",group-title="NIGERIA",KICC
 https://stream.ecable.tv/kicc/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/266_1551611564_250.jpg",group-title="NIGERIA",Arewa24
-http://stream.ecable.tv:9080/arewa241/index.m3u8
+http://stream.ecable.tv/arewa241/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="NIGERIA",AFROVIBES RADIO
 http://209.126.119.76:8356/stream
 
