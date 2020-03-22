@@ -617,7 +617,7 @@ http://mysisli.com/36bay2/gin/giniko_voxafrica_900kb_36bay2/index.m3u8
 http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist.m3u8
 https://stream.ecable.tv/voxafrica/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/ait_international.png",group-title="NIGERIA",AIT
-http://stream.ecable.tv:9080/ait/index.m3u8
+https://stream.ecable.tv:9080/ait/index.m3u8
 #EXTINF:-1,tvg-logo="",group-title="NIGERIA",GN TV
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-gntv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,tvg-logo="",group-title="NIGERIA",GN TV*
@@ -625,7 +625,7 @@ https://stream.ecable.tv/gntv/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/15_1551227152_250.jpg",group-title="NIGERIA",KICC
 https://stream.ecable.tv/kicc/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/266_1551611564_250.jpg",group-title="NIGERIA",Arewa24
-http://stream.ecable.tv/arewa241/index.m3u8
+https://stream.ecable.tv/arewa241/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="NIGERIA",AFROVIBES RADIO
 http://209.126.119.76:8356/stream
 
