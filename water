@@ -336,6 +336,7 @@ https://stream.ecable.tv/kicc/index.m3u8
 #EXTINF:-1,group-title="CHRISTIAN TV",CFTV (Champions of Fire TV Nigeria) 
 http://109.169.48.7/hls-live/CFTV/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1,tvg-id="FAITH TV" group-title="CHRISTIAN TV", FAITH TV
+http://aos001faithtv-live.hls.adaptive.level3.net/faithtv/live/stream.m3u8
 https://aos001faithtv-live-hls.secure.footprint.net/faithtv/live/streamVideo750.m3u8
 #EXTINF:-1,tvg-id="Loveworld Plus TV" group-title="CHRISTIAN TV", Loveworld Plus TV
 https://hls.live.metacdn.com/2450C7/bedkcjfty/lwplus_628.m3u8
@@ -371,8 +372,8 @@ https://stream.ecable.tv/africancine/index.m3u8
 http://mysisli.com/36bay2/gin/giniko_womexerc_1000kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="AFRICA MOVIE AND ENTERTAINMENT",ROK
 https://stream.ecable.tv/rok/index.m3u8
-#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",BET HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1/6876169712/1812
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",BEACH TV HD
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",KITCHEN HACKS
 http://mysisli.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",QUICK CRAFTS
@@ -617,7 +618,7 @@ http://mysisli.com/36bay2/gin/giniko_voxafrica_900kb_36bay2/index.m3u8
 http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist.m3u8
 https://stream.ecable.tv/voxafrica/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/ait_international.png",group-title="NIGERIA",AIT
-https://stream.ecable.tv:9080/ait/index.m3u8
+http://stream.ecable.tv:9080/ait/index.m3u8
 #EXTINF:-1,tvg-logo="",group-title="NIGERIA",GN TV
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-gntv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,tvg-logo="",group-title="NIGERIA",GN TV*
@@ -625,7 +626,7 @@ https://stream.ecable.tv/gntv/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/15_1551227152_250.jpg",group-title="NIGERIA",KICC
 https://stream.ecable.tv/kicc/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/266_1551611564_250.jpg",group-title="NIGERIA",Arewa24
-https://stream.ecable.tv/arewa241/index.m3u8
+http://stream.ecable.tv/arewa241/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="NIGERIA",AFROVIBES RADIO
 http://209.126.119.76:8356/stream
 
