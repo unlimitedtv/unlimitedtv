@@ -78,146 +78,10 @@ http://weak_spell.carniferou.club/edge/NBA6/chunks.m3u8
 #EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBA 7
 http://weak_spell.carniferou.club/edge/NBA7/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Eleven Sports 1 HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1874
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",Eleven Sports 2 HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1875
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",group-title="VIP SPORTS",Sky Sports Football HD
-http://95.170.215.120:80/hls/Sky-Spo-football-N.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TgcR1ju.jpg",group-title="VIP SPORTS",Sky Sports Main Event*
-http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",NBCSN
-http://us.ocache.xyz/sports/nbcsn.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBF6vAk.png",group-title="VIP SPORTS",Sky Sports Premier League
-http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",group-title="VIP SPORTS",SuperSport 3 English Premier League
-http://us.ocache.xyz/sports/supersp3.m3u8
 #EXTINF:-1,tvg-logo="http://livetv.am/assets/img/tv/setanta-sport.png",group-title="VIP SPORTS",SETANTA SPORTS
 http://ott-cdn.ucom.am/s81/index.m3u8
 #EXTINF:-1,tvg-logo="http://livetv.am/assets/img/tv/setanta-sport-plus.png",group-title="VIP SPORTS",Setanta Eurasia +
 http://ott-cdn.ucom.am/s82/index.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",VOO SPORT WORLD 1 HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1898
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT SPORT 1
-https://cstream5.com/hls/btsport1.m3u8
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BT SPORT 2
-https://cstream5.com/hls/btsport2.m3u8
-
-
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",USA: BEIN SPORTS HD
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1820.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 11 FHD
-http://iptv2.premium-stv.com:8888/live/beIN11spo/6hGJ%5E8J2qfvuyY/22.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 10 SD
-http://iptv2.premium-stv.com:8888/live/BEIN10/6hGJ%5E8JqfyY)V39vfc3u2cN3/20.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 9 SD
-http://iptv2.premium-stv.com:8888/live/beIN9SpO/6hGJ%5E8Jvfc3u2qfyY)V39cN3/18.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 9 HD
-http://iptv2.premium-stv.com:8888/live/beIN9SpO/6hGJ%5E8Jvfc3u2qfyY)V39cN3/17.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 9 FHD
-http://iptv2.premium-stv.com:8888/live/beIN9SpO/6hGJ%5E8Jvfc3u2qfyY)V39cN3/30.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 8
-http://iptv2.premium-stv.com:8888/live/beIN8sport/6hG%5E8J2Jqfv%5E8J2uyY/16.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 8 HD 
-http://iptv2.premium-stv.com:8888/live/beIN8sport/6hG%5E8J2Jqfv%5E8J2uyY/15.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 8 FHD 
-http://iptv2.premium-stv.com:8888/live/beIN8sport/6hG%5E8J2Jqfv%5E8J2uyY/34.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 7 SD
-http://iptv2.premium-stv.com:8888/live/beINsports007/jkbbcyb56bbjdo/40.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 7 HD BACKUP
-http://iptv2.premium-stv.com:8888/live/beINsports007/jkbbcyb56bbjdo/14.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 7 HD
-http://iptv2.premium-stv.com:8888/live/beINsports007/jkbbcyb56bbjdo/13.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 7 FHD
-http://iptv2.premium-stv.com:8888/live/beINsports007/jkbbcyb56bbjdo/33.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 6 FHD
-http://iptv2.premium-stv.com:8888/live/beIN06/KJGiuBJJLKgk/32.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 5 SD
-http://iptv2.premium-stv.com:8888/live/beINSPORT5f/jdybJLSDYhtg/42.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 5 HD
-http://iptv2.premium-stv.com:8888/live/beINSPORT5f/jdybJLSDYhtg/9.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 5 FHD
-http://iptv2.premium-stv.com:8888/live/beINSPORT5f/jdybJLSDYhtg/29.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 4 HD
-http://iptv2.premium-stv.com:8888/live/beIN4SPO/GJ%5E8J2qfvuy/7.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 4 FHD
-http://iptv2.premium-stv.com:8888/live/beIN4SPO/GJ%5E8J2qfvuy/28.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 4 SD
-http://iptv2.premium-stv.com:8888/live/beIN4SPO/GJ%5E8J2qfvuy/43.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 3 FHD
-http://iptv2.premium-stv.com:8888/live/beIN03/6hGJ%5E8J2qfvuyY/27.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 2 FHD
-http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ%5E8Jvfc3u2qfyY)V39cN3/26.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 2 HD
-http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ%5E8Jvfc3u2qfyY)V39cN3/4.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 1 FHD
-http://iptv2.premium-stv.com:8888/live/beinsports1@/unU@hqZ@QH1l@/54.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",BEIN SPORT 1 HD
-http://iptv2.premium-stv.com:8888/live/beinsports1@/unU@hqZ@QH1l@/52.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 1
-http://iptv7.premium-stv.com:25461/live/BEINSPOR1/6954352897/36
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 1HD
-http://iptv7.premium-stv.com:25461/live/BEINSPOR1/6954352897/37.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 1FHD
-http://iptv7.premium-stv.com:25461/live/BEINSPOR1/6954352897/38.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 2
-http://iptv7.premium-stv.com:25461/live/BEINSPOR2/7479575140/33.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 2HD
-http://iptv7.premium-stv.com:25461/live/BEINSPOR2/7479575140/34.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 2FHD
-http://iptv7.premium-stv.com:25461/live/BEINSPOR2/7479575140/35.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 3
-http://iptv7.premium-stv.com:25461/live/BEINSPOR3/3621301675/30.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 3HD
-http://iptv7.premium-stv.com:25461/live/BEINSPOR3/3621301675/31.ts
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",FR: BEIN SPORT 3FHD
-http://iptv7.premium-stv.com:25461/live/BEINSPOR3/3621301675/32.ts
-#EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 3
-http://iptv7.premium-stv.com:25461/live/rmcsport3/1557539943/58.ts
-#EXTINF:-1,group-title="VIP SPORTS",RMC SPORT 5
-http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/61
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORTV 1 FHD
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1567
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT|SPORTV 3
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1568
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORTV1 HD
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1575
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORTV TV 2
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1576
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORTV 5 HD
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1577
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORTV 5
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1578
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORTV    HD
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1579
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORT TV4
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1580
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORT TV2 HD
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1581
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORT TV1
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1582
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORT TV NBA
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1583
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| Sport TV 4HD
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1584
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORT TV 3 HD
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1585
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| SPORT TV
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1586
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| ELEVEN SPORTS 6
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1610
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| ELEVEN SPORTS 5
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1611
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| ELEVEN SPORTS 4
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1612
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| ELEVEN SPORTS 3 HD
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1613
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| ELEVEN SPORTS 2 HD
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1614
-#EXTINF:-1 tvg-logo="",group-title="VIP SPORTS",|PT| ELEVEN SPORTS 1 HD
-http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1615
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",group-title="VIP SPORTS",Sky Sports Football HD
-http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 
 
 
@@ -231,6 +95,9 @@ http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1719.ts
 http://188.35.9.11:21151/udp/193i
 
 
+
+#EXTINF:-1,group-title="DOCUMENTARIES",CRIME AUSTRALIA
+http://bozztv.com/36bay4/crimeaustralia/index.m3u8
 #EXTINF:-1,group-title="DOCUMENTARIES",GEO WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
 #EXTINF:-1,group-title="DOCUMENTARIES",NAT GEO people
@@ -363,8 +230,11 @@ http://moses.videocdn.scaleengine.net/moses-live/play/acbnlive/chunklist_w109421
 #EXTINF:-1,tvg-id="" group-title="CHRISTIAN TV",LOVE WORLD USA
 https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/index_2328_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",YANGA TV
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",YANGA
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-yanga-hsslive-25f-SD/chunklist.m3u8
+
+#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",YANGA SD
+https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-yanga-hsslive-25f-SDq/chunklist.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT", ET
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_83.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2018/11/150X150-1.png" group-title="AFRICA MOVIE AND ENTERTAINMENT",African Cinema*
@@ -398,7 +268,7 @@ https://stream.ecable.tv/boom1/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/51_1550569898_250.jpg" group-title="AFRICA MUSIC",AFROBEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1,group-title="AFRICA MUSIC",DBM
-https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist_w300555392.m3u8
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",ENGLISH: TRACE GOSPEL
 http://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",SOUTH AFRICA: TRACE GOSPEL**
@@ -407,6 +277,10 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/6/prog_index.m3u8
 http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",GHANA:TRACE JAMA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_jama/5/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE URBAN SOUTH AFRICA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbansa/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",TRACE AFRICA FR
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE AFRIKORA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE URBAN INTER
@@ -808,12 +682,10 @@ https://stream.ecable.tv/tvt1/index.m3u8
 http://mysisli.com/36bay2/gin/giniko_france24french_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",FRANCE 24*
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1,group-title="SENEGAL",FRANCE 24 SD
+https://news.sechls01.visionip.tv/live/visiontvuk-news-france24-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,group-title="SENEGAL",RTS 1
 http://mysisli.com/36bay2/gin/giniko_rts1_900kb_36bay2/index.m3u8
-#EXTINF:-1,group-title="SENEGAL",M6
-http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/7
-#EXTINF:-1,group-title="SENEGAL",M6 HD
-http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/6
 #EXTINF:-1,group-title="SENEGAL",Al Quran Al Kareem
 http://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",MOURIDE TV
