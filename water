@@ -4,8 +4,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
 #EXTINF:-1,tvg-logo="http://mypanel.myddns.me/logos/PT/cnn.png",group-title="NEWS CHANNEL",CNN HD
 http://mysisli.com/36bay2/gin/giniko_cnnint_1000kb_36bay2/index.m3u8
-#EXTINF:-1,group-title="NEWS CHANNEL",CNN INTERNATIONAL
-http://ott-cdn.ucom.am/s27/index.m3u8
 #EXTINF:-1,tvg-logo="http://johnpenrose.org/wp/wp-content/uploads/2017/05/BBC-News.png",group-title="NEWS CHANNEL",BBC NEWS
 http://mysisli.com/36bay2/gin/giniko_bbcnews_900kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="http://starsat.co.za/wp-content/uploads/2016/07/BBC-World-News-1.png"group-title="NEWS CHANNEL",BBC WORLD NEWS
@@ -46,49 +44,11 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://mysisli.com/36bay2/gin/giniko_trtworld_900kb_36bay2/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",Bein Sports HD
-http://weak_spell.carniferou.club/edge/Bein/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",BT Sport 1 HD
-http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",BT Sport 2 HD
-http://weak_spell.carniferou.club/edge/BTS2/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",BT Sport 3 HD
-http://weak_spell.carniferou.club/edge/BTS3/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",BT SPORT ESPN
-tp://weak_spell.carniferou.club/edge/BTESPN/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBCSN
-http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME", SKY SPORTS MAIN EVENT
-http://weak_spell.carniferou.club/edge/SSME/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",PREMIER SPORTS
-http://weak_spell.carniferou.club/edge/PS1/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",PREMIER SPORTS 2
-http://weak_spell.carniferou.club/edge/PS2/chunks.m3u8
-http://cdn1.hdstreams.club/live/ch2/index.m3u8
-#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBC
-http://weak_spell.carniferou.club/edge/NBC/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBA 1
-http://weak_spell.carniferou.club/edge/NBA1/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBA 2
-http://weak_spell.carniferou.club/edge/NBA2/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBA 3
-http://weak_spell.carniferou.club/edge/NBA3/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBA 6
-http://weak_spell.carniferou.club/edge/NBA6/chunks.m3u8
-#EXTINF:-1 tvg-logo="",group-title="ATTIVA DURANTE GIOCO-ACTIVE ONLY DURING GAME",NBA 7
-http://weak_spell.carniferou.club/edge/NBA7/chunks.m3u8
-
 #EXTINF:-1,tvg-logo="http://livetv.am/assets/img/tv/setanta-sport.png",group-title="VIP SPORTS",SETANTA SPORTS
 http://ott-cdn.ucom.am/s81/index.m3u8
 #EXTINF:-1,tvg-logo="http://livetv.am/assets/img/tv/setanta-sport-plus.png",group-title="VIP SPORTS",Setanta Eurasia +
 http://ott-cdn.ucom.am/s82/index.m3u8
 
-
-
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/800px-Impact_Wrestling_Logo.svg.png" group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",Impact Wrestling
-http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",WWE
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1720.ts
 #EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS" UFC FIGHT PASS
 http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1719.ts
 #EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",SPORT FIGHT HD
@@ -96,41 +56,8 @@ http://188.35.9.11:21151/udp/193i
 
 
 
-#EXTINF:-1,group-title="DOCUMENTARIES",CRIME AUSTRALIA
-http://bozztv.com/36bay4/crimeaustralia/index.m3u8
-#EXTINF:-1,group-title="DOCUMENTARIES",GEO WILD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
-#EXTINF:-1,group-title="DOCUMENTARIES",NAT GEO people
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1,group-title="DOCUMENTARIES",NAT GEO People HD
-http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1701
-#EXTINF:-1,group-title="DOCUMENTARIES",Nat GEO Wild HD
-http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1702
-
-#EXTINF:-1,group-title="DOCUMENTARIES",Discovery Channel HD
-http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1681
-#EXTINF:-1,group-title="DOCUMENTARIES",Discovery Family HD
-http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1682
-#EXTINF:-1,group-title="DOCUMENTARIES",Discovery IDX
-http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1683
-#EXTINF:-1,group-title="DOCUMENTARIES",Discovery Science HD
-http://iptv8.premium-stv.com:2052/osnpro2@uasdq/@osqnpro2@/1684
-#EXTINF:-1,group-title="DOCUMENTARIES",BBC TWO
-http://mysisli.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
-
-
-#EXTINF:-1,group-title="MOVIE CHANNELS",TOM AND JERRY
-http://aldirect.hls.huya.com/huyalive/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",24 BOX TV
 http://51.158.190.97/hls/stream.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",BLUE ANT EXTREME
-http://45.126.83.51/dr9445/h/h15/01.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",MORE MAX HD
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1751.ts
-#EXTINF:-1,group-title="MOVIE CHANNELS",CINEMAX 5
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1800.ts
-#EXTINF:-1,group-title="MOVIE CHANNELS",STAR MOVIES HD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",CINE SERIES
 http://mysisli.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",CINE FILM
@@ -145,27 +72,6 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",MASTER VAMPIRE TV
 http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",HBO HD
-https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",HBO Hit
-https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",HBO Signature
-https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",Fox Action HD
-https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",Fox Movies
-https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",Fox Family HD
-http://livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",Fox Crime HD
-https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",Red by HBO
-https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",AXN HD
-https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",Warner TV HD
-https://livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-
 
 
 #EXTINF:-1,group-title="BAMBINI",NICK JR
@@ -197,8 +103,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/Famil
 
 #EXTINF:-1,tvg-logo="http://vod.landiptv.live/files/t20.png",group-title="CHRISTIAN TV",Emmanuel TV
 https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2OzDHzX.png" group-title="CHRISTIAN TV",Clearview TV (NG)
-https://arlie.castr.io/live_0da03430b2d211e98c034d9d566d4031/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xu12lWj.png" group-title="CHRISTIAN TV",KICC TV (GB)
 https://stream.ecable.tv/kicc/index.m3u8
 #EXTINF:-1,group-title="CHRISTIAN TV",CFTV (Champions of Fire TV Nigeria) 
@@ -237,8 +141,6 @@ https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-yanga-h
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-yanga-hsslive-25f-SDq/chunklist.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT", ET
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_83.m3u8
-#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2018/11/150X150-1.png" group-title="AFRICA MOVIE AND ENTERTAINMENT",African Cinema*
-https://stream.ecable.tv/africancine/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",Women Exercises
 http://mysisli.com/36bay2/gin/giniko_womexerc_1000kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="AFRICA MOVIE AND ENTERTAINMENT",ROK
@@ -253,58 +155,24 @@ http://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
 http://bozztv.com/36bay2/gin/giniko_5minbeauty_1500kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",LIFE HACKS
 http://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
-#EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",FTV
-http://ott-cdn.ucom.am/s31/index.m3u8
-#EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/34.jpg" group-title="AFRICA MOVIE AND ENTERTAINMENT",FASHION ONE
-http://mysisli.com/36bay2/gin/giniko_fashionone_800kb_36bay2/index.m3u8
 
 
 #EXTINF:-1,tvg-logo="https://myspirit.tv/wp-content/uploads/2017/01/SpiritLogoFull244x86.png",group-title="AFRICA MUSIC", Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/333_1557515892_250.jpg",group-title="AFRICA MUSIC",AsSalt TV
-https://stream.ecable.tv/asstv/index.m3u8
 #EXTINF:-1,group-title="AFRICA MUSIC",BOOM TV
 https://stream.ecable.tv/boom1/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/51_1550569898_250.jpg" group-title="AFRICA MUSIC",AFROBEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1,group-title="AFRICA MUSIC",DBM
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",ENGLISH: TRACE GOSPEL
-http://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/5/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",SOUTH AFRICA: TRACE GOSPEL**
-http://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/2016/11/logo_naija1.png" group-title="AFRICA MUSIC",TRACE NAIJA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",GHANA:TRACE JAMA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_jama/5/prog_index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE URBAN SOUTH AFRICA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_urbansa/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",TRACE AFRICA FR
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/5/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE AFRIKORA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE URBAN INTER
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE Urban
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="AFRICA MUSIC",TRACE AFRICA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="AFRICA MUSIC",TRACE TROPICAL
-http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="AFRICA MUSIC",TRACE KITOKO
-http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE VANILLA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="AFRICA MUSIC",Trace Mziki
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE LATINA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
-http://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
 
 
 
-#EXTINF:-1,tvg-logo="http://musicchoice.com/wp-content/uploads/2018/05/og_image.png",group-title="MUSIC",MC Play
-http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/master.m3u8
 
 #EXTINF:-1 tvg-id="California Music Channel(CMTV)-US" tvg-name="California Music Channel(CMTV)-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" group-title="MUSIC",California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
@@ -511,7 +379,7 @@ http://209.126.119.76:8356/stream
 https://stream.ecable.tv/cnn/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="" group-title="GHANA",Aljazeera News
 https://stream.ecable.tv/jazeera/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-logo="" group-title="GHANA",NOLLYWOOD: ROK
+#EXTINF:-1,tvg-logo="" group-title="GHANA",ROK
 https://stream.ecable.tv/rok/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GHANA",TRACE JAMA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_jama/5/prog_index.m3u8
