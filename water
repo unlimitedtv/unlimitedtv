@@ -36,9 +36,6 @@ http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
 #EXTINF:-1,tvg-id="ARISE NEWS" group-title="NEWS CHANNEL",ARISE NEWS
 https://news.sechls01.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,tvg-id="ARISE NEWS" group-title="NEWS CHANNEL",TRT WORLD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-http://mysisli.com/36bay2/gin/giniko_trtworld_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="NEWS CHANNEL",US: Bloomberg HD*
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 http://cdnak15.cast4u.info/channels/3/10803.m3u8
@@ -132,10 +129,6 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1,group-title="AFRICA MUSIC",DBM
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="AFRICA MUSIC",TRACE URBAN SOUTH AFRICA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbansa/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="AFRICA MUSIC",TRACE AFRICA FR
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/5/prog_index.m3u8
 
 
 
@@ -299,14 +292,10 @@ https://news.sechls01.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9
 http://31.24.228.207:1935/live/mobile_240p/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/channels_tv_ng_24.png",group-title="NIGERIA",CHANNELS HD
 http://edge1.cdn.tvnow.ids-africa.com/mchannels/channelstv_hi.m3u8
-#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/channels_tv_ng_24.png",group-title="NIGERIA",CHANNELS TV*
-https://www.youtube.com/watch?v=-c8LoR84Xjs
 #EXTINF:-1,tvg-logo="http://www.iafrica.tv/ics/uploads/NTAi248x2351.png" group-title="NIGERIA", NTAi*
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-ntai-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://www.iafrica.tv/ics/uploads/NTAi248x2351.png" group-title="NIGERIA", NTAi
 http://mysisli.com/36bay2/gin/giniko_ntaint_900kb_36bay2/index.m3u8
-#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/308_1550676829_small.jpg",group-title="NIGERIA",TVC NEWS
-https://www.youtube.com/watch?v=ChCh8nizQG4
 #EXTINF:-1,tvg-logo="" group-title="NIGERIA",LAGOS TV
 http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/81.jpeg",group-title="NIGERIA",Vox Africa*
