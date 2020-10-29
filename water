@@ -15,90 +15,56 @@ http://mysisli.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1,tvg-id="Sky News" group-title="NEWS CHANNEL",SKY NEWS*
 http://mysisli.com/36bay2/gin/giniko_skynewsintl_800kb_36bay2/index.m3u8
-#EXTINF:-1,group-title="NEWS CHANNEL",Sky News Australia
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1,tvg-id="France 24 English HD" group-title="NEWS CHANNEL",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 https://news.sechls01.visionip.tv/live/visiontvuk-news-france24-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,tvg-id="France 24 English HD" group-title="NEWS CHANNEL",FRANCE 24
 http://mysisli.com/36bay2/gin/giniko_france24english_900kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="NEWS CHANNEL",RT
+http://mysisli.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="NEWS CHANNEL",DW TV English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1,group-title="NEWS CHANNEL",Sky News Australia
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/754.png",group-title="NEWS CHANNEL",CNBC
 http://mysisli.com/36bay2/gin/giniko_cnbc_800kb_36bay2/index.m3u8
-#EXTINF:-1,tvg-id="CBS HD" group-title="NEWS CHANNEL",CBSN HD*
+#EXTINF:-1,tvg-id="CBS HD" group-title="NEWS CHANNEL",CBS NEWS HD*
 http://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:-1,tvg-id="CBS HD" group-title="NEWS CHANNEL",CBSN HD
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1,group-title="NEWS CHANNEL",RT
-http://mysisli.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/index.m3u8
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
-#EXTINF:-1,group-title="NEWS CHANNEL",DW TV English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:-1,group-title="NEWS CHANNEL",US: Bloomberg HD*
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-http://cdnak15.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1,tvg-id="ARISE NEWS" group-title="NEWS CHANNEL",ARISE NEWS
 https://news.sechls01.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,tvg-id="ARISE NEWS" group-title="NEWS CHANNEL",TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://mysisli.com/36bay2/gin/giniko_trtworld_900kb_36bay2/index.m3u8
+#EXTINF:-1,group-title="NEWS CHANNEL",US: Bloomberg HD*
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+http://cdnak15.cast4u.info/channels/3/10803.m3u8
 
 
 #EXTINF:-1,tvg-logo="http://livetv.am/assets/img/tv/setanta-sport.png",group-title="VIP SPORTS",SETANTA SPORTS
 http://ott-cdn.ucom.am/s81/index.m3u8
 #EXTINF:-1,tvg-logo="http://livetv.am/assets/img/tv/setanta-sport-plus.png",group-title="VIP SPORTS",Setanta Eurasia +
 http://ott-cdn.ucom.am/s82/index.m3u8
-
-#EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS" UFC FIGHT PASS
-http://iptv8.premium-stv.com:2052/live/SOURCEUSAPRO1d/687616d9712@/1719.ts
-#EXTINF:-1,group-title="WRESTLING & FIGHT ENTERTAINMENT SPORTS",SPORT FIGHT HD
-http://188.35.9.11:21151/udp/193i
+#EXTINF:-1,tvg-logo="http://livetv.am/assets/img/tv/setanta-sport.png",group-title="VIP SPORTS",BT SPORT 1
+https://stream.ecable.tv/tvc/index.m3u8
 
 
 
 #EXTINF:-1,group-title="MOVIE CHANNELS",24 BOX TV
+http://51.158.190.97:80/hls/stream.m3u8
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",CINE SERIES
 http://mysisli.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",CINE FILM
 http://mysisli.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/index.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",Hollywood Movies 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",HOLLYWOOD MOVIES 5
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",HOLLYWOOD MOVIES 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",HOLLYWOOD ACTION
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1,group-title="MOVIE CHANNELS",MASTER VAMPIRE TV
-http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
 
 
-#EXTINF:-1,group-title="BAMBINI",NICK JR
-http://213.174.8.7:9100/index.m3u8
-#EXTINF:-1,group-title="BAMBINI",Cartoons 4U
-https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8
 #EXTINF:-1,group-title="BAMBINI",3ABN KIDS 
 https://3abn.sechls01.visionip.tv/live/visiontvuk-3abn-3-abn-kids-hsslive-25f-SD/index.m3u8
-#EXTINF:-1,group-title="BAMBINI",UK: NICK TOONS
-http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
-#EXTINF:-1,group-title="BAMBINI",UK: NICK
-http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
-#EXTINF:-1,group-title="BAMBINI",Disney Channel
-http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
-#EXTINF:-1,group-title="BAMBINI",Disney Junior
-http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
-#EXTINF:-1,group-title="BAMBINI",Disney  XD
-http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/188px-Ducktv-logo.jpg" group-title="BAMBINI", Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nickelodeon.uk.png" group-title="BAMBINI", Nickelodeon
-http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/150px-PBS_Kids_Logo.svg.png" group-title="BAMBINI", PBS Kids
-http://190.80.3.28/PBS/PBS.isml/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="BAMBINI",TCT Kids
-http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 
 
 #EXTINF:-1,tvg-logo="http://vod.landiptv.live/files/t20.png",group-title="CHRISTIAN TV",Emmanuel TV
@@ -331,43 +297,22 @@ http://108.59.11.81:8255/;
 https://news.sechls01.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/channels_tv_ng_24.png",group-title="NIGERIA",CHANNELS
 http://31.24.228.207:1935/live/mobile_240p/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/channels_tv_ng_24.png",group-title="NIGERIA",CHANNELS
-http://31.24.231.140/mchannels/channelstv_hd.m3u8
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/channels_tv_ng_24.png",group-title="NIGERIA",CHANNELS HD
 http://edge1.cdn.tvnow.ids-africa.com/mchannels/channelstv_hi.m3u8
-#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/channels_tv_ng_24.png",group-title="NIGERIA",CHANNELS 24*
-https://stream.ecable.tv/channels/index.m3u8
+#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/channels_tv_ng_24.png",group-title="NIGERIA",CHANNELS TV*
+https://www.youtube.com/watch?v=-c8LoR84Xjs
 #EXTINF:-1,tvg-logo="http://www.iafrica.tv/ics/uploads/NTAi248x2351.png" group-title="NIGERIA", NTAi*
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-ntai-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://www.iafrica.tv/ics/uploads/NTAi248x2351.png" group-title="NIGERIA", NTAi
 http://mysisli.com/36bay2/gin/giniko_ntaint_900kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/308_1550676829_small.jpg",group-title="NIGERIA",TVC NEWS
-https://stream.ecable.tv/tvc/index.m3u8
-#EXTINF:-1,tvg-logo="https://www.tvcontinental.tv/wp-content/uploads/2018/11/TVC-white_logo.png",group-title="NIGERIA",TVC ENTERTAINMENT
-https://streamer.gridpapaservers.com/TVCSEPT/myStreamHD_240p/chunklist.m3u8
-#EXTINF:-1,tvg-logo="http://212.8.253.112/logo/AFRICA/BEN.png",group-title="NIGERIA",BEN
-https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-bentv-hsslive-25f-4x3-SD/chunklist.m3u8
-#EXTINF:-1,tvg-logo="http://212.8.253.112/logo/AFRICA/BEN.png",group-title="NIGERIA",BEN TV
-http://bentv.ashttp9.visionip.tv/live/bentv-bentv-bentv-hsslive-25f-4X3-SD/chunklist.m3u8
-http://stream.ecable.tv/ben/index.m3u8
+https://www.youtube.com/watch?v=ChCh8nizQG4
 #EXTINF:-1,tvg-logo="" group-title="NIGERIA",LAGOS TV
 http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
-#EXTINF:-1,tvg-logo="",group-title="NIGERIA",BIAFRA TV
-http://app.tvipob.co:1935/tv/Channel_1_1000/chunklist.m3u8
-#EXTINF:-1,tvg-logo="",group-title="NIGERIA",VOA
-https://stream.ecable.tv/voxafricauk/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/81.jpeg",group-title="NIGERIA",Vox Africa*
 http://mysisli.com/36bay2/gin/giniko_voxafrica_900kb_36bay2/index.m3u8
-#EXTINF:-1 tvg-logo="http://voxafrica.com/wp-content/uploads/2016/10/logo-screen.png" group-title="NIGERIA",Vox Africa
-http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist.m3u8
-https://stream.ecable.tv/voxafrica/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/ait_international.png",group-title="NIGERIA",AIT
-http://stream.ecable.tv:9080/ait/index.m3u8
 #EXTINF:-1,tvg-logo="",group-title="NIGERIA",GN TV
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-gntv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,tvg-logo="",group-title="NIGERIA",GN TV*
-https://stream.ecable.tv/gntv/index.m3u8
-#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/15_1551227152_250.jpg",group-title="NIGERIA",KICC
-https://stream.ecable.tv/kicc/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/266_1551611564_250.jpg",group-title="NIGERIA",Arewa24
 http://stream.ecable.tv/arewa241/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="NIGERIA",AFROVIBES RADIO
@@ -375,14 +320,8 @@ http://209.126.119.76:8356/stream
 
 
 
-#EXTINF:-1,tvg-logo="" group-title="GHANA",CNN
-https://stream.ecable.tv/cnn/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="" group-title="GHANA",Aljazeera News
 https://stream.ecable.tv/jazeera/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-logo="" group-title="GHANA",ROK
-https://stream.ecable.tv/rok/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GHANA",TRACE JAMA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_jama/5/prog_index.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/joy_news_gh.png",group-title="GHANA",Joy News
 https://stream.ecable.tv/joynews1/index.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/joy-prime-gh.png",group-title="GHANA",Joy Prime
@@ -391,46 +330,24 @@ https://stream.ecable.tv/joyprime1/index.m3u8
 https://stream.ecable.tv/tv31/index.m3u8
 #EXTINF:-1,group-title="GHANA",VOA AFRICA
 http://mysisli.com/36bay2/gin/giniko_voxafrica_900kb_36bay2/index.m3u8
-#EXTINF:-1,group-title="GHANA",VOA UK
-https://stream.ecable.tv/voxafricauk/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="GHANA",GHANA TV
 https://stream.ecable.tv/ghanatv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2018/02/united_tv_gh.png",group-title="GHANA",United TV
-http://stream.ecable.tv:9080/utv/index.m3u8
 #EXTINF:-1,group-title="GHANA",CITI TV
 https://stream.ecable.tv/citi1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="GHANA",PAN AFRICA
-https://stream.ecable.tv/panafrica/index.m3u8
-#EXTINF:-1,group-title="GHANA",KWESE
-https://stream.ecable.tv/kwese1/index.m3u8
-#EXTINF:-1,group-title="GHANA",Royal TV
-https://stream.ecable.tv/royaltv1/index.m3u8
-#EXTINF:-1,group-title="GHANA",TV XYZ
-https://stream.ecable.tv/tvxyz1/index.m3u8
 #EXTINF:-1,group-title="GHANA",ANGEL TV
 https://stream.ecable.tv/angel1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="GHANA",SWEET TV
-https://stream.ecable.tv/sweettv1/index.m3u8
 #EXTINF:-1,group-title="GHANA",ATINKA TV
 https://stream.ecable.tv/atinka1/index.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2018/01/adom_tv_gh.png",group-title="GHANA",ADOM
 https://stream.ecable.tv/adom1/index.m3u8
-#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/12/citizen_tv_ke.png",group-title="GHANA",CITIZEN
-https://vidhttps.r.worldssl.net/citizentv-origin/liveabr/citizentv-origin/live2/chunks.m3u8
 #EXTINF:-1,group-title="GHANA",GTV Sports+
 https://stream.ecable.tv/gtvsp1/index.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/kessben_tv_gh.png",group-title="GHANA",KESSBEN TV
 https://stream.ecable.tv/kessben1/index.m3u8
-#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/357_1574852219_small.jpg",group-title="GHANA",AGOO TV
-https://stream.ecable.tv/agoo1/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="GHANA",SPORTS TONIGHT
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,tvg-logo="",group-title="GHANA",SPOT LIGHT
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-spotlighttv-hsslive-25f-SD/chunklist.m3u8
-#EXTINF:-1,group-title="GHANA",SAM TV
-https://streaming.viewsat.eu/viewsatstream22/viewsatstream22.smil/playlist.m3u8
-#EXTINF:-1,group-title="GHANA",CH7
-https://stream.ecable.tv/gntv/tracks-v1a1/mono.m3u8
 EXTINF:-1,tvg-logo="https://cdn-radiotime-logos.tunein.com/s158507q.png",group-title="GHANA",GHRadio1
 http://radioservers.biz:9946/;
 #EXTINF:-1,tvg-logo="https://cdn-profiles.tunein.com/s228220/images/logoq.jpg?t=155552",group-title="GHANA",ATINKA fM
@@ -469,11 +386,6 @@ https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/chunklist.m3u8
 http://mysisli.com/36bay2/gin/giniko_ortm_800kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",CHERIFLA TV
 http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45545
-#EXTINF:-1,group-title="IVORY COAST", TRACE AFRICA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
-https://d9d73yp7b4cda.cloudfront.net/trace_africafr/6/prog_index.m3u8
-#EXTINF:-1,group-title="IVORY COAST",TRACE AFRIKORA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",TRACE Cote d'Ivoire FM
 http://stream.trace.tv/trace_fm_ci-midfi.aac
 #EXTINF:-1,group-title="IVORY COAST",VIBE RADIO COTE D'IVOIRE
@@ -558,8 +470,6 @@ http://mysisli.com/36bay2/gin/giniko_rts1_900kb_36bay2/index.m3u8
 http://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",MOURIDE TV
 http://162.212.178.131:1935/Livemouridetv/mouridetv/chunklist.m3u8
-#EXTINF:-1,group-title="SENEGAL",TFM
-https://stream.ecable.tv/tfm1/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TFM Senegal
 http://mysisli.com/36bay2/gin/giniko_tfm_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TFM RELIGION
@@ -572,28 +482,16 @@ http://stream.ecable.tv/2stv1/index.m3u8
 http://162.212.178.131:1935/live/Ai2tv/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TELE MUSIC SENEGAL
 http://live.telemusik.live:1935/rezopropartner_1/rezopropartner_1/.m3u8
-#EXTINF:-1,group-title="SENEGAL",GAMBIA: QTV
-https://stream.ecable.tv/qtv/index.m3u8
-#EXTINF:-1,group-title="SENEGAL",CANAL 2 MOVIE
-https://stream.ecable.tv/canal2movie/index.m3u8
-#EXTINF:-1,group-title="SENEGAL",CANAL2 INTER
-https://stream.ecable.tv/canal2movie/index.m3u8
-#EXTINF:-1,group-title="SENEGAL",BF1
-https://stream.ecable.tv/bf1/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TV5 MONDE INFO
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TVT
 https://stream.ecable.tv/tvt1/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",Tele 50
 https://stream.ecable.tv/tele501/index.m3u8
-#EXTINF:-1,group-title="SENEGAL",RTNC
-https://stream.ecable.tv/rtnc1/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",Francophonie 24
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1,group-title="SENEGAL",Francophonie 24*
 http://mv2.tvfrancophonie.org/live/Stream1/index.m3u8
-#EXTINF:-1,group-title="SENEGAL",AFRIQUE MEDIA
-http://stream.ecable.tv:9080/afm/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",CONSO TV AFRIQUE
 http://connectiktv.ddns.net:5000/consotv/consotv/chunklist.m3u8
 #EXTINF:-1,group-title="SENEGAL",DREAM CHANNEL
@@ -885,8 +783,6 @@ http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://www.tv3v.fr/images/logo_tv3v.png" group-title="FRANCIA",TV3V
 https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TraceUrban.fr.png" group-title="FRANCIA",Trace Urban
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FRANCIA",TV5 MONDE
 http://195.142.109.181:8015
 #EXTINF:-1 tvg-logo="https://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="FRANCIA",TV5 Info
@@ -920,8 +816,6 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w30480388_b2592000.m3u8
 #EXTINF:-1,tvg-logo="" group-title="FOR ADULTS",MIAMI TV*
 http://mysisli.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
-#EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/319_1553385799_small.jpg", group-title="FOR ADULTS",ADULT PLAY
-https://stream.ecable.tv/adultplay/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Anal
 http://live.redtraffic.xyz/anal.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Big Ass
