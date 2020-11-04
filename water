@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1,group-title="NEWS CHANNEL",Aljazeera News
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
 #EXTINF:-1,tvg-logo="http://mypanel.myddns.me/logos/PT/cnn.png",group-title="NEWS CHANNEL",CNN HD
 http://bozztv.com/36bay2/gin/giniko_cnnint_1000kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="http://johnpenrose.org/wp/wp-content/uploads/2017/05/BBC-News.png",group-title="NEWS CHANNEL",BBC NEWS
@@ -10,8 +9,6 @@ http://bozztv.com/36bay2/gin/giniko_bbcnews_900kb_36bay2/index.m3u8
 http://bozztv.com/36bay2/gin/giniko_bbcworldnews_900kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/675.jpg",group-title="NEWS CHANNEL",Euro News
 http://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
-#EXTINF:-1,tvg-id="Sky News" group-title="NEWS CHANNEL",SKY NEWS
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1,tvg-id="Sky News" group-title="NEWS CHANNEL",SKY NEWS*
 http://bozztv.com/36bay2/gin/giniko_skynewsintl_800kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-id="France 24 English HD" group-title="NEWS CHANNEL",France 24
@@ -493,34 +490,36 @@ http://bozztv.com/36bay2/gin/giniko_abudhabitv_1000kb_36bay2/tracks-v1a1/mono.m3
 http://bozztv.com/36bay2/gin/giniko_saudisunnah_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="SAUDI ARABIA",Al Quran Al Kareem
 http://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/index.m3u8
-#EXTINF:-1,group-title="SAUDI ARABIA",
 
 
 
 
+http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)//index.m3u8
 #EXTINF:-1 tvg-id="Raiuno.it" group-title="ITALIA" tvg-logo="", |IT| GRANDE FRATELLO
 http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b7)/index.m3u8
-#EXTINF:-1 tvg-id="Raiuno.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rai1.png", |IT| RAI 1
-http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803 
-#EXTINF:-1 tvg-id="Raiuno.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rai2.png", |IT| RAI 2
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718 
-#EXTINF:-1 tvg-id="Raitres.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rai3.png", |IT| RAI 3
-http://wzstreaming.rai.it/TVlive/liveStream/index.m3u8  
-http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8 
-#EXTINF:-1 tvg-id="RAI 4" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rai4.png", |IT| RAI 4
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8 
-#EXTINF:-1 tvg-id="RAI 5" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rai5.png", |IT| RAI 5
-http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on.m3u8
 #EXTINF:-1 tvg-id="Rainews.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rainews24.png", |IT| RAI NEWS
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-#EXTINF:-1 tvg-id="Raigulp.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raigulp.png", |IT| RAI GULP
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8?sd=10&rebase=on.m3u8
+#EXTINF:-1 tvg-id="SKY TG24" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/skytg24.png", |IT| SKY TG24 
+https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/tgcom24.png", |IT| TGCOM 24
+http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8 
+#EXTINF:-1 tvg-id="Raitres.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rai3.png", |IT| RAI 3
+http://wzstreaming.rai.it/TVlive/liveStream/index.m3u8
+#EXTINF:-1 tvg-id="RAI 4" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rai4.png", |IT| RAI 4
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTINF:-1 tvg-id="RAI 5" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rai5.png", |IT| RAI 5
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72382
+#EXTINF:-1 tvg-id="Rainews.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rainews24.png", |IT| RAI NEWS 
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1200/chunklist.m3u8
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 tvg-id="Raigulp.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raigulp.png", |IT| RAI GULP 
+https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8?sd=10&rebase=on 
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raimovie.png", |IT| RAI MOVIE
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raipremium.png", |IT| RAI PREMIUM
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8?sd=10&rebase=on.m3u8
-#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raiyoyo.png", |IT| RAI YOYO
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8?sd=10&rebase=on
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72381
+#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raipremium.png", |IT| RAI PREMIUM 
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72383 
+#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/raiyoyo.png", |IT| RAI YOYO 
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72384
 #EXTINF:-1 tvg-id="italiauno.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/italia1.png", |IT| ITALIA 1
 http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8 
 #EXTINF:-1 tvg-id="italiadue.it" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/italia2.png", |IT| ITALIA 2
@@ -542,9 +541,7 @@ http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/i
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/topcrime.png", |IT| TOP CRIME
 http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8 
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/focus.png", |IT| FOCUS IN
-http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8 
-#EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/tgcom24.png", |IT| TGCOM 24
-http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8 
+http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/cartoonito.png", |IT| CARTOONITO
 http://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8 
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/boing.png", |IT| BOING
@@ -591,9 +588,7 @@ http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/tv2000.png", |IT| TV2000 HD 
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8 
 #EXTINF:-1 tvg-id="CANALE ITALIA 83" group-title="ITALIA" tvg-logo="http://www.canaleitalia.it/wp-content/uploads/2015/11/Canale-Italia-Logo-new-big.png", |IT| CANALE ITALIA 85 
-http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8 
-#EXTINF:-1 tvg-id="SKY TG24" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/skytg24.png", |IT| SKY TG24 
-https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8 
+http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8  
 #EXTINF:-1 tvg-id="PADRE PIO TV" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/padrepiotv.png", |IT| PADRE PIO TV 
 https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8 
 #EXTINF:-1 tvg-id="" group-title="ITALIA" tvg-logo="http://logo.premium-ott.com:8000/logo/videolina.png", |IT| Videolina 
