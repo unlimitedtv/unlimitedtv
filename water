@@ -8,9 +8,7 @@ https://bozztv.com/36bay2/gin/giniko_cnnint_1000kb_36bay2/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_bbcnews_900kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="http://starsat.co.za/wp-content/uploads/2016/07/BBC-World-News-1.png"group-title="NEWS CHANNEL",BBC WORLD NEWS
 https://bozztv.com/36bay2/gin/giniko_bbcworldnews_900kb_36bay2/index.m3u8
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/675.jpg",group-title="NEWS CHANNEL",Euro News
-https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-id="Sky News" group-title="NEWS CHANNEL",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
@@ -21,7 +19,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 https://news.sechls01.visionip.tv/live/visiontvuk-news-france24-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,tvg-id="France 24 English HD" group-title="NEWS CHANNEL",FRANCE 24
 https://bozztv.com/36bay2/gin/giniko_france24english_900kb_36bay2/index.m3u8
-#EXTINF:-1,group-title="NEWS CHANNEL",RT
+#EXTINF:-1,tvg-id="RT",group-title="NEWS CHANNEL",RT
 https://bozztv.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="NEWS CHANNEL",DW TV English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
@@ -36,7 +34,6 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
 #EXTINF:-1,tvg-id="ARISE NEWS" group-title="NEWS CHANNEL",ARISE NEWS
 https://news.sechls01.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,group-title="NEWS CHANNEL",US: Bloomberg HD*
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 http://cdnak15.cast4u.info/channels/3/10803.m3u8
