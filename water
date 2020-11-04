@@ -3,31 +3,32 @@
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
 #EXTINF:-1,tvg-logo="http://mypanel.myddns.me/logos/PT/cnn.png",group-title="NEWS CHANNEL",CNN HD
-http://mysisli.com/36bay2/gin/giniko_cnnint_1000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_cnnint_1000kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="http://johnpenrose.org/wp/wp-content/uploads/2017/05/BBC-News.png",group-title="NEWS CHANNEL",BBC NEWS
-http://mysisli.com/36bay2/gin/giniko_bbcnews_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_bbcnews_900kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="http://starsat.co.za/wp-content/uploads/2016/07/BBC-World-News-1.png"group-title="NEWS CHANNEL",BBC WORLD NEWS
-http://mysisli.com/36bay2/gin/giniko_bbcworldnews_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_bbcworldnews_900kb_36bay2/index.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/675.jpg",group-title="NEWS CHANNEL",Euro News
-http://mysisli.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-id="Sky News" group-title="NEWS CHANNEL",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1,tvg-id="Sky News" group-title="NEWS CHANNEL",SKY NEWS*
-http://mysisli.com/36bay2/gin/giniko_skynewsintl_800kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_skynewsintl_800kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-id="France 24 English HD" group-title="NEWS CHANNEL",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 https://news.sechls01.visionip.tv/live/visiontvuk-news-france24-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,tvg-id="France 24 English HD" group-title="NEWS CHANNEL",FRANCE 24
-http://mysisli.com/36bay2/gin/giniko_france24english_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_france24english_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="NEWS CHANNEL",RT
-http://mysisli.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="NEWS CHANNEL",DW TV English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1,group-title="NEWS CHANNEL",Sky News Australia
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/754.png",group-title="NEWS CHANNEL",CNBC
-http://mysisli.com/36bay2/gin/giniko_cnbc_800kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_cnbc_800kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-id="CBS HD" group-title="NEWS CHANNEL",CBS NEWS HD*
 http://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:-1,tvg-id="CBS HD" group-title="NEWS CHANNEL",CBSN HD
@@ -54,9 +55,9 @@ https://stream.ecable.tv/tvc/index.m3u8
 http://51.158.190.97:80/hls/stream.m3u8
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",CINE SERIES
-http://mysisli.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",CINE FILM
-http://mysisli.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/index.m3u8
 
 
 #EXTINF:-1,group-title="BAMBINI",3ABN KIDS 
@@ -85,7 +86,7 @@ https://christianworld.sechls01.visionip.tv/live/visiontvuk-christianworld-revel
 #EXTINF:-1,tvg-id="DUNAMIS TV" group-title="CHRISTIAN TV", DUNAMIS TV
 https://christianworld.sechls01.visionip.tv/live/visiontvuk-religion-dunamistv-SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YwpDGTC.png" group-title="CHRISTIAN TV",Possibility TV (NG)
-http://mysisli.com/ds-damsky3stream/liveticker16/720p/chunklist.m3u8
+https://bozztv.com/ds-damsky3stream/liveticker16/720p/chunklist.m3u8
 #EXTINF:-1,tvg-id="Spirit TV" group-title="CHRISTIAN TV", Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1,tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="CHRISTIAN TV",More Grace Television
@@ -105,13 +106,13 @@ https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-yanga-h
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT", ET
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_83.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",Women Exercises
-http://mysisli.com/36bay2/gin/giniko_womexerc_1000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_womexerc_1000kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="AFRICA MOVIE AND ENTERTAINMENT",ROK
 https://stream.ecable.tv/rok/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",BEACH TV HD
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",KITCHEN HACKS
-http://mysisli.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",QUICK CRAFTS
 http://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",QUICK BEAUTY
@@ -295,11 +296,11 @@ http://edge1.cdn.tvnow.ids-africa.com/mchannels/channelstv_hi.m3u8
 #EXTINF:-1,tvg-logo="http://www.iafrica.tv/ics/uploads/NTAi248x2351.png" group-title="NIGERIA", NTAi*
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-ntai-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://www.iafrica.tv/ics/uploads/NTAi248x2351.png" group-title="NIGERIA", NTAi
-http://mysisli.com/36bay2/gin/giniko_ntaint_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_ntaint_900kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="NIGERIA",LAGOS TV
 http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/81.jpeg",group-title="NIGERIA",Vox Africa*
-http://mysisli.com/36bay2/gin/giniko_voxafrica_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_voxafrica_900kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="",group-title="NIGERIA",GN TV
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-gntv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/266_1551611564_250.jpg",group-title="NIGERIA",Arewa24
@@ -318,7 +319,7 @@ https://stream.ecable.tv/joyprime1/index.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/tv3_gh.png",group-title="GHANA",TV3 
 https://stream.ecable.tv/tv31/index.m3u8
 #EXTINF:-1,group-title="GHANA",VOA AFRICA
-http://mysisli.com/36bay2/gin/giniko_voxafrica_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_voxafrica_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="GHANA",GHANA TV
 https://stream.ecable.tv/ghanatv1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="GHANA",CITI TV
@@ -372,7 +373,7 @@ https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/331_1556140134_small.jpg"group-title="IVORY COAST",RTI 2
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/chunklist.m3u8
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/ORTM.png",group-title="IVORY COAST",ORTM MALI
-http://mysisli.com/36bay2/gin/giniko_ortm_800kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_ortm_800kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="IVORY COAST",CHERIFLA TV
 http://www.sansat.net:25461/I8RxjhSCBq/0TPtzWlWxv/45545
 #EXTINF:-1,group-title="IVORY COAST",TRACE Cote d'Ivoire FM
@@ -448,19 +449,19 @@ https://stream.ecable.tv/tvt1/index.m3u8
 
 
 #EXTINF:-1,group-title="SENEGAL",FRANCE 24
-http://mysisli.com/36bay2/gin/giniko_france24french_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_france24french_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",FRANCE 24*
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1,group-title="SENEGAL",FRANCE 24 SD
 https://news.sechls01.visionip.tv/live/visiontvuk-news-france24-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,group-title="SENEGAL",RTS 1
-http://mysisli.com/36bay2/gin/giniko_rts1_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_rts1_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",Al Quran Al Kareem
 http://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",MOURIDE TV
 http://162.212.178.131:1935/Livemouridetv/mouridetv/chunklist.m3u8
 #EXTINF:-1,group-title="SENEGAL",TFM Senegal
-http://mysisli.com/36bay2/gin/giniko_tfm_900kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_tfm_900kb_36bay2/index.m3u8
 #EXTINF:-1,group-title="SENEGAL",TFM RELIGION
 https://stream.ecable.tv/tfmreligion1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="SENEGAL",TMC: Ai2musique
@@ -804,7 +805,7 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1,tvg-logo="" group-title="FOR ADULTS",MIAMI TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w30480388_b2592000.m3u8
 #EXTINF:-1,tvg-logo="" group-title="FOR ADULTS",MIAMI TV*
-http://mysisli.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Anal
 http://live.redtraffic.xyz/anal.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="FOR ADULTS",Big Ass
