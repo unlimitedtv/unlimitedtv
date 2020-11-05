@@ -328,8 +328,6 @@ https://stream.ecable.tv/citi1/tracks-v1a1/mono.m3u8
 https://stream.ecable.tv/angel1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="GHANA",ATINKA TV
 https://stream.ecable.tv/atinka1/index.m3u8
-#EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2018/01/adom_tv_gh.png",group-title="GHANA",ADOM TV
-https://www.youtube.com/user/adomtvtube/live
 #EXTINF:-1,tvg-logo="https://ecable.tv/wp-content/uploads/2018/01/adom_tv_gh.png",group-title="GHANA",ADOM
 https://stream.ecable.tv/adom1/index.m3u8
 #EXTINF:-1,group-title="GHANA",GTV Sports+
