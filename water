@@ -61,8 +61,6 @@ https://3abn.sechls01.visionip.tv/live/visiontvuk-3abn-3-abn-kids-hsslive-25f-SD
 
 #EXTINF:-1,tvg-logo="http://vod.landiptv.live/files/t20.png",group-title="CHRISTIAN TV",Emmanuel TV
 https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xu12lWj.png" group-title="CHRISTIAN TV",KICC TV (GB)
-https://stream.ecable.tv/kicc/index.m3u8
 #EXTINF:-1,group-title="CHRISTIAN TV",CFTV (Champions of Fire TV Nigeria) 
 http://109.169.48.7/hls-live/CFTV/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1,tvg-id="FAITH TV" group-title="CHRISTIAN TV", FAITH TV
