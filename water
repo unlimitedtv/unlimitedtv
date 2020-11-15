@@ -2,6 +2,8 @@
 #EXTINF:-1,group-title="NEWS CHANNEL",Aljazeera News
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,tvg-logo="http://mypanel.myddns.me/logos/PT/cnn.png",group-title="NEWS CHANNEL",CNN HD
+https://cnngo1.akamaized.net/hls/live/598782/PROD-cnnlive1/master.m3u8
+#EXTINF:-1,tvg-logo="http://mypanel.myddns.me/logos/PT/cnn.png",group-title="NEWS CHANNEL",CNN
 http://bozztv.com/36bay2/gin/giniko_cnnint_1000kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="http://johnpenrose.org/wp/wp-content/uploads/2017/05/BBC-News.png",group-title="NEWS CHANNEL",BBC NEWS
 http://bozztv.com/36bay2/gin/giniko_bbcnews_900kb_36bay2/index.m3u8
@@ -24,8 +26,6 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1,tvg-logo="https://www.giniko.com/logos/190x110/754.png",group-title="NEWS CHANNEL",CNBC
 http://bozztv.com/36bay2/gin/giniko_cnbc_800kb_36bay2/index.m3u8
-#EXTINF:-1,tvg-id="CBS HD" group-title="NEWS CHANNEL",CBS NEWS HD*
-http://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:-1,tvg-id="CBS HD" group-title="NEWS CHANNEL",CBSN HD
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
@@ -766,9 +766,6 @@ https://cineplume.vedge.infomaniak.com/livecast/cineplume/playlist.m3u8
 http://163.172.43.207:8081/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://televisiontma.pagesperso-orange.fr/Images/Logo-TMA-pour-annonceurs.png" group-title="FRANCIA",TMA Caraïbes
 http://hls.tmacaraibes.com/live/index.m3u8
-
-
-
 
 
 #EXTINF:-1,group-title="FOR ADULTS",JASMIN.TV
