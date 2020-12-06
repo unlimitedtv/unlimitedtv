@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,group-title="NEWS CHANNEL",Aljazeera News
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1,tvg-logo="http://mypanel.myddns.me/logos/PT/cnn.png",group-title="NEWS CHANNEL",CNN HD
-https://cnngo1.akamaized.net/hls/live/598782/PROD-cnnlive1/master.m3u8
 #EXTINF:-1,tvg-logo="http://mypanel.myddns.me/logos/PT/cnn.png",group-title="NEWS CHANNEL",CNN
 http://bozztv.com/36bay2/gin/giniko_cnnint_1000kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="http://johnpenrose.org/wp/wp-content/uploads/2017/05/BBC-News.png",group-title="NEWS CHANNEL",BBC NEWS
@@ -42,11 +40,15 @@ http://ott-cdn.ucom.am/s81/index.m3u8
 http://ott-cdn.ucom.am/s82/index.m3u8
 #EXTINF:-1,tvg-logo="http://livetv.am/assets/img/tv/setanta-sport.png",group-title="VIP SPORTS",BT SPORT 1
 https://stream.ecable.tv/tvc/index.m3u8
+#EXTINF:-1,group-title="VIP SPORTS",La liga tv
+http://45.134.21.230/hls/T2.m3u8
+#EXTINF:-1,group-title="VIP SPORTS",SupeSport football
+http://45.134.21.230/hls/T1.m3u8
+#EXTINF:-1,group-title="VIP SPORTS",SuperSport Premier League
+http://192.166.246.122/hls/ovostreamss.m3u8
 
 
 
-#EXTINF:-1,group-title="MOVIE CHANNELS",24 BOX TV
-http://51.158.190.97:80/hls/stream.m3u8
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1,group-title="MOVIE CHANNELS",CINE SERIES
 http://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/index.m3u8
@@ -112,13 +114,8 @@ http://bozztv.com/36bay2/gin/giniko_5minbeauty_1500kb_36bay2/index.m3u8
 #EXTINF:-1,tvg-logo="" group-title="AFRICA MOVIE AND ENTERTAINMENT",LIFE HACKS
 http://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
 
-
-#EXTINF:-1,group-title="AFRICA MUSIC",AFRICA GOSPEL
-https://edge9.vedge.infomaniak.com/livecast/ik:africagospeltv/chunklist.m3u8
 #EXTINF:-1,tvg-logo="https://myspirit.tv/wp-content/uploads/2017/01/SpiritLogoFull244x86.png",group-title="AFRICA MUSIC", Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1,group-title="AFRICA MUSIC",BOOM TV
-https://stream.ecable.tv/boom1/index.m3u8
 #EXTINF:-1,tvg-logo="http://account.ecable.tv/images/channels/51_1550569898_250.jpg" group-title="AFRICA MUSIC",AFROBEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1,group-title="AFRICA MUSIC",DBM
@@ -766,6 +763,9 @@ https://cineplume.vedge.infomaniak.com/livecast/cineplume/playlist.m3u8
 http://163.172.43.207:8081/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://televisiontma.pagesperso-orange.fr/Images/Logo-TMA-pour-annonceurs.png" group-title="FRANCIA",TMA Caraïbes
 http://hls.tmacaraibes.com/live/index.m3u8
+
+
+
 
 
 #EXTINF:-1,group-title="FOR ADULTS",JASMIN.TV
